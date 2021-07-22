@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 3</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 3</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="74-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-de4970"><!-- p2a3 -->
+            <head xml:id="pqir89-de4970-Hd1e106">Articulus 3</head>
+            <head xml:id="pqir89-de4970-Hd1e109" type="question-title">
+        An anima rationalis sit ex traduce
+      </head>
+            <p xml:id="pqir89-de4970-d1e112">
+               <lb ed="#A" n="15"/>ART. III 
+      <lb ed="#A" n="16"/>An anima rationalis sit ex traduce.
+      </p>
+            <p xml:id="pqir89-de4970-d1e119">
+               <lb ed="#A" n="17"/>I. VErus huius controversiae status est, 
+      u<lb ed="#A" n="18" break="no"/>trum anima rationalis educatur ex 
+      po<lb ed="#A" n="19" break="no"/>tentia materiae seminis, vi seminalis &amp; 
+      proli<lb ed="#A" n="20" break="no"/>ficae virtutis, sicut animae plantarum, &amp; 
+      bel<lb ed="#A" n="21" break="no"/>luarum: an vero a Deo absque materiae 
+      prae<lb ed="#A" n="22" break="no"/>existentis concursu producatur, h. e. creetur. 
+      <lb ed="#A" n="23"/>&amp; corpori infundatur. Posterior sententia 
+      o<lb ed="#A" n="24" break="no"/>mnibus fere modernis Philosophis, &amp; 
+      Theo<lb ed="#A" n="25" break="no"/>logis arridet, &amp; merito: non enim memini me 
+      <lb ed="#A" n="26"/>legisse ullum argumentum in contrarium, 
+      <lb ed="#A" n="27"/>tanti ponderis, ut possit aliquem, vel 
+      medio<lb ed="#A" n="28" break="no"/>criter in hac contro versia versatum, in corum 
+      <!--91.xml-->
+      <pb ed="#A" n="74"/>
+               <lb ed="#A" n="1"/>sententiam adducere, qui contendunt 
+      ani<lb ed="#A" n="2" break="no"/>mas nostras a parentibus per carnalem 
+      ge<lb ed="#A" n="3" break="no"/>nerationem proseminari, non vero a Deo 
+      <lb ed="#A" n="4"/>creari, &amp; infundi. Contra vero, pro ea 
+      sen<lb ed="#A" n="5" break="no"/>tentia, quae asserit animas humanas a Deo 
+      <lb ed="#A" n="6"/>immediate creari, non solum faciunt varia 
+      <lb ed="#A" n="7"/>S. Scripturae testimonia, sed etiam 
+      argumen<lb ed="#A" n="8" break="no"/>ta philosophica principiis naturae notis 
+      ni<lb ed="#A" n="9" break="no"/>tentia: ego autem, omissis argumentis ex 
+      <lb ed="#A" n="10"/>S. Scriptura petitis, quia ea luculenter 
+      pro<lb ed="#A" n="11" break="no"/>ponuntur a Theologis, praecipue vero a 
+      cla<lb ed="#A" n="12" break="no"/>rissimo D. Iunio, in explicatione I cap. Genes. 
+      <lb ed="#A" n="13"/>rationes quasdam afferam, partim ex 
+      Physi<lb ed="#A" n="14" break="no"/>ca, partim ex Metaphysica depromptas. 
+    </p>
+            <p xml:id="pqir89-de4970-d1e182">
+               <lb ed="#A" n="15"/>2x Prima ratio est haec: si anima est 
+      gene<lb ed="#A" n="16" break="no"/>rabilis, est corruptibilis: at absurdum est 
+      po<lb ed="#A" n="17" break="no"/>sterius: Erro &amp; prius. Ratio maioris est 
+      <lb ed="#A" n="18"/>haec: illa forma, quae ita dependet a 
+      mate<lb ed="#A" n="19" break="no"/>ria, ut per. concursum causae materialis in 
+      ge<lb ed="#A" n="20" break="no"/>neratione producatur, ita etiam dependet a 
+      <lb ed="#A" n="21"/>materia, ut si ab ea separetur, quae 
+      confere<lb ed="#A" n="22" break="no"/>bat &amp; conser vabat eius esse, necessario pereat. 
+      <lb ed="#A" n="23"/>Ad hoc argumentum respondere solent 
+      <lb ed="#A" n="24"/>Theologi, &amp; Philosophi, qui sunt in 
+      contra<lb ed="#A" n="25" break="no"/>ria sententia, animas humanas esse ex se 
+      cor<lb ed="#A" n="26" break="no"/>ruptibiles, ut probat illud argumentum, quia 
+      <lb ed="#A" n="27"/>dependent a materia in sieri &amp; esse, duraturas 
+      <lb ed="#A" n="28"/>tamen esse in aeternum, quia Deus statuit eas 
+      <lb ed="#A" n="29"/>conservare. Quod si quis eos roget, cur 
+      ani<lb ed="#A" n="30" break="no"/>ma, in se spectata, sit corruptibilis : Respon¬ 
+      <!--92.xml-->
+      <pb ed="#A" n="75"/>
+               <lb ed="#A" n="1"/>dent hanc esse rationem, quia si Deus 
+      cessa<lb ed="#A" n="2" break="no"/>ret ab actu quo conservat animas, illae statim  
+      <lb ed="#A" n="3"/>in nihilum redirent. Sed haec responsio non 
+      <lb ed="#A" n="4"/>placet, primo quia Theologi, &amp; Philosophi, 
+      <lb ed="#A" n="5"/>cum di vidunt substantias in aeternas &amp; 
+      cadu<lb ed="#A" n="6" break="no"/>cas, non volunt aliquas substantias ideo esse 
+      <lb ed="#A" n="7"/>aeternas, quod a conservativo Dei inssuxu 
+      <lb ed="#A" n="8"/>non dependeant, sed quod a nulla creatura 
+      <lb ed="#A" n="9"/>per actionem Physicam destrui possint: hoc 
+      <lb ed="#A" n="10"/>autem modo non solum Angeli, &amp; Coelum, 
+      <lb ed="#A" n="11"/>sed etiam animae rationales incorruptibiles 
+      <lb ed="#A" n="12"/>dici possunt. Deinde illi qui ita respondent.  
+      <lb ed="#A" n="13"/>non possunt negare animam humanam ita se 
+      <lb ed="#A" n="14"/>habere, ut nulla actione Physica, seu materiali 
+      <lb ed="#A" n="15"/>destrui possit: unde ego infero, eam nulla 
+      a<lb ed="#A" n="16" break="no"/>ctione Physica, vel materiali, posse 
+      produci<lb ed="#A" n="17" break="no"/>Quaenam enim est ratio, quod nulla actione 
+      <lb ed="#A" n="18"/>Physica destrui possit: Nonne, quia est 
+      sub<lb ed="#A" n="19" break="no"/>stantia spiritualis: At ob eandem etiam 
+      ra<lb ed="#A" n="20" break="no"/>tionem, nulla virtute materiali potest 
+      produ<lb ed="#A" n="21" break="no"/>ci, idque quia, sicut repugnat spiritui actione 
+      <lb ed="#A" n="22"/>Phy sica &amp; materiali destrui, ita etiam 
+      repu<lb ed="#A" n="23" break="no"/>gnat spiritui actione Physica &amp; materiali 
+      <lb ed="#A" n="24"/>produci: generatio autem est actio Physica &amp; 
+      <lb ed="#A" n="25"/>materialis, tum quia fit in materia, tum quia 
+      <lb ed="#A" n="26"/>fit per virtutem materialem: scilicet per 
+      vir<lb ed="#A" n="27" break="no"/>tutem seminalem. 
+    </p>
+            <p xml:id="pqir89-de4970-d1e283">
+               <lb ed="#A" n="28"/>S Secunda ratio: Deus voluit animas 
+      hu<lb ed="#A" n="29" break="no"/>manas existere, extra corpora, post hominum 
+      <lb ed="#A" n="30"/>mortem: voluit autem animas belluarum perire 
+      <!--93.xml-->
+      <pb ed="#A" n="76"/>
+               <lb ed="#A" n="1"/>cum corporibus: Ergo dedit animae rationali 
+      na<lb ed="#A" n="2" break="no"/>turam independentem a materia, vt ratione 
+      il<lb ed="#A" n="3" break="no"/>lius naturae possit existere extra materiam 
+      cor<lb ed="#A" n="4" break="no"/>poream: unde infero animam quoad 
+      na<lb ed="#A" n="5" break="no"/>turam suam esse independentem a materia 
+      <lb ed="#A" n="6"/>corporea. 
+      <lb ed="#A" n="7"/>4. Tertio, Ea sola forma educitur ex 
+      poten<lb ed="#A" n="8" break="no"/>tia causativa materiae, quae fit materia passive 
+      <lb ed="#A" n="9"/>concurrente, ad tribuendum ei esse: sed materia 
+      <lb ed="#A" n="10"/>seminis non potest, concursu passivo, tribuere esse 
+      <lb ed="#A" n="11"/>animae: Ergo non educitur ex potentia materiae, 
+      <lb ed="#A" n="12"/>sed a Deo per creationem in materiam 
+      infundi<lb ed="#A" n="13" break="no"/>tur. Propositio manifesta est ex 
+      praecedenti<lb ed="#A" n="14" break="no"/>bus: assumptio probatur: nulla vittus actiya 
+      <lb ed="#A" n="15"/>agit ultra suum genus, ut loquuntur: i. e. non 
+      <lb ed="#A" n="16"/>potest agendo producere eam rem, quae est 
+      <lb ed="#A" n="17"/>excellentioris naturae &amp; superioris ordinis:  
+      <lb ed="#A" n="18"/>sed anima excedit totum genus naturae 
+      cor<lb ed="#A" n="19" break="no"/>poreae, cum sit substantia spiritualis: nulla 
+      <lb ed="#A" n="20"/>igitur virtus corporea potest animam 
+      produ<lb ed="#A" n="21" break="no"/>cere. Ad hoc argumentum respondere solent.  
+      <lb ed="#A" n="22"/>vim materialem in semine existentem, per se 
+      <lb ed="#A" n="23"/>non posse producere spiritualem substantiam  
+      <lb ed="#A" n="24"/>animae, posse tamen virtute spiritualis illius 
+      <lb ed="#A" n="25"/>substantiae, cuius est instrumentum, i. e. 
+      virtu<lb ed="#A" n="26" break="no"/>te animae hominis generantis, elevari ultra 
+      <lb ed="#A" n="27"/>suam speciem, ad producendum spiritum: 
+      <lb ed="#A" n="28"/>quemadmodum phantasina, quod est 
+      sensibi<lb ed="#A" n="29" break="no"/>lis &amp; materialis species, virtute animae, cuius 
+      <lb ed="#A" n="30"/>est instrumentum, species intelligibiles, h. e¬ 
+      <!--94.xml-->
+      <pb ed="#A" n="77"/>
+               <lb ed="#A" n="1"/>spirituales rerum, imagines, intellectui 
+      pati<lb ed="#A" n="2" break="no"/>enti imprimit. Hoc effugium plane futile est,  
+      <lb ed="#A" n="3"/>&amp; nullius momentis fieri enim non potest, ut 
+      <lb ed="#A" n="4"/>agens creatum opera instrumenti pure 
+      ma<lb ed="#A" n="5" break="no"/>terialis aliquid immateriale producat: 
+      fa<lb ed="#A" n="6" break="no"/>cultas autem prolifica in semine existens, 
+      pu<lb ed="#A" n="7" break="no"/>re materialis est, secus tamen accidit in 
+      pro<lb ed="#A" n="8" break="no"/>ductione specierum intelligibilium anima 
+      e<lb ed="#A" n="9" break="no"/>nim utitur vi intellectus agentis, ut 
+      principa<lb ed="#A" n="10" break="no"/>lis instrumenti, excitantis, &amp; elevantis 
+      phan<lb ed="#A" n="11" break="no"/>tasma ad producendas illas species: quare 
+      u<lb ed="#A" n="12" break="no"/>ni versaliter verum est, virtutem materialem  
+      <lb ed="#A" n="13"/>non posse esse aut principale, aut solitarium  
+      <lb ed="#A" n="14"/>instrumentum, in productione spiritualis sub. 
+      <lb ed="#A" n="15"/>stantiae, licet esse possit instrumentum 
+      secun<lb ed="#A" n="16" break="no"/>darium, in productione spiritualis qualitatis. 
+    </p>
+            <p xml:id="pqir89-de4970-d1e400">
+               <lb ed="#A" n="17"/>S. Quarto, Illi qui sunt in opposita sententia, 
+      <lb ed="#A" n="18"/>coguntur admittere conclusiones admodum 
+      du<lb ed="#A" n="19" break="no"/>ras, &amp; absurdas, nam ut vitent vim talium 
+      ar<lb ed="#A" n="20" break="no"/>gumentorum, coguntur admittere animam  
+      <lb ed="#A" n="21"/>non esse substantiam spiritualem: item 
+      ani<lb ed="#A" n="22" break="no"/>mam posse actione Physica destrui, nisi Deus  
+      <lb ed="#A" n="23"/>eam speciali suo auxilio conservet ab 
+      inte<lb ed="#A" n="24" break="no"/>ritu: quae conclusiones admodum derogant 
+      <lb ed="#A" n="25"/>dignitati, &amp; excellentiae animae nostrae, &amp; 
+      no<lb ed="#A" n="26" break="no"/>bis auferunt occasionem confutandi Atheos,  
+      <lb ed="#A" n="27"/>argumentis petitis ab immortalitate animae. 
+      <lb ed="#A" n="28"/>Si enim anima est forma natura, sua 
+      depen<lb ed="#A" n="29" break="no"/>denssa corpore, ita ut extra corpus per se 
+      exi<lb ed="#A" n="30" break="no"/>stere non valeat, quomodo persuadebimus iis,  
+      <!--95.xml-->
+      <pb ed="#A" n="78"/>
+               <lb ed="#A" n="1"/>animam esse immortalem: derogant etiam  
+      <lb ed="#A" n="2"/>hae conclusiones sapientiae divinae: quippe 
+      as<lb ed="#A" n="3" break="no"/>serere Deum voluisse animas existere extra 
+      <lb ed="#A" n="4"/>corpora, &amp; negasse iis naturam ad hoc 
+      ido<lb ed="#A" n="5" break="no"/>neam, est dicere Deum non satis prudenter 
+      <lb ed="#A" n="6"/>produx isse animam.  
+    </p>
+            <p xml:id="pqir89-de4970-d1e450">
+               <lb ed="#A" n="7"/>&amp; Quinto, Quamvis dicamus animam a 
+      <lb ed="#A" n="8"/>Deo creari, &amp; in corpus infundi, &amp; proinde 
+      <lb ed="#A" n="9"/>parentem non tribuere filio suo animam, satis 
+      <lb ed="#A" n="10"/>tamen commode tueri possumus, hominem tam  
+      <lb ed="#A" n="11"/>vere generare hominem, quam leo leonem, &amp; bos 
+      <lb ed="#A" n="12"/>bopem: possumus item tueri, naturalem &amp; 
+      haere<lb ed="#A" n="13" break="no"/>ditariam corruptionem, quam Peccatum 
+      Origi<lb ed="#A" n="14" break="no"/>nale vocant, a parentibus ad liberos propagari, 
+      <lb ed="#A" n="15"/>&amp; illius propagationis modum explicare: nulla 
+      <lb ed="#A" n="16"/>ergo necessitas nos cogit amplecti eam 
+      sen<lb ed="#A" n="17" break="no"/>tentiam, quae animae, naturae repugnat,, &amp; 
+      <lb ed="#A" n="18"/>eius dignitati tantum detrahit. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

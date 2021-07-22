@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 10</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 10</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="184-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-e12786"><!-- p3a10 -->
+            <head xml:id="pqir89-e12786-Hd1e106">Articulus 10</head>
+            <head xml:id="pqir89-e12786-Hd1e109" type="question-title">
+        An fides actualis aut habitualis infantibus 
+        insit, aut inesse possit.
+      </head>
+            <p xml:id="pqir89-e12786-d1e112">
+               <lb ed="#A" n="3"/>ART. X. 
+      <lb ed="#A" n="4"/>An fides actualis aut habitualis infantibus 
+      <lb ed="#A" n="5"/>insit, aut inesse possit. 
+    </p>
+            <p xml:id="pqir89-e12786-d1e121">
+               <lb ed="#A" n="6"/>Ssertio prima: Non est impossibile, 
+      ab<lb ed="#A" n="7" break="no"/>T, solute loquendo, fidem tum actualem, tum 
+      <lb ed="#A" n="8"/>habitualem infantibus inesse. De fide 
+      habitua<lb ed="#A" n="9" break="no"/>li res est manifesta: nam infantes, in statu 
+      in<lb ed="#A" n="10" break="no"/>tegritatis, nati fuissent habitibus originalis 
+      iu<lb ed="#A" n="11" break="no"/>stitiae ornati, ut docent non solum 
+      sententia<lb ed="#A" n="12" break="no"/>rii, Zib. 2. sent. Dist. 2o. Verum etiam 
+      Euan<lb ed="#A" n="13" break="no"/>gelici Theologi, cum disserunt de primo 
+      ho<lb ed="#A" n="14" break="no"/>minis statu, quem integritatis vocant: unde 
+      <lb ed="#A" n="15"/>pater manifeste, habitus fidei, spei, &amp; 
+      chari<lb ed="#A" n="16" break="no"/>tatis, etiam nunc iis inesse posse: quia 
+      quic<lb ed="#A" n="17" break="no"/>quid olim possibile fuit, etiam nunc esse 
+      po<lb ed="#A" n="18" break="no"/>test, modo respiciamus potentiam Dei 
+      abso<lb ed="#A" n="19" break="no"/>lutam.  
+    </p>
+            <p xml:id="pqir89-e12786-d1e154">
+               <lb ed="#A" n="20"/>2 Fidem etiam actualem, seu actum 
+      cre<lb ed="#A" n="21" break="no"/>dendi, iis posse inesse, facile probatur 
+      exem<lb ed="#A" n="22" break="no"/>plo loannnis Baptistae, qui Luncae v. versi 34. 
+      dici<lb ed="#A" n="23" break="no"/>tur exultasse in utero matris &amp; ἀνα Ntαςed, 
+      <lb ed="#A" n="24"/>in gaudio: Ergo cognovit Domini sui 
+      <lb ed="#A" n="25"/>praesentiam, &amp; proinde infans potest actu, 
+      <lb ed="#A" n="26"/>intelligere: si autem infans potest 
+      actu<lb ed="#A" n="27" break="no"/>intelligere, seu uti ratione, potest actu cre¬ 
+      <!--203.xml-->
+      <pb ed="#A" n="184"/>
+               <lb ed="#A" n="1"/>dere: fateor quidem hoc factum esse 
+      singula<lb ed="#A" n="2" break="no"/>re, &amp; proinde neminem ex eo posse colligere 
+      <lb ed="#A" n="3"/>generalem hanc conclusionem, quod, 
+      videli<lb ed="#A" n="4" break="no"/>cet fides actualis omnibus electis infantibus 
+      <lb ed="#A" n="5"/>insit: veruntamen evidenter probat, Deum 
+      <lb ed="#A" n="6"/>arcanam &amp; mirificam suam vim in 
+      infanti<lb ed="#A" n="7" break="no"/>bus posse exerere, fide actuali eos donando. 
+      <lb ed="#A" n="8"/>quamvis ordinarie nihil tale fiat. 
+    </p>
+            <p xml:id="pqir89-e12786-d1e197">
+               <lb ed="#A" n="9"/>Assertio secunda: Non est, probabile, 
+      in<lb ed="#A" n="10" break="no"/>fantes habere fidem actualem, seu actum 
+      creden<lb ed="#A" n="11" break="no"/>di. Haec assertio non contradicit 
+      praeceden<lb ed="#A" n="12" break="no"/>ti: quia ibi docetur quid possit fieri, hic vero 
+      <lb ed="#A" n="13"/>quid actu &amp; ordinarie fiat. Probatur igitur 
+      <lb ed="#A" n="14"/>haec assertio: Primo, quia Scriptura, Deut. 
+      <lb ed="#A" n="15"/>cap. I. Vers¬8o, &amp; Ionae cap. 4. Vers. II. 
+      testa<lb ed="#A" n="16" break="no"/>tur, infantes non cognoscere discrimen boni 
+      <lb ed="#A" n="17"/>&amp; mali: &amp; proinde actuali intelligentia &amp; 
+      <lb ed="#A" n="18"/>cognitione catere: Fides autem actualis sine 
+      <lb ed="#A" n="19"/>actuali cognitione esse non potest. Secundo: 
+      <lb ed="#A" n="20"/>si fides actualis est in infantibus, ea vel 
+      ori<lb ed="#A" n="21" break="no"/>tur ex auditu verbi, vel ex interna revelatione 
+      <lb ed="#A" n="22"/>immediate a solo Deo facta. Prius admitti 
+      <lb ed="#A" n="23"/>non potest, quia si verbum Dei intelligerent, 
+      <lb ed="#A" n="24"/>attente &amp; reverenter auscultarent: cuius 
+      <lb ed="#A" n="25"/>contrarium fieri videmus. At neque 
+      poste<lb ed="#A" n="26" break="no"/>rius: quia modus ille patefactionis, est 
+      ex<lb ed="#A" n="27" break="no"/>traordinarius &amp; rarissimus: Fides enim est 
+      <lb ed="#A" n="28"/>ex auditu, Rom. to. Si autem omnes electi 
+      <lb ed="#A" n="29"/>infantes haberent fidem actualem ex sola 
+      <lb ed="#A" n="30"/>Dei reyelatione ortam, modus ille iam esset 
+      <!--204.xml-->
+      <pb ed="#A" n="185"/>
+               <lb ed="#A" n="1"/>ordinarius, Tertio: sententia illa, quae 
+      ascri<lb ed="#A" n="2" break="no"/>bit fidem actualem infantibus, non solum 
+      <lb ed="#A" n="3"/>displicet Nagiangeno, Augustino, &amp; 
+      achola<lb ed="#A" n="4" break="no"/>sticis, sed etiam Calpino, Bexae, Iunio, Tileno, 
+      <lb ed="#A" n="5"/>Pareo, aliisque omnibus Orthodoxis 
+      Theo<lb ed="#A" n="6" break="no"/>logis, solo Luthero excepto, qui multis in 
+      lo<lb ed="#A" n="7" break="no"/>cis eam sententiam profitetur. 
+    </p>
+            <p xml:id="pqir89-e12786-d1e267">
+               <lb ed="#A" n="8"/>4 Assertio tertia: omni probalitate caret 
+      <lb ed="#A" n="9"/>&amp; manifestam contradictionem implicat ea 
+      sen<lb ed="#A" n="10" break="no"/>tentia, quae tribuit infantibus motus sanctos 
+      in<lb ed="#A" n="11" break="no"/>tellectus &amp; voluntatis, sine actuali cognitione: 
+      <lb ed="#A" n="12"/>motus (inquam) similes motibus seu actibus 
+      <lb ed="#A" n="13"/>fidei &amp; charitatis, sed ab iis vere diversos. 
+      <lb ed="#A" n="14"/>Dico eam implicare contradictionem, quia 
+      <lb ed="#A" n="15"/>motus seu operationes intellectus &amp; 
+      volun<lb ed="#A" n="16" break="no"/>tatis, non possunt esse sine cognitione: quid 
+      <lb ed="#A" n="17"/>enim aliud est motus intellectuns, quam 
+      intel<lb ed="#A" n="18" break="no"/>lectio, seu actus intelligendi &amp; cognoscendis 
+      <lb ed="#A" n="19"/>Nam intellectus non potest aliter moveri, &amp; 
+      <lb ed="#A" n="20"/>operari, quam intelligendo, sicut nec oculus,  
+      <lb ed="#A" n="21"/>nisi videndo, &amp; sensus auditus, nisi audiendo. 
+      <lb ed="#A" n="22"/>Similiter omnis motus aut actus 
+      volunta<lb ed="#A" n="23" break="no"/>tis, est volitio: omnis autem volitio 
+      praesup<lb ed="#A" n="24" break="no"/>ponit obiecti cognitionem actualem quia 
+      <lb ed="#A" n="25"/>ignoti nulla cupido est. Haec sententia tribui 
+      <lb ed="#A" n="26"/>solet Theologis congregatis in Concilio 
+      <lb ed="#A" n="27"/>VVittenbergensi, anno IS 2o. item Martino 
+      <lb ed="#A" n="28"/>Chemnitio, qui in a2. parte examinis Concilis 
+      <lb ed="#A" n="29"/>Tridentini, ad canonem I 2. Sessionis v. 
+      pro<lb ed="#A" n="30" break="no"/>fitetur, se amplecti eam, sententiam de rege¬ 
+      <!--205.xml-->
+      <pb ed="#A" n="186"/>
+               <lb ed="#A" n="1"/>neratione infantum baptiaatorum, quae 
+      ex<lb ed="#A" n="2" break="no"/>plicata est in formula concordiae inter 
+      Theo<lb ed="#A" n="3" break="no"/>logos saxoniae &amp; superioris. Germaniae, anno 
+      <lb ed="#A" n="4"/>ISS&amp; 
+    </p>
+            <p xml:id="pqir89-e12786-d1e332">
+               <lb ed="#A" n="5"/>s Quarta assert. Qui dicunt fidem inesse 
+      <lb ed="#A" n="6"/>infantibus actu primo, non secundo, item iis 
+      in<lb ed="#A" n="7" break="no"/>esse semen, germen, aut radicem fidei: illi 
+      ne<lb ed="#A" n="8" break="no"/>cesse habent confiteri, primo se per semen fidei 
+      <lb ed="#A" n="9"/>non intelligere Dei verbum: quia videlicet 
+      in<lb ed="#A" n="10" break="no"/>fantes illud non audiunt &amp; intelligunt. 
+      Secun<lb ed="#A" n="11" break="no"/>do se non intelligere aliquid a fide di versum, sed 
+      <lb ed="#A" n="12"/>habitum fidei saltem incompletum, &amp; inc 
+      hoa<lb ed="#A" n="13" break="no"/>tum: quod quidem aperte 
+      profiteturclaris<lb ed="#A" n="14" break="no"/>simus lunius, in Thesium suarum opusculo, 
+      <lb ed="#A" n="15"/>Disput. Si. Thesi 8. Prima ratio est, quia sicut 
+      <lb ed="#A" n="16"/>conditio requisita in foedere operum, est 
+      a<lb ed="#A" n="17" break="no"/>ctionum nostrarum perfectio, ita etiam 
+      con<lb ed="#A" n="18" break="no"/>ditio requisita in foedere gratiae, est fides in 
+      <lb ed="#A" n="19"/>lesum Christum Dominum nostrum : Ergo 
+      <lb ed="#A" n="20"/>necesse est hancconditionem omnibus 
+      foede<lb ed="#A" n="21" break="no"/>ratis inesse: Infantes autem fidelium sunt 
+      foe<lb ed="#A" n="22" break="no"/>derati, id est, ad foedus &amp; ad Ecclesiam 
+      perti<lb ed="#A" n="23" break="no"/>nent, ut docent nostri Theologi, contra 
+      A<lb ed="#A" n="24" break="no"/>nabaptistas: Ergo necesse est fidem aliquam  
+      <lb ed="#A" n="25"/>iis inesse, hoc est, vel actualem vel 
+      habitua<lb ed="#A" n="26" break="no"/>lem: nemo enim est faederatus, nisiis in quo 
+      <lb ed="#A" n="27"/>invenitur conditio requisita in faedere. At 
+      <lb ed="#A" n="28"/>semen illud fidei, si sit aliquid diversum a 
+      fi<lb ed="#A" n="29" break="no"/>de, non est conditio requisita in foedere 
+      gra<lb ed="#A" n="30" break="no"/>tiae, nisi forte quis dicere velit, Deum aliud 
+      <!--206.xml-->
+      <pb ed="#A" n="187"/>
+               <lb ed="#A" n="1"/>faedus gratiae pepigisse cum lnfantibus, aliud 
+      <lb ed="#A" n="2"/>cum adultis: si enim diversa sit conditio 
+      re<lb ed="#A" n="3" break="no"/>quisita in foedere, ipsa foedera sunt 
+      substantia<lb ed="#A" n="4" break="no"/>liter diversa: substantia enim seu essentia 
+      fae<lb ed="#A" n="5" break="no"/>deris posita est in. conditionibus, quas ille 
+      sti<lb ed="#A" n="6" break="no"/>pulatur qui foedus sancit. 
+    </p>
+            <p xml:id="pqir89-e12786-d1e408">
+               <lb ed="#A" n="7"/>o Praeterea peccatum originis in 
+      bapti<lb ed="#A" n="8" break="no"/>smo tollitur quoad reatum, ut docent tum 
+      Pon<lb ed="#A" n="9" break="no"/>tisicii, tum Euangelici Theologis &amp; proinde 
+      <lb ed="#A" n="10"/>lnfantes electi cum baptiaantur, 
+      iustifican<lb ed="#A" n="11" break="no"/>tur: nam iustificatio posita est in peccati 
+      re<lb ed="#A" n="12" break="no"/>missione, per quam, eius reatus tollitur: si 
+      au<lb ed="#A" n="13" break="no"/>tem iustificantur, aliquam fidem habent, hoc 
+      <lb ed="#A" n="14"/>est, vel habitualem vel actualem sola enim: 
+      <lb ed="#A" n="15"/>fide iustificamur. 
+    </p>
+            <p xml:id="pqir89-e12786-d1e430">
+               <lb ed="#A" n="16"/>V Quinta assertio: sententia praedicta, quae 
+      <lb ed="#A" n="17"/>attribuit Infantibus solum habitum fidei, 
+      eum<lb ed="#A" n="18" break="no"/>que vel completum, vel inchoatum, omnibus 
+      reli<lb ed="#A" n="19" break="no"/>quis praeferenda videtur, tum quia eam 
+      am<lb ed="#A" n="20" break="no"/>plectuntur fere omnes Orthodoxi Theologis  
+      <lb ed="#A" n="21"/>tum quia communis sententia omnium 
+      The<lb ed="#A" n="22" break="no"/>ologorum, de sublatione peccati originalis 
+      <lb ed="#A" n="23"/>quoad reatum in baptismo, hoc est, de 
+      iustifi<lb ed="#A" n="24" break="no"/>catione lnfantum baptiaeatorum, nobis ne¬¬ 
+      <lb ed="#A" n="25"/>cessitatem affert eam amplectendi¬ 
+    </p>
+            <p xml:id="pqir89-e12786-d1e454">
+               <lb ed="#A" n="26"/>S Vt autem hoc manifestum fiat, tenean¬. 
+      <lb ed="#A" n="27"/>tur haec fundamenta. Primo, peccatum 
+      origi<lb ed="#A" n="28" break="no"/>nale lnfantum electorum in baptismo tollitur, 
+      <lb ed="#A" n="29"/>quoad reatum: h. e. iis remittitur, &amp; proinde 
+    </p>
+            <p xml:id="pqir89-e12786-d1e466">
+               <lb ed="#A" n="30"/>psi iustificantur: nam iustificatio posita est 
+      <!--207.xml-->
+      <pb ed="#A" n="188"/>
+               <lb ed="#A" n="1"/>in remissione peccati, &amp; imputatione 
+      iustitiae<lb ed="#A" n="2" break="no"/>Christi. Secundo: non putandum est, 
+      Infanti<lb ed="#A" n="3" break="no"/>bus in baptismo remitti solum originale 
+      pecca<lb ed="#A" n="4" break="no"/>tum, &amp; postea romitti us actualia, quia remissio 
+      <lb ed="#A" n="5"/>peccati, seu iustificatio non iteratur, sed ut 
+      <lb ed="#A" n="6"/>docent Orthod. Theol. est unus &amp; 
+      indivi<lb ed="#A" n="7" break="no"/>duus actus, &amp; semel tantum fit. Tertio, si in 
+      <lb ed="#A" n="8"/>prima infantia electi qustificantur, necessario 
+      <lb ed="#A" n="9"/>etiam eadem aetate vocantur, nam vocatio 
+      or<lb ed="#A" n="10" break="no"/>dine naturae praecedit iustificationem, ut 
+      pa<lb ed="#A" n="11" break="no"/>tet ex gradatione Paulina, Rom. S. Pers. 2o. 
+      <lb ed="#A" n="12"/>quam merito catenam salutis vocare 
+      possu<lb ed="#A" n="13" break="no"/>mus. Dicet aliquis: illa gradatio Paulina, 
+      <lb ed="#A" n="14"/>intelligenda est de adultis, &amp; non de 
+      Infan<lb ed="#A" n="15" break="no"/>tibus: nam adulti prius vocantur, quam 
+      qu<lb ed="#A" n="16" break="no"/>stificantur: infantes vero prius iustificantur, 
+      <lb ed="#A" n="17"/>&amp; postea cum verbum audiunt &amp; 
+      intelli<lb ed="#A" n="18" break="no"/>gunt, vocantur. Sed videant illi qui hoc 
+      ob<lb ed="#A" n="19" break="no"/>iciunt nobis, an probabile sit, ordinarie &amp; 
+      <lb ed="#A" n="20"/>plerumque, in procuranda electorum salute, 
+      or<lb ed="#A" n="21" break="no"/>dinem &amp; progressum in gradatione Paulina 
+      pro<lb ed="#A" n="22" break="no"/>positum, violari: si enim omnes, qui in orbe 
+      <lb ed="#A" n="23"/>Christiano nascuntur, atque adeo prima 
+      ae<lb ed="#A" n="24" break="no"/>tate baptiaeantur, primo iustificantur, &amp; post 
+      <lb ed="#A" n="25"/>aliquot annos vocantur, manifeste sequetur.  
+      <lb ed="#A" n="26"/>ordinarie &amp; plerumque violari illum or. 
+      <lb ed="#A" n="27"/>dinem. 
+    </p>
+            <p xml:id="pqir89-e12786-d1e534">
+               <lb ed="#A" n="28"/>9 His positis sic argumentor: Electi In¬¬ 
+      <lb ed="#A" n="29"/>fantes vocantur: Ergo habent fidei habitum, 
+      <lb ed="#A" n="30"/>saltem incompletum. Ratio sequelae est, quia 
+      <!--208.xml-->
+      <pb ed="#A" n="189"/>
+               <lb ed="#A" n="1"/>nulla vocatio efficax est sine renovatione 
+      in<lb ed="#A" n="2" break="no"/>tellectuns &amp; voluntatis, nulla autem reno 
+      va<lb ed="#A" n="3" break="no"/>tio harum potentiarum animi esse potest, sine 
+      <lb ed="#A" n="4"/>infusione bonorum habituum: si autem 
+      in<lb ed="#A" n="5" break="no"/>funditur ullus habitus, fides insunditur: tum 
+      <lb ed="#A" n="6"/>quia mens lnfantis, non minus est capax 
+      fi<lb ed="#A" n="7" break="no"/>dei, quam aliorum habituum: tum quia 
+      nul<lb ed="#A" n="8" break="no"/>lus alius habitus est tam necessarius ad 
+      In<lb ed="#A" n="9" break="no"/>fantis iustificationem: nam sine eo 
+      impossi<lb ed="#A" n="10" break="no"/>bile est Deo placere: praeterea sut docet 
+      cla<lb ed="#A" n="11" break="no"/>riss. Trelcatius) ipsa forma &amp; essentia internae 
+      <lb ed="#A" n="12"/>vocationis (quae sola in lnfantibus esse 
+      po<lb ed="#A" n="13" break="no"/>test) posita est in illuminatione &amp; 
+      informa<lb ed="#A" n="14" break="no"/>tione mentis, per fidem in Christum. Vnde 
+      <lb ed="#A" n="15"/>D. Pareus in Comment. suo, in 8. ad Rom. v. 2o. 
+      <lb ed="#A" n="16"/>de vocatione loquens, appellat eam, 
+      voca<lb ed="#A" n="17" break="no"/>tionem ad fidem in Christum. Et Ambrosius 
+      <lb ed="#A" n="18"/>dicit, vocare nihil esse aliud, quam compungere 
+      <lb ed="#A" n="19"/>ad fidem: 
+    </p>
+            <p xml:id="pqir89-e12786-d1e589">
+               <lb ed="#A" n="20"/>IO <ref xml:id="pqir89-e12786-Rd1e593">Clarissimus Bexa, quamvis in Confe 
+      <lb ed="#A" n="21"/>cap. 4. art. 48.</ref> fidei semen &amp; germen 
+      Infan<lb ed="#A" n="22" break="no"/>tibus tribuat, tamen in aliis Libris manifeste 
+      <lb ed="#A" n="23"/>asserit, electos Infantes in baptismo non sua, 
+      <lb ed="#A" n="24"/>sed piorum parentum fide inter ventente, 
+      iusti<lb ed="#A" n="25" break="no"/>ficari: nam in Quaest. part. 2. Resp. ad Quaest. 
+      <lb ed="#A" n="26"/>IXS. asserit, electis Infantibus conferri 
+      insi<lb ed="#A" n="27" break="no"/>tionem in saedus, &amp; peccati peccantis 
+      remissio<lb ed="#A" n="28" break="no"/>nem, &amp; proinde qustificationem, interventente 
+      <lb ed="#A" n="29"/>side piorum parentum. Idem etiam docer 
+      <lb ed="#A" n="30"/>Resp. ad Acta Colloquii Mompelgartensis, 
+      <!--209.xml-->
+      <pb ed="#A" n="190"/>
+               <lb ed="#A" n="1"/>Fract. de Baptismo, ubi asserit, Infantibus 
+      <lb ed="#A" n="2"/>propria fide destitutis, sic tribui fidem alienam, 
+      <lb ed="#A" n="3"/>ut tamen pro sua in illis ex Dei pacto 
+      censea<lb ed="#A" n="4" break="no"/>tur: item, Infantes sicut alieno simul &amp; suo 
+      <lb ed="#A" n="5"/>peccato peccatores sunt, sic aliena simul &amp; sua 
+      <lb ed="#A" n="6"/>fide qustificaris sua (inquam) per 
+      imputatio<lb ed="#A" n="7" break="no"/>nem. Eandem fere sententiam explicat &amp; 
+      de<lb ed="#A" n="8" break="no"/>fendit doctiss. Cassander, Zib. de Bapt. 
+      Infan<lb ed="#A" n="9" break="no"/>tum, explic. prop. 2. item multi Patres, vid. 
+      <lb ed="#A" n="10"/>lustinus, Ambrosius, Augustinus, Bernardus, 
+      <lb ed="#A" n="11"/>&amp; alii. 
+    </p>
+            <p xml:id="pqir89-e12786-d1e646">
+               <lb ed="#A" n="12"/>II. Hanc sententiam libenter 
+      amplecte<lb ed="#A" n="13" break="no"/>rer, ad vitandas difficiles illas quaestiones, de 
+      <lb ed="#A" n="14"/>fide parvulorum, quae hoc nostro saeculo 
+      agi<lb ed="#A" n="15" break="no"/>tari solent, nisi perciperem eam aliis longe 
+      <lb ed="#A" n="16"/>gravioribus difficultatibus esse expositam.  
+      <lb ed="#A" n="17"/>Primo enim, si Infantes iustificati in 
+      bapti<lb ed="#A" n="18" break="no"/>smo, omni fide sunt destituti, nondum 
+      effica<lb ed="#A" n="19" break="no"/>citer sunt vocati, &amp; sic iustificatio, 
+      ordina<lb ed="#A" n="20" break="no"/>rie, h.e. respectu omnium qui in Ecclesia 
+      vi<lb ed="#A" n="21" break="no"/>sibili nascuntur, vocationem praecedet. Ratio  
+      <lb ed="#A" n="22"/>connexionis est, quia nulla vocatio efficax 
+      <lb ed="#A" n="23"/>esse potest, sine mentis renovatione per fidei 
+      <lb ed="#A" n="24"/>habitum, ut supra ostensum est: Infantes 
+      au<lb ed="#A" n="25" break="no"/>tem, ex hac sententia, nullam fidem habent. 
+      <lb ed="#A" n="26"/>Probatur autem vocationem non posse sequi 
+      <lb ed="#A" n="27"/>qustificationem, sed necessario eam 
+      praecede<lb ed="#A" n="28" break="no"/>res quia vocatio est mutatio &amp; transsatio 
+      ho<lb ed="#A" n="29" break="no"/>minis de statu miseriae &amp; corruptionis ad 
+      <lb ed="#A" n="30"/>statum gratiae: illi autem qui iustificati sunt,  
+      <!--210.xml-->
+      <pb ed="#A" n="191"/>
+               <lb ed="#A" n="1"/>non possunt mutari &amp; transferri a statu 
+      mi<lb ed="#A" n="2" break="no"/>seriae ad statum gratiae, quia iam in statu 
+      gra<lb ed="#A" n="3" break="no"/>tiae, non vero instatu miseriae sunt: unde 
+      Pro<lb ed="#A" n="4" break="no"/>pheta, Ps. S2. V. I. Beatos illos praedicat quorum 
+      <lb ed="#A" n="5"/>peccata remissa sunt: Ergo nemo post 
+      iustifica<lb ed="#A" n="6" break="no"/>tionem potest vocari ad gratiam &amp; salutem: 
+    </p>
+            <p xml:id="pqir89-e12786-d1e707">
+               <lb ed="#A" n="7"/>r2 Secundo, ex hac sententia sequi 
+      vide<lb ed="#A" n="8" break="no"/>tur, ordinarium modum iustificandi, esse per 
+      <lb ed="#A" n="9"/>alienam fidem, ac proinde ordinarie &amp; 
+      ple<lb ed="#A" n="10" break="no"/>rumque causam tum meritoriam tum 
+      instru<lb ed="#A" n="11" break="no"/>mentalem nostrae iustificationis, non in nobis 
+      <lb ed="#A" n="12"/>existere, sed esse externam &amp; imputatam: nam  
+      <lb ed="#A" n="13"/>ex hac sententia, omnes electi, qui in visibili 
+      <lb ed="#A" n="14"/>Ecclesia nascuntur, seu. in orbe Christiano, 
+      <lb ed="#A" n="15"/>prima aetate iustificantur, vid. in baptisino. 
+      <lb ed="#A" n="16"/>non, sua, sed piorum parentum fide 
+      interye<lb ed="#A" n="17" break="no"/>niente: quicquid autem verum est de 
+      iustifi<lb ed="#A" n="18" break="no"/>catione eorum qui in Ecclesia nascuntur, 
+      il<lb ed="#A" n="19" break="no"/>lud verum est de iustificatione. ordinaria, seu 
+      <lb ed="#A" n="20"/>de ordinario modo iustificandi. 
+    </p>
+            <p xml:id="pqir89-e12786-d1e740">
+               <lb ed="#A" n="21"/>Is Tertio, haec imputatio alienae fidei 
+      <lb ed="#A" n="22"/>doctiss, viris displicet, imo ipse Bexa Respons. 
+      <lb ed="#A" n="23"/>ad quaest. I28. part. 2. eam quodammodo 
+      da<lb ed="#A" n="24" break="no"/>mnat. Verba eius haec sunt: Nequaquam tamen 
+      <lb ed="#A" n="25"/>dixerim, quempiam aliena fide seruari: ne quis 
+      <lb ed="#A" n="26"/>hoc perinde accipiat, ac, si dicerem parentum 
+      fi<lb ed="#A" n="27" break="no"/>dem lnfantibus imputari, quasi aliona fide 
+      creden<lb ed="#A" n="28" break="no"/>tibus, quod quidem non minus falsum &amp; 
+      absur<lb ed="#A" n="29" break="no"/>dum fuerit, quam si dixerim quempiam posse 
+      alie<lb ed="#A" n="30" break="no"/>na anima vypere, aut alterius saptentia sapere.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

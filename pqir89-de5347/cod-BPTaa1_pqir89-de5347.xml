@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 4</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 4</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="77B-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-de5347"><!-- p2a4 -->
+            <head xml:id="pqir89-de5347-Hd1e106">Articulus 4</head>
+            <head xml:id="pqir89-de5347-Hd1e109" type="question-title">
+        An, et quomodo homo vere generare 
+        hominem dicatur
+      </head>
+            <p xml:id="pqir89-de5347-d1e112">
+               <lb ed="#A" n="19"/>ART.IV 
+      <lb ed="#A" n="20"/>An, &amp; quomodo homo vere generare 
+        ho<lb ed="#A" n="21" break="no"/>minem dicatur. 
+    </p>
+            <p xml:id="pqir89-de5347-d1e121">
+               <lb ed="#A" n="22"/>DHilosophi, &amp; Theologi, qui dicunt 
+        ani<lb ed="#A" n="23" break="no"/>mam non traduci per semen, aut ex 
+      se<lb ed="#A" n="24" break="no"/>mine elici, variis modis dissentiunt de 
+      gene<lb ed="#A" n="25" break="no"/>ratione hominis, &amp; actione in quam generatio 
+      <lb ed="#A" n="26"/>hominis consistit. Primo enim nonnulli, cum 
+      <lb ed="#A" n="27"/>iis hoc argumentum obiicitur. Homo 
+      gene<lb ed="#A" n="28" break="no"/>rans non tribuit filio animam, per quam est 
+      <!--96.xml-->
+      <pb ed="#A" n="77B"/>
+               <lb ed="#A" n="1"/>homo: Ergo homo non genterat hominem. 
+      Re<lb ed="#A" n="2" break="no"/>spondent hominem dici generare hominem, 
+      <lb ed="#A" n="3"/>quia suppeditat materiam ex qua fit homo, 
+      <lb ed="#A" n="4"/>id est, quia tribuit filio corpus hominis. 
+      Ve<lb ed="#A" n="5" break="no"/>rum haec responsio admodum frigida est &amp; 
+      <lb ed="#A" n="6"/>indigna quae ab ullo Philosopho proferatur. 
+      <lb ed="#A" n="7"/>Primo enim ex ea sequitur, hominem tantum  
+      <lb ed="#A" n="8"/>generare corpus hominis, non vero totum 
+      <lb ed="#A" n="9"/>hominem, &amp; hoc est ipsum, quod 
+      argumen<lb ed="#A" n="10" break="no"/>tum probat. Secundo, quia nemo 
+      Philoso<lb ed="#A" n="11" break="no"/>phorum dixit, generationem substantialem  
+      <lb ed="#A" n="12"/>esse productionem aut suppeditationem 
+      ma<lb ed="#A" n="13" break="no"/>t eriae, si enim producere substantiam, est 
+      <lb ed="#A" n="14"/>suppeditare materiam ad producendam sub. 
+      <lb ed="#A" n="15"/>stantiam: pari ratione, is qui suppeditat 
+      arti<lb ed="#A" n="16" break="no"/>fici materiam ad conficiendam statuam, 
+      di<lb ed="#A" n="17" break="no"/>cetur conficete statuam: quod admodum 
+      ab<lb ed="#A" n="18" break="no"/>surdum est. Tertio, generare hominem, est 
+      <lb ed="#A" n="19"/>tribuere το esse homini, ut ex ipsis terminis 
+      <lb ed="#A" n="20"/>patet: at esse hominis seu natura humana, 
+      ne<lb ed="#A" n="21" break="no"/>que consistit in anima sola, neque in corpore 
+      <lb ed="#A" n="22"/>solo, ut omnes fatentur: si enim natura 
+      hu<lb ed="#A" n="23" break="no"/>mana in altero horum consisteret, per 
+      sepa<lb ed="#A" n="24" break="no"/>rationem animae a corpore non destrueretur 
+      <lb ed="#A" n="25"/>natura humana: consistit ergo natura 
+      hu<lb ed="#A" n="26" break="no"/>mana, in unione corporis &amp; animae, i. e. 
+      con<lb ed="#A" n="27" break="no"/>sistit in eo, quod homo vere constet anima 
+      <lb ed="#A" n="28"/>&amp; corpore: si ergo generans non efficit, ut 
+      <lb ed="#A" n="29"/>filius sit quid constans ex anima &amp; corpore, 
+      <lb ed="#A" n="30"/>sed tantum efficit ipsum corpus, homo gene¬ 
+      <!--97.xml-->
+      <pb ed="#A" n="78B"/>
+               <lb ed="#A" n="1"/>rans non vere dicetur tribuere homini genito 
+      <lb ed="#A" n="2"/>esse hominis, atque adeo non vere dicetur 
+      ge<lb ed="#A" n="3" break="no"/>nerare hominem. 
+    </p>
+            <p xml:id="pqir89-de5347-d1e219">
+               <lb ed="#A" n="4"/>a Alii, cum vident se non posse evitare 
+      <lb ed="#A" n="5"/>vim huius argumenti per priorem 
+      responsio<lb ed="#A" n="6" break="no"/>nem, aliam responsionem excogitarunt, sed 
+      <lb ed="#A" n="7"/>pene tam invalidam ac est prior: dicunt 
+      e<lb ed="#A" n="8" break="no"/>nim hominem vere generare hominem, quia 
+      <lb ed="#A" n="9"/>non solum tribuit ei materiam, i. e. corpus, 
+      <lb ed="#A" n="10"/>sed etiam praeparat materiam ad recipiendam  
+      <lb ed="#A" n="11"/>formam, atque adeo per virtutem 
+      prolifi<lb ed="#A" n="12" break="no"/>cam, attingit coniunctionem animae &amp; 
+      cor<lb ed="#A" n="13" break="no"/>poris, per quam coniunctionem homo 
+      con<lb ed="#A" n="14" break="no"/>stituitur in esse hominis, &amp; fit tale compositum 
+      <lb ed="#A" n="15"/>Physicum: hi eroo non dicunt patrem 
+      coniun<lb ed="#A" n="16" break="no"/>gere animam filii cum corpore filij, per 
+      vir<lb ed="#A" n="17" break="no"/>tutem seminalem, (hoc enim tribuunt Deo 
+      <lb ed="#A" n="18"/>qui animam infundit:) sed praeparare 
+      mate<lb ed="#A" n="19" break="no"/>riam seminis ad recipiendam formam 
+      huma<lb ed="#A" n="20" break="no"/>nam, quam quidem praeparationem, post. 
+      <lb ed="#A" n="21"/>quam completa fuerit, immediate sequitur 
+      <lb ed="#A" n="22"/>coniunctio animae &amp; corporis: hinc liquet,  
+      <lb ed="#A" n="23"/>ex eorum sententia, actionem generandi 
+      ni<lb ed="#A" n="24" break="no"/>hil aliud esse, quam praeviam materiae 
+      altera<lb ed="#A" n="25" break="no"/>tionem, &amp; praeparationem ad recipiendam  
+      <lb ed="#A" n="26"/>formam: in hac sententia fuerunt pene 
+      o<lb ed="#A" n="27" break="no"/>mnes antiquiores Philosophi, etiam omnes 
+      <lb ed="#A" n="28"/>pene Moderni, plerique etiam Pontificii 
+      <lb ed="#A" n="29"/>Theologis nam Conimbricenses, in 
+      explicatio<lb ed="#A" n="30" break="no"/>ne lib. I. de ortu, testantur se ipsos olim ample¬ 
+      <!--98.xml-->
+      <pb ed="#A" n="79"/>
+               <lb ed="#A" n="1"/>xos fuisse hanc sententiam, quia fuit recepta 
+      <lb ed="#A" n="2"/>apud omnes. Verum haec sententia, ut 
+      di<lb ed="#A" n="3" break="no"/>ctum est, non magis satisfacit argumento, 
+      <lb ed="#A" n="4"/>quam prior. Primo, quia praeparatio 
+      mate<lb ed="#A" n="5" break="no"/>riae est mutatio in qualitate, atque adeo est 
+      <lb ed="#A" n="6"/>alteratio. Generatio autem non est alteratio,  
+      <lb ed="#A" n="7"/>sunt enim diversi specie motus, in hoc 
+      diffe<lb ed="#A" n="8" break="no"/>rentes, quod altera terminetur ad 
+      qualita<lb ed="#A" n="9" break="no"/>tem, altera ad substantiam: Ergo generatio 
+      <lb ed="#A" n="10"/>non est mutatio, vel praeparatio materiae, 
+      ne<lb ed="#A" n="11" break="no"/>que generare, est praeparare materiam. 
+      Se<lb ed="#A" n="12" break="no"/>cundo, generatio estuna simplex mutatio, vel 
+      <lb ed="#A" n="13"/>simplex motus, ut omnes fatentur: at illa 
+      <lb ed="#A" n="14"/>praeparatio non est posita in una mutatione, 
+      <lb ed="#A" n="15"/>sed in variis alterationibus, quae praecedunt 
+      <lb ed="#A" n="16"/>introductionem formae, nam aliquando 
+      di<lb ed="#A" n="17" break="no"/>latatur, aliquando consolidatur illa materia, 
+      <lb ed="#A" n="18"/>aliquando humor augetur, aliquando 
+      minui<lb ed="#A" n="19" break="no"/>tur, ita scilicet postulante natura formae 
+      in<lb ed="#A" n="20" break="no"/>troducendae: Ergo illa praeparatio non est 
+      <lb ed="#A" n="21"/>generatio, sed aggregata seu multiplex 
+      mu<lb ed="#A" n="22" break="no"/>tatio, siue alteratio, Tertio, generare est 
+      tri<lb ed="#A" n="23" break="no"/>buere esse: esse autem hominis consistit in 
+      <lb ed="#A" n="24"/>eo, quod constet ex anima &amp; corpore: si 
+      er<lb ed="#A" n="25" break="no"/>go Deus copulet animam cum corpore, 
+      in<lb ed="#A" n="26" break="no"/>fundendo (ut dicunt Theologi, ) Deus tribuit 
+      <lb ed="#A" n="27"/>esse homini, non vero generans: solus enim 
+      <lb ed="#A" n="28"/>ille qui copulat animam cum corpore, efficit 
+      <lb ed="#A" n="29"/>ut homo constet ex anima &amp; corpore. 
+      Deni<lb ed="#A" n="30" break="no"/>que homo in instanti gignitur, io est, in in¬ 
+      <!--99.xml-->
+      <pb ed="#A" n="80"/>
+               <lb ed="#A" n="1"/>stanti fit homo: Ergo non gradatim, ideoque 
+      <lb ed="#A" n="2"/>eius productio, non est mutatio aliqua 
+      suc<lb ed="#A" n="3" break="no"/>cessiva, sed instantanea. 
+    </p>
+            <p xml:id="pqir89-de5347-d1e361">
+               <lb ed="#A" n="4"/>S Tertius modus respondendi est eorum, 
+      <lb ed="#A" n="5"/>qui dicunt hominem generare hominem, 
+      ne<lb ed="#A" n="6" break="no"/>que quod ei tribuat materiam neque quod 
+      <lb ed="#A" n="7"/>materiam praeparet, sed quod tribuat ei 
+      et<lb ed="#A" n="8" break="no"/>iam formam, non quidem specificam, id est,  
+      <lb ed="#A" n="9"/>animam rationalem, (hanc enim volunt 
+      tri<lb ed="#A" n="10" break="no"/>bui a solo Deo, qui eam creat, &amp; unit cum 
+      <lb ed="#A" n="11"/>corpores Tsed quod ex potentia seminis 
+      edu<lb ed="#A" n="12" break="no"/>cat animam vegetativam, &amp; sensitivam: 
+      ve<lb ed="#A" n="13" break="no"/>rum haec sententia minime omnium placet, 
+      <lb ed="#A" n="14"/>quia manifeste ex ea sequitur, hominem non 
+      <lb ed="#A" n="15"/>generare hominem, sed hoc vivens, &amp; hoc 
+      a<lb ed="#A" n="16" break="no"/>nimal: praeterea (ut dicebam) esse hominis 
+      <lb ed="#A" n="17"/>in eo consistit, quod homo constet ex anima 
+      <lb ed="#A" n="18"/>&amp; corpore: Si ergo filius non debeat patri, 
+      <lb ed="#A" n="19"/>quod constet ex anima rationali &amp; corpore, 
+      <lb ed="#A" n="20"/>non habet naturam hominis a patre sibi 
+      com<lb ed="#A" n="21" break="no"/>municatam.  
+    </p>
+            <p xml:id="pqir89-de5347-d1e403">
+               <lb ed="#A" n="22"/>A Reiectis his sententiis, nos cum 
+      do<lb ed="#A" n="23" break="no"/>ctissimis Philosophis, Doct. se. Ruvio, &amp; 
+      <lb ed="#A" n="24"/>professoribus Academiae Conimbricensis, 
+      quar<lb ed="#A" n="25" break="no"/>tum dicendi modum amplectimur, 
+      asseren<lb ed="#A" n="26" break="no"/>tes, hominem vere generare hominem, 
+      <lb ed="#A" n="27"/>quam vis anima a Deo creetur: non quod 
+      <lb ed="#A" n="28"/>tribuat ei corpus solummodo, neque quod 
+      <lb ed="#A" n="29"/>praeparet corpus ad recipiendam animam, 
+      ne<lb ed="#A" n="30" break="no"/>que quod in materia, aut ex materia corpo¬ 
+      <!--100.xml-->
+      <pb ed="#A" n="81"/>
+               <lb ed="#A" n="1"/>rea efficiat animam vegitativam, aut 
+      sensi<lb ed="#A" n="2" break="no"/>tivam sui filij: sed quod ab homine 
+      generan<lb ed="#A" n="3" break="no"/>te sit ipsa actio, qua anima rationalis 
+      substan<lb ed="#A" n="4" break="no"/>tialiter corpori unitur, ac incipit informare, 
+      <lb ed="#A" n="5"/>inhabitare, &amp; implere totam materiam 
+      cor<lb ed="#A" n="6" break="no"/>poris, adeo ut ex nostra sententia, 
+      generatio<lb ed="#A" n="7" break="no"/>hominis sit posita in illa actione, quam, per 
+      vir<lb ed="#A" n="8" break="no"/>tutem prolificam, anima essentiali vinculo 
+      <lb ed="#A" n="9"/>cum corpore copulatur. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 6</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 6</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="166-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-e11442"><!-- p3a6 -->
+            <head xml:id="pqir89-e11442-Hd1e106">Articulus 6</head>
+            <head xml:id="pqir89-e11442-Hd1e109" type="question-title">
+        De triplici lumine, videlicet naturae, 
+        fidei, seu gratiae, et gloriae.
+      </head>
+            <p xml:id="pqir89-e11442-d1e112">
+               <lb ed="#A" n="19"/>ART. VI 
+      <lb ed="#A" n="20"/>De triplici lumine, videlicet naturae, 
+        fi<lb ed="#A" n="21" break="no"/>dei, seu gratiae, &amp; gloriae.
+    </p>
+            <p xml:id="pqir89-e11442-d1e121">
+               <lb ed="#A" n="22"/>TN Theolooia Scholastica variae 
+      inve<lb ed="#A" n="23" break="no"/>Tniuntur disfinctiones petitae ab istis 
+      tri<lb ed="#A" n="24" break="no"/>bus terminis, natura, gratia, &amp; glorid. Prima 
+      <lb ed="#A" n="25"/>est, quam Dei Opt. Max. regnum distinguitur, 
+      <lb ed="#A" n="26"/>in regnum iiaturae, regnum gratiae, &amp; regnum 
+      <lb ed="#A" n="27"/>gloriae. Regnum naturae, est naturale illud 
+      im<lb ed="#A" n="28" break="no"/>perium, quod Deus habet in omnes res 
+      <!--185.xml-->
+      <pb ed="#A" n="166"/>
+               <lb ed="#A" n="1"/>creatas, quas pro arbitrio regit &amp; 
+      guber<lb ed="#A" n="2" break="no"/>nat. Regnum gratiae, est quo Deus regnat 
+      <lb ed="#A" n="3"/>in Ecclesia suam in terris militante. Regnum 
+      <lb ed="#A" n="4"/>gloriae est, quo regnat in Ecclesia in coelis 
+      <lb ed="#A" n="5"/>triumphante. 
+    </p>
+            <p xml:id="pqir89-e11442-d1e154">
+               <lb ed="#A" n="6"/>a2 Secunda distinctio, est quam Dei Iocalis 
+      <lb ed="#A" n="7"/>praesentia distiguitur in praesentiam naturalem, 
+      <lb ed="#A" n="8"/>seu essentialem, gratiosam, &amp; gloriosam. 
+      Se<lb ed="#A" n="9" break="no"/>cundum praesentiam naturalem Deus est 
+      u<lb ed="#A" n="10" break="no"/>bique: per praesentiam gratiosam Deus 
+      dici<lb ed="#A" n="11" break="no"/>tur esse in iustis &amp; sanctis hominibus, &amp; 
+      vi<lb ed="#A" n="12" break="no"/>cissim illi habitaculum &amp; Templum Dei 
+      di<lb ed="#A" n="13" break="no"/>cuntur: &amp; per praefentiam gloriosam Deus  
+      <lb ed="#A" n="14"/>dicitur esse in coelis, ubrgloriam suam &amp; 
+      ma<lb ed="#A" n="15" break="no"/>festatis splendorem beatis hominibus &amp; 
+      An<lb ed="#A" n="16" break="no"/>gelis manifestat. 
+    </p>
+            <p xml:id="pqir89-e11442-d1e181">
+               <lb ed="#A" n="17"/>S Tertia divisio, est quam opera Dei ad 
+      ea<lb ed="#A" n="18" break="no"/>tra dividuntur in opera naturae, opera gratiae, &amp; 
+      <lb ed="#A" n="19"/>opera gloriae. Opera naturae, sunt rerum 
+      visi<lb ed="#A" n="20" break="no"/>bilium &amp; invisibilium creatio, conseruatio,  
+      <lb ed="#A" n="21"/>&amp; cum iisdem cooperatio in omnibus earum  
+      <lb ed="#A" n="22"/>actionibus: nam in eo viximus, movemur 
+      <lb ed="#A" n="23"/>&amp; sumus. Opera gratiae, sunt verbi 
+      incar<lb ed="#A" n="24" break="no"/>natio, humiliatio, exaltatio, triplex 
+      e<lb ed="#A" n="25" break="no"/>pus officium, videlicet Regium, 
+      Propheti<lb ed="#A" n="26" break="no"/>cum, &amp; Sacerdotale: item electorum per 
+      <lb ed="#A" n="27"/>Verbi praedicationem &amp; Sacramentorum 
+      ad<lb ed="#A" n="28" break="no"/>ministrationem efficax vocatio, 
+      eorundem<lb ed="#A" n="29" break="no"/>que regeneratio, &amp; iustificatio. Denique 
+      o<lb ed="#A" n="30" break="no"/>pera gloriae, quae Polanus appellat opera 
+      <!--186.xml-->
+      <pb ed="#A" n="167"/>
+               <lb ed="#A" n="1"/>Dei post hanc vitam, sunt ad ventus Domini 
+      <lb ed="#A" n="2"/>ultimus, resuscitatio mortuorum, 
+      univer<lb ed="#A" n="3" break="no"/>salis mundi huius elementaris abolitio &amp; 
+      <lb ed="#A" n="4"/>aut saltem mirabilis transinutatio per 
+      i<lb ed="#A" n="5" break="no"/>gnem confsagrationis, ut loquuntur: item 
+      <lb ed="#A" n="6"/>qudicii ultimi processus, executio, &amp; 
+      glo<lb ed="#A" n="7" break="no"/>riae Dei in omnem aeternitatem 
+      manifesta<lb ed="#A" n="8" break="no"/>tio. 
+    </p>
+            <p xml:id="pqir89-e11442-d1e236">
+               <lb ed="#A" n="9"/>A Quarta distinctio, est quam vita humana 
+      <lb ed="#A" n="10"/>di viditur in vitam naturae, seu naturalem: vi 
+      <lb ed="#A" n="11"/>tam gratiae, &amp; vitam gloriae. Vita naturalis 
+      <lb ed="#A" n="12"/>posita est in coniunctione animae vixentis 
+      <lb ed="#A" n="13"/>eum corpore. Vita gratiae posita est in 
+      viato<lb ed="#A" n="14" break="no"/>rum in terris peregrinantium coniunctione 
+      <lb ed="#A" n="15"/>cum Deo per fidem, spem, &amp; charitatem. Vita 
+      <lb ed="#A" n="16"/>gloriae posita est in aeterna illa &amp; immurabili 
+      <lb ed="#A" n="17"/>hominum glorificatorum coniunctione cum 
+      <lb ed="#A" n="18"/>Deo, per claram eius visionem, &amp; ardentem  
+      <lb ed="#A" n="19"/>amorem seucharitatem.  
+      <lb ed="#A" n="20"/>s Quinta divisio, est qua consilium &amp; 
+      de<lb ed="#A" n="21" break="no"/>cretum Dei de aeterna quorundam. hominum 
+      <lb ed="#A" n="22"/>salute, dividitur in praedestinationem ad 
+      glo<lb ed="#A" n="23" break="no"/>riam, &amp; praedestinationem ad gratiam: prior 
+      <lb ed="#A" n="24"/>est de fine, posterior de mediis ad finem: 
+      <lb ed="#A" n="25"/>prior est Dei decretum de danda gloria, por 
+      <lb ed="#A" n="26"/>sterior est eiusdem decretum de danda. ea 
+      <lb ed="#A" n="27"/>gratia, quam Scholastici vocant gratiam, 
+      gra<lb ed="#A" n="28" break="no"/>tum facientem: 
+    </p>
+            <p xml:id="pqir89-e11442-d1e282">
+               <lb ed="#A" n="29"/>Sexta distinctio, est qua lumen intellectus 
+      <lb ed="#A" n="30"/>humani dividitur in lumen iiaturae, lumen 
+      <!--187.xml-->
+      <pb ed="#A" n="168"/>
+               <lb ed="#A" n="1"/>gratiae seu fidei, &amp; lumen gloriae. Lume 
+      na<lb ed="#A" n="2" break="no"/>turae, est quo ea cognoscimus quae solis 
+      na<lb ed="#A" n="3" break="no"/>turae viribus, sine auxilio Dei speciali, 
+      intel<lb ed="#A" n="4" break="no"/>ligi a nobis &amp; dijudicari possunt: de huius 
+      <lb ed="#A" n="5"/>luminis virtute, &amp; quousque se extendat 
+      <lb ed="#A" n="6"/>(Deo favente) in, sequentibus 
+      disputationi<lb ed="#A" n="7" break="no"/>bus fuse disseram. Lumen fidei, est quo 
+      <lb ed="#A" n="8"/>ea cognoscimus &amp; intelligimus quae Deus in 
+      <lb ed="#A" n="9"/>verbo suo nobis patefecit. Lumen gloriae, 
+      <lb ed="#A" n="10"/>est quo beati spiritus. in coelis clare &amp; 
+      per<lb ed="#A" n="11" break="no"/>spicue vident gloriosissimam Dei essentiam.  
+      <lb ed="#A" n="12"/>Huic tiiplici. lumini respondet triplex Theo: 
+      <lb ed="#A" n="13"/>logia, videlicet Theologia naturalis 
+      seuMe<lb ed="#A" n="14" break="no"/>taphysica, Theologia reyelationis quae 
+      et<lb ed="#A" n="15" break="no"/>iam Theologia viatorum dicitur, &amp; 
+      Theo<lb ed="#A" n="16" break="no"/>logia visionis seu Theologia 
+      comprehenso<lb ed="#A" n="17" break="no"/>rum. 
+      <lb ed="#A" n="18"/> Solam hanc ultimam distinctionem ex 
+      <lb ed="#A" n="19"/>instituto hic propono, idque ut manifestum  
+      <lb ed="#A" n="20"/>sit, P. holasticos, cum fidei inevidentiam 
+      at<lb ed="#A" n="21" break="no"/>tribuunt, non tribuere ei caecitatem &amp; 
+      i<lb ed="#A" n="22" break="no"/>gnorantiam, sed notitiam quandam, quae 
+      li<lb ed="#A" n="23" break="no"/>cet obscura sit si conferatur cum visione 
+      <lb ed="#A" n="24"/>quae est in patria, ab ipsis, tamen Scholasticis 
+      <lb ed="#A" n="25"/>lumen vocatur: reliquas vero distinctiones 
+      <lb ed="#A" n="26"/>propono quasi per accidens, quia videlicet 
+      <lb ed="#A" n="27"/>habent pulchram analogiam &amp; 
+      proportio<lb ed="#A" n="28" break="no"/>nem ad hanc distinctionem luminis inteli 
+      <lb ed="#A" n="29"/>lectualis.  
+    </p>
+            <p xml:id="pqir89-e11442-d1e356">
+               <lb ed="#A" n="30"/>&amp; Analogia seu proportio harum distin¬ 
+      <!--188.xml-->
+      <pb ed="#A" n="169"/>
+               <lb ed="#A" n="1"/>ctionum sic concipi potest: homo quatenus 
+      <lb ed="#A" n="2"/>vi vit vitam. naturae, est civis regni naturae, 
+      uti<lb ed="#A" n="3" break="no"/>tur lumne naturae, &amp; per illud percipit eam  
+      <lb ed="#A" n="4"/>Dei praesentiam, quae vocatur praesentia 
+      natu<lb ed="#A" n="5" break="no"/>rae, item opera naturae quae illam praesentiam  
+      <lb ed="#A" n="6"/>consequuntur. Idem homo, quatenus 
+      vi<lb ed="#A" n="7" break="no"/>vit vitam gratiae, est cixis regni gratiae, 
+      u<lb ed="#A" n="8" break="no"/>titur sumine gratiae seu fidei, &amp; per illud 
+      per<lb ed="#A" n="9" break="no"/>cipit Dei praesentiam gratiosam in corde suo, 
+      <lb ed="#A" n="10"/>&amp; opera gratiae quae eam praesentiam 
+      con<lb ed="#A" n="11" break="no"/>sequuntur. Idem denique, quatenus vivit 
+      <lb ed="#A" n="12"/>in coelis: vitam gloriae, est ciuis regni gloriae, 
+      <lb ed="#A" n="13"/>utitur. lumine gloriae, ac per illud percipit 
+      <lb ed="#A" n="14"/>Dei praesentiam gloriosam, item opera gloriae, h.
+      e<lb ed="#A" n="15" break="no"/>inenarrabilia effecta gloriosae istius praesetiae. 
+    </p>
+            <p xml:id="pqir89-e11442-d1e398">
+               <lb ed="#A" n="16"/>o Obiter hic notari potest, quod 
+      si<lb ed="#A" n="17" break="no"/>cut olim Deus inchoavit opus 
+      creatio<lb ed="#A" n="18" break="no"/>nis a lumine. corporeo, &amp; sensibili, ita 
+      et<lb ed="#A" n="19" break="no"/>iam opera regenerationis &amp; 
+      glorificatio<lb ed="#A" n="20" break="no"/>nis nostrae a lumine spirituali orditur. Cum 
+      <lb ed="#A" n="21"/>enim Deus efficaciter electos vocat ad 
+      <lb ed="#A" n="22"/>salutem per Spiritum sanctum, primo 
+      co<lb ed="#A" n="23" break="no"/>rum intellectum illuminat lumine fidei, 
+      <lb ed="#A" n="24"/>&amp; collustrat: Secundo voluntatem emoli 
+      <lb ed="#A" n="25"/>lit &amp; sanctificat. Similiter in opere 
+      glo<lb ed="#A" n="26" break="no"/>rificationis ordine naturae praecedit 
+      illu<lb ed="#A" n="27" break="no"/>minatio intellectus nostri, per Iumen 
+      glo<lb ed="#A" n="28" break="no"/>riae, ad Dei essentiam clare &amp; perspicue 
+      <lb ed="#A" n="29"/>videndam deinde sequitur voluntatis 
+      in<lb ed="#A" n="30" break="no"/>flammatio &amp; incensio per ardorem cha¬ 
+      <!--189.xml-->
+      <pb ed="#A" n="170"/>
+               <lb ed="#A" n="1"/>ritatis. Ratio huius oidinis est, quia 
+      cogni<lb ed="#A" n="2" break="no"/>tio praecedit amorem, atque adeo clara 
+      cog<lb ed="#A" n="3" break="no"/>nitio seu, visio praecedere debet ardentem &amp;  
+      <lb ed="#A" n="4"/>perfectum amorem: 
+    </p>
+            <p xml:id="pqir89-e11442-d1e446">
+               <lb ed="#A" n="5"/>Io Contra vero Draco ille Magnus, qui 
+      <lb ed="#A" n="6"/>merito Rector tenebrarum vocatur, dirum 
+      <lb ed="#A" n="7"/>istud, opus aeternae perditionis a tenebris 
+      or<lb ed="#A" n="8" break="no"/>ditur: cum enim (ut docet<ref xml:id="pqir89-e11442-Rd1e456"> D. Thomas, 
+      <lb ed="#A" n="9"/>I. 2. quaest. 94. Art. 8.</ref> &amp; cum eo 
+      Caieta<lb ed="#A" n="10" break="no"/>nus, Durandus, Capreolus, &amp; Estius) non 
+      <lb ed="#A" n="11"/>possit esse peccatum, in voluntate sine 
+      prae<lb ed="#A" n="12" break="no"/>vio errore intellectus, vafer ille spiritus 
+      pri<lb ed="#A" n="13" break="no"/>mo intellectui caliginem, &amp; quasi noctem 
+      <lb ed="#A" n="14"/>quandam offundit: deinde voluntatem a 
+      ve<lb ed="#A" n="15" break="no"/>ro bono ad bonum apparens, convertit, &amp; 
+      <lb ed="#A" n="16"/>sensim eam indurat. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

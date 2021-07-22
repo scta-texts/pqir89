@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 30</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 30</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="280-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-e19962"><!-- p3a30 -->
+            <head xml:id="pqir89-e19962-Hd1e106">Articulus 30</head>
+            <head xml:id="pqir89-e19962-Hd1e109" type="question-title">
+        An vera et proprie dicta Theologia possit 
+        esse in homine impio, seu non renato
+      </head>
+            <p xml:id="pqir89-e19962-d1e112">
+               <lb ed="#A" n="13"/>ART. XXX. 
+      <lb ed="#A" n="14"/>An vera &amp; proprie dicta Theologia possit 
+      <lb ed="#A" n="15"/>esse in homine impio, seu non renato.
+    </p>
+            <p xml:id="pqir89-e19962-d1e121">
+               <lb ed="#A" n="16"/>I. <ref xml:id="pqir89-e19962-Rd1e125">RAlthasar Meisnerus, in Philosophiae sue 
+      <lb ed="#A" n="17"/>Pect. 2. cap. 2. quaest. I.</ref> de hac contro- 
+      <lb ed="#A" n="18"/>versia disserens: Primo asseverat 
+      Theolo<lb ed="#A" n="19" break="no"/>giam dici habitum ξεoσδoῶν, non quod 
+      o<lb ed="#A" n="20" break="no"/>innes qui Theologiam docent, &amp; sciunt, sint 
+      <lb ed="#A" n="21"/>in statum gratiae, &amp; a S. Spiritu specialiter 
+      illu<lb ed="#A" n="22" break="no"/>minati, sed partim ob principii, partim ob 
+      <lb ed="#A" n="23"/>obiecti coelestem &amp; divinam rationem. 
+      Se<lb ed="#A" n="24" break="no"/>cundo, illud probat ex eo, quod habitus 
+      <lb ed="#A" n="25"/>Theologiae cadat etiam in subiectum non 
+      re<lb ed="#A" n="26" break="no"/>natum, &amp; hominem perversae vitae: sequere¬ 
+      <!--299.xml-->
+      <pb ed="#A" n="280"/>
+               <lb ed="#A" n="1"/>tur enim (inquit) alias Theologiae habitum 
+      per<lb ed="#A" n="2" break="no"/>ire, si quistiani Theologus mortaliter peccaret. 
+      <lb ed="#A" n="3"/>item illum redire, si poenitentiam ageret: 
+      qua<lb ed="#A" n="4" break="no"/>lis alternata habituum abitio &amp; reditio. est 
+      ab<lb ed="#A" n="5" break="no"/>surda,, cum ἐξες &amp; δIῶMεωd hoc unico 
+      distingua<lb ed="#A" n="6" break="no"/>tur, quod e subfectoitam facile non cedut, &amp; 
+      mo<lb ed="#A" n="7" break="no"/>peatur. 
+    </p>
+            <p xml:id="pqir89-e19962-d1e170">
+               <lb ed="#A" n="8"/>2 Hinc tertio colligit, accurate 
+      distin<lb ed="#A" n="9" break="no"/>guendum esse inter ξεoλoσλων, &amp; ξεoσeCειαν: 
+      <lb ed="#A" n="10"/>uliud enim (inquit) est verus de Deo sensus, 
+      a<lb ed="#A" n="11" break="no"/>liud pius ergi Deum cultus: hic τζοαξε, ille 
+      <lb ed="#A" n="12"/>Vνῶσιν denotat: vtrunque dixminum est, sed 
+      di<lb ed="#A" n="13" break="no"/>verso respectu: Vvῶniς, quia Dei, &amp; per Deuni, 
+      <lb ed="#A" n="14"/>vel eius verbum, &amp;οῶ ξες, quia &amp; Deo, &amp; cum 
+      <lb ed="#A" n="15"/>Deo, h. e. cum grauiosa eius inhabitatione 
+      con<lb ed="#A" n="16" break="no"/>iuncta est. 
+    </p>
+            <p xml:id="pqir89-e19962-d1e193">
+               <lb ed="#A" n="17"/>2 Contrariam sententiam profitetur 
+      Par<lb ed="#A" n="18" break="no"/>tholomeus Re Eerniatinus, Lib. I. Sost. Theolog. 
+      <lb ed="#A" n="19"/>cap. I. dicit enim Theologiam esse faculiatem &amp; 
+      <lb ed="#A" n="20"/>poritiam heminibus electis a Deo insusam: unde 
+      <lb ed="#A" n="21"/>patet, Theolggium, ex eius sententia, in 
+      ho<lb ed="#A" n="22" break="no"/>minibus impiis &amp; sceleratis inveniti non 
+      <lb ed="#A" n="23"/>posse. 
+    </p>
+            <p xml:id="pqir89-e19962-d1e211">
+               <lb ed="#A" n="24"/>A Huius quaestionis deferminationem 
+      <lb ed="#A" n="25"/>duabus asseitionibus proponam. Prior est 
+      <lb ed="#A" n="26"/>haec, Homines improbi &amp; slagitiosi possunt 
+      habe<lb ed="#A" n="27" break="no"/>re exactam &amp; accuratam rerum Theologicarum 
+      <lb ed="#A" n="28"/>cognitionem: possunt. item habere miram 
+      facili<lb ed="#A" n="29" break="no"/>tatem, &amp; prompiitudinem discntiendi contro ver¬ 
+      <!--300.xml-->
+      <pb ed="#A" n="281"/>
+               <lb ed="#A" n="1"/>sias Theologicas. Haec assertio exidens est, &amp; 
+      <lb ed="#A" n="2"/>quotidiana experientianititur. 
+    </p>
+            <p xml:id="pqir89-e19962-d1e235">
+               <lb ed="#A" n="3"/>S Assert, secund. Notitia rerum 
+      Theologica<lb ed="#A" n="4" break="no"/>rum, qua praediti sunt impii &amp; non renati, non 
+      <lb ed="#A" n="5"/>est Theologia. proprie dicta, sed aequivoce dicitur 
+      <lb ed="#A" n="6"/>Theologia, quemadmodum homo pitius aequipoce 
+      <lb ed="#A" n="7"/>vocatur homo: sic notitia rerum moralium, quam 
+      <lb ed="#A" n="8"/>praediti sunt homines improbi &amp; scelesti, 
+      ae<lb ed="#A" n="9" break="no"/>quivoce dicitur Philos: moralis: illi enim 
+      re<lb ed="#A" n="10" break="no"/>vera non sunt praediti habitu Dhilosophiae 
+      mo<lb ed="#A" n="11" break="no"/>ralis: idque quia Philosophia moralis &amp; 
+      Prus<lb ed="#A" n="12" break="no"/>dentia sunt unus &amp; idem habitus realiter: 
+      <lb ed="#A" n="13"/>Prudentia autem in hominem: improbum 
+      <lb ed="#A" n="14"/>non. cadit, teste Arist. qui saepe ait, Neminem 
+      <lb ed="#A" n="15"/>qui non sit vir bonus, posse proprie prudentem 
+      ap<lb ed="#A" n="16" break="no"/>pellari. Vide Iacob. Martinii primam 
+      disputa<lb ed="#A" n="17" break="no"/>tionem Ethicam, quaest. S. ubi probat 
+      Philoso<lb ed="#A" n="18" break="no"/>phiam, moralem &amp; Prudentiam esse eundem  
+      <lb ed="#A" n="19"/>habitum: 
+    </p>
+            <p xml:id="pqir89-e19962-d1e274">
+               <lb ed="#A" n="20"/>o Posterior. haec assertio duabus 
+      rationi<lb ed="#A" n="21" break="no"/>bus efficaciter probatur. Primo, Theologia 
+      <lb ed="#A" n="22"/>est virtus praitica, ut supra probatum est: at 
+      <lb ed="#A" n="23"/>illa notitia controversiarum Theologicarum, 
+      <lb ed="#A" n="24"/>quam praediti sunt inipii, non est vintus practica. 
+      <lb ed="#A" n="25"/>Ergo non est vera &amp; proprie dicta Theologia. 
+      <lb ed="#A" n="26"/>Probaiur assumprio: virtus practica, seu 
+      o<lb ed="#A" n="27" break="no"/>perativa, nihil est aliud nisi fecilitas &amp; 
+      prom<lb ed="#A" n="28" break="no"/>ptitudo agendi ea quae honesta &amp; bona sunt: at 
+      <lb ed="#A" n="29"/>habitus ille quo praediti sunt impiis non est 
+      <!--301.xml-->
+      <pb ed="#A" n="282"/>
+               <lb ed="#A" n="1"/>facilitas, inclinatio, aut propensio ad ea agondo 
+      <lb ed="#A" n="2"/>quae bona sunt: illi enim talem facilitatem non 
+      <lb ed="#A" n="3"/>habent: Ergo non est virtus practica, seu 
+      ope<lb ed="#A" n="4" break="no"/>tati va. 
+    </p>
+            <p xml:id="pqir89-e19962-d1e311">
+               <lb ed="#A" n="5"/>. Secundo, notitia rerum moralium, qua 
+      <lb ed="#A" n="6"/>praediti sunt homines improbi, non 
+      appella<lb ed="#A" n="7" break="no"/>tur Prudentia civilis: idque quia inefficax est,  
+      <lb ed="#A" n="8"/>&amp; otiosa: Ergo pari ratione, inefficax &amp; 
+      in<lb ed="#A" n="9" break="no"/>utilis notitia rerum Theologicarum, quam 
+      praedi<lb ed="#A" n="10" break="no"/>ti sunt impii, non est vera Theologia, seu 
+      Pru<lb ed="#A" n="11" break="no"/>dentia religiosa. Ratio consequentiae est haec: 
+      <lb ed="#A" n="12"/>Theologia nominus est habitus practicus 
+      na<lb ed="#A" n="13" break="no"/>turae sua, quam Prudentia cixilis: &amp; proinde 
+      <lb ed="#A" n="14"/>si notitia rerum civilium, quam habent 
+      im<lb ed="#A" n="15" break="no"/>probi, est indigna nomine Prudentiae, quia 
+      <lb ed="#A" n="16"/>caret inclinatione &amp; propensione ad bene 
+      a<lb ed="#A" n="17" break="no"/>gendum cixiliter: pari ratione, notitia rerum 
+      <lb ed="#A" n="18"/>Vheologicarum, quam praediti sunt impii, est 
+      in<lb ed="#A" n="19" break="no"/>digna nomine &amp; titulo Theologiae, seu 
+      Pruden<lb ed="#A" n="20" break="no"/>tiae religiose, quia caret inclinatione &amp; 
+      propen<lb ed="#A" n="21" break="no"/>sione ad bene agendum spiritualiter. 
+    </p>
+            <p xml:id="pqir89-e19962-d1e350">
+               <lb ed="#A" n="22"/>S Ob. prim. Dapid, &amp; δolomon, cum 
+      gra<lb ed="#A" n="23" break="no"/>viter peccarent, manebant boni Theologi, 
+      <lb ed="#A" n="24"/>quamvis essent, miali Christiani: Ergo, vera 
+      <lb ed="#A" n="25"/>Dheologia potest esse in homine impio. Resp. 
+      <lb ed="#A" n="26"/>Homines plane impios &amp; pietate destitutos,  
+      <lb ed="#A" n="27"/>neque esse bonos Christianos, neque bonos 
+      Theo<lb ed="#A" n="28" break="no"/>logos, imo vere &amp; proprie non esse Theologos: 
+      <lb ed="#A" n="29"/>sicut enim homines mali &amp; improbi, non 
+      <!--302.xml-->
+      <pb ed="#A" n="283"/>
+               <lb ed="#A" n="1"/>sunt praediti vero habitu moralis Philosophiae, 
+      <lb ed="#A" n="2"/>seu Prudentiae cixilis, ita etiam impij, seu non 
+      <lb ed="#A" n="3"/>renati, non sunt praediti vero habitu 
+      Theolo<lb ed="#A" n="4" break="no"/>giae, seu Prudentiae: religiose: novi, equidem  
+      <lb ed="#A" n="5"/>eos, secundum communem loquendi 
+      consue<lb ed="#A" n="6" break="no"/>tudinem, esse bonos Philosophos morales, &amp; 
+      bo<lb ed="#A" n="7" break="no"/>nos Theologos, qui rerum Theologicarum &amp; 
+      E<lb ed="#A" n="8" break="no"/>thicarum periti sunt, verum ut aiunt, 
+      loquen<lb ed="#A" n="9" break="no"/>dum est cum vulgo, sentiendum cum sapientibus,  
+      <lb ed="#A" n="10"/>qui docent, virtutes practitas, quales sunt 
+      Theo<lb ed="#A" n="11" break="no"/>logia, &amp; Philosophia moralis, non posse esse in 
+      <lb ed="#A" n="12"/>hominibus flagitiosis, &amp; impiis. 
+    </p>
+            <p xml:id="pqir89-e19962-d1e401">
+               <lb ed="#A" n="13"/>Ad illud autem quod obiicitur de 
+      Da<lb ed="#A" n="14" break="no"/>vide &amp; isolomones: sRespond. Eos, cum 
+      gravi<lb ed="#A" n="15" break="no"/>ter peccarent, neque fuisse bonos. Theologos, 
+      ne<lb ed="#A" n="16" break="no"/>que bonos Christianos, quia videlicet ea 
+      faci<lb ed="#A" n="17" break="no"/>nora patrabant, quae Theologia seu 
+      Christiani<lb ed="#A" n="18" break="no"/>tas damnat: fuisse tamen vere &amp; proprie 
+      <lb ed="#A" n="19"/>Theologos, &amp; Christianos, quia videlicet 
+      ve<lb ed="#A" n="20" break="no"/>ram fidem &amp; pietatem totaliter. non 
+      amise<lb ed="#A" n="21" break="no"/>rant. 
+    </p>
+            <p xml:id="pqir89-e19962-d1e423">
+               <lb ed="#A" n="22"/>Io Ob. secund. Si habitus Theologiae non 
+      <lb ed="#A" n="23"/>cadat in hominem impium &amp; non renatum, 
+      <lb ed="#A" n="24"/>sequetur Theologiae habitum perire, si 
+      quis<lb ed="#A" n="25" break="no"/>piam Theologus graviter peccet, redire vero 
+      <lb ed="#A" n="26"/>si poenitentiam agat: illa autem alternata 
+      <lb ed="#A" n="27"/>habituum abitio &amp; reditio, est absurdas quia 
+      <lb ed="#A" n="28"/>tollit eorum stabilitatem &amp; permanentiam, 
+      <lb ed="#A" n="29"/>per quam a dispositionibus distinguuntur. 
+      <!--303.xml-->
+      <pb ed="#A" n="284"/>
+               <lb ed="#A" n="1"/>Resp. negando connexionem propositionis:  
+      <lb ed="#A" n="2"/>quamvis enim habitus verae Theologiae non 
+      <lb ed="#A" n="3"/>possit esse in homine non renato, seu fide &amp; 
+      <lb ed="#A" n="4"/>pietate totaliter destituto, potest tamen esse, 
+      <lb ed="#A" n="5"/>imo saepe est, in fidelibus seu electis cum 
+      gra<lb ed="#A" n="6" break="no"/>viter peceant, licet tum non habeat tantam  
+      <lb ed="#A" n="7"/>efficaciam, seu ἐνξξωdων, quantam alias 
+      ha<lb ed="#A" n="8" break="no"/>bet: quare illa alternata habituum abitio &amp; 
+      <lb ed="#A" n="9"/>reditio non nititur nostrae sententiae 
+      sunda<lb ed="#A" n="10" break="no"/>mentis, sed absurdo Pontificiorum, 
+      Arminia<lb ed="#A" n="11" break="no"/>norum, &amp; ipsius Meisneri dogmate, de 
+      Apo<lb ed="#A" n="12" break="no"/>stasia, sanctorum: hoc enim posito, quod is 
+      <lb ed="#A" n="13"/>qui iam renatus est, possit statu gratiae &amp; 
+      re<lb ed="#A" n="14" break="no"/>generationis totaliter excidere, manifeste 
+      se<lb ed="#A" n="15" break="no"/>quetur, habitum verae Theologiae, imo etiam  
+      <lb ed="#A" n="16"/>habitus spei &amp; Charitatis esse obnoxios 
+      alter<lb ed="#A" n="17" break="no"/>natae illi abitioni &amp; reditioni, de qua loquitur 
+      <lb ed="#A" n="18"/>Meisnerus. 
+    </p>
+            <p xml:id="pqir89-e19962-d1e486">
+               <lb ed="#A" n="19"/>II Tertio, dicet aliquis, si notitia rerum 
+      <lb ed="#A" n="20"/>moralium, quae est in homine improbo, non est 
+      <lb ed="#A" n="21"/>Prudentia cixilis: item, si notitia rerum 
+      Theo<lb ed="#A" n="22" break="no"/>logicarum, quae est in homine non renato, non 
+      <lb ed="#A" n="23"/>est vera Theologia, ad quos habitus referendae 
+      <lb ed="#A" n="24"/>sunt illae notitiae: Respond. Peritiam 
+      impro<lb ed="#A" n="25" break="no"/>borum Theologorum esse habitum aggreoatum 
+      <lb ed="#A" n="26"/>ex fide mere historica, &amp; Philosophicis disc 
+      ipli<lb ed="#A" n="27" break="no"/>nis: Notitiam vero rerum mora lium, quae 
+      cerne<lb ed="#A" n="28" break="no"/>tur in hominibus, stagitiosis, non constituere 
+      no<lb ed="#A" n="29" break="no"/>vam spectem habitus a Prudentin distinctam,  
+      <!--304.xml-->
+      <pb ed="#A" n="285"/>
+               <lb ed="#A" n="1"/>sed ad Prudentiam referendam esse, tanquam  
+      <lb ed="#A" n="2"/>quid imperfectum &amp; incompletum, ad id quod 
+      <lb ed="#A" n="3"/>completum &amp; perfectum est. 
+    </p>
+            <p xml:id="pqir89-e19962-d1e523">
+               <lb ed="#A" n="4"/>tae Concludo igitur hanc Exercitationem, 
+      <lb ed="#A" n="5"/>de Fide, hac Assertione: Hisis, GεoλoMα, &amp; 
+      <lb ed="#A" n="6"/>SeoctGeto, hoc est, Fides Salvifica, Religio, 
+      <lb ed="#A" n="7"/>&amp;ο vera Theologia, sunt a parte rei unus &amp; idem  
+      <lb ed="#A" n="8"/>habitus, hoc est, non differunt nisi ratione: 
+      <lb ed="#A" n="9"/>terum enim coelestium notitia in renatis &amp; 
+      <lb ed="#A" n="10"/>fidelibus, quatenus nititur Dei testimonio, 
+      ap<lb ed="#A" n="11" break="no"/>pellatur Fides: eadem, quatenus est 
+      regulati<lb ed="#A" n="12" break="no"/>va &amp; directipa cultus dipini, vocatur Religio: 
+      <lb ed="#A" n="13"/>denique quatenus artificioso sustemate 
+      compre<lb ed="#A" n="14" break="no"/>heuditur &amp; exprimitur, appellatur Theologia, 
+    </p>
+            <p xml:id="pqir89-e19962-d1e549">
+               <lb ed="#A" n="15"/>FINIS. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

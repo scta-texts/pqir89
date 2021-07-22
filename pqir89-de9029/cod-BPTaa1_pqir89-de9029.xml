@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 14</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 14</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="126"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-de9029"><!-- p2a14 -->
+            <head xml:id="pqir89-de9029-Hd1e106">Articulus 14</head>
+            <head xml:id="pqir89-de9029-Hd1e109" type="question-title">
+        Confutatur quinta sententia, quae est 
+        Timothei Brighti Cantabrigiensis
+      </head>
+            <p xml:id="pqir89-de9029-d1e112">
+      <!--145.xml-->
+               <pb ed="#A" n="126"/>
+               <lb ed="#A" n="1"/>ART. XIV. 
+      <lb ed="#A" n="2"/>Confutatur quinta sententia, quae est 
+      <lb ed="#A" n="3"/>
+               <name xml:id="pqir89-de9029-Nd1e125">Timothei Brighti 
+      Cantabrigien<lb ed="#A" n="4" break="no"/>sis</name>.  
+    </p>
+            <p xml:id="pqir89-de9029-d1e131">
+               <lb ed="#A" n="5"/>SXtremam manum huic disputationi 
+      <lb ed="#A" n="6"/>Lςadmovebam, cum acutissimas &amp; 
+      poli<lb ed="#A" n="7" break="no"/>tissimas animad versiones <name xml:id="pqir89-de9029-Nd1e139">Timothei Brighis 
+      <lb ed="#A" n="8"/>Cantabrigiensis</name> in scribonii Physicam 
+      evol<lb ed="#A" n="9" break="no"/>vens, incidi in locum eum, quo asserit 
+      ani<lb ed="#A" n="10" break="no"/>mam patris procreare animam filii ex semine 
+      <lb ed="#A" n="11"/>quodam spirituali, &amp; incorporeo. Verba 
+      e<lb ed="#A" n="12" break="no"/>qus haec sunt: Quibus respondemus, nec totum, 
+      <lb ed="#A" n="13"/>nec partem animi parentum, traduci, neque 
+      ac<lb ed="#A" n="14" break="no"/>cidens aliquad animi rudimentum esse. Quid 
+      er<lb ed="#A" n="15" break="no"/>go: Sane subistantiam quandam ab anima 
+      na<lb ed="#A" n="16" break="no"/>tam, nec totam ipsam nec partem, tanquam 
+      atu<lb ed="#A" n="17" break="no"/>mae immortale semen, prolis animae futurae 
+      princi<lb ed="#A" n="18" break="no"/>pium: &amp; ut semen corporeum de parentum 
+      cor<lb ed="#A" n="19" break="no"/>poribus decisum, nec corpus ipsum, nec corporis 
+      a<lb ed="#A" n="20" break="no"/>liquod membrum existit, ita anima, per semen 
+      <lb ed="#A" n="21"/>animae saecundum, non per animam, aut animae 
+      <lb ed="#A" n="22"/>partem aliquam, traducitur in prolem : &amp; paulo 
+      <lb ed="#A" n="23"/>post, Ergo tenemus, animam non integram &amp; 
+      <lb ed="#A" n="24"/>absolutam, parentibus referendam acceptam, sed 
+      <lb ed="#A" n="25"/>seminale quid, ab anima, aeque atque a corpore 
+      <lb ed="#A" n="26"/>exclusum, &amp; tandem verbi illius virtute (se. 
+      fae<lb ed="#A" n="27" break="no"/>cunditatis benedictione) in animam 
+      rationa<lb ed="#A" n="28" break="no"/>lem, &amp; immortalem, proditurum. 
+      <!--146.xml-->
+      <pb ed="#A" n="127"/>
+               <lb ed="#A" n="1"/>2 Hanc sententiam clarissimi &amp; 
+      doctissi<lb ed="#A" n="2" break="no"/>mi sam othoi probare non potui, quia semen 
+      <lb ed="#A" n="3"/>illud animae vel est quidcorporeum, vel est 
+      <lb ed="#A" n="4"/>spiritualis substantia: si est quid corporeum, 
+      <lb ed="#A" n="5"/>ex eo spiritualis substantia fieri non potest, vt 
+      <lb ed="#A" n="6"/>ipse Prigbtus fateri videtur, cum opponit 
+      se<lb ed="#A" n="7" break="no"/>men animae corporeo semini: si est 
+      spiritua<lb ed="#A" n="8" break="no"/>lis substantia, vel est anima partialis, &amp; 
+      in<lb ed="#A" n="9" break="no"/>completa: vel est substantia quaedam specie 
+      <lb ed="#A" n="10"/>&amp; essentialiter distincta ab anima: non est 
+      a<lb ed="#A" n="11" break="no"/>nima imperfecta, ut ipse Priglitus fatetur, cum  
+      <lb ed="#A" n="12"/>dicit animam traduci a parente in prolem, 
+      <lb ed="#A" n="13"/>neque per animam, neque per partem animae, 
+      <lb ed="#A" n="14"/>sed per semen quoddam ab anima exclusum: 
+      <lb ed="#A" n="15"/>at neque est substantia spiritualis specie &amp; 
+      es<lb ed="#A" n="16" break="no"/>sentialiter distincta ab anima: ut patebit ex 
+      <lb ed="#A" n="17"/>sequentibus rationibus. 
+    </p>
+            <p xml:id="pqir89-de9029-d1e230">
+               <lb ed="#A" n="18"/>S Primo, si datur talis spiritualis 
+      substan<lb ed="#A" n="19" break="no"/>tia ab anima distincta, dabitur aliquis spiritus 
+      <lb ed="#A" n="20"/>creatus, qui neque est Angelus, neque 
+      ani<lb ed="#A" n="21" break="no"/>ma humana: at posterius repugnat 
+      doctri<lb ed="#A" n="22" break="no"/>nae omnium Philosophorum: Ergo &amp; prius. 
+      <lb ed="#A" n="23"/>Secundo, si illud semen spirituale vere ac 
+      <lb ed="#A" n="24"/>realiter ab anima excluditur &amp; emittitur, 
+      ve<lb ed="#A" n="25" break="no"/>re &amp; realiter praeexistebat in anima: realis 
+      <lb ed="#A" n="26"/>enim emissio praesupponit reale inesse: at 
+      spi<lb ed="#A" n="27" break="no"/>ritus ille non potest realiter inesse animae 
+      pa<lb ed="#A" n="28" break="no"/>tris: Ergo neque realiter excludi, &amp; emitti 
+      <lb ed="#A" n="29"/>ab ea. Probatur assumptio: spiritus ille non 
+      <lb ed="#A" n="30"/>potest inesse animae patris ut pars in toto, fa¬ 
+      <!--147.xml-->
+      <pb ed="#A" n="128"/>
+               <lb ed="#A" n="1"/>tente ipso Timotheo, neque ut accidens in 
+      <lb ed="#A" n="2"/>subiecto, idque quia est substantia, 
+      substan<lb ed="#A" n="3" break="no"/>tiae autem repugnat inesse subiecto, neque 
+      <lb ed="#A" n="4"/>ut res in loco ambiente, aut in vase 
+      conti<lb ed="#A" n="5" break="no"/>nente: talis enim modus continentiae &amp; 
+      cir<lb ed="#A" n="6" break="no"/>cumscriptionis naturae spirituali animae 
+      re<lb ed="#A" n="7" break="no"/>pugnat. 
+    </p>
+            <p xml:id="pqir89-de9029-d1e281">
+               <lb ed="#A" n="8"/>A Tertio, semen illud spirituale vel fit ex 
+      <lb ed="#A" n="9"/>tota anima patris, vel ex parte animae 
+      pa<lb ed="#A" n="10" break="no"/>tris, vel ex nihilo: non enim potest fieri ex 
+      <lb ed="#A" n="11"/>materia corporea, tum quia est spiritualis 
+      <lb ed="#A" n="12"/>substantia, tum quia ipse Brigbtus testatur illud 
+      <lb ed="#A" n="13"/>non ex corpore, sed ex anima natum esse: non 
+      <lb ed="#A" n="14"/>fit ex tota anima patris, quia sic tota anima 
+      <lb ed="#A" n="15"/>patris exanesceret, &amp; in spirituale illud semen 
+      <lb ed="#A" n="16"/>converteretur: neque ex parte animae 
+      pater<lb ed="#A" n="17" break="no"/>nae, quia sic anima patris esset divisibilis in 
+      <lb ed="#A" n="18"/>partes, &amp; pars eius posset amitti &amp; in aliam  
+      <lb ed="#A" n="19"/>substantiam transinutari: haec autem 
+      repu<lb ed="#A" n="20" break="no"/>gnant naturae spiritualis substantiae: denique 
+      <lb ed="#A" n="21"/>anima patris non producit illud semen ex 
+      ni<lb ed="#A" n="22" break="no"/>hilo, quia sic diceretur cieare illud semen. 
+      <lb ed="#A" n="23"/>quod est absurdum: 
+    </p>
+            <p xml:id="pqir89-de9029-d1e318">
+               <lb ed="#A" n="24"/>s Quarto, semen illud animae vel est 
+      in<lb ed="#A" n="25" break="no"/>corruptibile, &amp; manet post generationem 
+      <lb ed="#A" n="26"/>hominis, vel est corruptibile, &amp; perit eo 
+      in<lb ed="#A" n="27" break="no"/>stanti quo anima producitur. Si posterius 
+      di<lb ed="#A" n="28" break="no"/>xeris, sequetur, semen illud non esse 
+      spiri<lb ed="#A" n="29" break="no"/>tualem substantiam, quia spiritualis 
+      substan<lb ed="#A" n="30" break="no"/>tia incorruptibilis est, &amp; nulla virtute creata 
+      <!--148.xml-->
+      <pb ed="#A" n="129"/>
+               <lb ed="#A" n="1"/>aboleri potest. Si prius admiseris, sequetur,  
+      <lb ed="#A" n="2"/>in homine genito duos esse spititus seu 
+      spiri<lb ed="#A" n="3" break="no"/>tuales substantias, videlicet animam filii, &amp; 
+      <lb ed="#A" n="4"/>semen ex quo illa anima orta est: accedit, 
+      <lb ed="#A" n="5"/>quod naturae seminis repugnet post rei 
+      gene<lb ed="#A" n="6" break="no"/>rationem manere, debet enim substantiali 
+      <lb ed="#A" n="7"/>mutatione transinutari in rem ex semine 
+      or<lb ed="#A" n="8" break="no"/>tam, ad talem autem transmutationem 
+      re<lb ed="#A" n="9" break="no"/>quiritur, ut res genita &amp; corrupta in materia 
+      <lb ed="#A" n="10"/>con veniant, quod de semine &amp; anima dici 
+      ne<lb ed="#A" n="11" break="no"/>quit. 
+    </p>
+            <p xml:id="pqir89-de9029-d1e364">
+               <lb ed="#A" n="12"/>o Quinto, conversio illa seminis 
+      spiritua<lb ed="#A" n="13" break="no"/>lis in amimam, vel est conversio accidentalis,  
+      <lb ed="#A" n="14"/>qualis est conversio seu mutatio qua homo 
+      <lb ed="#A" n="15"/>malus convertitur &amp; mutatur in bonum, &amp; 
+      <lb ed="#A" n="16"/>lapis albus in lapidem nigrum: vel est 
+      con<lb ed="#A" n="17" break="no"/>Versio substantialis, qualis fuit conversio 
+      u<lb ed="#A" n="18" break="no"/>xoris Loib in statuam salis, aut conversio 
+      li<lb ed="#A" n="19" break="no"/>gni in substantiam illius ignis cui 
+      approxi<lb ed="#A" n="20" break="no"/>matur: non est conversio accidentalis, quia 
+      <lb ed="#A" n="21"/>inde sequetur, semen illud spirituale non 
+      dif<lb ed="#A" n="22" break="no"/>ferre specie &amp; essentialiter, sed gradu 
+      perfe<lb ed="#A" n="23" break="no"/>ctionis accidentalis, ab anima, hoc est, esse 
+      <lb ed="#A" n="24"/>animam rationalem accidentali aliqua 
+      ratio<lb ed="#A" n="25" break="no"/>ne incompletam &amp; imperfectam : hoc autem  
+      <lb ed="#A" n="26"/>contradicit verbis ipsiur Timoibei, dicentis,  
+      <lb ed="#A" n="27"/>semen illud non esse actu animam, sed animae 
+      <lb ed="#A" n="28"/>futurae principium, &amp; aliquando in animam.  
+      <lb ed="#A" n="29"/>proditurum. Idem etiam confutatur omnibus 
+      <lb ed="#A" n="30"/>us rationibus, quibus probavimus contra. 
+      <!--149.xml-->
+      <pb ed="#A" n="130"/>
+               <lb ed="#A" n="1"/>eisnerum animam patris per se &amp; 
+      immedia<lb ed="#A" n="2" break="no"/>te non producere animam filijs item semen 
+      <lb ed="#A" n="3"/>eum emittitur non est actu animatum anima 
+      <lb ed="#A" n="4"/>rationali¬ 
+    </p>
+            <p xml:id="pqir89-de9029-d1e421">
+               <lb ed="#A" n="5"/>V Si est conversio substantialis, vel fit per 
+      <lb ed="#A" n="6"/>totalem annihilationem rei conversae, 
+      quo<lb ed="#A" n="7" break="no"/>modo converti volunt Pontificii panem 
+      Eu<lb ed="#A" n="8" break="no"/>charisticum in corpus &amp; sanguinem Christi, 
+      <lb ed="#A" n="9"/>ut docet Conc. Tiident, sessione I2. cap. S. 
+      <lb ed="#A" n="10"/>can. 2. Vel fit per abolitionem unius partis 
+      <lb ed="#A" n="11"/>essentialis illam rem constituentis, quomodo 
+      <lb ed="#A" n="12"/>lignum igni approximatum in ignem 
+      con<lb ed="#A" n="13" break="no"/>vertitur, nam non totaliter aboletur, sed 
+      tan<lb ed="#A" n="14" break="no"/>tum eius forma destruitur, remanente 
+      mate<lb ed="#A" n="15" break="no"/>ria sub forma ignis. Sed neutrum dici potest: 
+      <lb ed="#A" n="16"/>nam primo conversio seminis in animam.  
+      <lb ed="#A" n="17"/>non est totalis annihilatio seminis, quia 
+      anni<lb ed="#A" n="18" break="no"/>hilatio substantiae, praesertim spiritualis, a 
+      so<lb ed="#A" n="19" break="no"/>lo Deo fieri potest, ut docet <ref xml:id="pqir89-de9029-Rd1e455">D. Thomas, parte 
+      <lb ed="#A" n="20"/>I. quaest. IO4. art. 4.</ref> quia item annihilato 
+      se<lb ed="#A" n="21" break="no"/>mine oportet animam ex nihilo produci, 
+      <lb ed="#A" n="22"/>Quare cum non pater, sed Deus valeat semen 
+      <lb ed="#A" n="23"/>illud annihilare, &amp; eo annihilato animam 
+      co<lb ed="#A" n="24" break="no"/>dem instanti ex nihilo producere, non patri 
+      <lb ed="#A" n="25"/>sed Deo soli productio animae ascribenda est,  
+      <lb ed="#A" n="26"/>quod ingens absurdum est, si vera sit ipsorum 
+      <lb ed="#A" n="27"/>doctrina. 
+    </p>
+            <p xml:id="pqir89-de9029-d1e476">
+               <lb ed="#A" n="28"/>S Secundo, conversio seminis in animam  
+      <lb ed="#A" n="29"/>non potest fieri per abolitionem unius partis 
+      <lb ed="#A" n="30"/>essentiae, altera remanente. Primo, quia inde 
+      <!--150.xml-->
+      <pb ed="#A" n="131"/>
+               <lb ed="#A" n="1"/>sequetur spiritualem substantiam seminis 
+      il<lb ed="#A" n="2" break="no"/>lius esse corruptibilem, &amp; capaeem 
+      transinu<lb ed="#A" n="3" break="no"/>tationis substantialis, non minus quam 
+      cor<lb ed="#A" n="4" break="no"/>pora Physica: illa enim aboleri &amp; destrui 
+      pos<lb ed="#A" n="5" break="no"/>sunt naturaliter, quoad unam solam essentiae 
+      <lb ed="#A" n="6"/>partem, formam videlicet. Secundo, 
+      seque<lb ed="#A" n="7" break="no"/>tur substantiam illam spiritualem esse revera 
+      <lb ed="#A" n="8"/>divisibilem in materiam &amp; formam. 
+      Physi<lb ed="#A" n="9" break="no"/>cam, aut in partes integrantes: nam de his 
+      <lb ed="#A" n="10"/>solis partibus verum est, quod earum una 
+      de<lb ed="#A" n="11" break="no"/>structa altera remanere possit superstes, 
+      quo<lb ed="#A" n="12" break="no"/>ad actualem existentiam: siquidem partium  
+      <lb ed="#A" n="13"/>Metaphysicarum, h. e. generis &amp; differentiae 
+      <lb ed="#A" n="14"/>alia ratio est, nam nemo dixerit destructa 
+      a<lb ed="#A" n="15" break="no"/>nimalitate socratis posse remanere eius 
+      hu<lb ed="#A" n="16" break="no"/>manitatem quoad actualem existentiam, aut 
+      <lb ed="#A" n="17"/>contra destructa eius humanitate remanere 
+      <lb ed="#A" n="18"/>eius animalitatem. Tertio, ubi datur 
+      trans<lb ed="#A" n="19" break="no"/>mutatio a contrario ad contrarium, ibi 
+      neces<lb ed="#A" n="20" break="no"/>se est dari unam communem materiam quae 
+      <lb ed="#A" n="21"/>sit subiectum. transmutationis: at hic datur 
+      <lb ed="#A" n="22"/>transmutatio a non anima ad animam, eaque 
+      <lb ed="#A" n="23"/>substantialis: Ergo datur hic materia 
+      con<lb ed="#A" n="24" break="no"/>stitutiva &amp; seminis &amp; animae: &amp; 
+      confirma<lb ed="#A" n="25" break="no"/>tur, quia illa pars superstes, ingrediens 
+      consti<lb ed="#A" n="26" break="no"/>tutionem animae, necessario est materia, non 
+      <lb ed="#A" n="27"/>enim potest habere rationem formae Physicae, 
+      <lb ed="#A" n="28"/>neque generis aut differentiae, ut cuivis 
+      ma<lb ed="#A" n="29" break="no"/>nifestum est.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

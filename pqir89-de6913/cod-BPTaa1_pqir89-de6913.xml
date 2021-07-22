@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 8</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 8</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="98"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-de6913"><!-- p2a8 -->
+            <head xml:id="pqir89-de6913-Hd1e106">Articulus 8</head>
+            <head xml:id="pqir89-de6913-Hd1e109" type="question-title">
+        Proponuntur et solvuntur aliquot 
+        quaestiones, de propagatione peccati 
+        originalis.  
+      </head>
+            <p xml:id="pqir89-de6913-d1e112">
+      <!--117.xml-->
+               <pb ed="#A" n="98"/>
+               <lb ed="#A" n="1"/>ART. VIII 
+      <lb ed="#A" n="2"/>proponuntur &amp; solvuntur aliquot 
+        quae<lb ed="#A" n="3" break="no"/>stiones, de propagatione peccati 
+      origi<lb ed="#A" n="4" break="no"/>nalis.  
+    </p>
+            <p xml:id="pqir89-de6913-d1e128">
+               <lb ed="#A" n="5"/>PRima quaestio est, quomodo possit 
+      pec<lb ed="#A" n="6" break="no"/>l catum originale traduci &amp; propagari, 
+      <lb ed="#A" n="7"/>cum anima, quae illius subiectum est, non 
+      <lb ed="#A" n="8"/>traducatur, non potest enim accidens 
+      tradu<lb ed="#A" n="9" break="no"/>ci sine subiecto. Respondet <name xml:id="pqir89-de6913-Nd1e141">Doctor Esthius</name>,  
+      <lb ed="#A" n="10"/>accidentia frequenter traduci, id est, 
+      effe<lb ed="#A" n="11" break="no"/>ctione quandam, vel infectione transire in 
+      al<lb ed="#A" n="12" break="no"/>terum, non transeunte subiecto, nam 
+      haere<lb ed="#A" n="13" break="no"/>ses, errores, vitia ab uno in multos 
+      propa<lb ed="#A" n="14" break="no"/>gantur, non transeunte eorum subiecto, hoc 
+      <lb ed="#A" n="15"/>est, anima. Quae quidem responsio vera &amp; 
+      so<lb ed="#A" n="16" break="no"/>lida est, si intelligatur de ea propagatione quam 
+      <lb ed="#A" n="17"/>acccidens non idem numero, sed idem specie, 
+      <lb ed="#A" n="18"/>transit &amp; traducitur ab uno in aliud. Cum enim 
+      <lb ed="#A" n="19"/>traducitur idem numero accidens, necesse est 
+      <lb ed="#A" n="20"/>etiam eius subiectum traduci, &amp; transire: Sic, ut 
+      <lb ed="#A" n="21"/>putant nonnulli Philosophi, odore pomi 
+      tran<lb ed="#A" n="22" break="no"/>seunte in manum hominis contrectantis, 
+      tran<lb ed="#A" n="23" break="no"/>seunt etiam subtiliores partes pomi, in 
+      qui<lb ed="#A" n="24" break="no"/>bus odor proxime existit. Cum igitur 
+      pro<lb ed="#A" n="25" break="no"/>pagatio peccati, non sit traductio accidentis 
+      <lb ed="#A" n="26"/>unius numero, de subiecto in subiectum, sed 
+      <lb ed="#A" n="27"/>productio accidentis specie eiusdem, non ne¬ 
+      <!--118.xml-->
+      <pb ed="#A" n="99"/>
+               <lb ed="#A" n="1"/>cesse est, eius subiectum, animam videlicet, 
+      <lb ed="#A" n="2"/>traduci. Alias responsiones ad hoc 
+      argumen<lb ed="#A" n="3" break="no"/>tum, vide apud Pareum, lib. 4. de amissi gratiae, 
+      <lb ed="#A" n="4"/>cap. I2 
+    </p>
+            <p xml:id="pqir89-de6913-d1e197">
+               <lb ed="#A" n="5"/>a2 Secunda quaestio est, quomodo anima, 
+      <lb ed="#A" n="6"/>quae a Deo producitur, &amp; proinde ab 
+      Adu<lb ed="#A" n="7" break="no"/>mo non trahitur, nec ullo modo in lumbis 
+      <lb ed="#A" n="8"/>Adae fuit, quomodo (inquam) ea potest dici 
+      <lb ed="#A" n="9"/>in Adamo pecasse, aut rea esse peccati ab 
+      <lb ed="#A" n="10"/>Adamo admissi. Respondet &amp;anchius, &amp; cum  
+      <lb ed="#A" n="11"/>eo reliqui Orthodoxi Theologi, animam 
+      duo<lb ed="#A" n="12" break="no"/>bus modis posse considerari, videlicet vel in 
+      <lb ed="#A" n="13"/>se, &amp; respectu sui, vel quatenus est pars 
+      con<lb ed="#A" n="14" break="no"/>stitutiva illius hominis, qui est filius Adae: 
+      <lb ed="#A" n="15"/>priori modo considerata anima, non potest 
+      <lb ed="#A" n="16"/>dici fuisse in lumbis Adae, &amp; per consequens 
+      <lb ed="#A" n="17"/>non potest dici peccasse in lumbis Adae: 
+      po<lb ed="#A" n="18" break="no"/>steriori vero modo considerata, bene dici 
+      po<lb ed="#A" n="19" break="no"/>test abAdamo trahi, in lumbis eius fuisse, &amp;  
+      <lb ed="#A" n="20"/>peceasse: totus enim homo fuit in lumbis 
+      <lb ed="#A" n="21"/>Adae, idque quia ab Adamo descendit per 
+      <lb ed="#A" n="22"/>naturalem generationem, &amp; proinde totus 
+      <lb ed="#A" n="23"/>homo est reus peccati abAdamo admissis 
+      to<lb ed="#A" n="24" break="no"/>tus autem homo ad poenam obligari nequit, 
+      <lb ed="#A" n="25"/>msi &amp; anima &amp; corpus eius ad poenam 
+      obli<lb ed="#A" n="26" break="no"/>gentur. 
+    </p>
+            <p xml:id="pqir89-de6913-d1e248">
+               <lb ed="#A" n="27"/>S Obiicit hic Balthasar Meisuerus, acutus 
+      <lb ed="#A" n="28"/>quidem Philosophus, sed superbus, &amp; 
+      mag<lb ed="#A" n="29" break="no"/>norum virorum insignis contemptor: totum 
+      <lb ed="#A" n="30"/>hominem non posse dici ab Adamo trahi, ni¬ 
+      <!--119.xml-->
+      <pb ed="#A" n="100"/>
+               <lb ed="#A" n="1"/>si &amp; corpus &amp; anima ipsius ab Adamo 
+      tra<lb ed="#A" n="2" break="no"/>hantur, idque quia totus homo est ὑπιςτόμενoον 
+      <lb ed="#A" n="3"/>constans ex anima &amp; corpore. Egregium  
+      <lb ed="#A" n="4"/>profecto, &amp; tanto viro dignum 
+      argumen<lb ed="#A" n="5" break="no"/>tum: An non totus Christus Mariae filius esse, 
+      <lb ed="#A" n="6"/>&amp; exea totus genitus natusque esse dicitur. 
+      <lb ed="#A" n="7"/>licet ex eius substantia Deitatem non 
+      acce<lb ed="#A" n="8" break="no"/>perit: omnino: unde &amp; contra Nestorium 
+      de<lb ed="#A" n="9" break="no"/>finitum fuit Synodo Ephesina, ut Maria Sεoτo. 
+      <lb ed="#A" n="10"/>x&amp; appellaretur. 
+    </p>
+            <p xml:id="pqir89-de6913-d1e285">
+               <lb ed="#A" n="11"/>A Tertia quaestio est, utrum animae a Deo 
+      <lb ed="#A" n="12"/>creentur purae an impurae: quam quaestionem 
+      <lb ed="#A" n="13"/>licet alii censeant esse multis difficultatibus 
+      <lb ed="#A" n="14"/>involutam, ego tamen puto eam facile 
+      dis<lb ed="#A" n="15" break="no"/>solui &amp; explicari posse. Respondeo igitur,  
+      <lb ed="#A" n="16"/>duplicem esse sensum illius quaestionis. prior 
+      <lb ed="#A" n="17"/>est, utrum animae eo instanti quo creantur, 
+      <lb ed="#A" n="18"/>sint purae an impurae: posterior est, utrum 
+      a<lb ed="#A" n="19" break="no"/>nimae a Deo creante accipiant puritatem seu 
+      <lb ed="#A" n="20"/>iustitiam, an vero impuritatem &amp; 
+      corruptio<lb ed="#A" n="21" break="no"/>nem: Si priori modo concipiatur quaestio, 
+      Re<lb ed="#A" n="22" break="no"/>spondeo animas eo ipso instanti, quo 
+      crean<lb ed="#A" n="23" break="no"/>tur, esse impuras: simul enim creantur &amp; 
+      uni<lb ed="#A" n="24" break="no"/>untur substantialiter cum corporibus 
+      conta<lb ed="#A" n="25" break="no"/>giosis, ex quibus labem contrahunt. Si 
+      poste<lb ed="#A" n="26" break="no"/>riore modo concipiatur quaestio, Respondeo 
+      <lb ed="#A" n="27"/>animas nostras a Deo creante neque 
+      accipe<lb ed="#A" n="28" break="no"/>re puritatem seu iustitiam &amp; sanctitatem, 
+      ne<lb ed="#A" n="29" break="no"/>que impuritatem&amp; propensionem ad malum, 
+      <lb ed="#A" n="30"/>sed tantum essentiam spiritualem, &amp; proprie¬ 
+      <!--120.xml-->
+      <pb ed="#A" n="101"/>
+               <lb ed="#A" n="1"/>tates ab essentia dimanantes. Dico Deum non 
+      <lb ed="#A" n="2"/>inspirare animae venenum lethale 
+      concupis<lb ed="#A" n="3" break="no"/>centiae, quia mali author esse non vult: 
+      di<lb ed="#A" n="4" break="no"/>co etiam eum non infundere animae 
+      sanctita<lb ed="#A" n="5" break="no"/>tem &amp; iustitiam, quia anima creatur ut sit 
+      <lb ed="#A" n="6"/>pars constitutiva filii &amp; successoris Adami,  
+      <lb ed="#A" n="7"/>cui Deus spiritualia dona conferre non 
+      tene<lb ed="#A" n="8" break="no"/>tur. Vide <ref xml:id="pqir89-de6913-Rd1e352">clarissimi lunii Comment. in cap. 2. 
+      <lb ed="#A" n="9"/>Oenes</ref>. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

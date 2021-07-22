@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 8</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 8</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="34"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-de2421"><!-- p1a8 -->
+            <head xml:id="pqir89-de2421-Hd1e106">Articulus 8</head>
+            <head xml:id="pqir89-de2421-Hd1e109" type="question-title">
+      An hoc posito, quod omnis perfectio, sit de 
+      essentia Dei, sequatur subsistentiam  
+      personalem esse de eius essentia: et an 
+      Deus, quatenus est communicabilis 
+      tribus personis Trinitatis, sit persona.
+    </head>
+            <p xml:id="pqir89-de2421-d1e112">
+      <!--51.xml-->
+               <pb ed="#A" n="34"/>
+               <lb ed="#A" n="1"/>ART. VIII 
+      <lb ed="#A" n="2"/>An hoc posito, quod omnis perfectio, sit de 
+      <lb ed="#A" n="3"/>essentia Dei, sequatur subsistentiam  
+      <lb ed="#A" n="4"/>personalem esse de eius essentia: &amp; an 
+      <lb ed="#A" n="5"/>Deus, quatenus est communicabilis 
+      <lb ed="#A" n="6"/>tribus personis Trinitatis, sit persona, 
+      <lb ed="#A" n="7"/>ut statuit <name xml:id="pqir89-de2421-Nd1e133">Caietanus</name>. 
+    </p>
+            <p xml:id="pqir89-de2421-d1e137">
+               <lb ed="#A" n="8"/>S praecedente doctrina, non levis 
+      ori<lb ed="#A" n="9" break="no"/>Lvtur difficultas de subsistentia seu 
+      per<lb ed="#A" n="10" break="no"/>sonalitate: cum enim statutum sit, omnem 
+      <lb ed="#A" n="11"/>perfectionem esse de essentia Dei, necessario 
+      <lb ed="#A" n="12"/>sequi videtur subsistentiam, seu 
+      personalita<lb ed="#A" n="13" break="no"/>tem in eius essentia includis ideoque Deum, 
+      <lb ed="#A" n="14"/>quatenus est communis tribus personis Trm 
+      <lb ed="#A" n="15"/>nitatis, esse suppositum, aut personam : ratio 
+      <lb ed="#A" n="16"/>connexionis est, quia subsistentia est 
+      perfe<lb ed="#A" n="17" break="no"/>ctio quaedam substantialis, eaque non exiguas 
+      <lb ed="#A" n="18"/>suppositum enim omne perfectiorem habet 
+      <lb ed="#A" n="19"/>modum existendi, quam natura quae in 
+      sup<lb ed="#A" n="20" break="no"/>posito existit. Hic igitur duo discutienda 
+      <lb ed="#A" n="21"/>sunt: primo, an subsistentia personalis sit de 
+      <lb ed="#A" n="22"/>essentia Dei: secundos an Deus quam Deus, sit 
+      <lb ed="#A" n="23"/>persona quaedam toti Trinitati communis. 
+    </p>
+            <p xml:id="pqir89-de2421-d1e174">
+               <lb ed="#A" n="24"/>2. Vt prior difficultas tollatur, 
+      praemis<lb ed="#A" n="25" break="no"/>sis duabus observationibus, meam, 
+      senten<lb ed="#A" n="26" break="no"/>tiam aliquot assertionibus proponam. Primo 
+      <!--52.xml-->
+      <pb ed="#A" n="35"/>
+               <lb ed="#A" n="1"/>tenendum est subsistentiam tribus modis 
+      ac<lb ed="#A" n="2" break="no"/>cipi a Philosophis, ut supra dictum est. I 
+      e<lb ed="#A" n="3" break="no"/>nim ea subsistere dicuntur, quae non existunt 
+      <lb ed="#A" n="4"/>in subiecto inhaesionis: 2. ea quae non ita 
+      <lb ed="#A" n="5"/>insunt, ut ab iis in quibus insunt, quoad 
+      exi<lb ed="#A" n="6" break="no"/>stendi actum pendeant: 2. ea quae nullo 
+      mo<lb ed="#A" n="7" break="no"/>do alteri supposito insunt, aut inesse possunt. 
+      <lb ed="#A" n="8"/>Secundo tenendum est, tribus his 
+      significa<lb ed="#A" n="9" break="no"/>tionibus huius vocis, addi posse quartam,  
+      <lb ed="#A" n="10"/>quae licent minus frequens sit, non minus 
+      ta<lb ed="#A" n="11" break="no"/>men propria est. Illud enim Ens dici potest 
+      <lb ed="#A" n="12"/>subsistere, quod ita existit ut a nulla causa 
+      <lb ed="#A" n="13"/>procreante, aut conseruante, in suo esse 
+      pen<lb ed="#A" n="14" break="no"/>deat: hic modus existendi, Dei proprius est,  
+      <lb ed="#A" n="15"/>nec ulli enti creato communicari potest, 
+      id<lb ed="#A" n="16" break="no"/>eoque procul dubio perfectissimus modus 
+      <lb ed="#A" n="17"/>existendi est. 
+    </p>
+            <p xml:id="pqir89-de2421-d1e225">
+               <lb ed="#A" n="18"/>2. His positis, haec sit Assert. I. δ
+      ulsi<lb ed="#A" n="19" break="no"/>stentia primo &amp; secundo modo accepta, est Deo 
+      <lb ed="#A" n="20"/>essentialis, totique Trinitati communis: sicut 
+      e<lb ed="#A" n="21" break="no"/>nim essentialiter Deo competit actu existere,  
+      <lb ed="#A" n="22"/>ita etiam est de essentia Dei sic existere, ut 
+      <lb ed="#A" n="23"/>neque in aliquo subiecto existat, neque ab 
+      <lb ed="#A" n="24"/>ali quo supposito in quo est, quoad actum 
+      e<lb ed="#A" n="25" break="no"/>xistendi pendeat. 
+    </p>
+            <p xml:id="pqir89-de2421-d1e245">
+               <lb ed="#A" n="26"/>4E. Secunda Assert: δubsistentia tertio 
+      mo<lb ed="#A" n="27" break="no"/>do accepta, etsi quatenus est in Deo, re non 
+      dif<lb ed="#A" n="28" break="no"/>ferat ab eius essentia, non tamen vere dici potest 
+      <lb ed="#A" n="29"/>esse de essentia Dei: quicquid enim est de 
+      es<lb ed="#A" n="30" break="no"/>sentia Dei, illud Deo, quam Deus est, com¬ 
+      <!--53.xml-->
+      <pb ed="#A" n="36"/>
+               <lb ed="#A" n="1"/>petit. Si igitur personalitas est de essentia Dei, 
+      <lb ed="#A" n="2"/>Deus, quatenus est Deus, est persona, &amp; per 
+      <lb ed="#A" n="3"/>consequens, omnes tres personae, quatenus 
+      <lb ed="#A" n="4"/>sunt unus verus DEVS, vere dici possunt 
+      <lb ed="#A" n="5"/>una persona: quod sane absurdum est, &amp; 
+      no<lb ed="#A" n="6" break="no"/>strae fidei principiis contrarium. 
+    </p>
+            <p xml:id="pqir89-de2421-d1e276">
+               <lb ed="#A" n="7"/>S Assert. 2. Subsistentia quarto modo 
+      ac<lb ed="#A" n="8" break="no"/>cepta, est de essentia DEI, seu est essentiale esus 
+      <lb ed="#A" n="9"/>uattributum: nam esse primum Ens, a se &amp; 
+      <lb ed="#A" n="10"/>aliunde suum esse habens, est ipsissima natura 
+      <lb ed="#A" n="11"/>seu essentia DEI 
+    </p>
+            <p xml:id="pqir89-de2421-d1e289">
+               <lb ed="#A" n="12"/>&amp; Assett: 4. Pocabulum hoc (perfectio) 
+      <lb ed="#A" n="13"/>distinguendum est. Aliae enim sunt 
+      perfectio<lb ed="#A" n="14" break="no"/>nes, quarum negatio imperfectionem importat, 
+      <lb ed="#A" n="15"/>ut esse seu existere, vivere, esse Spiritum, esse 
+      <lb ed="#A" n="16"/>bonum, esse iustum: horum enim opposita, 
+      <lb ed="#A" n="17"/>nimirum non existere, non vivere, &amp;c. 
+      mani<lb ed="#A" n="18" break="no"/>festae imperfectiones sunt. Aliae sunt 
+      perfe<lb ed="#A" n="19" break="no"/>ctiones, quarum negatio nullam 
+      imperfectio<lb ed="#A" n="20" break="no"/>nem importat: sic sapientissima DEI decreta 
+      <lb ed="#A" n="21"/>de creatione &amp; gubernatione rerum, 
+      perfe<lb ed="#A" n="22" break="no"/>ctiones sunt, sed eorum negatio nullam 
+      im<lb ed="#A" n="23" break="no"/>perfectionem importat: quamvis enim 
+      <lb ed="#A" n="24"/>DEVS nulla talia decreta habuisset, imo 
+      <lb ed="#A" n="25"/>quamvis contraria his decreta habuisset, 
+      im<lb ed="#A" n="26" break="no"/>perfectior non fuisset: sic ambulare, currere, 
+      <lb ed="#A" n="27"/>sedere, loqui, sunt per fectiones hominis, sunt 
+      <lb ed="#A" n="28"/>enim actus, omnisque actus est perfectio:  
+      <lb ed="#A" n="29"/>at negatio horum actuum nullam, 
+      imperfe<lb ed="#A" n="30" break="no"/>ctionem involvit, quamvis negatio poten¬ 
+      <!--54.xml-->
+      <pb ed="#A" n="37"/>
+               <lb ed="#A" n="1"/>tiarum ex quibus oriuntur, imperfectionis 
+      <lb ed="#A" n="2"/>notam rei, cui tribuitur, inurat: dico 
+      nega<lb ed="#A" n="3" break="no"/>tionem horum actuum nullam 
+      imperfectio<lb ed="#A" n="4" break="no"/>nem involpere, quia homo non est 
+      imperfe<lb ed="#A" n="5" break="no"/>ctior, cum non ambulat, quam cum 
+      ambu<lb ed="#A" n="6" break="no"/>lat, aut cum non loquitur, quam cum 
+      lo<lb ed="#A" n="7" break="no"/>quitur. 
+    </p>
+            <p xml:id="pqir89-de2421-d1e352">
+               <lb ed="#A" n="8"/>&amp; Prioris generis perfectiones omnes 
+      <lb ed="#A" n="9"/>sunt de essentia Del, illique, quam DE vS est,  
+      <lb ed="#A" n="10"/>necessario conveniunt: at de perfectionibus 
+      <lb ed="#A" n="11"/>secundi ordinis, aliter sentiendum est, non 
+      e<lb ed="#A" n="12" break="no"/>nim sunt de essentia DEI, nec illi necessario 
+      <lb ed="#A" n="13"/>conreniunt, quam DEVS est: V.g. decreta DEI 
+      <lb ed="#A" n="14"/>de hominum aeterna salute, &amp; morte, etsi re 
+      <lb ed="#A" n="15"/>non differant ab eius essentiam, non tamen 
+      ve<lb ed="#A" n="16" break="no"/>re dicuntur esse de essentia DEI: si enim hoc 
+      <lb ed="#A" n="17"/>esset verum, ex necessitate naturae DEO 
+      in<lb ed="#A" n="18" break="no"/>essent, &amp; sic libertas decretorum divinorum 
+      <lb ed="#A" n="19"/>tolleretur. Ad posterius genus perfectionum, 
+      <lb ed="#A" n="20"/>subsistentiam personalem referimus, etsi 
+      e<lb ed="#A" n="21" break="no"/>nim eius negatio, cum essentiae finitae 
+      creatu<lb ed="#A" n="22" break="no"/>rarum tribuitur, imperfectionem invol vat, 
+      <lb ed="#A" n="23"/>cum tamen Deitati, seu naturae divinae 
+      attri<lb ed="#A" n="24" break="no"/>buitur, nulla imperfectionis labe eam 
+      asper<lb ed="#A" n="25" break="no"/>git: ratio imparitatis est haec: essentia di vina. 
+      <lb ed="#A" n="26"/>in se includit modum quendam existendi, 
+      <lb ed="#A" n="27"/>longe perfectiorem subsistentia personali, 
+      ni<lb ed="#A" n="28" break="no"/>mirum modum existendi absque 
+      dependen<lb ed="#A" n="29" break="no"/>tia in essendo, ab ulla causa procreante, aut 
+      <lb ed="#A" n="30"/>conservante: dico hunc modum existendi es¬ 
+      <!--55.xml-->
+      <pb ed="#A" n="38"/>
+               <lb ed="#A" n="1"/>se perfectiorem subsistentia personali, quia in 
+      <lb ed="#A" n="2"/>eo posita est perfectio primi entis, &amp; ob id 
+      <lb ed="#A" n="3"/>creaturis communicari nequit: subsistentia 
+      <lb ed="#A" n="4"/>vero personalis &amp; hominibus, &amp; Angelis 
+      <lb ed="#A" n="5"/>communicatur. Contra vero, essentia finita 
+      <lb ed="#A" n="6"/>creaturarum in se neque existendi actum 
+      in<lb ed="#A" n="7" break="no"/>cludit, neque ullum existendi modum 
+      perso<lb ed="#A" n="8" break="no"/>nalitate perfectiorem: ideoque ea 
+      imperfe<lb ed="#A" n="9" break="no"/>cta est, ob defectum personalitatis, cum 
+      Dei<lb ed="#A" n="10" break="no"/>tas nullo modo imperfecta sit, ob 
+      caren<lb ed="#A" n="11" break="no"/>tiam talis subsistentiae. 
+    </p>
+            <p xml:id="pqir89-de2421-d1e432">
+               <lb ed="#A" n="12"/>S. <ref xml:id="pqir89-de2421-Rd1e436">
+                  <name xml:id="pqir89-de2421-Nd1e438">Franciscus Suarex</name>, lib. 2. de Trinit. cap. 
+      <lb ed="#A" n="13"/>To.</ref> aliam distinctionem perfectionis affert, 
+      <lb ed="#A" n="14"/>sed magis obscuram, &amp; difficilem, ideoque 
+      <lb ed="#A" n="15"/>eam hic non proponam: illud autem 
+      dili<lb ed="#A" n="16" break="no"/>genter notandum est, quod isti distinctioni 
+      <lb ed="#A" n="17"/>addit, videlicet divinitatem, praecisis 
+      relatio<lb ed="#A" n="18" break="no"/>nibus seu subsistentiis personalibus, non 
+      in<lb ed="#A" n="19" break="no"/>cludere formaliter perfectiones earum: 
+      in<lb ed="#A" n="20" break="no"/>cludere tamen illas eminenter: tum quia 
+      <lb ed="#A" n="21"/>hoc necessarium est ad infinitatem illius 
+      en<lb ed="#A" n="22" break="no"/>tis: tum quia ipsa Deitas est radix, &amp; 
+      funda<lb ed="#A" n="23" break="no"/>mentum omnium illarum perfectionum: 
+    </p>
+            <p xml:id="pqir89-de2421-d1e468">
+               <lb ed="#A" n="24"/>9. Posterior quaestio facile solvitur, 
+      sub<lb ed="#A" n="25" break="no"/>lata priori difficultate: cum enim DEO, ut 
+      <lb ed="#A" n="26"/>est communis tribus personis, ea subsistentia 
+      <lb ed="#A" n="27"/>non conveniat, quae suppositorum est 
+      pro<lb ed="#A" n="28" break="no"/>pria, intrepide dicendum est, DEVM sic 
+      consi<lb ed="#A" n="29" break="no"/>deratum non esse personam. At sinquit 
+      Ca<lb ed="#A" n="30" break="no"/>ictanus) DEVS quatenus est communis 
+      <!--56.xml-->
+      <pb ed="#A" n="39"/>
+               <lb ed="#A" n="1"/>tribus personis, etsi non sit persona stricte 
+      <lb ed="#A" n="2"/>&amp; χκξεωως loquendo, potest tamen dici 
+      per<lb ed="#A" n="3" break="no"/>sona incompleta. Respondeo. cum Fonsecu, 
+      <lb ed="#A" n="4"/>in rebus divinis non usurpandas esse novas,  
+      <lb ed="#A" n="5"/>&amp; inusitatas locutiones, &amp; ab omni Patrum  
+      <lb ed="#A" n="6"/>consuetudine abhorrentes: praesertim cum  
+      <lb ed="#A" n="7"/>quis decipi possit tali loquendi modo, &amp; 
+      exi<lb ed="#A" n="8" break="no"/>stimare tres personas esse unam personam, 
+      <lb ed="#A" n="9"/>aut suppositum. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 29</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 29</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="278"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-e19845"><!-- p3a29 -->
+            <head xml:id="pqir89-e19845-Hd1e106">Articulus 29</head>
+            <head xml:id="pqir89-e19845-Hd1e109" type="question-title">
+        An Theologia Viatorum dici possit 
+        speculativa a speculatione, seu 
+        pisione quae futura est in Patria.
+      </head>
+            <p xml:id="pqir89-e19845-d1e112">
+      <!--297.xml-->
+               <pb ed="#A" n="278"/>
+               <lb ed="#A" n="1"/>ART. XXIX 
+      <lb ed="#A" n="2"/>An Theologia Viatorum dici possit 
+      <lb ed="#A" n="3"/>speculativa a speculatione, seu 
+      pi<lb ed="#A" n="4" break="no"/>sione quae futura est in Patria.
+    </p>
+            <p xml:id="pqir89-e19845-d1e128">
+               <lb ed="#A" n="5"/>
+               <ref xml:id="pqir89-e19845-Rd1e132">
+                  <name xml:id="pqir89-e19845-Nd1e134">PEtrus Fonseca</name>, Lib. S. Metaph. cap. I 
+      <lb ed="#A" n="6"/>quaest. 8, sect. q.</ref> dicit, Theologiam 
+      re<lb ed="#A" n="7" break="no"/>velationis, seu Theologiam Viatorum vere 
+      <lb ed="#A" n="8"/>dici speculativam, quia finis eius est visio seu 
+      <lb ed="#A" n="9"/>cognitio Dei in Patria. Idem etiam aperte 
+      do<lb ed="#A" n="10" break="no"/>cet <ref xml:id="pqir89-e19845-Rd1e149">Balihasar Meisnerus, in Philosophiae suae 
+      <lb ed="#A" n="11"/>Tect. 2. Cap. 2. Quaest. I.</ref> Verba eius haec sunt,,  
+      <lb ed="#A" n="12"/>Finis Theologiae non est beatitudo, practica, sed 
+      <lb ed="#A" n="13"/>potius theoretiea, consistens, in contemplatione &amp; 
+      <lb ed="#A" n="14"/>fruitione Dei¬ 
+    </p>
+            <p xml:id="pqir89-e19845-d1e161">
+               <lb ed="#A" n="15"/>2 Haec, sententia falsa est, &amp; reiicienda. 
+      <lb ed="#A" n="16"/>Primo enim omnis finis denominaus aliquem  
+      <lb ed="#A" n="17"/>habitum, vel est operatio quam ille habitus 
+      eli<lb ed="#A" n="18" break="no"/>cit, ( quomodo scientia dicitur speculativa, 
+      <lb ed="#A" n="19"/>quod eliciat actum speculandi, seu 
+      contem<lb ed="#A" n="20" break="no"/>plandi: 7. Vel est operatio quam habitus ille 
+      di<lb ed="#A" n="21" break="no"/>rigit &amp; regulat, ut loquuntur: Cquomodo 
+      <lb ed="#A" n="22"/>prudentia dicitur activa, &amp; ars effectiva, non 
+      <lb ed="#A" n="23"/>quod eliciant actiones &amp; effectiones 
+      exter<lb ed="#A" n="24" break="no"/>nas, sed quod sint earum principia 
+      regulati<lb ed="#A" n="25" break="no"/>va, seu directiva)) at illa beatifica Dei visio, 
+      <lb ed="#A" n="26"/>neque est actus elicitus ab habitu Theologiae re¬ 
+      <!--298.xml-->
+      <pb ed="#A" n="279"/>
+               <lb ed="#A" n="1"/>velationis, neque ab eo regulatur: idque 
+      <lb ed="#A" n="2"/>quia Theologia revelationis evacuatur in 
+      pa<lb ed="#A" n="3" break="no"/>tria, &amp; ei succedit Theologia visionis. Ergo 
+      <lb ed="#A" n="4"/>Theologia revelationis non potest dici 
+      speculati<lb ed="#A" n="5" break="no"/>va, ab illa speculatione seu visione quae est in 
+      <lb ed="#A" n="6"/>Patriu. Secundo, ex ea sententia sequitur,  
+      <lb ed="#A" n="7"/>Theologiam Piatorum posse dici habitum Dei 
+      <lb ed="#A" n="8"/>intuitipum, seu habitum visionis: illa enim 
+      <lb ed="#A" n="9"/>speculatio a qua denominatio sumitur, est Dei 
+      <lb ed="#A" n="10"/>visio: at hoc est absurdum, quia sic Theologia 
+      <lb ed="#A" n="11"/>vtae confunderetur cum Theologia Patriae, quae 
+      <lb ed="#A" n="12"/>sola est Dei intuitina, 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

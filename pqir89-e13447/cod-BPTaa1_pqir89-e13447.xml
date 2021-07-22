@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 11</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 11</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="192"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-e13447"><!-- p3a11 -->
+            <head xml:id="pqir89-e13447-Hd1e106">Articulus 11</head>
+            <head xml:id="pqir89-e13447-Hd1e109" type="question-title">
+        An in Daemonibus sit fides
+      </head>
+            <p xml:id="pqir89-e13447-d1e112">
+      <!--211.xml-->
+               <pb ed="#A" n="192"/>
+               <lb ed="#A" n="1"/>ART. XI 
+      <lb ed="#A" n="2"/>An in Daemonibus sit fides: 
+    </p>
+            <p xml:id="pqir89-e13447-d1e123">
+               <lb ed="#A" n="3"/>
+               <ref xml:id="pqir89-e13447-Rd1e127">
+                  <name xml:id="pqir89-e13447-Nd1e129">bonaventura</name> in 2. Sent. Dist. 2S. quaest. 
+      <lb ed="#A" n="4"/>bs</ref>: suam sententiam proponit de fide 
+      <lb ed="#A" n="5"/>Daemonum, his verbis: Habent (inquit) 
+      ali<lb ed="#A" n="6" break="no"/>quam notitiam de articulis, &amp; credibilibus, quae 
+      <lb ed="#A" n="7"/>quidem dici potest fides, sive credulitas, propter 
+      <lb ed="#A" n="8"/>hoc, quod non est in iis visio aperta: &amp; illa 
+      qui<lb ed="#A" n="9" break="no"/>dem cogniti o, partim fuit iis indita in creatione, 
+      <lb ed="#A" n="10"/>partim uero ex acquisitione. A prima enim 
+      <lb ed="#A" n="11"/>creatione sua habuerunt cognitionem 
+      ali<lb ed="#A" n="12" break="no"/>quam de articulis pertinentibus ad 
+      Trinita<lb ed="#A" n="13" break="no"/>tem, quae etsi non meretur dici fides, imo 
+      po<lb ed="#A" n="14" break="no"/>tius cognitio contemplationis, propter oba 
+      <lb ed="#A" n="15"/>scuritatem Aenigmatis, peccato tamen 
+      su<lb ed="#A" n="16" break="no"/>perveniente, &amp; Aenigmate subsequente, illa 
+      <lb ed="#A" n="17"/>cognitio meruit dici fides, cum sit cognitio  
+      <lb ed="#A" n="18"/>Aenigmatica de his quae spectant ad divina. 
+      <lb ed="#A" n="19"/>Quantum autem ad articulos spectantes ad 
+      <lb ed="#A" n="20"/>humanitatem, est in iis cognitio acquisita 
+      <lb ed="#A" n="21"/>per multa miracula &amp; experimenta, &amp; quasi 
+      <lb ed="#A" n="22"/>extorta necessitate quadam. Dum enim 
+      vi<lb ed="#A" n="23" break="no"/>dent Daemones aperte, eos qui in Christum  
+      <lb ed="#A" n="24"/>credunt, non posse damnaris manifesta 
+      ra<lb ed="#A" n="25" break="no"/>tione coguntur credere, fidem credentium 
+      <lb ed="#A" n="26"/>in Christum veram esse: &amp; per hoc, ex 
+      con<lb ed="#A" n="27" break="no"/>sequente credunt, omnia esse vera, quae 
+      cre<lb ed="#A" n="28" break="no"/>dunt Christiani, &amp; ex hoc etiam perterren¬ 
+      <!--212.xml-->
+      <pb ed="#A" n="193"/>
+               <lb ed="#A" n="1"/>tur: propter quod dicit sacobus, quod credunt 
+      <lb ed="#A" n="2"/>&amp; contremiscunt. Haec Bona ventura. 
+    </p>
+            <p xml:id="pqir89-e13447-d1e197">
+               <lb ed="#A" n="3"/>2 Ex his verbis patet, Bona venturam non 
+      <lb ed="#A" n="4"/>tribuere Daemonibus fidem historicam 
+      pro<lb ed="#A" n="5" break="no"/>prie dictam, hoc est, assensum historicum 
+      ni<lb ed="#A" n="6" break="no"/>tentem Dei authoritate, sed potius assensum 
+      <lb ed="#A" n="7"/>historicum experimentalem, h. e. nitentem 
+      <lb ed="#A" n="8"/>experimentis &amp; miraculis: notitia autem 
+      ex<lb ed="#A" n="9" break="no"/>perimentalis, non tam ad fidem quam ad 
+      <lb ed="#A" n="10"/>scientiam pertinet. Eandem sententiam 
+      pro<lb ed="#A" n="11" break="no"/>fitetur Estius, Zib. 2. dent. Dist. 22. Verba eius 
+      <lb ed="#A" n="12"/>haec sunt. 
+    </p>
+            <p xml:id="pqir89-e13447-d1e222">
+               <lb ed="#A" n="13"/>S Est (inquit). ad veram seu Christianam.  
+      <lb ed="#A" n="14"/>fidem, necessaria: quaedam voluntatis propensio, 
+      <lb ed="#A" n="15"/>qua intellectus. ducatur ad assentiendum qus, 
+      ver<lb ed="#A" n="16" break="no"/>bis, in cuius authoritate animus, credentis 
+      ac<lb ed="#A" n="17" break="no"/>quiescit. Habet enim hoc proprium actus fidei, 
+      <lb ed="#A" n="18"/>ut, ex quadam. humili rexerentia erga Deum, 
+      in<lb ed="#A" n="19" break="no"/>tellectus cedat, eius authoritati, suscipiatque 
+      fir<lb ed="#A" n="20" break="no"/>miter at que obedienter ea quae dicuntur, etiamsi 
+      <lb ed="#A" n="21"/>ratione minus ea perspiciat. Si quis ergo, vel 
+      so<lb ed="#A" n="22" break="no"/>la, naturalis ingenii sagacitate, vel 
+      argumento<lb ed="#A" n="23" break="no"/>rum aut rationum pondere, vel sensus aut etiam  
+      <lb ed="#A" n="24"/>signorum tantum, exidentia convictus, 
+      assentia<lb ed="#A" n="25" break="no"/>tur tis, quae, sunt dixinitus rexelata, non 
+      pertine<lb ed="#A" n="26" break="no"/>bit ille:ssensus ad fidem Christianam. Cum, 
+      igi<lb ed="#A" n="27" break="no"/>tur Daemones, subtilitate suae naturae: &amp; 
+      perspi<lb ed="#A" n="28" break="no"/>cacitate ingenii, videant dogmata religionis 
+      no<lb ed="#A" n="29" break="no"/>strae non repugnare veritati sibi naturaliter 
+      co<lb ed="#A" n="30" break="no"/>gnitae, videantque: eadem confirmari miraculis, 
+      <!--213.xml-->
+      <pb ed="#A" n="194"/>
+               <lb ed="#A" n="1"/>naturae facultatem, ipsis probe perspectam, 
+      exce<lb ed="#A" n="2" break="no"/>dentibus, experiantur denique virtute Christianae 
+      <lb ed="#A" n="3"/>doctrinae plurimos e suo regno &amp; potestate 
+      eri<lb ed="#A" n="4" break="no"/>pi, atque his similibusque adducti &amp; convicti, 
+      <lb ed="#A" n="5"/>cogantur fateri verissimam esse religionis 
+      Chri<lb ed="#A" n="6" break="no"/>stianae doctrinam: cum nulla sit in iis 
+      alioqui<lb ed="#A" n="7" break="no"/>erga veritatem divinam spontanea voluntatis 
+      <lb ed="#A" n="8"/>submissio atque obedientia, non potest iltorum 
+      <lb ed="#A" n="9"/>de rebus divinis assensus, proprie fides appellari, 
+      <lb ed="#A" n="10"/>sed certa quaed im cognitio, per experientiam, &amp; 
+      <lb ed="#A" n="11"/>rerum vel signorum exidentiam extorta. 
+    </p>
+            <p xml:id="pqir89-e13447-d1e292">
+               <lb ed="#A" n="12"/>A Doctissimus Pareus contrariam 
+      sen<lb ed="#A" n="13" break="no"/>tentiam amplectitur: nam parte 2. explic. 
+      <lb ed="#A" n="14"/>Cutech. quaest. 2I. historicam fidem 
+      pro<lb ed="#A" n="15" break="no"/>prie dictam Daemonibus tribuit, eamque 
+      <lb ed="#A" n="16"/>sic describit: Historica fides, est 
+      agnosce<lb ed="#A" n="17" break="no"/>re &amp; statuere quod verum sit omne Dei 
+      ver<lb ed="#A" n="18" break="no"/>bum, &amp;c. Idque propter ipsius Dei 
+      au<lb ed="#A" n="19" break="no"/>thoritatem, &amp; asse verationem, de qua nobis 
+      <lb ed="#A" n="20"/>constat. 
+    </p>
+            <p xml:id="pqir89-e13447-d1e314">
+               <lb ed="#A" n="21"/>sS Merito igitur hic quaeri potest de 
+      assen<lb ed="#A" n="22" break="no"/>su Daemonum: utrum nitatur Dei authoritate, 
+      <lb ed="#A" n="23"/>an vero tantum sit notitia experimentalis, per 
+      <lb ed="#A" n="24"/>signorum exidentiam extorta. Huius 
+      quaestio<lb ed="#A" n="25" break="no"/>nis determinationem tribus assertionibus 
+      <lb ed="#A" n="26"/>proponam: 
+    </p>
+            <p xml:id="pqir89-e13447-d1e330">
+               <lb ed="#A" n="27"/>o Prima assertio sit haec er Daemonum 
+      noti<lb ed="#A" n="28" break="no"/>tia, est vera &amp; proprie dicta fides historica: hoc 
+      <lb ed="#A" n="29"/>est, nititur etiam Dei authoritate, &amp; non 
+      <lb ed="#A" n="30"/>tantum experimentis, aut miraculis: ratio 
+      <!--214.xml-->
+      <pb ed="#A" n="195"/>
+               <lb ed="#A" n="1"/>huius assertionis est, quia illi persuasissimum 
+      <lb ed="#A" n="2"/>habent, Deum non posse mentiri, aut falsum 
+      <lb ed="#A" n="3"/>dicere, ideoque necessario assentiuntur toti 
+      <lb ed="#A" n="4"/>verbo divino, propter ipsius Dei 
+      authori<lb ed="#A" n="5" break="no"/>tatem:  
+    </p>
+            <p xml:id="pqir89-e13447-d1e356">
+               <lb ed="#A" n="6"/> Secunda assertio: Fides historica 
+      electo<lb ed="#A" n="7" break="no"/>rum, hoc est, notitia sacrae Scripturae, quam electo 
+      <lb ed="#A" n="8"/>habent, quatuor modis differt a fide Historica 
+      <lb ed="#A" n="9"/>Daemonum. Primo, quod fides historica 
+      ele<lb ed="#A" n="10" break="no"/>ctorum, habeat adiunctam fiduciam &amp; 
+      aypli<lb ed="#A" n="11" break="no"/>cationem gratuitae temissionis peccatorum, 
+      <lb ed="#A" n="12"/>fides vero Daemonum adiunctam habeat 
+      <lb ed="#A" n="13"/>contrariam persuasionem: hoc est, 
+      applica<lb ed="#A" n="14" break="no"/>tionem iustitiae vindicatiyae. Secundo, quod 
+      <lb ed="#A" n="15"/>illorum fides, ut postea patebit, oriatur ex 
+      <lb ed="#A" n="16"/>pia inclinatione &amp; reverentia voluntatis, 
+      du<lb ed="#A" n="17" break="no"/>centis intellectum captivum in obsequium  
+      <lb ed="#A" n="18"/>seu. obedientiam Christi, horum vero fides 
+      <lb ed="#A" n="19"/>coniunctam habeat voluntatis rebellionem, 
+      <lb ed="#A" n="20"/>qua cuperent falsum esse id quod verum 
+      fate<lb ed="#A" n="21" break="no"/>ri coguntur. Tertio, quod electi veritatem, 
+      <lb ed="#A" n="22"/>cui assentiuntur, ament. Daemones vero eam  
+      <lb ed="#A" n="23"/>odio prosequantur. Quarto, quod illorum 
+      <lb ed="#A" n="24"/>assensus adiunctum habeat gaudium, &amp; 
+      dele<lb ed="#A" n="25" break="no"/>ctationem: hi vero non sine dolore &amp; horro- 
+      <lb ed="#A" n="26"/>re assentiantur. 
+    </p>
+            <p xml:id="pqir89-e13447-d1e404">
+               <lb ed="#A" n="27"/>S Tertia assertio: Deus Opt. Max. 
+      <lb ed="#A" n="28"/>hanc fidem hist oricam, Daemonum intellectus 
+      <lb ed="#A" n="29"/>in prima creatione indidit, eamque post 
+      Daemo<lb ed="#A" n="30" break="no"/>num lapsum non sustulit aut abolexit, sed con¬ 
+      <!--215.xml-->
+      <pb ed="#A" n="196"/>
+               <lb ed="#A" n="1"/>ser vapit, non quidem ut hoc pacto eos ornaret &amp; 
+      <lb ed="#A" n="2"/>bearet, sed contra ut miseriam ipsorum augeret. 
+      <lb ed="#A" n="3"/>irae enim, potentiae, &amp; iustitiae di vinae 
+      consi<lb ed="#A" n="4" break="no"/>deratio, damnatis illis spiritibus ineffabilem  
+      <lb ed="#A" n="5"/>horrorem &amp; pavorem incutit. 
+    </p>
+            <p xml:id="pqir89-e13447-d1e431">
+               <lb ed="#A" n="6"/>9 Quarta assert. Fides Daemonum, ante 
+      <lb ed="#A" n="7"/>ipsorum lapsum, fuit splendida &amp; insignis 
+      vir<lb ed="#A" n="8" break="no"/>tus, nunc vero mali &amp; vitiosi habitus rationem 
+      <lb ed="#A" n="9"/>habet, non per se, sed per accidens, (ut bene 
+      no<lb ed="#A" n="10" break="no"/>tat Pareus:) quia videlicet coniunctam habet 
+      <lb ed="#A" n="11"/>rebellionem voluntatis, &amp; immane odium, 
+      <lb ed="#A" n="12"/>quo veritatem, cognitam prosequuntur. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

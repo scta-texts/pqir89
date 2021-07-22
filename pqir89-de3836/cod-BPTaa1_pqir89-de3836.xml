@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 12</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 12</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="53"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-de3836"><!-- p1a12 -->
+            <head xml:id="pqir89-de3836-Hd1e106">Articulus 12</head>
+            <head xml:id="pqir89-de3836-Hd1e109" type="question-title">
+        An subsistentia personalis te logos,
+        sit naturae eius humanae communtcata: et, an recte
+        loquantur, qui dicunt humanitatem Christi subsi¬
+        stere ubique, per subsistentiam te logos: item
+        existere ubique secundum Esse suum personale.
+      </head>
+            <p xml:id="pqir89-de3836-d1e112">
+      <!--70.xml-->
+               <pb ed="#A" n="53"/>
+               <lb ed="#A" n="1"/>ART. VII 
+        <lb ed="#A" n="2"/>An subsistentia personalis <foreign>te logos</foreign>, sit na¬ 
+      <lb ed="#A" n="3"/>turae equs humanae communicata: Et an 
+      <lb ed="#A" n="4"/>recte loquantur, qui dicunt, 
+      humanita<lb ed="#A" n="5" break="no"/>tem Christi subsistere ubique per 
+        subsi<lb ed="#A" n="6" break="no"/>stentiam <foreign>te logos</foreign>. Item existere ubique, 
+      <lb ed="#A" n="7"/>secundum esse suum personale. 
+    </p>
+            <p xml:id="pqir89-de3836-d1e140">
+               <lb ed="#A" n="8"/>Sx eo quod dici solet hypostasin, aut 
+      <lb ed="#A" n="9"/>Rsubsistentiam rα πονς, communicatam  
+      <lb ed="#A" n="10"/>esse carni Christi, duo consectaria 
+      ducun<lb ed="#A" n="11" break="no"/>tur: primo enim vbiquitarij inde colligunt,  
+      <lb ed="#A" n="12"/>omnipraesentiam, imo &amp; proprietates 
+      o<lb ed="#A" n="13" break="no"/>mnes rx Ao7i, esse humanae naturae 
+      commu<lb ed="#A" n="14" break="no"/>nicatas, ratio consequentiae est, quia 
+      hypo<lb ed="#A" n="15" break="no"/>stasis ris ποι, non differi realiter ab eius 
+      es<lb ed="#A" n="16" break="no"/>sentia, ideoque nec a proprietatibus eius 
+      es<lb ed="#A" n="17" break="no"/>sentialibus: si igitur verum est hypostasin re 
+      <lb ed="#A" n="18"/>Novus, esse carni communicatam, etiam 
+      proprieta<lb ed="#A" n="19" break="no"/>tes equs, eodem modo ei communicatas esse 
+      faten<lb ed="#A" n="20" break="no"/>dum est. Secundo, nonnulli etiam ex nostris 
+      <lb ed="#A" n="21"/>Theologis, qui putant Christi carnem posse 
+      <lb ed="#A" n="22"/>dici ubique subsistere, per subsistentiam re 
+      Ao<lb ed="#A" n="23" break="no"/>Vς, licet in uno solo existat, ex eodem 
+      funda<lb ed="#A" n="24" break="no"/>mento, sic ratiocinantur. Humanae naturae 
+      <lb ed="#A" n="25"/>Christi communicata est subsistentia TXNOvuς 
+      <lb ed="#A" n="26"/>cum igitur re Noνς subsistentia: infinita sit, 
+      <!--71.xml-->
+      <pb ed="#A" n="54"/>
+               <lb ed="#A" n="1"/>&amp; nullius loci ambitu includatur, caro Christi, 
+      <lb ed="#A" n="2"/>per eam subsistentiam sibi communicatam, dici 
+      <lb ed="#A" n="3"/>potest ubique subsistere: hoc posterius 
+      argu<lb ed="#A" n="4" break="no"/>mentum periculosius est praecedente, quia 
+      <lb ed="#A" n="5"/>tantopere placet quibusdam Orthodoxis 
+      <lb ed="#A" n="6"/>Theologis, ut profiteantur, nos in. hac 
+      con<lb ed="#A" n="7" break="no"/>troversia de locali praesentia camis Christi 
+      <lb ed="#A" n="8"/>λoάφμαXειν, &amp; non nisi Verbali dissidio ab 
+      V<lb ed="#A" n="9" break="no"/>biquitaruis discrepare: quod an verum sit, 
+      iu<lb ed="#A" n="10" break="no"/>dicent illi qui historiam colloquii 
+      Mompelgar<lb ed="#A" n="11" break="no"/>tensis &amp; Bedae ac lacobi Andreae Polemica 
+      <lb ed="#A" n="12"/>scripta superhac materia diligentius 
+      conside<lb ed="#A" n="13" break="no"/>rarunt. 
+    </p>
+            <p xml:id="pqir89-de3836-d1e216">
+               <lb ed="#A" n="14"/>2. Vt igitur duo illa argumenta perspieue 
+      <lb ed="#A" n="15"/>diluantur, distinguendum est verbum 
+      commu<lb ed="#A" n="16" break="no"/>nicandi, &amp; docendum quo sensu Christi sub. 
+      <lb ed="#A" n="17"/>sistentia sit Aῶυῳ communicata. Tenendum 
+      <lb ed="#A" n="18"/>igitur est, aliquid tribus modis dici alteri 
+      <lb ed="#A" n="19"/>communicari. Primo, &amp; inhaesiue &amp; 
+      denomi<lb ed="#A" n="20" break="no"/>native: quo modo odor pomi communicatur 
+      <lb ed="#A" n="21"/>manui: nam &amp; odor ille, saltem idem specie, 
+      <lb ed="#A" n="22"/>inest manui, &amp; denominat manum, i. e. Vere 
+      <lb ed="#A" n="23"/>praedicatur de manu. Secundo, communicatur 
+      <lb ed="#A" n="24"/>aliquid denominative, sed non inhaesive: quo pa¬¬ 
+      <lb ed="#A" n="25"/>cto Reges &amp; lmperatores communicant 
+      im<lb ed="#A" n="26" break="no"/>perii dignitatem uxoribus suis, illae enim 
+      de<lb ed="#A" n="27" break="no"/>nominantur Imperatrices, &amp; reginae, 
+      non<lb ed="#A" n="28" break="no"/>quod in se habeant potestatem, aut 
+      authori<lb ed="#A" n="29" break="no"/>tatem imperialem, sed quod earum mariti 
+      <lb ed="#A" n="30"/>istam authoritatem habeant. Tertio, commu¬ 
+      <!--72.xml-->
+      <pb ed="#A" n="55"/>
+               <lb ed="#A" n="1"/>nicatur aliquid alteri, neque in haesive, neque 
+      <lb ed="#A" n="2"/>denominatixe: sed vel effectixe, quo modo 
+      <lb ed="#A" n="3"/>Deus dicitur communicare se ipsum creatis 
+      <lb ed="#A" n="4"/>entibus, illa enim dicuntur entia &amp; bona, 
+      <lb ed="#A" n="5"/>participatione primi entis, &amp; piimi boni, ut 
+      <lb ed="#A" n="6"/>loquitur Sanchius: yel sustentative, quo modo 
+      <lb ed="#A" n="7"/>accidentibus suis communicatur subiectum, 
+      <lb ed="#A" n="8"/>ea videlicet sustentando, &amp; recipiendo in 
+      se<lb ed="#A" n="9" break="no"/>vel aliquo alio simili modo. Dico haec neque 
+      <lb ed="#A" n="10"/>communicari denominative neque in haesive, 
+      <lb ed="#A" n="11"/>quia Deus neque existit in creaturis 
+      tan<lb ed="#A" n="12" break="no"/>quam forma essentialis, aut accidentalis in 
+      <lb ed="#A" n="13"/>suo subiecto: neque de iis praedicatur 
+      praedi<lb ed="#A" n="14" break="no"/>catione vera &amp; affrmatiua, subiectum etiam  
+      <lb ed="#A" n="15"/>neque inest accidentibus suis, neque ea 
+      deno<lb ed="#A" n="16" break="no"/>minat, sed contra ab iis denominatur. 
+    </p>
+            <p xml:id="pqir89-de3836-d1e295">
+               <lb ed="#A" n="17"/>S Hypostasis seu subsistentiare Ao9g, 
+      ter<lb ed="#A" n="18" break="no"/>tio hoc modo communicatur naturae eius 
+      <lb ed="#A" n="19"/>huinanae: h.e. neque communicatur ei in 
+      haesi<lb ed="#A" n="20" break="no"/>ve, neque denominatixe, sed su stentative 
+      tan<lb ed="#A" n="21" break="no"/>tum. Prior pars huius assertionis sic 
+      declara<lb ed="#A" n="22" break="no"/>tur: Humana natura Christi (ut bene notat 
+      <lb ed="#A" n="23"/>Martinius contra Ment&amp;erum) omnis 
+      pro<lb ed="#A" n="24" break="no"/>priae personalis subsistentiae expers est, &amp; 
+      <lb ed="#A" n="25"/>nullo modo subsistit: h. e. neque per se, neque 
+      <lb ed="#A" n="26"/>per accidens, sive, ut planius loquar, neque 
+      na<lb ed="#A" n="27" break="no"/>tura sua, neque ex unione. Ergo subsistentia rx 
+      <lb ed="#A" n="28"/>Aξυς, neque in haesipe, neque denominative 
+      <lb ed="#A" n="29"/>ei eo mmunicata est. Probatur antecedens. Si 
+      <lb ed="#A" n="30"/>humanitas Christi aliquo modo subsistit, ali¬ 
+      <!--73.xml-->
+      <pb ed="#A" n="56"/>
+               <lb ed="#A" n="1"/>quo modo est suppositum aut persona, &amp; 
+      <lb ed="#A" n="2"/>proinde aliquo sensu verum erit Christum 
+      as<lb ed="#A" n="3" break="no"/>sumpsisse suppositum aut personam: at 
+      ab<lb ed="#A" n="4" break="no"/>surdum est posterius, Ergo etiam prius. 
+      Pro<lb ed="#A" n="5" break="no"/>batur connexum, quia suppositum &amp; 
+      subsi<lb ed="#A" n="6" break="no"/>stentia reciprocantur, adeo ut omne 
+      suppo<lb ed="#A" n="7" break="no"/>situm habeat subsistentiam, &amp; omne 
+      subsi<lb ed="#A" n="8" break="no"/>stentiam habens sit suppositum. Dicet aliquis.  
+      <lb ed="#A" n="9"/>Ergo caro Christi plane destituitur 
+      persona<lb ed="#A" n="10" break="no"/>litate. Respondetur, eam non destitui 
+      perso<lb ed="#A" n="11" break="no"/>nalitate, hoc sensu, quasi non sit personae 
+      ali<lb ed="#A" n="12" break="no"/>cui unita, est enim unita personae τx 
+      Ao<lb ed="#A" n="13" break="no"/>vuς sed quod substantia proprie, &amp; 
+      formali<lb ed="#A" n="14" break="no"/>ter ei neque insit, neque attribui possit. 
+    </p>
+            <p xml:id="pqir89-de3836-d1e363">
+               <lb ed="#A" n="15"/>AE. Idem etiam sic demonstrari potest. Si 
+      <lb ed="#A" n="16"/>humana natura Christi subsistit, vel per se 
+      <lb ed="#A" n="17"/>subsistit, id est, ex se subsistentiam habet, vel 
+      <lb ed="#A" n="18"/>subsistit quatenus existit in persona ταAοvς: 
+      <lb ed="#A" n="19"/>prius a nullo admittentur.: at neque posterius 
+      <lb ed="#A" n="20"/>manifesta absurditate caret, quod sic 
+      proba<lb ed="#A" n="21" break="no"/>tur: Caro Christi, quatenus existit in 
+      perso<lb ed="#A" n="22" break="no"/>na τ&amp; λῶος, habet modum quendam 
+      existen<lb ed="#A" n="23" break="no"/>di subsistentiae contrarium, Ergo non 
+      subsi<lb ed="#A" n="24" break="no"/>stit. Probatur antecedens: Esse in alio 
+      supposi<lb ed="#A" n="25" break="no"/>to, &amp; subsistere, seu esse per se, &amp; extra omne 
+      <lb ed="#A" n="26"/>aliud suppositum, sunt duo oppositi modi 
+      <lb ed="#A" n="27"/>existendi: at earo Christi, quatenus existit in 
+      <lb ed="#A" n="28"/>persona τζλoυs, habet priorem modum exi 
+      <lb ed="#A" n="29"/>stendi, i. e existit in supposito: Ergo non 
+      po<lb ed="#A" n="30" break="no"/>test habere posteriorem, qui ei e diamentro 
+      <lb ed="#A" n="31"/>pponitur. 
+      <!--74.xml-->
+      <pb ed="#A" n="57"/>
+               <lb ed="#A" n="1"/>g. Posterior pars nostrae assertionis sic 
+      de<lb ed="#A" n="2" break="no"/>claratur: o λo9&amp; naturam nostram ad suam  
+      <lb ed="#A" n="3"/>hypostasin gratiose recepit &amp; assumpsit, ita 
+      <lb ed="#A" n="4"/>ut eius hypostasis carnem sibi intime 
+      prae<lb ed="#A" n="5" break="no"/>sentem habeat, eamque sibi personaliter 
+      uni<lb ed="#A" n="6" break="no"/>tam gestet, contra vero caro in illa 
+      hyposta<lb ed="#A" n="7" break="no"/>si haereat, &amp; sustentetur. Ex quo fit, ut 
+      Chri<lb ed="#A" n="8" break="no"/>sti hypostasis, seu personalis subsistentia, 
+      re<lb ed="#A" n="9" break="no"/>cte dicatur communicata humanae naturae 
+      <lb ed="#A" n="10"/>sustentatire. 
+    </p>
+            <p xml:id="pqir89-de3836-d1e428">
+               <lb ed="#A" n="11"/>S. Ex hac distinctione communicationis 
+      <lb ed="#A" n="12"/>liquet, quid respondendum sit ad utrumque 
+      <lb ed="#A" n="13"/>argumentum, in limine huius articuli 
+      propo<lb ed="#A" n="14" break="no"/>situm: cum enim hypostasis Christi neque 
+      in<lb ed="#A" n="15" break="no"/>haesive, neque denom inative communicata sit 
+      <lb ed="#A" n="16"/>hum anitati ipsius, evidens est, Vbiquitarios,  
+      <lb ed="#A" n="17"/>ex communicatione hypostaseos τ Aος, 
+      <lb ed="#A" n="18"/>non posse colligere, proprietates eius 
+      essen<lb ed="#A" n="19" break="no"/>tiales communicatas esse assumptae carni, aut 
+      <lb ed="#A" n="20"/>in haesive, aut denominative, &amp; proinde 
+      negan<lb ed="#A" n="21" break="no"/>das esse omnes illas illationes, quibus ex eo 
+      <lb ed="#A" n="22"/>fundamento concludunt carnem Christi esse 
+      <lb ed="#A" n="23"/>omniscientem, omnipraesentem, 
+      omnipoten<lb ed="#A" n="24" break="no"/>tem, &amp;c. Similiter cum falsae sint omnes illae 
+      <lb ed="#A" n="25"/>enuntiationes, quibus subsistere aut esse 
+      ali<lb ed="#A" n="26" break="no"/>quod personale cani Christi tribuitur, quia 
+      <lb ed="#A" n="27"/>vid. nullam habet subsistentiam sibi 
+      conye<lb ed="#A" n="28" break="no"/>nientem, nullumque esse personale, sed 
+      mo<lb ed="#A" n="29" break="no"/>dum quendam existendi iis contrarium, 
+      con<lb ed="#A" n="30" break="no"/>sequens est, Christi humanitatem neque posse 
+      <!--75.xml-->
+      <pb ed="#A" n="58"/>
+               <lb ed="#A" n="1"/>dici subsistere ubique, per subsistentiam re 
+      <lb ed="#A" n="2"/>Aῶvs, neque existere ubique secundum esse 
+      <lb ed="#A" n="3"/>suum personale. Dicet aliquis, Natura 
+      huma<lb ed="#A" n="4" break="no"/>na Christi comuncta est cum persona 
+      raAo<lb ed="#A" n="5" break="no"/>ς, quae omnipraesens est, &amp; omnipotens: 
+      <lb ed="#A" n="6"/>Ergo natura humana dici potest 
+      omniprae<lb ed="#A" n="7" break="no"/>sens, &amp; omnipotens personaliter. Resp. Si ista 
+      <lb ed="#A" n="8"/>consequentia admittatur, pari ratione 
+      admit<lb ed="#A" n="9" break="no"/>tendae etiam sunt hae consequentiae: 
+      Huma<lb ed="#A" n="10" break="no"/>na natura Christi vnita est cum persona infinita, 
+      <lb ed="#A" n="11"/>&amp; aeterna: Ergo ipsa est infinita &amp; aeterna 
+      perso<lb ed="#A" n="12" break="no"/>naliter, seiu secundum suum esse personale: Item, 
+      <lb ed="#A" n="13"/>est confuncta cum ea persona, quae Deus est &amp; 
+      <lb ed="#A" n="14"/>Creator, ac Redemptor Mundi: Ergo haec ei 
+      con<lb ed="#A" n="15" break="no"/>veniunt personaliter. 
+    </p>
+            <p xml:id="pqir89-de3836-d1e511">
+               <lb ed="#A" n="16"/>9 Quaeret hic aliquis, an quemadmodum 
+      <lb ed="#A" n="17"/>actus subsistendi, ita etiam actus existendi, 
+      <lb ed="#A" n="18"/>a Christi carne removendus sit. Resp. 
+      Ne<lb ed="#A" n="19" break="no"/>quaquam: caro enim Christi, licet non 
+      subsi<lb ed="#A" n="20" break="no"/>stat, revera tamen habet propriam 
+      existen<lb ed="#A" n="21" break="no"/>tiam, distinctam ab existentia τζλοvα, sed ab 
+      <lb ed="#A" n="22"/>ea dependentem. Dico eam habere 
+      existen<lb ed="#A" n="23" break="no"/>tiam, distinctam ab existentia τe πους, quia 
+      <lb ed="#A" n="24"/>omne Ens creatum habet &amp; essentiam, &amp; 
+      <lb ed="#A" n="25"/>existentiam, distinctam ab essentia &amp; 
+      existen<lb ed="#A" n="26" break="no"/>tia creatoris. Dico eam habere existentiam  
+      <lb ed="#A" n="27"/>pendentem ab existentia τ8ποκς, quia per se, 
+      <lb ed="#A" n="28"/>&amp; extra personam τe λve existere non 
+      <lb ed="#A" n="29"/>potest. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

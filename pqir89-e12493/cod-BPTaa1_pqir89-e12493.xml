@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 9</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 9</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="180-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-e12493"><!-- p3a9 -->
+            <head xml:id="pqir89-e12493-Hd1e106">Articulus 9</head>
+            <head xml:id="pqir89-e12493-Hd1e109" type="question-title">
+        Refellitur Sententia Nicolai 
+        Grerinchoru, dicentis habitum fidei non esse 
+        infusum, sed acquisitum.
+      </head>
+            <p xml:id="pqir89-e12493-d1e112">
+               <lb ed="#A" n="13"/>ART. IX. 
+      <lb ed="#A" n="14"/>Refellitur Sententia Nicolai 
+        <name xml:id="pqir89-e12493-Nd1e118">Grerin<lb ed="#A" n="15"/>choru</name>, dicentis habitum fidei non esse 
+      <lb ed="#A" n="16"/>infusum, sed acquisitum.
+    </p>
+            <p xml:id="pqir89-e12493-d1e126">
+               <lb ed="#A" n="17"/>V Vlielmus Amesius, in sua 
+      rescriptio<lb ed="#A" n="18" break="no"/>ne contracta ad responsum <ref xml:id="pqir89-e12493-Rd1e132">
+                  <name xml:id="pqir89-e12493-Nd1e134">Nicolas 
+      <lb ed="#A" n="19"/>Grexinchopit</name>, cap. Io.</ref> probat contra eum 
+      <lb ed="#A" n="20"/>aliosque Remonstrantes, habitum fidei 
+      es<lb ed="#A" n="21" break="no"/>se a Deo infusum, &amp; non a nobis ipsis 
+      <lb ed="#A" n="22"/>per crebros &amp; frequentes actus credendi 
+      ac<lb ed="#A" n="23" break="no"/>quisitum: <name xml:id="pqir89-e12493-Nd1e149">Grexinchonius</name> enim licent ultro 
+      fa<lb ed="#A" n="24" break="no"/>teatur fidem actualem: seu actus credendi 
+      <lb ed="#A" n="25"/>non a natura, sed a speciali Dei gratia 
+      prove<lb ed="#A" n="26" break="no"/>nire, negat tamen causam talium actuum  
+      <lb ed="#A" n="27"/>esse fidem habitualem, seu habitum fidei a 
+      <!--199.xml-->
+      <pb ed="#A" n="180"/>
+               <lb ed="#A" n="1"/>Deo infusum: sed contra asserit, per crebros 
+      <lb ed="#A" n="2"/>fidei actus a speciali Dei gratia provenientes,  
+      <lb ed="#A" n="3"/>tandem in nobis produci fidem habitualem: 
+      <lb ed="#A" n="4"/>quemadmodum per crebros actus iustitiae &amp; 
+      <lb ed="#A" n="5"/>liberalitatis in nobis producuntur iustitiae &amp; 
+      <lb ed="#A" n="6"/>liberalitatis habitus. 
+    </p>
+            <p xml:id="pqir89-e12493-d1e179">
+               <lb ed="#A" n="7"/>2 Haec sententia <name xml:id="pqir89-e12493-Nd1e183">Nicolai</name>, non solum est 
+      <lb ed="#A" n="8"/>contraria doctrinae Scholasticorum, &amp; 
+      mo<lb ed="#A" n="9" break="no"/>dernorum Theologorum, tum 
+      Pontificio<lb ed="#A" n="10" break="no"/>rum, tum Euangelicorum, qui unanimi 
+      con<lb ed="#A" n="11" break="no"/>sensu virtutes Theologicas, habitus infusos 
+      <lb ed="#A" n="12"/>vocant, sed etiam variis iisque inevitabilibus 
+      <lb ed="#A" n="13"/>incommodis est exposita. 
+    </p>
+            <p xml:id="pqir89-e12493-d1e201">
+               <lb ed="#A" n="14"/>2 Primo enim illi qui per verbi 
+      praedica<lb ed="#A" n="15" break="no"/>tionem, &amp; internam: S. Spiritus efficaciam 
+      re<lb ed="#A" n="16" break="no"/>cens conversi &amp; renati sunt,, vel habent, 
+      so<lb ed="#A" n="17" break="no"/>lum actum fidei, vel &amp; habitum &amp; actum: si 
+      <lb ed="#A" n="18"/>posterius est verum, habetur propositum: si 
+      <lb ed="#A" n="19"/>prius, sequetur, totum illud per quod renatus 
+      <lb ed="#A" n="20"/>a non renato differt, ad actus, adeoque ad 
+      <lb ed="#A" n="21"/>evanidum quid &amp; instabile esse referendum: 
+      <lb ed="#A" n="22"/>actiones enim nostrae non sunt permanentes, 
+      <lb ed="#A" n="23"/>sed cito transeunt &amp; evanescunt. Respondet 
+      <lb ed="#A" n="24"/>Grevinchovius, illud per quod renatus a non 
+      re<lb ed="#A" n="25" break="no"/>nato differt, non totum, sed maxima sui parte ad 
+      <lb ed="#A" n="26"/>actus esse referendum: quae quidem responsio 
+      <lb ed="#A" n="27"/>quatenus asserit totum illud, per quod 
+      rena<lb ed="#A" n="28" break="no"/>tus a non renato differt, ad actus non esse 
+      re<lb ed="#A" n="29" break="no"/>ferendum, manifeste ipsius doctrinam 
+      de<lb ed="#A" n="30" break="no"/>struit: si enim renatus aliqua alia ratione a 
+      <!--200.xml-->
+      <pb ed="#A" n="181"/>
+               <lb ed="#A" n="1"/>non renato differt, necesse est ut in eo sit 
+      bo<lb ed="#A" n="2" break="no"/>nus aliquis habitus, vel completus vel 
+      incho<lb ed="#A" n="3" break="no"/>atus: eadem etiam responsio, quatenus 
+      ma<lb ed="#A" n="4" break="no"/>ximam partem illius discriminis in actibus 
+      <lb ed="#A" n="5"/>collocat, absurda est: quia cum vetus homo 
+      <lb ed="#A" n="6"/>constet habitibus permanentibus, cur non 
+      <lb ed="#A" n="7"/>etiam &amp; novus: quia item inde sequetur, 
+      sta<lb ed="#A" n="8" break="no"/>tum gtatiae esse admodum instabilem, &amp; 
+      in<lb ed="#A" n="9" break="no"/>finitis mutationibus obnoxium. 
+    </p>
+            <p xml:id="pqir89-e12493-d1e264">
+               <lb ed="#A" n="10"/>A Secundo dictum ilud, &amp;ine fuide 
+      impossibi<lb ed="#A" n="11" break="no"/>le est placere Deo, II. ad Hebraeos, versio. Vel 
+      <lb ed="#A" n="12"/>intelligendum est de habitu, vel actu fidei: si 
+      <lb ed="#A" n="13"/>de habitu, habetur propositum: inde enim 
+      <lb ed="#A" n="14"/>aperte sequitur, neminem posse esse in statu 
+      <lb ed="#A" n="15"/>gratiae, qui habitu fidei caret, &amp; per 
+      conse<lb ed="#A" n="16" break="no"/>quens omnes renatos, ubi semel conversi &amp; 
+      <lb ed="#A" n="17"/>in statu gratiae sunt constituti, illo habitum 
+      es<lb ed="#A" n="18" break="no"/>se praeditos: si de actu credendi 
+      intelligen<lb ed="#A" n="19" break="no"/>dum sit, sequetur renatos cum dormiunt &amp;  
+      <lb ed="#A" n="20"/>actu non credunt, Deo displicere, &amp; in statu 
+      <lb ed="#A" n="21"/>gratiae non esse. 
+    </p>
+            <p xml:id="pqir89-e12493-d1e293">
+               <lb ed="#A" n="22"/>Tertio, sic argumentatur Amesius. Si 
+      <lb ed="#A" n="23"/>homines recens vocati &amp; conversi, non sunt 
+      <lb ed="#A" n="24"/>praediti habitu fidei, sed tantum actus habent. 
+      <lb ed="#A" n="25"/>quomodo possent in gratia persistere vel una 
+      <lb ed="#A" n="26"/>nocte, dum nihil agunt) Respondet Nicolaus,  
+      <lb ed="#A" n="27"/>dormientes esse plane fide destitutos, &amp; 
+      ta<lb ed="#A" n="28" break="no"/>men persistere in gratia, h. e. dilectione 
+      Dei<lb ed="#A" n="29" break="no"/>Hanc responsionem non immerito absurdam  
+      <lb ed="#A" n="30"/>qudicat Amesius: primo, quia nemo sine fide 
+      <!--201.xml-->
+      <pb ed="#A" n="182"/>
+               <lb ed="#A" n="1"/>in gratia persistere potest, nam sine ea 
+      impos<lb ed="#A" n="2" break="no"/>sibile est placere Deo. Secundo fidelem una 
+      <lb ed="#A" n="3"/>cum veste fidem exuere, Nicolai somnium. 
+      <lb ed="#A" n="4"/>est: multi enim viti pii dormientes 
+      exspira<lb ed="#A" n="5" break="no"/>runt: si fidem tum non habuerunt, de eorum 
+      <lb ed="#A" n="6"/>salute actum est: plura vide apud Amesium, 
+      <lb ed="#A" n="7"/>cap. Io. istius Tractatus. 
+    </p>
+            <p xml:id="pqir89-e12493-d1e335">
+               <lb ed="#A" n="8"/>&amp; Pro sua sententia varia affert 
+      argumen<lb ed="#A" n="9" break="no"/>ta Nicolaus, quae tamen nullius ponderis. 
+      <lb ed="#A" n="10"/>sunt. Prima obiectio: per verbi 
+      praedicatio<lb ed="#A" n="11" break="no"/>nem non infunditur habitus fidei, sed 
+      tan<lb ed="#A" n="12" break="no"/>tum producitur actus: Ergo actus praecedit. 
+      <lb ed="#A" n="13"/>habitum: Respond. per verbum, &amp; spiritus 
+      <lb ed="#A" n="14"/>operationem, tanquam per causas 
+      instru<lb ed="#A" n="15" break="no"/>mentales, produci ipsum fidei habitum 
+      <lb ed="#A" n="16"/>quam vis infusio istius habitus soli Deo 
+      ascri<lb ed="#A" n="17" break="no"/>benda sit: verbum enim producit istum. 
+      ha<lb ed="#A" n="18" break="no"/>bitum praeparando, Deus vero infundendo. 
+      <lb ed="#A" n="19"/>Secunda ob. Deus in verbo suo primo exigit, 
+      <lb ed="#A" n="20"/>a nobis fidei actum, non vero habitum. 
+      Re<lb ed="#A" n="21" break="no"/>spondet Amesius, primo exigi arborem 
+      bo<lb ed="#A" n="22" break="no"/>nam, postea fructus bonos. Tertia ob. si 
+      ha<lb ed="#A" n="23" break="no"/>bitus fidei in nobis producitur ante actum, 
+      <lb ed="#A" n="24"/>nos prius sumus fideles quam actu 
+      creda<lb ed="#A" n="25" break="no"/>mus, quod absurdum est. Respondet idem: 
+      <lb ed="#A" n="26"/>nos esse fideles actu primo (ordine naturae, 
+      <lb ed="#A" n="27"/>non temporis) priusquam actu secundo 
+      cre<lb ed="#A" n="28" break="no"/>damus, hoc est, habitum fidei a quo fideles 
+      <lb ed="#A" n="29"/>denominamur, non tempore sed naturae 
+      or<lb ed="#A" n="30" break="no"/>dine, praecedere actum fidei, quod nemini vi¬ 
+      <!--202.xml-->
+      <pb ed="#A" n="183"/>
+               <lb ed="#A" n="1"/>deri debet absurdum, Vide cetera in Tractatu 
+      <lb ed="#A" n="2"/>Amesit, cap. Io. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 9</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 9</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="102-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-de7168"><!-- p2a9 -->
+            <head xml:id="pqir89-de7168-Hd1e106">Articulus 9</head>
+            <head xml:id="pqir89-de7168-Hd1e109" type="question-title">
+        Diluuntur lepiota argumenta, quae 
+        afferri solent contra creationem, et 
+        infusionem animae.
+      </head>
+            <p xml:id="pqir89-de7168-d1e112">
+               <lb ed="#A" n="10"/>ART. IX 
+      <lb ed="#A" n="11"/>Diluuntur lepiota argumenta, quae 
+        affer<lb ed="#A" n="12" break="no"/>ri solent contra creationem, &amp; 
+      infu<lb ed="#A" n="13" break="no"/>sionem animae. 
+    </p>
+            <p xml:id="pqir89-de7168-d1e123">
+               <lb ed="#A" n="14"/>Dicitur primo, Deus sex primis 
+      die<lb ed="#A" n="15" break="no"/>ebus totum creationis opus absoluit, 
+      <lb ed="#A" n="16"/>postea vero requievit ab opere suo. Oenes. 2. 
+      <lb ed="#A" n="17"/>Eaxod. 2o. non igitur novae animae nunc 
+      cre<lb ed="#A" n="18" break="no"/>antur. Respond. Deum post sextum diem  
+      <lb ed="#A" n="19"/>cessasse a creatione novarum specierum, non 
+      <lb ed="#A" n="20"/>vero novorum individuorum: animae 
+      au<lb ed="#A" n="21" break="no"/>tem, quas iam creat, non specie sed 
+      nume<lb ed="#A" n="22" break="no"/>ro differunt ab anima Adan, quam primo 
+      <lb ed="#A" n="23"/>crea vit. 
+      <lb ed="#A" n="24"/>2 Secundo ob. Oeneses. dicitur Adam 
+      ge<lb ed="#A" n="25" break="no"/>nuisse filium ad imaginem suam: est autem 
+      fi<lb ed="#A" n="26" break="no"/>lius imago &amp; similitudo patris secundum a 
+      <lb ed="#A" n="27"/>nimam: Ergo Adam genuit filium secun¬ 
+      <!--121.xml-->
+      <pb ed="#A" n="102"/>
+               <lb ed="#A" n="1"/>dum animam. Respond. Filium esse 
+      imagi<lb ed="#A" n="2" break="no"/>nem &amp; similitudinem patris, non tam 
+      ratio<lb ed="#A" n="3" break="no"/>ne animae, quam ratione totius suppositi, i. 
+      e<lb ed="#A" n="4" break="no"/>quatenus est quid eonstans ex anima &amp; 
+      cor<lb ed="#A" n="5" break="no"/>pore: Adam ergo non solum genuit filium 
+      <lb ed="#A" n="6"/>similem patri, ut vult Esthius, sed etiam 
+      ge<lb ed="#A" n="7" break="no"/>nuit id, in quo illa similitudo potissimum 
+      <lb ed="#A" n="8"/>consistit, videlicet ipsam personam filii sui, ex 
+      <lb ed="#A" n="9"/>anima &amp; corpore confsatam.  
+    </p>
+            <p xml:id="pqir89-de7168-d1e180">
+               <lb ed="#A" n="10"/>S Tertio ob. Genesi ao. dicuntur vo. 
+      ani<lb ed="#A" n="11" break="no"/>inae egressae de femore lacobi, quod non est 
+      <lb ed="#A" n="12"/>aliud quam seminis propagatione traduci, 
+      <lb ed="#A" n="13"/>Respond. animas synecdochice pro 
+      homini<lb ed="#A" n="14" break="no"/>bus esse positas: addere etiam possumus, 
+      i<lb ed="#A" n="15" break="no"/>psas animas egressas fuisse ex femore lacobi, 
+      <lb ed="#A" n="16"/>non quod e femore lacobi traductae sint 
+      quo<lb ed="#A" n="17" break="no"/>ad earum esse simpliciter, sed quod ex eo 
+      de<lb ed="#A" n="18" break="no"/>scenderint quoad earum existentiam in 
+      corpo<lb ed="#A" n="19" break="no"/>re, &amp; unionem cum corpore: virtus enim 
+      se<lb ed="#A" n="20" break="no"/>minis egressi ex femore lacobi, effecit 
+      unio<lb ed="#A" n="21" break="no"/>nem corporis &amp; animae. 
+    </p>
+            <p xml:id="pqir89-de7168-d1e210">
+               <lb ed="#A" n="22"/>A Quarto ob. Si homo generando non 
+      <lb ed="#A" n="23"/>producit animam rationalem, peioris est 
+      <lb ed="#A" n="24"/>conditionis quam bruta &amp; plantae, quae 
+      pro<lb ed="#A" n="25" break="no"/>ducunt animas sibi proprias, videlicet 
+      vege<lb ed="#A" n="26" break="no"/>tativam &amp; sensitiuam. Respondet aestbius,  
+      <lb ed="#A" n="27"/>hominem esse melioris conditionis etiam in 
+      <lb ed="#A" n="28"/>officio generandi, quam sunt bruta aut 
+      plan<lb ed="#A" n="29" break="no"/>tae, eo quod vis eius generativa pertingat ad 
+      <lb ed="#A" n="30"/>unionem nobilissimae formae cum materia, ut 
+      <!--122.xml-->
+      <pb ed="#A" n="103"/>
+               <lb ed="#A" n="1"/>supra declaratum est. Adde quod hoc ipsum 
+      <lb ed="#A" n="2"/>ad magnam dignitatem pertinet talem 
+      ha<lb ed="#A" n="3" break="no"/>bere animam, ad quam producendam, 
+      pro<lb ed="#A" n="4" break="no"/>pter ipsius excellentiam, nulla vis naturae 
+      <lb ed="#A" n="5"/>possit pertingere: quam ratione nec Angelis,  
+      <lb ed="#A" n="6"/>quorum natura excellentior est quam 
+      homi<lb ed="#A" n="7" break="no"/>num, vis ulla generandi competit. 
+    </p>
+            <p xml:id="pqir89-de7168-d1e252">
+               <lb ed="#A" n="8"/>s Quinto ob. Si homo non generat, 
+      ani<lb ed="#A" n="9" break="no"/>mam filii, sed corpus, non generat totum 
+      <lb ed="#A" n="10"/>hominem, sed alteram eius partem, imo 
+      i<lb ed="#A" n="11" break="no"/>gnobiliorem eius partem. Resp. negando 
+      <lb ed="#A" n="12"/>sequelam: Maria enim non genuit 
+      Deita<lb ed="#A" n="13" break="no"/>tem Christi, &amp; tamen vere dicitur genuisse 
+      <lb ed="#A" n="14"/>totum Christum: ignis etiam, cum ex ligno 
+      <lb ed="#A" n="15"/>generat alium ignem, non generat materiam  
+      <lb ed="#A" n="16"/>illius ignis, sed tantum formam, &amp; tamen 
+      <lb ed="#A" n="17"/>dicitur generare seu producere totum illum 
+      <lb ed="#A" n="18"/>ignem: secundum definitionem Aristotelis,  
+      <lb ed="#A" n="19"/>Qeneratio est mutatiototius, &amp;c. Quare hic 
+      di<lb ed="#A" n="20" break="no"/>stinguendum est inter totum hominem &amp; 
+      to<lb ed="#A" n="21" break="no"/>tum hominis, pater enim generat totum 
+      fi<lb ed="#A" n="22" break="no"/>lium, sed non totum filij, id est, omnes 
+      par<lb ed="#A" n="23" break="no"/>tes fili. 
+    </p>
+            <p xml:id="pqir89-de7168-d1e289">
+               <lb ed="#A" n="24"/>o Sexto ob. Si Deus sigillatim creat 
+      ani<lb ed="#A" n="25" break="no"/>mas omnium qui quomodocunque 
+      gignun<lb ed="#A" n="26" break="no"/>tur, cooperatur scortatoribus &amp; adulteris: 
+      <lb ed="#A" n="27"/>nam formicariis &amp; adulterimis conceptibus 
+      <lb ed="#A" n="28"/>animas creat &amp; largitur, quod videtur 
+      ab<lb ed="#A" n="29" break="no"/>surdum. Respon. Deus cooperatur 
+      genera<lb ed="#A" n="30" break="no"/>tioni naturali, quae est per se bona, &amp; opus 
+      <!--123.xml-->
+      <pb ed="#A" n="104"/>
+               <lb ed="#A" n="1"/>naturae: non autem vitio, quo fornicatores 
+      <lb ed="#A" n="2"/>&amp; adulteri contra legem Dei generationem 
+      <lb ed="#A" n="3"/>perficiunt. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

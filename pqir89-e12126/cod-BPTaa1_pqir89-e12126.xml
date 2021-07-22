@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 8</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 8</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="175-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-e12126"><!-- p3a8 -->
+            <head xml:id="pqir89-e12126-Hd1e106">Articulus 8</head>
+            <head xml:id="pqir89-e12126-Hd1e109" type="question-title">
+        In quo solvuntur tres quaestiones. 
+        Prima est, An fides bene distinguatur in 
+        infusam, et acquisitam?
+        Secunda est, An fides sit certior ipsis 
+        scientiis? 
+        Tertia est, Quid sit proprie credere in 
+        Deum?
+      </head>
+            <p xml:id="pqir89-e12126-d1e112">
+               <lb ed="#A" n="18"/>ART. VIII 
+      <lb ed="#A" n="19"/>In quo solvuntur tres quaestiones. 
+      <lb ed="#A" n="20"/>Prima est, An fides bene distinguatur in 
+      <lb ed="#A" n="21"/>infusam, &amp; acquisitam?
+      <lb ed="#A" n="22"/>Secunda est, An fides sit certior ipsis 
+        scien<lb ed="#A" n="23" break="no"/>tiis? 
+      <lb ed="#A" n="24"/>Tertia est, Quid sit proprie credere in 
+      <lb ed="#A" n="25"/>Deum?
+    </p>
+            <p xml:id="pqir89-e12126-d1e132">
+               <lb ed="#A" n="26"/>Ona, entura, egregius interpres 
+      <ref xml:id="pqir89-e12126-Rd1e136">Magi<lb ed="#A" n="27" break="no"/>lstri Sententiarum, in lib. 2. Dist. 2S 
+      <!--194.xml-->
+      <pb ed="#A" n="175"/>
+                  <lb ed="#A" n="1"/>AEνt. 2. quaest. 2.</ref> asserit duo requisita esse ad 
+      <lb ed="#A" n="2"/>habitum fidei: primo, ut intellectus 
+      instrua<lb ed="#A" n="3" break="no"/>tur de credibilibus, secundo, ut inclinetur 
+      <lb ed="#A" n="4"/>&amp; inffectatur ad assentiendum illis articulis,  
+      <lb ed="#A" n="5"/>qui credendi sunt: aliud enim est, seire quid 
+      <lb ed="#A" n="6"/>dicatur in aliquo Scripturae textu, aliud est,  
+      <lb ed="#A" n="7"/>seire verum esse id quod ibi dicitur.. Ethnicus 
+      <lb ed="#A" n="8"/>enim, aut infidelis scite, potest quid 
+      dica<lb ed="#A" n="9" break="no"/>tur in historia Mosaica aut Euangelicas at 
+      <lb ed="#A" n="10"/>non potest scite verum esse illud quod ibi 
+      di<lb ed="#A" n="11" break="no"/>citur, nisi intellectus eius a Deo mo veatur, 
+      <lb ed="#A" n="12"/>ad assentiendum. Quamvis igitur fides sit 
+      <lb ed="#A" n="13"/>quid acquisitum quoad illam insormationem 
+      <lb ed="#A" n="14"/>mentis de credibilibus, (est onim ex auditu. 
+      <lb ed="#A" n="15"/>som. Io) est tamen quid mere supernaturale, 
+      <lb ed="#A" n="16"/>&amp; infusum, si consideretur secundum illud 
+      <lb ed="#A" n="17"/>quod in ea est praecipuum, h, g. inclinationem 
+      <lb ed="#A" n="18"/>mentis ad assentiendum. 
+    </p>
+            <p xml:id="pqir89-e12126-d1e185">
+               <lb ed="#A" n="19"/>a2 Cum fides proprie dicta sit Dei 
+      do<lb ed="#A" n="20" break="no"/>num, &amp; non quid a nobis ipsis acquisitum,  
+      <lb ed="#A" n="21"/>vix satis commoda videtur illa fidei 
+      distin<lb ed="#A" n="22" break="no"/>ctio in infusam &amp; acquisitam: nisi vel 
+      dica<lb ed="#A" n="23" break="no"/>mus, illam non esse divisionem fidei in duas 
+      <lb ed="#A" n="24"/>di versas species, sed potius esse distinctionem 
+      <lb ed="#A" n="25"/>unius &amp; eiusdem fidei in duas eius 
+      considera<lb ed="#A" n="26" break="no"/>tiones: nam pro di versa consideratione, fides 
+      <lb ed="#A" n="27"/>est &amp; quid acquisitum, &amp; quid infusum, ut 
+      <lb ed="#A" n="28"/>iam dictum est: vel dicamus fidem late 
+      ac<lb ed="#A" n="29" break="no"/>cipi pro quouis assensu, quo assentimur. 
+      <lb ed="#A" n="30"/>S. Scripturae: talis enim assensus est duplex: 
+      <!--195.xml-->
+      <pb ed="#A" n="176"/>
+               <lb ed="#A" n="1"/>quia quidam ei assentiuntur, moti humana 
+      <lb ed="#A" n="2"/>persuasione, h. e. propter amorem &amp; 
+      reve<lb ed="#A" n="3" break="no"/>rentiam quo prosequuntur dicentem, vel 
+      <lb ed="#A" n="4"/>propter rationes &amp; argumenta: &amp; horum 
+      as<lb ed="#A" n="5" break="no"/>sensus a Bondventura dicitur fides, acquisita, 
+      <lb ed="#A" n="6"/>late videlicet accepto nomine fidei: alii, vero 
+      <lb ed="#A" n="7"/>assentiuntur, quia primae veritati tanquam  
+      <lb ed="#A" n="8"/>certissimo fundamento innituntur, &amp; horum, 
+      <lb ed="#A" n="9"/>assensus est fides infusa, proprieque 
+      appella<lb ed="#A" n="10" break="no"/>tur fides. 
+    </p>
+            <p xml:id="pqir89-e12126-d1e241">
+               <lb ed="#A" n="11"/>S Bona ventura comparans fidem &amp; 
+      scien<lb ed="#A" n="12" break="no"/>tias Philosophicas quoad certitudinem, di¬¬ 
+      <lb ed="#A" n="13"/>stinguit certitudinem in certitudinem 
+      cognitio<lb ed="#A" n="14" break="no"/>nis seu speculationis, &amp; certitudinem ad 
+      haesio<lb ed="#A" n="15" break="no"/>nis: dicitque fidem esse certiorem, scientiis. 
+      <lb ed="#A" n="16"/>certitudine adhaessonis, quae praecipue 
+      respi<lb ed="#A" n="17" break="no"/>cit voluntatem: non vero certitudine 
+      specu<lb ed="#A" n="18" break="no"/>lationis, quae ad intellectum pertinet: dicit 
+      <lb ed="#A" n="19"/>eam esse certiorem certitudine adhaesionis,  
+      <lb ed="#A" n="20"/>quia fideles Christiani nec argumentis, nec 
+      tor<lb ed="#A" n="21" break="no"/>mentis, neque blandimentis, adduci possunt &amp; 
+      <lb ed="#A" n="22"/>inclinari (verba ipsius sunt) ut veritatem quam  
+      <lb ed="#A" n="23"/>credunt, vel ore tenus negent: quod nemo peritus 
+      <lb ed="#A" n="24"/>alicuius scientiae faceret, si acerrimis tormentis 
+      <lb ed="#A" n="25"/>cogeretur sententiam suam de conclusione aliqua 
+      <lb ed="#A" n="26"/>Geometrica aut Arithmelica retractare: stultus 
+      <lb ed="#A" n="27"/>enim &amp; ridiculus esset Geometra, qui pro sua 
+      <lb ed="#A" n="28"/>sententia in contro versus Geometricis mortem 
+      au<lb ed="#A" n="29" break="no"/>deret subire, nisi in quantum fides dictat non esse 
+      <lb ed="#A" n="30"/>mentiendum. 
+      <!--196.xml-->
+      <pb ed="#A" n="177"/>
+               <lb ed="#A" n="1"/>A Verum quicquid dicat Bona ventura, 
+      fi<lb ed="#A" n="2" break="no"/>des est certior scientiis, tum certitudine 
+      co<lb ed="#A" n="3" break="no"/>gnitionis, tum certitudine adhaesionis: idque 
+      <lb ed="#A" n="4"/>quia certitudo cognitionis oritur ex 
+      certitu<lb ed="#A" n="5" break="no"/>dine fundamenti, quo nititur intellectus 
+      no<lb ed="#A" n="6" break="no"/>ster cum assentitur alicui propositioni: 
+      fun<lb ed="#A" n="7" break="no"/>damentum autem quo nitur assensus fidei est 
+      <lb ed="#A" n="8"/>Dei veritas &amp; authoritas, quae est longe 
+      cer<lb ed="#A" n="9" break="no"/>tius fundamentum quam humana aliqua 
+      ra<lb ed="#A" n="10" break="no"/>tio. Interim si improprie accipiatur, 
+      certitu<lb ed="#A" n="11" break="no"/>do cognitionis, pro firmitate assentiendi quae 
+      <lb ed="#A" n="12"/>opponitur haesitationi &amp; dubitationi, non 
+      <lb ed="#A" n="13"/>negandum est scientias esse fide certiores: 
+      <lb ed="#A" n="14"/>scientia enim saepe tam firma est, ut excludat 
+      <lb ed="#A" n="15"/>omnem dubitationem: quod non semper 
+      ve<lb ed="#A" n="16" break="no"/>rum est de fide: quamvis enim non deficiat 
+      <lb ed="#A" n="17"/>fons ille aquae salientis in vitam aeternam,  
+      <lb ed="#A" n="18"/>non tamen putandum est virtutem hanc 
+      sem<lb ed="#A" n="19" break="no"/>per inoffenso tenorelextra omnem 
+      formidi<lb ed="#A" n="20" break="no"/>nis aleam stadium suum decurreres sed potius 
+      <lb ed="#A" n="21"/>perpetuam ei luctam cum diffidentia esse, 
+      in<lb ed="#A" n="22" break="no"/>genue confitendum est. 
+    </p>
+            <p xml:id="pqir89-e12126-d1e339">
+               <lb ed="#A" n="23"/>S <ref xml:id="pqir89-e12126-Rd1e343">
+                  <name xml:id="pqir89-e12126-Nd1e345">Clarissimus Tilenus</name>, δntag. part. 2. 
+      <lb ed="#A" n="24"/>Disp. 42. Theses.</ref> distinguit certitudinem in 
+      <lb ed="#A" n="25"/>exvidentem, &amp; non exidentem: illam dicit esse 
+      <lb ed="#A" n="26"/>eorum quae vel rationis vel sensus lumine 
+      vi<lb ed="#A" n="27" break="no"/>dentur: cuiusmodi sunt prima principia, &amp; 
+      <lb ed="#A" n="28"/>conclusiones evidenter ex illis deductae, 
+      ac<lb ed="#A" n="29" break="no"/>deinde ea quae experientia magistra 
+      didici<lb ed="#A" n="30" break="no"/>mus: istam vult esse corum, quae testis veracis 
+      <!--197.xml-->
+      <pb ed="#A" n="178"/>
+               <lb ed="#A" n="1"/>affrmatione nituntur: unde fit ut quo 
+      ma<lb ed="#A" n="2" break="no"/>ior est aut horitas testis, eo certior ac firmior 
+      <lb ed="#A" n="3"/>sit assensus credentis: hinc colligit, ea quae 
+      di<lb ed="#A" n="4" break="no"/>vino testimonio, cuius summa est aut 
+      hori<lb ed="#A" n="5" break="no"/>tas, nituntur, summam quoque gignere 
+      cer<lb ed="#A" n="6" break="no"/>titudinem, ac respectu huius causae quae nec 
+      <lb ed="#A" n="7"/>fallere nec falli potest, longe certiora esse ea 
+      <lb ed="#A" n="8"/>quae credimus, quam quae rationis humanae 
+      <lb ed="#A" n="9"/>ductu, aut lumine scimus. 
+    </p>
+            <p xml:id="pqir89-e12126-d1e389">
+               <lb ed="#A" n="10"/>&amp; Tertia quaestio in titulo proposita, est,  
+      <lb ed="#A" n="11"/>quid sit credere in Deum, &amp; quo modo 
+      diffe<lb ed="#A" n="12" break="no"/>rat ab eo quod est credere Deum, &amp; credere 
+      <lb ed="#A" n="13"/>Deo. P. Lombardus, Lib. S. Sent. Dist. 22. 
+      <lb ed="#A" n="14"/>haec explicans, sic ait: Credere Deo, est credere 
+      <lb ed="#A" n="15"/>vera esse quae loquitur: credere Deum, est 
+      crede<lb ed="#A" n="16" break="no"/>re quod ipse sit Deus : &amp; credere in Deum, est 
+      <lb ed="#A" n="17"/>tredendo amare, credendo in eum ire, credendo 
+      <lb ed="#A" n="18"/>ei ad haerere &amp; membris eius incorporati: 
+      <lb ed="#A" n="19"/>Hanc distinctionem Magistri probare non 
+      <lb ed="#A" n="20"/>possum, quia ex ea, sequitur, credere in Deum 
+      <lb ed="#A" n="21"/>esse actum &amp; charitatis &amp; fidei, quod est 
+      ab<lb ed="#A" n="22" break="no"/>surdum, cum diversorum habituum diversi 
+      <lb ed="#A" n="23"/>sint actus. 
+    </p>
+            <p xml:id="pqir89-e12126-d1e422">
+               <lb ed="#A" n="24"/>y Quare dicendum videtur., credere in 
+      <lb ed="#A" n="25"/>Deum, in hoc differre ab eo quod est credere 
+      <lb ed="#A" n="26"/>Deo, quod credere Deo sit fidem et adhibere, 
+      <lb ed="#A" n="27"/>quatenus simpliciter aliquid narrat: etedere 
+      <lb ed="#A" n="28"/>vero in Deum, sit fidem ei adhibere 
+      quate<lb ed="#A" n="29" break="no"/>nus aliquid promittit, seu assentiri equs 
+      promis<lb ed="#A" n="30" break="no"/>sionibus, idque cum triplici hac persuasione. 
+      <!--198.xml-->
+      <pb ed="#A" n="179"/>
+               <lb ed="#A" n="1"/>Primo, quod non simulet, aut hypocritice agat, 
+      <lb ed="#A" n="2"/>ut solent homines, sed quod revera velit 
+      be<lb ed="#A" n="3" break="no"/>neficium illud in te conferre. Secundo, quod 
+      <lb ed="#A" n="4"/>etiam possit praestare id quod pollicitus est imo 
+      <lb ed="#A" n="5"/>quod ita possit ut a nulla validiori potentia 
+      <lb ed="#A" n="6"/>impediri queat. Tertio, quod consilium mutare 
+      <lb ed="#A" n="7"/>nesciat, adeoque quod revera daturus sit id 
+      <lb ed="#A" n="8"/>quod pollicitus est. Vnde patet, quam vis 
+      <lb ed="#A" n="9"/>fidem adhibeamus homini aliquid 
+      promit<lb ed="#A" n="10" break="no"/>tenti, nos non posse dici credere in hominem. 
+      <lb ed="#A" n="11"/>nullam enim ex his tribus persuasionibus de 
+      <lb ed="#A" n="12"/>homine habere possumus. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

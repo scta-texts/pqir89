@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 23</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 23</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="254"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-e18095"><!-- p3a23 -->
+            <head xml:id="pqir89-e18095-Hd1e106">Articulus 23</head>
+            <head xml:id="pqir89-e18095-Hd1e109" type="question-title">
+        An Religio sit virtus Theologica a Fide 
+        distincta.s
+      </head>
+            <p xml:id="pqir89-e18095-d1e112">
+      <!--273.xml-->
+               <pb ed="#A" n="254"/>
+               <lb ed="#A" n="1"/>ART. XXIII 
+      <lb ed="#A" n="2"/>An Religio sit virtus Theologica a Fide 
+        di<lb ed="#A" n="3" break="no"/>stincta. 
+    </p>
+            <p xml:id="pqir89-e18095-d1e125">
+               <lb ed="#A" n="4"/>
+               <ref xml:id="pqir89-e18095-Rd1e129">TAHomas Aquinas, secundam secundae, Quae¬ 
+      <lb ed="#A" n="5"/>stione SI. Art. I.</ref> de Religione 
+      disse<lb ed="#A" n="6" break="no"/>rens, triplicem affert eius notationem, seu 
+      <lb ed="#A" n="7"/>Aῶάον ἐνoματα. Prima est, qua Religio a 
+      <lb ed="#A" n="8"/>Relegendo dicitur, quod illi qui sunt religiosi 
+      <lb ed="#A" n="9"/>saepius ea retractent, &amp; quasi relegaut, quae ad 
+      <lb ed="#A" n="10"/>di vinum cultum pertinent. Secunda est, quam 
+      <lb ed="#A" n="11"/>religio dicitur a Ngeligendo, quod Deum 
+      ree<lb ed="#A" n="12" break="no"/>ligere debeamus, quem amiseramus 
+      negli<lb ed="#A" n="13" break="no"/>gentes. Tertia est, quam religio derivatura 
+      <lb ed="#A" n="14"/>Religando, quod ea nos neliget, seu denuo 
+      <lb ed="#A" n="15"/>coninngat Deo omnipotenti. sive autem (
+      in<lb ed="#A" n="16" break="no"/>quit Thomas) religio dicatur a frequenti 
+      rele<lb ed="#A" n="17" break="no"/>ctione, sive ex iterata electione eius quod 
+      negli<lb ed="#A" n="18" break="no"/>genter amissum est, sive a religatione, religio 
+      pro<lb ed="#A" n="19" break="no"/>prie importat ordinem ad Deum: ipse enim est cui 
+      <lb ed="#A" n="20"/>principaliter alligari debemus, tanquam 
+      indefi<lb ed="#A" n="21" break="no"/>cienti pfincipio, ad quem etiam nostra electio 
+      as<lb ed="#A" n="22" break="no"/>sidue dirigi debet, sicut in ultimum fiuem quem  
+      <lb ed="#A" n="23"/>etiam hegligenter peccando amittimus, &amp; 
+      cneden<lb ed="#A" n="24" break="no"/>do ac fidem protestando recuperare debemus. Haec 
+      <lb ed="#A" n="25"/>D. Thomas. 
+    </p>
+            <p xml:id="pqir89-e18095-d1e178">
+               <lb ed="#A" n="26"/>2 Religio a 8. Thoma sic definitur, Religio 
+      <!--274.xml-->
+      <pb ed="#A" n="255"/>
+               <lb ed="#A" n="1"/>est, quae Deo debitum cultum offert: &amp;Xanchio 
+      <lb ed="#A" n="2"/>sic explicatur, Est virtus posita in vero veri 
+      <lb ed="#A" n="3"/>Dei cultu, tum externo, tum vero maxime 
+      inter<lb ed="#A" n="4" break="no"/>no: a Polano sic describitur, Religio est 
+      vir<lb ed="#A" n="5" break="no"/>tus animis nostris a Deo per Spiritum sanctum  
+      <lb ed="#A" n="6"/>indita seu infusa, quam religiosi &amp; pii effecti 
+      <lb ed="#A" n="7"/>Deum recte agnoscimus &amp; colimus, id est, ex 
+      <lb ed="#A" n="8"/>ipsius voluntate in scriptis Propheticis &amp; 
+      Apo<lb ed="#A" n="9" break="no"/>stolicis repelata. A Tileno denique hac 
+      descri<lb ed="#A" n="10" break="no"/>ptione explicatur, Religio est Ceremoniarum 
+      <lb ed="#A" n="11"/>&amp; Rituum a Deo praescriptorum obserratio. 
+      <lb ed="#A" n="12"/>Haec descriptio Tileni in hoc differt a 
+      praece<lb ed="#A" n="13" break="no"/>dentibus, quod non satis amplum 
+      obse<lb ed="#A" n="14" break="no"/>ctum religioni assignet: dicit enim, eam 
+      ver<lb ed="#A" n="15" break="no"/>sari. circa ritus &amp; ceremonias a Deo 
+      prae<lb ed="#A" n="16" break="no"/>scriptos: cum tamen certum sit, 
+      reli<lb ed="#A" n="17" break="no"/>gionem praecipue versari circa cultum 
+      inter<lb ed="#A" n="18" break="no"/>num. 
+    </p>
+            <p xml:id="pqir89-e18095-d1e227">
+               <lb ed="#A" n="19"/>S <name xml:id="pqir89-e18095-Nd1e231">Bellarminus</name>, Tom. I. contropers. S. 
+      con<lb ed="#A" n="20" break="no"/>tropersi generali, Zib. 2. Cap. 2. sic definit 
+      <lb ed="#A" n="21"/>Religionem: Religio est status hominum, ad 
+      <lb ed="#A" n="22"/>porfectionem Christianam tendentium, per 
+      pau<lb ed="#A" n="23" break="no"/>pertatis, continentiae, &amp; obedientiae vota: sed 
+      <lb ed="#A" n="24"/>huec definitio valde inepta est: nam ut dicit 
+      <lb ed="#A" n="25"/>D. Thomas secundam secundae quaest. S4. Art. 
+      X<lb ed="#A" n="26" break="no"/>Religio est virtus quaedam seu habitus 
+      men<lb ed="#A" n="27" break="no"/>tis, &amp; proinde non recte dicitur status 
+      homi<lb ed="#A" n="28" break="no"/>num, &amp;c. 
+    </p>
+            <p xml:id="pqir89-e18095-d1e254">
+               <lb ed="#A" n="29"/>A Ex tribus primis descriptionibus Reli¬ 
+      <!--275.xml-->
+      <pb ed="#A" n="256"/>
+               <lb ed="#A" n="1"/>gionis patet, eam esse rectam rationem colende 
+      <lb ed="#A" n="2"/>Deum, seu habitum directivum earum 
+      actio<lb ed="#A" n="3" break="no"/>num, quibus Deum colimus &amp; veneramur. cum  
+      <lb ed="#A" n="4"/>enim natura nostra corrupta, prona sit ad 
+      <lb ed="#A" n="5"/>concipiendum erroneas opiniones de Deo, 
+      <lb ed="#A" n="6"/>&amp; sectandum falsas rationes eum colendi: 
+      <lb ed="#A" n="7"/>noster cultus Deo gratus &amp; acceptus esse non 
+      <lb ed="#A" n="8"/>potest, nisi praediti simus habitu aliquo 
+      dice<lb ed="#A" n="9" break="no"/>ctivo, cuius beneficio Deum recte 
+      agnosca<lb ed="#A" n="10" break="no"/>mus, &amp; colamus. 
+    </p>
+            <p xml:id="pqir89-e18095-d1e285">
+               <lb ed="#A" n="11"/>s Quaeri solet, utrum hic directivus, 
+      habi<lb ed="#A" n="12" break="no"/>tus sit virtus moralis, an vero Theologica. &amp;. 
+      <lb ed="#A" n="13"/>Thomas, secundam secundae quaest. SI. Artic.S. 
+      <lb ed="#A" n="14"/>dicit, Religionem esse virtutem moralem, &amp;  
+      <lb ed="#A" n="15"/>eius opinionem amplectitur <ref xml:id="pqir89-e18095-Rd1e298">Daniel Tlenus 
+      <lb ed="#A" n="16"/>part. I. Sntag. disp. 44. Thes. 9.</ref> Contra 
+      ve<lb ed="#A" n="17" break="no"/>ro <ref xml:id="pqir89-e18095-Rd1e305">Zanchius, Tom. 4. Cap. I2.</ref> in explicatione 
+      <lb ed="#A" n="18"/>
+               <ref xml:id="pqir89-e18095-Rd1e310">Thes. I. Polanus sontag. Lib. 9. Cap. I.</ref> &amp; alu, 
+      <lb ed="#A" n="19"/>dicunt Religionem esse virtutem a Deo per 
+      <lb ed="#A" n="20"/>Spiritum suum animis nostris inditam seu 
+      <lb ed="#A" n="21"/>infusam, &amp; proinde Theologicis virtutibus 
+      <lb ed="#A" n="22"/>annumerandam: morales enim seu Ethicae 
+      <lb ed="#A" n="23"/>virtutes a Deo non infunduntur, sed 
+      cre<lb ed="#A" n="24" break="no"/>bra. bonarum actionum iteratione 
+      acqui<lb ed="#A" n="25" break="no"/>runtur. 
+    </p>
+            <p xml:id="pqir89-e18095-d1e329">
+               <lb ed="#A" n="26"/>o Huius quaestionis determinationem 
+      <lb ed="#A" n="27"/>tribus assertionibus proponam: &amp; deinde 
+      <lb ed="#A" n="28"/>soluam duo praecipua argumenta, quae afferri 
+      <lb ed="#A" n="29"/>possunt. in contrarium. Prima assertio sit haec¬ 
+      <!--276.xml-->
+      <pb ed="#A" n="257"/>
+               <lb ed="#A" n="1"/>Virtus illa cuius beneficio Deum, recte agnoscio 
+      <lb ed="#A" n="2"/>mus, &amp; colimus, non potest naturae viribus 
+      ac<lb ed="#A" n="3" break="no"/>quiri, sed a Deo immediato infunditur: hoc 
+      <lb ed="#A" n="4"/>autem probatur manifeste, quia, ut docet ipse 
+      <lb ed="#A" n="5"/>Tilenus disp. 2. quae est de origine S. Scripturae, 
+      <lb ed="#A" n="6"/>lux naturae non sufficit ad Deum recte 
+      co<lb ed="#A" n="7" break="no"/>gnoscendum, multo minus ad eum rite 
+      co<lb ed="#A" n="8" break="no"/>lendum: &amp; proinde opus est habitum quodam  
+      <lb ed="#A" n="9"/>supernaturali, qui regulativus &amp; directivus 
+      <lb ed="#A" n="10"/>sit venerationis nostrae. 
+    </p>
+            <p xml:id="pqir89-e18095-d1e366">
+               <lb ed="#A" n="11"/>V Secunda assertio: Religio non est 
+      vir<lb ed="#A" n="12" break="no"/>tus a Fide re distincta: nam Fidei competit 
+      de<lb ed="#A" n="13" break="no"/>finitio religionis. Hoc autem sic ostenditur: 
+      <lb ed="#A" n="14"/>Fides est habitus directivus &amp; regulativus 
+      <lb ed="#A" n="15"/>nostrae adorationis, quam Deum adoramus, &amp; 
+      <lb ed="#A" n="16"/>colimus: Ergo Fides est religio. Ratio 
+      an<lb ed="#A" n="17" break="no"/>tecedentis est, quia per Fidem novimus quis 
+      <lb ed="#A" n="18"/>cultus Deos gratus sit, &amp; quomodo ille 
+      cul<lb ed="#A" n="19" break="no"/>tus Deo sit exhibendus,  
+    </p>
+            <p xml:id="pqir89-e18095-d1e388">
+               <lb ed="#A" n="20"/>S Tert. assert. Notitia voluntatis divinae, 
+      <lb ed="#A" n="21"/>quam ex verbo Dei habemus, duobus modis 
+      con<lb ed="#A" n="22" break="no"/>siderari potest: primo, quatenus est notitia, aut 
+      <lb ed="#A" n="23"/>assensus nitens Dei testimonio in verbo suo: 
+      se<lb ed="#A" n="24" break="no"/>cundo, quatenus est notitia directina, seu regulatia 
+      <lb ed="#A" n="25"/>pa actionum nostrararum quibus Deum colimus: 
+      <lb ed="#A" n="26"/>haec notitia priori modo considerata 
+      appel<lb ed="#A" n="27" break="no"/>latur sides, at quatenus posteriori modo 
+      con<lb ed="#A" n="28" break="no"/>sideratur, appellatur religio, &amp; proinde fides 
+      <lb ed="#A" n="29"/>non re, sed sola ratione a religione differt. 
+      <!--277.xml-->
+      <pb ed="#A" n="258"/>
+               <lb ed="#A" n="1"/>9 Contra hanc sententiam obiicitur 
+      pri<lb ed="#A" n="2" break="no"/>mos Religionem non esse virrutem 
+      Theolo<lb ed="#A" n="3" break="no"/>gicam, quia Theogicae virtutis obiectum est 
+      <lb ed="#A" n="4"/>ipse Deus, at obiectum religionis est cultus 
+      <lb ed="#A" n="5"/>Dei, vel ut alii loquuntur, id quod Deo 
+      offer<lb ed="#A" n="6" break="no"/>tur: vid, sacrificia, ieiunia, preces. Primo resp. 
+      <lb ed="#A" n="7"/>virtutes Theologicas non tam ex obiecto 
+      <lb ed="#A" n="8"/>suo, quam ex origine aestimandas esse: illae 
+      e<lb ed="#A" n="9" break="no"/>nim virtutes dicendae sunt infusae, seu 
+      Theo<lb ed="#A" n="10" break="no"/>logicae, quae nostro labore &amp; industria 
+      acqui<lb ed="#A" n="11" break="no"/>ri non possunt, sed a Deo immediate 
+      infun<lb ed="#A" n="12" break="no"/>duntur. Secundo resp. Religionem quatenus 
+      <lb ed="#A" n="13"/>est a parte rei eadem cum fide, pio obiecto 
+      <lb ed="#A" n="14"/>habere ipsum Deum: nam fidei obiectum, ut 
+      <lb ed="#A" n="15"/>omnes fatentur, est ipse Deus. 
+    </p>
+            <p xml:id="pqir89-e18095-d1e450">
+               <lb ed="#A" n="16"/>Io Secund. ob. Religionem non esse 
+      vir<lb ed="#A" n="17" break="no"/>tutem supernaturalem, quia ex humanae 
+      ra<lb ed="#A" n="18" break="no"/>tionis dictamine ortum habet: nam numen 
+      a<lb ed="#A" n="19" break="no"/>liquo modo colendum esse (inquit Tilenus) 
+      omni<lb ed="#A" n="20" break="no"/>um etium efferatissimarum gentium consensu &amp; 
+      <lb ed="#A" n="21"/>more receptum est. Resp. Religionem non esse 
+      <lb ed="#A" n="22"/>generalem notitiam quam noximus numen 
+      es<lb ed="#A" n="23" break="no"/>se aliquo modo colendum, sed distinctam 
+      no<lb ed="#A" n="24" break="no"/>titiam quam novimus Deum hoc particulari 
+      <lb ed="#A" n="25"/>modo esse colendums hoc est, hunc cultum 
+      <lb ed="#A" n="26"/>&amp; non alium esse Deo gratum, &amp; acceptum: 
+      <lb ed="#A" n="27"/>haec autem notitia non potest ex humanae 
+      ra<lb ed="#A" n="28" break="no"/>tionis dictamine ortum habere, ut cuivis 
+      ma<lb ed="#A" n="29" break="no"/>nifestum est.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

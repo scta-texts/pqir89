@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 1</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 1</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="1"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-d1e7xx"><!-- p1a1 -->
+            <head xml:id="pqir89-d1e7xx-Hd1e106">Articulus 1</head>
+            <head xml:id="pqir89-d1e7xx-Hd1e109" type="question-title">
+      Affertur prima divisio Entis realis, 
+      et ostenditur solum Deum esse Ens 
+      necessarium.
+    </head>
+            <p xml:id="pqir89-d1e7xx-d1e112">
+      <!--18.xml-->
+               <pb ed="#A" n="1"/>
+               <lb ed="#A" n="1"/>EXERCITATIO 
+      <lb ed="#A" n="2"/>PRIMA 
+      <lb ed="#A" n="3"/>De Ente &amp; Essentia. 
+      <lb ed="#A" n="4"/>ART. I. 
+      <lb ed="#A" n="5"/>Affertur prima divisio Entis realis, &amp; 
+      o<lb ed="#A" n="6" break="no"/>stenditur solum DEUM esse Ens 
+      <lb ed="#A" n="7"/>necessarium. 
+    </p>
+            <p xml:id="pqir89-d1e7xx-d1e134">
+               <lb ed="#A" n="8"/>ENS reale, primo dividitur, in 
+      sini<lb ed="#A" n="9" break="no"/>tum &amp; infinitum: hoc est, in 
+      crea<lb ed="#A" n="10" break="no"/>i torem &amp; creaturam : quae quidem  
+      <lb ed="#A" n="11"/>e divisio, multis aliis modis tradi &amp;  
+      <lb ed="#A" n="12"/>proponi solet: quidam enim hanc divisionem 
+      <lb ed="#A" n="13"/>sic proponunt, Ens aliud est a se, aliud ab alio: 
+      <lb ed="#A" n="14"/>aliij sic, Entium, alia sunt, seu existunt per 
+      es<lb ed="#A" n="15" break="no"/>sentiam, alia per participationem: alum sic, Ens 
+      <lb ed="#A" n="16"/>aliud est necessarium, aliud contingens. DEVS 
+      <lb ed="#A" n="17"/>gloriosus est Ens infinitum, ab alio non 
+      ha<lb ed="#A" n="18" break="no"/>bens existentiam: item est Ens per essentiam,  
+      <lb ed="#A" n="19"/>&amp; summen necessarium: Creaturae vero sunt 
+      <lb ed="#A" n="20"/>entia finita, abalio existentiam habentia, 
+      id<lb ed="#A" n="21" break="no"/>coque non necessaria, sed contingentia. 
+    </p>
+            <p xml:id="pqir89-d1e7xx-d1e167">
+               <lb ed="#A" n="22"/>2. Duo primi modi proponendi hanc 
+      di<lb ed="#A" n="23" break="no"/>visionem, explicatione non egent: duo vero 
+      <lb ed="#A" n="24"/>postremi, non ita perspicui sunt: idcirco 
+      lon<lb ed="#A" n="25" break="no"/>piorem explicationem postulant: ego exor. 
+      <lb ed="#A" n="26"/>diar a postrema divisione, quae est in Ens ne¬ 
+      <!--19.xml-->
+      <pb ed="#A" n="2"/>
+               <lb ed="#A" n="1"/>cessarium, &amp; Ens contingens. Dicitur DEVS 
+      <lb ed="#A" n="2"/>gloriosus Ens necessarium, quia necesse est 
+      <lb ed="#A" n="3"/>eum semper actu existere: neque enim potest 
+      <lb ed="#A" n="4"/>Deus privare se ipsum suo esse, id est, 
+      existen<lb ed="#A" n="5" break="no"/>tiae actu, neque aliud quidpiam id potest, cum  
+      <lb ed="#A" n="6"/>ab alio non pendeat. Creaturae vero sunt 
+      en<lb ed="#A" n="7" break="no"/>tia contingentia; id est, contingenter existunt,  
+      <lb ed="#A" n="8"/>pendent enim a conservativa virtute causae 
+      <lb ed="#A" n="9"/>libere agentis; id est, Dei, qui antequam 
+      de<lb ed="#A" n="10" break="no"/>dit iis esse, potuit illud non dare, &amp; postquam  
+      <lb ed="#A" n="11"/>dedit, potest auferre. 
+    </p>
+            <p xml:id="pqir89-d1e7xx-d1e209">
+               <lb ed="#A" n="12"/>3. Multa hic objici solent de necessitate 
+      <lb ed="#A" n="13"/>substantiarum separatarum, corporum 
+      coele<lb ed="#A" n="14" break="no"/>stium, materiae primae, naturarum uni 
+      versa<lb ed="#A" n="15" break="no"/>lium, &amp; propositionum necessariarum, quibus 
+      <lb ed="#A" n="16"/>aeterna veritas a Philosophis tribuitur: verum 
+      <lb ed="#A" n="17"/>quia spinosae istae quaestiones, multos sua 
+      dif<lb ed="#A" n="18" break="no"/>ficultate deterrent, &amp; avocant a studiis 
+      Phi<lb ed="#A" n="19" break="no"/>losophicis: ego iis omissis, ad alia pergam, 
+      <lb ed="#A" n="20"/>quae magis necessaria &amp; jucunda sunt. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

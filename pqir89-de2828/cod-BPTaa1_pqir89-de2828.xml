@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 9</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 9</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="40-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-de2828"><!-- p1a9 -->
+            <head xml:id="pqir89-de2828-Hd1e106">Articulus 9</head>
+            <head xml:id="pqir89-de2828-Hd1e109" type="question-title">
+      An Deus, ut est communis tribus 
+      personis, sit singularis substantia: et an tres 
+      personae Trinitatis: sint tres singulares 
+      substantiae.
+    </head>
+            <p xml:id="pqir89-de2828-d1e112">
+               <lb ed="#A" n="10"/>ARP. IX 
+      <lb ed="#A" n="11"/>An DEVS, ut est communis tribus 
+      perso<lb ed="#A" n="12" break="no"/>nis, sit singularis substantia: &amp; an tres 
+      <lb ed="#A" n="13"/>personae Trinitatis: sint tres singulares 
+      <lb ed="#A" n="14"/>substantiae. 
+    </p>
+            <p xml:id="pqir89-de2828-d1e125">
+               <lb ed="#A" n="15"/>S Vbstantia apud Latinos a subsistendo 
+      <lb ed="#A" n="16"/>Osut volunt nonnulli,) &amp; a substando 
+      <lb ed="#A" n="17"/>accidentibus (ut volunt aliis) dicta est: iuxta 
+      <lb ed="#A" n="18"/>posteriorem Etymologiam, DE VSOpt. 
+      <lb ed="#A" n="19"/>Max. non est substantia, sed substantiarum  
+      <lb ed="#A" n="20"/>omnium principium, &amp; causa: at iuxta 
+      prio<lb ed="#A" n="21" break="no"/>Trem, verassime &amp; propriissime est substantia, 
+    </p>
+            <p xml:id="pqir89-de2828-d1e143">
+               <lb ed="#A" n="22"/>non quidem universalis, sed singularis, &amp; 
+      in<lb ed="#A" n="23" break="no"/>di vidua: substantias enim secundae indigent 
+      <lb ed="#A" n="24"/>primis, ut in iis existant, at DEVS etiam quam 
+      <lb ed="#A" n="25"/>communis est tribus personis, nulla re 
+      indi<lb ed="#A" n="26" break="no"/>get, in qua existat. Sed obiiciet aliquis: 
+      <lb ed="#A" n="27"/>DEVS, ut est communis tribus personis Tri¬ 
+      <!--57.xml-->
+      <pb ed="#A" n="40"/>
+               <lb ed="#A" n="1"/>nitatis, est praedicabilis de pluribus, Ergo est 
+      <lb ed="#A" n="2"/>uni: ersalis, &amp; secunda substantia: Respond. 
+      <lb ed="#A" n="3"/>de finitionem universalis, sic concipiendam  
+      <lb ed="#A" n="4"/>esse, universale est id quod praedicari potest 
+      <lb ed="#A" n="5"/>deiis, quae sunt plura secundum ipsum nomen 
+      u<lb ed="#A" n="6" break="no"/>nivensalis: sic homo praedicatur de iis quae 
+      <lb ed="#A" n="7"/>sunt plura secundum nomen hominis, i, e. de 
+      <lb ed="#A" n="8"/>pluribus hominibus: at Deus praedicatur 
+      <lb ed="#A" n="9"/>quidem de pluribus personis, non tamen 
+      di<lb ed="#A" n="10" break="no"/>ci potest praedicari de pluribus secundum 
+      no<lb ed="#A" n="11" break="no"/>men Dei, i. e. de pluribus Diis. Aliij dicunt 
+      <lb ed="#A" n="12"/>illud esse universale, quod, praedicari potest de 
+      <lb ed="#A" n="13"/>pluribus, in quibus dividitur, &amp; multiplicatur. 
+      <lb ed="#A" n="14"/>sed eodem res redit. 
+    </p>
+            <p xml:id="pqir89-de2828-d1e194">
+               <lb ed="#A" n="15"/>a2 Secundo ob. Nulla prima seu 
+      singula<lb ed="#A" n="16" break="no"/>ris substantia sub se continet alias primas, seu 
+      <lb ed="#A" n="17"/>singulares substantias: at Deus sub se 
+      conti<lb ed="#A" n="18" break="no"/>net tres personas, quaelibet autem persona est 
+      <lb ed="#A" n="19"/>singulatis substantia. Resp. nulla singularis 
+      <lb ed="#A" n="20"/>substantia, sub se continet alias singulares. 
+      <lb ed="#A" n="21"/>substantias numero, h. e. differentiis indivi 
+      <lb ed="#A" n="22"/>dualibus distinctas: potest tamen una 
+      singu<lb ed="#A" n="23" break="no"/>laris, substantia sub se continere plures 
+      per<lb ed="#A" n="24" break="no"/>sonas unam numero essentiam habentes, &amp; 
+      <lb ed="#A" n="25"/>solis existendi modis distinctas. 
+    </p>
+            <p xml:id="pqir89-de2828-d1e220">
+               <lb ed="#A" n="26"/>S Altera quaestio, in titulo proposita, est,  
+      <lb ed="#A" n="27"/>an tres personae Trinitatis sint tres 
+      singula<lb ed="#A" n="28" break="no"/>res substantiae: Huius quaestionis disfcultas 
+      <lb ed="#A" n="29"/>in hoc est posita, quod Orthodoxi Patres 
+      sta<lb ed="#A" n="30" break="no"/>tuant filium esse Patri oξoξσον, h. e. ut Eecle¬ 
+      <!--58.xml-->
+      <pb ed="#A" n="41"/>
+               <lb ed="#A" n="1"/>sia Latina vertit, consubstantialem, siue unius 
+      <lb ed="#A" n="2"/>&amp; eiusdem substantiae, ut merito Hieronomus 
+      <lb ed="#A" n="3"/>in Epistola ad Damasum dixerit, quis audeat 
+      <lb ed="#A" n="4"/>ore sacrilego tres substantias in Deo concederes 
+      <lb ed="#A" n="5"/>Contna vero, cum persona sit substantia 
+      sin<lb ed="#A" n="6" break="no"/>gularis, tot videntur esse singulares 
+      substan<lb ed="#A" n="7" break="no"/>tiae in Deitate, quot sunt in ea personae. 
+    </p>
+            <p xml:id="pqir89-de2828-d1e253">
+               <lb ed="#A" n="8"/>A Huius quaestionis determinatio 
+      dua<lb ed="#A" n="9" break="no"/>bus assertionibus comprehendi potest. 
+      Pri<lb ed="#A" n="10" break="no"/>mo, novae &amp; insolitae locutiones in mysteriis 
+      <lb ed="#A" n="11"/>fidei non sunt vsurpandae: vitandi enim sunt 
+      <lb ed="#A" n="12"/>omnes modi loquendi, qui Haereticis vel 
+      <lb ed="#A" n="13"/>in speciem fauere videntur. Qui igitur de 
+      <lb ed="#A" n="14"/>tribus personis adorandae Trinitatis 
+      loquun<lb ed="#A" n="15" break="no"/>tur, ii uti non debent supradicto loquendi 
+      <lb ed="#A" n="16"/>modo, dicentes eas esse tres: substantias: 
+      <lb ed="#A" n="17"/>ne favere videantur ATrianis, Macedonianus, 
+      <lb ed="#A" n="18"/>Valentino Oentili, &amp; eius sectatoribus. 
+      Se<lb ed="#A" n="19" break="no"/>cundo, nullo modo admitti potest illa 
+      locu<lb ed="#A" n="20" break="no"/>tio, sed reficienda est tanquam aperte falsa, &amp;  
+      <lb ed="#A" n="21"/>Tritheitica: si enim tres personae sint tres 
+      <lb ed="#A" n="22"/>substantiaes vel sunt tres substantiae finitae, vel 
+      <lb ed="#A" n="23"/>sunt tres substantiae infinitae: non sunt tres 
+      <lb ed="#A" n="24"/>substantiae finitae, seu creatae, ut patet: at 
+      ne<lb ed="#A" n="25" break="no"/>que sunt tres substantiae infinitae, quia non 
+      <lb ed="#A" n="26"/>sunt tres Dij¬ 
+    </p>
+            <p xml:id="pqir89-de2828-d1e297">
+               <lb ed="#A" n="27"/>s Consequentia non est valida 
+      argumen<lb ed="#A" n="28" break="no"/>ti allati in contrarium: dabo enim similem  
+      <lb ed="#A" n="29"/>consequentiam, quae plane vitiosa &amp; inepta 
+      <lb ed="#A" n="30"/>est, omnium iudicio: vt si hoc modo argu¬ 
+      <!--59.xml-->
+      <pb ed="#A" n="42"/>
+               <lb ed="#A" n="1"/>mentetur aliquis: Petrus stans, Petrus 
+      se<lb ed="#A" n="2" break="no"/>dens, &amp; omne aliud eiusmodi aggregatum  
+      <lb ed="#A" n="3"/>est substantia singularis accidente quodam  
+      <lb ed="#A" n="4"/>vestitas Ergo quot sunt talia aggregata, tot 
+      <lb ed="#A" n="5"/>sunt singulares substantiae accidentibus 
+      vesti<lb ed="#A" n="6" break="no"/>tae. Si sinquam) aliquis sic argumentetur,  
+      <lb ed="#A" n="7"/>vitiosa erit illatio, quia Petrus stans, &amp; 
+      Pe<lb ed="#A" n="8" break="no"/>trus sedens suntduo talia aggregatas at non 
+      <lb ed="#A" n="9"/>sunt duae singulares substantiae, sed una 
+      nu<lb ed="#A" n="10" break="no"/>mero &amp; individua substantia. Quaeret 
+      ali<lb ed="#A" n="11" break="no"/>quis: quid ex antecedente isto, persona est 
+      sin<lb ed="#A" n="12" break="no"/>gularis substantia, recte &amp; legitime possit 
+      <lb ed="#A" n="13"/>colligi. Respondetur hanc esse iustam, &amp; 
+      li<lb ed="#A" n="14" break="no"/>citam consequentiam: Persona est singularis 
+      <lb ed="#A" n="15"/>substantia, Ergo quot sunt personae, tot sunt 
+      <lb ed="#A" n="16"/>ea quibus singulis competit esse singularem  
+      <lb ed="#A" n="17"/>substantiam.  
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

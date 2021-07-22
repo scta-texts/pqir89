@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 2</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 2</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="149-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-e10153"><!-- p3a2 -->
+            <head xml:id="pqir89-e10153-Hd1e106">Articulus 2</head>
+            <head xml:id="pqir89-e10153-Hd1e109" type="question-title">
+        Quomodo inter se differant, scire, 
+        credere et opinari.
+      </head>
+            <p xml:id="pqir89-e10153-d1e112">
+               <lb ed="#A" n="20"/>ART. II 
+      <lb ed="#A" n="21"/>Quomodo inter se differant, scire, 
+        cre<lb ed="#A" n="22" break="no"/>dere &amp; opinari. 
+    </p>
+            <p xml:id="pqir89-e10153-d1e121">
+               <lb ed="#A" n="23"/>OMnis assensus mentis vel est actus, 
+      sci<lb ed="#A" n="24" break="no"/>endi, Vel actus credendi, vel actus 
+      <lb ed="#A" n="25"/>opinande: quandocunque enim iudicamus 
+      a<lb ed="#A" n="26" break="no"/>liquid esse verum, vel certo scimus illud 
+      es<lb ed="#A" n="27" break="no"/>se verums vel credimus illud esse verum 
+      <!--168.xml-->
+      <pb ed="#A" n="149"/>
+               <lb ed="#A" n="1"/>ropter alterius testimoniums vel propter 
+      <lb ed="#A" n="2"/>lerem, &amp; inefficacem rationem opinamur 
+      <lb ed="#A" n="3"/>illud esse verum. 
+    </p>
+            <p xml:id="pqir89-e10153-d1e145">
+               <lb ed="#A" n="4"/>2 Actus sciendi, cum opponitur actibus 
+      <lb ed="#A" n="5"/>credendi &amp; opinandi, late accipitur, pro 
+      qua<lb ed="#A" n="6" break="no"/>vis notitia actuali certa &amp; evidente: 
+      quo<lb ed="#A" n="7" break="no"/>modo accepta scientia non solum cernitur in 
+      <lb ed="#A" n="8"/>disciplinis speculativis, sed etiam in 
+      practi<lb ed="#A" n="9" break="no"/>cis: nam in Philosophia morali, quae est 
+      dis<lb ed="#A" n="10" break="no"/>ciplina practica, non opinamur, aut 
+      eredi<lb ed="#A" n="11" break="no"/>mus, sed evidenter scimus actiones 
+      liberali<lb ed="#A" n="12" break="no"/>tatis esse honestas, actiones vero vitiorum 
+      <lb ed="#A" n="13"/>ei oppositorum esse inhonestas: in 
+      aedifica<lb ed="#A" n="14" break="no"/>toria arte non opinantur aut credunt, sed 
+      <lb ed="#A" n="15"/>: videnter sciunt periti Architecti bases in 
+      ae<lb ed="#A" n="16" break="no"/>dificiis esse ad libellam collocandas, 
+      colu<lb ed="#A" n="17" break="no"/>mnas esse ad perpendiculum erigendas, 
+      alia<lb ed="#A" n="18" break="no"/>que similia. Nec solum circa universalia, sed 
+      <lb ed="#A" n="19"/>etiam singularia versatur haec notitia. Nam  
+      <lb ed="#A" n="20"/>cum video Petrum stantem, aut audio Petrum 
+      <lb ed="#A" n="21"/>loquentem, non opinor, aut credo, sed scio 
+      <lb ed="#A" n="22"/>Petrum loqui &amp; stare. 
+    </p>
+            <p xml:id="pqir89-e10153-d1e190">
+               <lb ed="#A" n="23"/>a Huius divisionis sufficientia sic 
+      demon<lb ed="#A" n="24" break="no"/>stratur: omnis assensus mentis vel nititur 
+      <lb ed="#A" n="25"/>testimonio, vel ratione: si nititur 
+      testimo<lb ed="#A" n="26" break="no"/>nio, est fides actualis, seu actus credendi: si 
+      <lb ed="#A" n="27"/>vero nititur ratione, vel nititur ratione certa 
+      <lb ed="#A" n="28"/>&amp; solidam, estque scientia: vel nititur ratione 
+      <lb ed="#A" n="29"/>tantum probabili, estque opinio. 
+    </p>
+            <p xml:id="pqir89-e10153-d1e208">
+               <lb ed="#A" n="30"/>A Assensus nitens alterius testimonio,  
+      <!--169.xml-->
+      <pb ed="#A" n="150"/>
+               <lb ed="#A" n="1"/>Vel nititur testimonio dixino, &amp; a 
+      Schola<lb ed="#A" n="2" break="no"/>sticis appellatur sides dixina Vel nititur 
+      <lb ed="#A" n="3"/>testimonio humano, &amp; appellatur sides 
+      hu<lb ed="#A" n="4" break="no"/>mana. 
+    </p>
+            <p xml:id="pqir89-e10153-d1e226">
+               <lb ed="#A" n="5"/>s Hic obiter notare possumus 
+      Pontificio<lb ed="#A" n="6" break="no"/>rum &amp;8λevsων, qui nobiscum fatentur, eam  
+      <lb ed="#A" n="7"/>fidem non divinam sed humanam esse, quae 
+      <lb ed="#A" n="8"/>praecipue testimonio hominum nititur: &amp; 
+      <lb ed="#A" n="9"/>nihilominus audacissime asseverant, 
+      assen<lb ed="#A" n="10" break="no"/>sum, quem praebemus articulis fidei &amp; ipsi 
+      <lb ed="#A" n="11"/>sacrae Scripturae, unde illi articuli 
+      colligun<lb ed="#A" n="12" break="no"/>tur, niti testimonio Ecclesiae (ut vocant)
+      reprae<lb ed="#A" n="13" break="no"/>sentativae, h. e. Episcoporum &amp; pastorum in 
+      <lb ed="#A" n="14"/>generali concilio congregatorum, item 
+      Ec<lb ed="#A" n="15" break="no"/>clesiaesut ipsi loquuntur) virtualis, h. e: ipsius 
+      <lb ed="#A" n="16"/>Pontificis Romani: atque ita aut fateri 
+      co<lb ed="#A" n="17" break="no"/>gentur, omnem fidem viatorum humanam  
+      <lb ed="#A" n="18"/>esse, penitus videlicet sublata fide divina, aut 
+      <lb ed="#A" n="19"/>corum Episcopos non homines sed Deos 
+      in<lb ed="#A" n="20" break="no"/>digitandos esse. 
+    </p>
+            <p xml:id="pqir89-e10153-d1e263">
+               <lb ed="#A" n="21"/>o Pulchra institui potest comparatio 
+      in<lb ed="#A" n="22" break="no"/>ter scientiam, opinionem, &amp; fidem divinam: 
+      <lb ed="#A" n="23"/>scientia enim est assensus firmus, certus, &amp; 
+      <lb ed="#A" n="24"/>exidens, fides divina est assensus firmus &amp; 
+      <lb ed="#A" n="25"/>certus, sed non exidens, opinio denique etsi 
+      <lb ed="#A" n="26"/>aliquando sit assensus firmus, h.e. sine 
+      haesi<lb ed="#A" n="27" break="no"/>tatione, aut dubitatione, saepe tamen neque 
+      <lb ed="#A" n="28"/>est firmus, neque certus, neque evidens. 
+    </p>
+            <p xml:id="pqir89-e10153-d1e283">
+               <lb ed="#A" n="29"/>V δcientia est assensus firmus, quia is 
+      <lb ed="#A" n="30"/>qui scit propositionem aliquam esse veram  
+      <!--170.xml-->
+      <pb ed="#A" n="151"/>
+               <lb ed="#A" n="1"/>non dubitanter aut haesitanter assentitur, sed 
+      <lb ed="#A" n="2"/>frmiter: est assensus certus, quia is qui 
+      <lb ed="#A" n="3"/>scit, nititur solido aliquo fundamento: 
+      a<lb ed="#A" n="4" break="no"/>hioquinnon sciret, sed opinaretur: denique 
+      <lb ed="#A" n="5"/>est evidens, quia sciens non ideo assentitur. 
+      <lb ed="#A" n="6"/>quod alius tostetur eam propositionem 
+      es<lb ed="#A" n="7" break="no"/>se veram, sed quod ipse, vi alicuius 
+      evi<lb ed="#A" n="8" break="no"/>dentis argumenti, percipiat rem ita se 
+      ha<lb ed="#A" n="9" break="no"/>bere. &amp; nu 
+      <lb ed="#A" n="10"/>IS Fides diina est assensus firmus, quia 
+      <lb ed="#A" n="11"/>illi qui in Deum credunt, non haesitant, aut. 
+      <lb ed="#A" n="12"/>dubitant de veritate historiae facrae, &amp; 
+      pro<lb ed="#A" n="13" break="no"/>missionum divinarum: est assensus certus, 
+      <lb ed="#A" n="14"/>quia nititur certissimo fundamento, videlicec 
+      <lb ed="#A" n="15"/>Dei testimonio, qui est ipsa veritas: non 
+      ta<lb ed="#A" n="16" break="no"/>men est exidens: is enim qui credit, non 
+      id<lb ed="#A" n="17" break="no"/>eo assentitur, quod sensu aut ratione 
+      perci<lb ed="#A" n="18" break="no"/>piatrem ita so habere, sed quod Deus hoc 
+      <lb ed="#A" n="19"/>testetur &amp; asserat. Iooo: ιυιο τονῶνἰ 
+    </p>
+            <p xml:id="pqir89-e10153-d1e335">
+               <lb ed="#A" n="20"/>9 Hinc patet, quam egregie Apostolus,  
+      <lb ed="#A" n="21"/>undecimo ad Hebraeos, verse primo, 
+      natu<lb ed="#A" n="22" break="no"/>tam fidei divinae expresserit, cum enim di- 
+      <lb ed="#A" n="23"/>cit eam esse καῶςῶας indieat, eius 
+      sirmita<lb ed="#A" n="24" break="no"/>tem &amp; certitudinem: cum vero dicit eam esse 
+      <lb ed="#A" n="25"/>ταiφ  Gλεoμμων, eius ine videntiam &amp; obscu¬¬ 
+      <lb ed="#A" n="26"/>ritatem aenigmaticam declarat. 
+    </p>
+            <p xml:id="pqir89-e10153-d1e354">
+               <lb ed="#A" n="27"/>Io Opinio aliquando potest esse assensus 
+      <lb ed="#A" n="28"/>sirmus, (nonnunquam enim homines ita 
+      <lb ed="#A" n="29"/>mo ventur levibus rationibus, ut eas pro 
+      <lb ed="#A" n="30"/>validissimis argumentis habeant, ideoque 
+      <!--171.xml-->
+      <pb ed="#A" n="152"/>
+               <lb ed="#A" n="1"/>absque ulla haesitatione aut formidine partis 
+      <lb ed="#A" n="2"/>opposi tae assentiuntur: ) nunquam vero ess 
+      <lb ed="#A" n="3"/>certus aut exidens: is enim qui opinatur, 
+      <lb ed="#A" n="4"/>vel nititur lexibus rationibus, 
+      veluhonii<lb ed="#A" n="5" break="no"/>num testimoniis, quae nunquam pariunt 
+      no<lb ed="#A" n="6" break="no"/>bis aut certitudinem aut evidentiam 
+      iudi<lb ed="#A" n="7" break="no"/>candi. 
+    </p>
+            <p xml:id="pqir89-e10153-d1e385">
+               <lb ed="#A" n="8"/>II Dicet aliquis, hanc comparationem 
+      <lb ed="#A" n="9"/>fidei, scientiae, &amp; opinionis, quam iam 
+      at<lb ed="#A" n="10" break="no"/>tulimus, derogare de dignitate fideis ex ea 
+      <lb ed="#A" n="11"/>enim sequitur, quamlibet scientiam esse 
+      <lb ed="#A" n="12"/>perfectiorem assensum fide, quia videlicet 
+      <lb ed="#A" n="13"/>deest fidei evidentia, quae tamen xompetit 
+      <lb ed="#A" n="14"/>scientiae. Respond, scientiam esse 
+      perfectio<lb ed="#A" n="15" break="no"/>rem fide secundum quid, quia videlicet est 
+      <lb ed="#A" n="16"/>assensus evidens, fidem vero esse 
+      perfectio<lb ed="#A" n="17" break="no"/>rem qualibet seientia simpliciter, &amp; 
+      absolu<lb ed="#A" n="18" break="no"/>te, idque propter duas rationes: I. Enim. 
+      <lb ed="#A" n="19"/>fides versatur circa nobilissimum obiectum a 
+      <lb ed="#A" n="20"/>P. e. circa magnum illud, mysterium 
+      pieta<lb ed="#A" n="21" break="no"/>ais, Deum in carne rexelatum, 
+      iustifica<lb ed="#A" n="22" break="no"/>tum in spiritu, conspectum ab Angelis, &amp; 
+      <lb ed="#A" n="23"/>praedicatum Gentibus. 2. Fides nititur 
+      cer<lb ed="#A" n="24" break="no"/>tissimo fundamento, h.e. Dei ipsius 
+      testimo<lb ed="#A" n="25" break="no"/>nio, qui ipsa veritas est, quique nec fallere 
+      <lb ed="#A" n="26"/>nec falli potest.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 5</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 5</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="82-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-de5693"><!-- p2a5 -->
+            <head xml:id="pqir89-de5693-Hd1e106">Articulus 5</head>
+            <head xml:id="pqir89-de5693-Hd1e109" type="question-title">
+        Vtrum generatio posita sit in productione 
+        formae, an vero in conjunctione formae 
+        cum materia.
+      </head>
+            <p xml:id="pqir89-de5693-d1e112">
+               <lb ed="#A" n="10"/>ART. V. 
+      <lb ed="#A" n="11"/>Vtrum generatio posita sit in productione 
+      <lb ed="#A" n="12"/>formae, an vero in conjunctione formae 
+      <lb ed="#A" n="13"/>cum materia. 
+    </p>
+            <p xml:id="pqir89-de5693-d1e123">
+               <lb ed="#A" n="14"/>VT nostrae sententiae veritas 
+      appa<lb ed="#A" n="15" break="no"/>reat, primo ostendam actionem 
+      ge<lb ed="#A" n="16" break="no"/>nerantis (loquendo in genere, de omni 
+      gene<lb ed="#A" n="17" break="no"/>ratione) esse positam in coniunctione 
+      mate<lb ed="#A" n="18" break="no"/>riae &amp; formae: secundo, nonnihil specialius. 
+      <lb ed="#A" n="19"/>dicam de illa actione, qua anima corpori 
+      u<lb ed="#A" n="20" break="no"/>nitur. Quod ad prius attinet, generatio 
+      com<lb ed="#A" n="21" break="no"/>positi non est productio materiae, idque quia 
+      <lb ed="#A" n="22"/>materia proprie dicta est ingenerabilis, &amp; 
+      <lb ed="#A" n="23"/>incorruptibilis, id est, a nullo potest fieri, nisi 
+      <lb ed="#A" n="24"/>a creatore. si enim creatura aliqua 
+      produce<lb ed="#A" n="25" break="no"/>ret materiam primam, produceret eam ex 
+      <lb ed="#A" n="26"/>nulla materia praeexistente atque adeo 
+      <lb ed="#A" n="27"/>crearet eams nulla autem creatura creat, 
+      <!--101.xml-->
+      <pb ed="#A" n="82"/>
+               <lb ed="#A" n="1"/>cum creatio requirat infinitam virtutem, 
+      De<lb ed="#A" n="2" break="no"/>inde cum ex igne fit aer, aer generat alium  
+      <lb ed="#A" n="3"/>aerem, mutando ignem in aerem, non autem  
+      <lb ed="#A" n="4"/>per illam generationem producit materiam  
+      <lb ed="#A" n="5"/>novi aeris, sed in materiam praeexistentem 
+      <lb ed="#A" n="6"/>introducit formam novi aeris.  
+    </p>
+            <p xml:id="pqir89-de5693-d1e173">
+               <lb ed="#A" n="7"/>2 Generatio substantialis, non est 
+      produ<lb ed="#A" n="8" break="no"/>ctio materiae, ut iam ostensum est: at neque 
+      <lb ed="#A" n="9"/>est productio formae: quod quidem certum 
+      <lb ed="#A" n="10"/>est, &amp; evidens apud eos, qui dicunt animas 
+      <lb ed="#A" n="11"/>a Deo creari: at non minus evidenter etiam  
+      <lb ed="#A" n="12"/>probari potest contra eos, qui dicunt animam  
+      <lb ed="#A" n="13"/>esse ex traduce. Primo enim, natura 
+      homi<lb ed="#A" n="14" break="no"/>nis est in eo posita, quod constet ex anima &amp; 
+      <lb ed="#A" n="15"/>corpore: at per actionem qua anima unitur 
+      <lb ed="#A" n="16"/>corpori sive anima sit a Deo, sive a patre, 
+      <lb ed="#A" n="17"/>homo fit compositum constans ex anima &amp; 
+      <lb ed="#A" n="18"/>corpore: Ergo per illam actionem, homo 
+      <lb ed="#A" n="19"/>accipit naturam, vel esse hominis, &amp; proinde 
+      <lb ed="#A" n="20"/>per illam actionem producitur: quid enim 
+      <lb ed="#A" n="21"/>est aliud, producere hominem, quam efficere 
+      <lb ed="#A" n="22"/>ut existat homo, seu Ens constans ex anima 
+      <lb ed="#A" n="23"/>&amp; corpore. Secundo, nunquam potest 
+      com<lb ed="#A" n="24" break="no"/>positum Physicum de novo produci, sive per 
+      <lb ed="#A" n="25"/>generationem, sive per aliam mutationem, 
+      <lb ed="#A" n="26"/>nisi eius materia &amp; forma de novo 
+      coniun<lb ed="#A" n="27" break="no"/>gantur, , &amp; cocant in unum per se, ut evidens 
+      <lb ed="#A" n="28"/>est: potest tamen compositum Physicum 
+      <lb ed="#A" n="29"/>de novo produci, &amp; revera fieri, quam vis 
+      e<lb ed="#A" n="30" break="no"/>ius forma non producatur de novo: Ergo 
+      <!--102.xml-->
+      <pb ed="#A" n="83"/>
+               <lb ed="#A" n="1"/>efficere compositum Physicum, potius est 
+      <lb ed="#A" n="2"/>materiam &amp; formam coniungere, quam 
+      for<lb ed="#A" n="3" break="no"/>mam producere. Pnobatur assumptio. 
+      Pri<lb ed="#A" n="4" break="no"/>mo, ex resurrectione mortuorum in die 
+      iu<lb ed="#A" n="5" break="no"/>dicii: tum enim homines de novo 
+      produ<lb ed="#A" n="6" break="no"/>centur, &amp; de novo accipient esse hominis, per 
+      <lb ed="#A" n="7"/>veram productionem substantialem, licet 
+      <lb ed="#A" n="8"/>non ordinariam, sed plane extraordinariam:  
+      <lb ed="#A" n="9"/>at tum eorum anima non potest dici de novo 
+      <lb ed="#A" n="10"/>produci, quia existebat semper postquam  
+      <lb ed="#A" n="11"/>creata est, sed tantum de novo uniri cum 
+      <lb ed="#A" n="12"/>materia: Ergo productio compositi 
+      Physi<lb ed="#A" n="13" break="no"/>ci, non est productio formae, sed potius 
+      uni<lb ed="#A" n="14" break="no"/>tio formae cum materia. Si quis tam 
+      impu<lb ed="#A" n="15" break="no"/>dens sit, ut neget in resurrectione mortuo- 
+      <lb ed="#A" n="16"/>rum futuram veram productionem sub. 
+      <lb ed="#A" n="17"/>stantialem, contra eum utar hoc argumentos 
+      <lb ed="#A" n="18"/>Producere substantiam corpoream, est 
+      tribue<lb ed="#A" n="19" break="no"/>re esse substantiae corporeae: at tum Deus  
+      <lb ed="#A" n="20"/>hominibus mortuis, qui quamdium mortui 
+      e<lb ed="#A" n="21" break="no"/>rant non habebant verum esse substantiae 
+      na<lb ed="#A" n="22" break="no"/>turalis, quia non constabant ex materia &amp; 
+      <lb ed="#A" n="23"/>forma unitis, vere &amp; proprie dabit integrum 
+      <lb ed="#A" n="24"/>&amp; plenum esse corporis naturalis, efficiendo 
+      <lb ed="#A" n="25"/>ut vere constent ex corpore &amp; anima: Ergo 
+      <lb ed="#A" n="26"/>Deus per illam actionem vere producit cor¬¬ 
+      <lb ed="#A" n="27"/>pora naturalia. Non negari quidem potest,  
+      <lb ed="#A" n="28"/>illam actionem esse actionem longe 
+      diver<lb ed="#A" n="29" break="no"/>sam a generatione substantiali, &amp; modo 
+      ge<lb ed="#A" n="30" break="no"/>nerandi ordinario, certum tamen est eam.  
+      <!--103.xml-->
+      <pb ed="#A" n="84"/>
+               <lb ed="#A" n="1"/>actionem esse veram productionem 
+      substan<lb ed="#A" n="2" break="no"/>tialem, quod probamus ex definitione 
+      pro<lb ed="#A" n="3" break="no"/>ductionis substantialis: quid enim aliud est 
+      <lb ed="#A" n="4"/>producere substantiam, quam conferre esse 
+      <lb ed="#A" n="5"/>illi substantiae, quae ante illam actionem non 
+      <lb ed="#A" n="6"/>habebat esse substantiale. Secundo probatur 
+      <lb ed="#A" n="7"/>assumptio sici Deus potest creare animam 
+      in<lb ed="#A" n="8" break="no"/>fantis per aliquod tempus ante eius 
+      genera<lb ed="#A" n="9" break="no"/>tionem, &amp; postea, in ipsa generatione, illam  
+      <lb ed="#A" n="10"/>animam cum corpore eius coniungere: 
+      Ergo<lb ed="#A" n="11" break="no"/>potest esse vera generatio substantialis absque 
+      <lb ed="#A" n="12"/>productione formae. 
+    </p>
+            <p xml:id="pqir89-de5693-d1e328">
+               <lb ed="#A" n="13"/>S. Quod ad posterius attinet: Theologi &amp; 
+      <lb ed="#A" n="14"/>Philosophi, qui sunt in nostram sententia de 
+      ori<lb ed="#A" n="15" break="no"/>gine animae, asserunt virtutem seminalem in 
+      <lb ed="#A" n="16"/>belluis duplicem habere operationem: 
+      scili<lb ed="#A" n="17" break="no"/>cet eductionem formae ex potentia 
+      mate<lb ed="#A" n="18" break="no"/>riae, &amp; unitionem eiusdem formae cum 
+      com<lb ed="#A" n="19" break="no"/>posito, quas quidem actiones dicunt non 
+      <lb ed="#A" n="20"/>realiter, sed ratione solam diversas esse: idque 
+      <lb ed="#A" n="21"/>quia per unam &amp; eandem actionem re, 
+      edu<lb ed="#A" n="22" break="no"/>citur forma ex potentia materiae, &amp; unitur 
+      <lb ed="#A" n="23"/>substantialiter cum materia. Contra 
+      asse<lb ed="#A" n="24" break="no"/>runt, vittutem seminalem, quae in semine 
+      ho<lb ed="#A" n="25" break="no"/>minis existit, habere unam tantum 
+      actio<lb ed="#A" n="26" break="no"/>nem, scilicet unitionem formae, i. e. animae 
+      <lb ed="#A" n="27"/>cum materia corporea, unam (inquam) 
+      a<lb ed="#A" n="28" break="no"/>ctionem principalem. nam certum est, ab ea 
+      <lb ed="#A" n="29"/>virtute proficisci varias actiones minus 
+      prin<lb ed="#A" n="30" break="no"/>cipales, scil. praeparationes materiae corporeae 
+      <!--104.xml-->
+      <pb ed="#A" n="85"/>
+               <lb ed="#A" n="1"/>ad recipiendam animam: quare dicunt, in 
+      <lb ed="#A" n="2"/>productione hominis esse duas actiones, 
+      <lb ed="#A" n="3"/>proficiscentes a di versis agentibus, scilicet 
+      <lb ed="#A" n="4"/>creationem animae, &amp; unitionem eiusdem  
+      <lb ed="#A" n="5"/>cum materia: creationem animae aiunt esse 
+      <lb ed="#A" n="6"/>operationem, solius Deis quod evidens est: 
+      <lb ed="#A" n="7"/>unitionem vero animae cum corpore, volunt 
+      <lb ed="#A" n="8"/>esse actionem, non quidem solius hominis 
+      s<lb ed="#A" n="9" break="no"/>Deus enim cooperatur cum homine in a¬¬ 
+      <lb ed="#A" n="10"/>ctione illa, sec hominis &amp; Dei simul: &amp; 
+      ad<lb ed="#A" n="11" break="no"/>dunt, in hac unitione, &amp; non in alia actione, 
+      <lb ed="#A" n="12"/>positam esse generationem hominis: 
+      quod<lb ed="#A" n="13" break="no"/>ex eo patet, quia supra ostensum est, 
+      produ<lb ed="#A" n="14" break="no"/>cere compositum neque esse producere 
+      ma<lb ed="#A" n="15" break="no"/>teriam, neque producere formam, sed 
+      for<lb ed="#A" n="16" break="no"/>mam cum materia unire, &amp; copulare: ex 
+      no<lb ed="#A" n="17" break="no"/>stra ergo sententia, eodem instanti, quo Deus  
+      <lb ed="#A" n="18"/>creat animam in corpore, homo generans 
+      per<lb ed="#A" n="19" break="no"/>virtutem seminalem animam a Deo creatam:  
+      <lb ed="#A" n="20"/>cum corpore substantialiter unit, &amp; 
+      conne<lb ed="#A" n="21" break="no"/>ctit, adeo ut actio Dei terminetur ad 
+      ani<lb ed="#A" n="22" break="no"/>mae esse simpliciter: actio vero patris 
+      termi<lb ed="#A" n="23" break="no"/>netur, non quidem ad animae esse simpliciter,, 
+      <lb ed="#A" n="24"/>sed ad eius esse in corpore, seu ad unionem 
+      a<lb ed="#A" n="25" break="no"/>imae cum corpore. 
+    </p>
+            <p xml:id="pqir89-de5693-d1e428">
+               <lb ed="#A" n="26"/>A Ad illud argumentum, Homo est 
+      homo<lb ed="#A" n="27" break="no"/>per animam, si ergo pater non tribuit filio 
+      ani<lb ed="#A" n="28" break="no"/>mam, non tribuit et esse hominem, Respondent, a 
+      <lb ed="#A" n="29"/>hominem esse hominem, neque per animam:  
+      <lb ed="#A" n="30"/>scorsim acceptam, rreque per corpus, sed per 
+      <!--105.xml-->
+      <pb ed="#A" n="86"/>
+               <lb ed="#A" n="1"/>lntegram naturam, sive per essentiam 
+      huma<lb ed="#A" n="2" break="no"/>nam: &amp; aiunt patrem uniendo animam cum  
+      <lb ed="#A" n="3"/>corpore, per virtutem seminalem, tribuere 
+      fi<lb ed="#A" n="4" break="no"/>lio, τo constare ex anima &amp; corpore: &amp; proinde 
+      <lb ed="#A" n="5"/>ei tribuere naturam &amp; essentiam per quam  
+      <lb ed="#A" n="6"/>est homo: patet autem unamquamque tem, 
+      <lb ed="#A" n="7"/>esse talem rem non per alteram essentiae 
+      par<lb ed="#A" n="8" break="no"/>tem, sed per totam essentiam, quia essentia est 
+      <lb ed="#A" n="9"/>id, per quod Ens est Ens: atque adeo talis 
+      es<lb ed="#A" n="10" break="no"/>sentia est id, per quod res est talis res: illud 
+      <lb ed="#A" n="11"/>autem quod dici solet, unamquamque rem 
+      <lb ed="#A" n="12"/>esse talem rem per formam suam, ita 
+      conci<lb ed="#A" n="13" break="no"/>piendum est, ut intelligamus unamquamque 
+      <lb ed="#A" n="14"/>rem esse talem rem per formam, non quidem  
+      <lb ed="#A" n="15"/>tanquam adaequatam tationem, sratio enim 
+      <lb ed="#A" n="16"/>adaequata cur res sit talis res, est quia habet 
+      <lb ed="#A" n="17"/>talem essentiam) sed tanquam principalem  
+      <lb ed="#A" n="18"/>partem essentiae: si enim inter se conferamus 
+      <lb ed="#A" n="19"/>partes essentiae Physicae, res quaelibet est talis 
+      <lb ed="#A" n="20"/>res per formam, potius quam per materiam:  
+      <lb ed="#A" n="21"/>interim si conferamus aut formam, aut 
+      ma<lb ed="#A" n="22" break="no"/>teriam cum integra essentia, res quaelibet est 
+      <lb ed="#A" n="23"/>talis res potius per essentiam, quam aut per 
+      <lb ed="#A" n="24"/>materiam, aut formam.  
+    </p>
+            <p xml:id="pqir89-de5693-d1e498">
+               <lb ed="#A" n="25"/>S Verum hic oritur magna difficultas, si 
+      <lb ed="#A" n="26"/>enim Deus infundat animam, (ut omnes 
+      <lb ed="#A" n="27"/>Theologi loquuntur, qui sunt in hac 
+      senten<lb ed="#A" n="28" break="no"/>tia) coniunctio animae cum corpore potius 
+      <lb ed="#A" n="29"/>tribuenda erit Deo, quam homini generantis 
+      <lb ed="#A" n="30"/>quid enim aliud est animae infusio in mate¬ 
+      <!--106.xml-->
+      <pb ed="#A" n="87"/>
+               <lb ed="#A" n="1"/>riam corpoream, quam coniunctio 
+      animae<lb ed="#A" n="2" break="no"/>cum materia: sespondent nonnulli, Deum 
+      <lb ed="#A" n="3"/>dici infundere animam, non quod per se 
+      so<lb ed="#A" n="4" break="no"/>lum copulet animam cum corpore, sed quod 
+      <lb ed="#A" n="5"/>per virtutem seminalem illud praestet, cuius 
+      <lb ed="#A" n="6"/>ministerio utitur tanquam instrumento, non 
+      <lb ed="#A" n="7"/>quidem necessario (ipse enim potest per se 
+      <lb ed="#A" n="8"/>connectere animam &amp; corpus) sed 
+      ordina<lb ed="#A" n="9" break="no"/>rio, quia scilicet eius usus est ordinarius in 
+      o<lb ed="#A" n="10" break="no"/>mni animalium generatione. Alij 
+      grohabi<lb ed="#A" n="11" break="no"/>lius respondent, Deum dici infundere 
+      ani<lb ed="#A" n="12" break="no"/>mam in corpus, non quod substantialiter, sed 
+      <lb ed="#A" n="13"/>quod Iocaliter coniungat animam &amp; 
+      cor<lb ed="#A" n="14" break="no"/>pus: id est, quod creet animam in corpore, &amp; 
+      <lb ed="#A" n="15"/>per eius creationem in tali ubi, efficiat eam  
+      <lb ed="#A" n="16"/>localiter praesentem corpori: dicunt enim, 
+      <lb ed="#A" n="17"/>eodem instanti quo Deus creat animam 
+      lo<lb ed="#A" n="18" break="no"/>caliter praesentem corpori, eodem (inquam)  
+      <lb ed="#A" n="19"/>instanti virtutem seminalem eas partes 
+      con<lb ed="#A" n="20" break="no"/>nectere vinculo substantiali: docent autem  
+      <lb ed="#A" n="21"/>localem praesentiam animae, esse quid longe 
+      <lb ed="#A" n="22"/>di versum ab eius vnione substantiali cum ma¬¬ 
+      <lb ed="#A" n="23"/>teria, quia Angelus assumpto corpore 
+      ve<lb ed="#A" n="24" break="no"/>stitus, est Iocaliter praesens illi corpori, non 
+      <lb ed="#A" n="25"/>vero substantialiter ci confunctus, ut 
+      forma<lb ed="#A" n="26" break="no"/>materiae suae.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

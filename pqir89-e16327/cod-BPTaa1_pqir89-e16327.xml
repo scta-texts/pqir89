@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 18</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 18</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="231-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-e16327"><!-- p3a18 -->
+            <head xml:id="pqir89-e16327-Hd1e106">Articulus 18</head>
+            <head xml:id="pqir89-e16327-Hd1e109" type="question-title">
+        An fiducia sit actus fidei.
+      </head>
+            <p xml:id="pqir89-e16327-d1e112">
+               <lb ed="#A" n="13"/>ART. XVIII 
+      <lb ed="#A" n="14"/>An fiducia sit actus fidei.
+    </p>
+            <p xml:id="pqir89-e16327-d1e119">
+               <lb ed="#A" n="15"/> Heologi Ort hodoxet non eodem 
+      mo<lb ed="#A" n="16" break="no"/>E do loquntur de fiducia &amp; 
+      aAngopo<lb ed="#A" n="17" break="no"/>εα Sanctorum in terris militantium: nam  
+      <lb ed="#A" n="18"/>eorum alij appellant fiduciam formam &amp; 
+      <lb ed="#A" n="19"/>specificum actum fidei, alii vero eam fidei 
+      effe<lb ed="#A" n="20" break="no"/>ctum &amp; cousequens vocant: quae quidem 
+      lo<lb ed="#A" n="21" break="no"/>quendi diversitas oritur ex diverso modo 
+      ac<lb ed="#A" n="22" break="no"/>cipiendi hoc vocabulum, ut cuivis patebit, 
+      <lb ed="#A" n="23"/>qui eorum verba diligentius consideraverit. 
+      <lb ed="#A" n="24"/>Vt igitur clara &amp; perspicua sit haec 
+      disputa<lb ed="#A" n="25" break="no"/>tio, quatuor huius vocis significata 
+      enume<lb ed="#A" n="26" break="no"/>rabo, &amp; ostendam, fiduciam primo modo 
+      ac<lb ed="#A" n="27" break="no"/>ceptam, verum &amp; proprie dictum fidei 
+      qusti<lb ed="#A" n="28" break="no"/>ficantis actum esse. 
+      <!--250.xml-->
+      <pb ed="#A" n="231"/>
+               <lb ed="#A" n="1"/>a Fiducia, primo modo, accipitur pro 
+      <lb ed="#A" n="2"/>firma persuasione, seu pro certo &amp; stabili iudicio 
+      <lb ed="#A" n="3"/>intellectus, quo apud nos statuimus, &amp; propter 
+      <lb ed="#A" n="4"/>Dei testimonium in verbo suo credimus, 
+      Do<lb ed="#A" n="5" break="no"/>minum nestrum Iesum Christum, precioso 
+      <lb ed="#A" n="6"/>suo sanguine, nos redemisse, &amp; Deum 
+      Pa<lb ed="#A" n="7" break="no"/>trem propter eius meritum omnia nostra 
+      pec<lb ed="#A" n="8" break="no"/>cata remisisse, eundem etiam propter illud 
+      <lb ed="#A" n="9"/>Christi meritum, &amp; sacrificium in eruce 
+      ob<lb ed="#A" n="10" break="no"/>latum, liberaturum nos ab omnibus huius 
+      vi<lb ed="#A" n="11" break="no"/>tae miseriis &amp; calamitatibus, &amp; tandem 
+      do<lb ed="#A" n="12" break="no"/>naturum nos ineffabilis illius gloriae 
+      aeternita<lb ed="#A" n="13" break="no"/>te. Secundo, accipitur pro interna 
+      acqui<lb ed="#A" n="14" break="no"/>escentia in dixina bene volentia &amp; gratia, per 
+      <lb ed="#A" n="15"/>quam toti ab illa pendemns, non aliunde 
+      au<lb ed="#A" n="16" break="no"/>xilium &amp; salutem expectantes. Tettio, pro 
+      spi<lb ed="#A" n="17" break="no"/>rituali fortitudine &amp; animositate, qua animi 
+      <lb ed="#A" n="18"/>nervos &amp; robur opponimus eis malis &amp; 
+      pericu<lb ed="#A" n="19" break="no"/>lis, sipe temporalibus, sive spiritualibus, cum 
+      qui<lb ed="#A" n="20" break="no"/>bus in hac lachromarum valle constictamur. 
+      <lb ed="#A" n="21"/>Quarto, pro pace, tranquillitate, &amp; quasi 
+      sere<lb ed="#A" n="22" break="no"/>nitate conscientiae, seu securitate spirituali, quae 
+      <lb ed="#A" n="23"/>ut loquuntur Scholastici) quietem a servili 
+      <lb ed="#A" n="24"/>timore importat. 
+    </p>
+            <p xml:id="pqir89-e16327-d1e208">
+               <lb ed="#A" n="25"/>S Fiducia, primo modo accepta, 
+      respi<lb ed="#A" n="26" break="no"/>cit veritatem promissionum Euangelicarum, 
+      <lb ed="#A" n="27"/>iisque assentitur. Fiducia, secundo modo 
+      ac<lb ed="#A" n="28" break="no"/>cepta, respicit Dei promittentis 
+      bonita<lb ed="#A" n="29" break="no"/>tem, illique innititur. Fiducia, tertio modo 
+      <lb ed="#A" n="30"/>accepta, respicit pericula &amp; miserias huius 
+      <!--251.xml-->
+      <pb ed="#A" n="232"/>
+               <lb ed="#A" n="1"/>vitae, iisque animose se opponit. Fiducia, 
+      <lb ed="#A" n="2"/>quarto modo accepta, respicit Zibrum 
+      can<lb ed="#A" n="3" break="no"/>scientiae, eumque cum gaudio legit. 
+    </p>
+            <p xml:id="pqir89-e16327-d1e235">
+               <lb ed="#A" n="4"/>A Fiducia, ptimo modo accepta, est basis. 
+      <lb ed="#A" n="5"/>&amp; fundamentum: trium sequentium: quia 
+      e<lb ed="#A" n="6" break="no"/>mim firma persuasione, &amp; certo, qudicio 
+      men<lb ed="#A" n="7" break="no"/>tis Euangelicas promissiones nobis ipsis 
+      ap<lb ed="#A" n="8" break="no"/>plicamus, ideo in Dei benevolentia &amp; 
+      mi<lb ed="#A" n="9" break="no"/>sericordia acquiescimus, ideo contra 
+      mun<lb ed="#A" n="10" break="no"/>dum, Satanam, &amp; carmem nostram, fortiter 
+      <lb ed="#A" n="11"/>praeliamur, ideo denique conscientiam 
+      tran<lb ed="#A" n="12" break="no"/>quillam &amp; serenam habemus. 
+    </p>
+            <p xml:id="pqir89-e16327-d1e257">
+               <lb ed="#A" n="13"/>s His positis: ad primam quaestionem 
+      <lb ed="#A" n="14"/>m titulo propositam respondetur duabus. 
+      <lb ed="#A" n="15"/>assertionibus. Prima est haec: Eiducia 
+      secun<lb ed="#A" n="16" break="no"/>do, tertio, aut quanto modo accepta, non est fides. 
+      <lb ed="#A" n="17"/>actus, sed est effectum &amp; consequens fidet. 
+      Se<lb ed="#A" n="18" break="no"/>eunda assertio: Fiducia primo modo accepta, est 
+      <lb ed="#A" n="19"/>verus &amp; proprie dictus salxificae fidei actus, 
+      imo<lb ed="#A" n="20" break="no"/>est praecipuus &amp; specificus eius actus: nam 
+      fi<lb ed="#A" n="21" break="no"/>dem salvificam distinguita reliquis fidei 
+      ge<lb ed="#A" n="22" break="no"/>neribus. Prior assertio manifesta est, &amp; 
+      pro<lb ed="#A" n="23" break="no"/>batione non eget: posterior hac ratione 
+      pro<lb ed="#A" n="24" break="no"/>patur: 
+    </p>
+            <p xml:id="pqir89-e16327-d1e286">
+               <lb ed="#A" n="25"/>Persuasio firma, certa, &amp; Dei testimouto 
+    </p>
+            <p xml:id="pqir89-e16327-d1e291">
+               <lb ed="#A" n="26"/>nitens, de remissione peccatorum 
+      meo<lb ed="#A" n="27" break="no"/>rum &amp; adeptione vitae aeternae: est verus 
+      <lb ed="#A" n="28"/>fidei actus, 
+      <!--252.xml-->
+      <pb ed="#A" n="233"/>
+               <lb ed="#A" n="1"/>At fiducia primo modo accepta, est talis per¬ 
+    </p>
+            <p xml:id="pqir89-e16327-d1e307">
+               <lb ed="#A" n="2"/>suasio: 
+      <lb ed="#A" n="3"/>Ergo est verus fidei actus. 
+      <lb ed="#A" n="4"/>Minor huius Syllog. manifesta est: maior 
+      et<lb ed="#A" n="5" break="no"/>iam facile confirmatur: quia omnis 
+      persua<lb ed="#A" n="6" break="no"/>sio nitens alterius testimonio, est fides: ut 
+      pa<lb ed="#A" n="7" break="no"/>tet ex iis quae dicta sunt inart. 4. huius 
+      Exer<lb ed="#A" n="8" break="no"/>citationis.  
+    </p>
+            <p xml:id="pqir89-e16327-d1e325">
+               <lb ed="#A" n="9"/>&amp; Respondebunt Pontificii, non dari 
+      fir<lb ed="#A" n="10" break="no"/>mam persuasionem de temissione 
+      peccato<lb ed="#A" n="11" break="no"/>rum in fidelium mentibus : &amp; proinde 
+      sub<lb ed="#A" n="12" break="no"/>iectum istius propositionis masoris esse 
+      me<lb ed="#A" n="13" break="no"/>rum figmentum, &amp; nonEns: ratio ipsorum. 
+      <lb ed="#A" n="14"/>est, quia in verbo Dei nunquam reperitur 
+      sa<lb ed="#A" n="15" break="no"/>lus annunciata mihi aut illi in. particulari. Sed 
+      <lb ed="#A" n="16"/>haec Responsio frivola &amp; manifeste falsa est. 
+      <lb ed="#A" n="17"/>Primo enim ipse Bellarminus Lib. I. 
+      defusti<lb ed="#A" n="18" break="no"/>ficatione, Cap. Io. fatetur salutem in 
+      particu<lb ed="#A" n="19" break="no"/>lari annunciatam fuisse paucis quibusdam, ut 
+      <lb ed="#A" n="20"/>Parabtico, cui dictum est Matth. 9. confide, 
+      si<lb ed="#A" n="21" break="no"/>li, remittuntur tibi peccata. tua : &amp; Peccatrici, 
+      <lb ed="#A" n="22"/>de qua dictum est Luc, 9. remittuntur ei 
+      pecca<lb ed="#A" n="23" break="no"/>ta multa, quia dilexit multum: item Adulterae, 
+      <lb ed="#A" n="24"/>loban. S. Bacchaeo, Luc. I9, &amp; Latroni, Luc. aX. 
+      <lb ed="#A" n="25"/>Horum igitur persuasio de remissione 
+      pecca<lb ed="#A" n="26" break="no"/>torum fuit verus &amp; proprie dictus fidei actus,  
+      <lb ed="#A" n="27"/>quia vid. nitebatur Dei ipsius testimonio: at 
+      <lb ed="#A" n="28"/>horum persuasio fuit fiducia primo modo 
+      <lb ed="#A" n="29"/>accepta: Ergo fiducia primo modo accepta, 
+      <lb ed="#A" n="30"/>ost fidei actus. 
+      <!--253.xml-->
+      <pb ed="#A" n="234"/>
+               <lb ed="#A" n="1"/>&amp; Secundo: Quamvis in verbo Dei non 
+      <lb ed="#A" n="2"/>reperiatur expresse salus annunclata mihi, &amp; 
+      <lb ed="#A" n="3"/>tibi, in particulari: ex verbo tamen evidenter 
+      <lb ed="#A" n="4"/>deducitur, Deum mihi, tibi, singulisque 
+      cre<lb ed="#A" n="5" break="no"/>dentibus remittere velle peceata, &amp; dare 
+      vi<lb ed="#A" n="6" break="no"/>tam aeternam. Syllogisinus huius deductionis 
+      <lb ed="#A" n="7"/>sic formari potest: 
+    </p>
+            <p xml:id="pqir89-e16327-d1e396">
+               <lb ed="#A" n="8"/>omnis qui credit in Filium, habet remissio¬ 
+    </p>
+            <p xml:id="pqir89-e16327-d1e401">
+               <lb ed="#A" n="9"/>nem peccatorum, &amp; vitam aeternam: lob. S. 
+      <lb ed="#A" n="10"/>AEct. I2, &amp; Rom. 2. 
+      <lb ed="#A" n="11"/>At ego credo in Filium: 
+      <lb ed="#A" n="12"/>Ergo ego habeo remissionem peccatorum, &amp; 
+    </p>
+            <p xml:id="pqir89-e16327-d1e412">
+               <lb ed="#A" n="13"/>vitam aeternam: 
+      <lb ed="#A" n="14"/>Excipit Bellarminus, maiorem istius, Sollog. esse 
+      <lb ed="#A" n="15"/>certissimam, quia in S. Scriptura reperitur: 
+      mi<lb ed="#A" n="16" break="no"/>norem uero non esse in verbo Dei, sed in 
+      opinio<lb ed="#A" n="17" break="no"/>ne nostra, quae fallaxe est &amp; confecturalis. 
+      Re<lb ed="#A" n="18" break="no"/>spond. persuasionem nostram de veritate 
+      mi<lb ed="#A" n="19" break="no"/>noris, niti illis S. Scripturae locis, in quibus 
+      <lb ed="#A" n="20"/>vera sides a fide mortua distinguitur, &amp; verae 
+      <lb ed="#A" n="21"/>fidei infallabilia signa &amp; indicia 
+      proponun<lb ed="#A" n="22" break="no"/>tur, &amp; proinde non esse confecturalem 
+      opi<lb ed="#A" n="23" break="no"/>nionem, sed firmam &amp; certam notitiam, 
+      <lb ed="#A" n="24"/>Dei ipsius testimonio in verbo suo 
+      statumi<lb ed="#A" n="25" break="no"/>natam:  
+    </p>
+            <p xml:id="pqir89-e16327-d1e443">
+               <lb ed="#A" n="26"/>S Instabit aliquis: Fideles ex verdo Dei 
+      <lb ed="#A" n="27"/>scire possunt, quae sint signa &amp; vυωξλνματα 
+      ve<lb ed="#A" n="28" break="no"/>rae fidei: an vero ipsi ea signa habeant, non 
+      pos<lb ed="#A" n="29" break="no"/>sunt scire certa cognitione, sed tantum 
+      confectu<lb ed="#A" n="30" break="no"/>rali. Resp. illud falsissimum esse. Primo, quia 
+      <!--254.xml-->
+      <pb ed="#A" n="235"/>
+               <lb ed="#A" n="1"/>inde sequetur, illa verae fidei signa frustra 
+      <lb ed="#A" n="2"/>proponi in sacra Scriptura: indicium enim 
+      <lb ed="#A" n="3"/>rei frustra proponitur, si res ipsa per illud 
+      in<lb ed="#A" n="4" break="no"/>dicium innotescere non possit: hoc est, si 
+      in<lb ed="#A" n="5" break="no"/>dicium aeque obscurum sit, &amp; dubium ac ipsa 
+      <lb ed="#A" n="6"/>res per illud indicium notificanda. 
+      Secun<lb ed="#A" n="7" break="no"/>do, quia hoc dogma insignem stuporem &amp;  
+      <lb ed="#A" n="8"/>ἁνως δὸnσιῶν fidelibus affingit: si quis enim  
+      <lb ed="#A" n="9"/>oculis corporeis videret, &amp; non certo sciret 
+      <lb ed="#A" n="10"/>se videre, si quis item rerum Thysicarum 
+      no<lb ed="#A" n="11" break="no"/>titiam haberet, &amp; non certo sciret, sed 
+      tan<lb ed="#A" n="12" break="no"/>tum coniiceret se earum notitiam haberes is 
+      <lb ed="#A" n="13"/>fatuus &amp; stupidus haberetur: pari ratione, si 
+      <lb ed="#A" n="14"/>illi qui credunt in Deum, non percipiunt &amp; 
+      <lb ed="#A" n="15"/>certo sciunt se credere, miserabili stupore 
+      la<lb ed="#A" n="16" break="no"/>borant. 
+    </p>
+            <p xml:id="pqir89-e16327-d1e495">
+               <lb ed="#A" n="17"/>o Tertio: Spiritus Dei testatur vna cum  
+      <lb ed="#A" n="18"/>spiritu nostro nos esse filios Dei, &amp; per 
+      conse<lb ed="#A" n="19" break="no"/>quens nos veram fidem habere, Rom. 8. Io. Ex 
+      <lb ed="#A" n="20"/>quo testimonio validissimum argumentum 
+      <lb ed="#A" n="21"/>contra praedictam instantiam Pontificiorum 
+      <lb ed="#A" n="22"/>sic formari potest: 
+    </p>
+            <p xml:id="pqir89-e16327-d1e511">
+               <lb ed="#A" n="23"/>Quicquid spiritus Dei testatur: illud verum 
+    </p>
+            <p xml:id="pqir89-e16327-d1e517">
+               <lb ed="#A" n="24"/>est, &amp; nos de eius veritate persuasi esse 
+      <lb ed="#A" n="25"/>possumus. 
+      <lb ed="#A" n="26"/>At spiritus Dei testatur vna cum spiritu no¬ 
+    </p>
+            <p xml:id="pqir89-e16327-d1e526">
+               <lb ed="#A" n="27"/>stro, nos esse filios Dei, &amp; proinde verae 
+      <lb ed="#A" n="28"/>fidei indicia habere: 
+      <lb ed="#A" n="29"/>Ergo, &amp;c. 
+      <!--255.xml-->
+      <pb ed="#A" n="236"/>
+               <lb ed="#A" n="1"/>Bellarminus, huius argumenti vim 
+      declinatu<lb ed="#A" n="2" break="no"/>rus, dicit testimonium internum Spiritus Dei 
+      <lb ed="#A" n="3"/>non gignere certitudinem nisi confecturalem. 
+      <lb ed="#A" n="4"/>Haec responsio refutatione est indigna: est 
+      <lb ed="#A" n="5"/>enim impia, &amp; in Deum contumeliosa, nam  
+      <lb ed="#A" n="6"/>spiritum Dei fallacitatis &amp; ambiguitatis 
+      ar<lb ed="#A" n="7" break="no"/>guit. 
+      <lb ed="#A" n="8"/>ro Quarto, Morales Philosophi 
+      loquen<lb ed="#A" n="9" break="no"/>tes de felicitate cixili, damnant sententiam  
+      <lb ed="#A" n="10"/>Plotini, qui asseruit hominem posse esse 
+      seli<lb ed="#A" n="11" break="no"/>cem, &amp; non percipere se esse talem: Ergo 
+      <lb ed="#A" n="12"/>Theologi Orthodoxi, loquentes de spirituali 
+      <lb ed="#A" n="13"/>felicitate Christianorum, (quae in virtutum  
+      <lb ed="#A" n="14"/>Theologicarum exercitio posita est) merito 
+      <lb ed="#A" n="15"/>damnant errorem Bellarmini, qui in Libro 
+      <lb ed="#A" n="16"/>tertio de iustificatione toties asserit, eos qui 
+      <lb ed="#A" n="17"/>spirituali felicitate ornati sunt, de sua selicitate 
+      <lb ed="#A" n="18"/>certam persuasionem habere non posse. 
+    </p>
+            <p xml:id="pqir89-e16327-d1e578">
+               <lb ed="#A" n="19"/>II Picolhomineus, cixilis Philosophiae 
+      <lb ed="#A" n="20"/>Tra. 9. cap. 44. tribus rationibus Plotini 
+      er<lb ed="#A" n="21" break="no"/>torem refellit, quae si huic proposito 
+      ap<lb ed="#A" n="22" break="no"/>plicentur, Bellarmini sententiam evertunt, 
+      <lb ed="#A" n="23"/>&amp; destruunt: verba eius sunt haec. Primo 
+      <lb ed="#A" n="24"/>quia felicitas in actione est posita: actio autem  
+      <lb ed="#A" n="25"/>non latet agentem: &amp; praesertim quia actionis 
+      <lb ed="#A" n="26"/>praestantia in praeclectione est posita: praeelectio 
+      <lb ed="#A" n="27"/>autem praeelegenti est conspicua. Isuper 
+      feli<lb ed="#A" n="28" break="no"/>citatem comitatur gaudium: at non 
+      perfundi<lb ed="#A" n="29" break="no"/>tur gaudio, nec animo requiescit, qui non 
+      anim<lb ed="#A" n="30" break="no"/>ad vertit se esse felicem. Praeterea, in felicitate 
+      <!--256.xml-->
+      <pb ed="#A" n="237"/>
+               <lb ed="#A" n="1"/>nibil diminutum inveniri debet: at maxime 
+      di<lb ed="#A" n="2" break="no"/>minuta esset eus. viri conditio qui esset feliae, &amp; 
+      <lb ed="#A" n="3"/>non per. iperet se esse felicem, ita enim lapis etiam  
+      <lb ed="#A" n="4"/>possit esse felix. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

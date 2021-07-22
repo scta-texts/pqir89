@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 1</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 1</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="64"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-de4279"><!-- p2a1 -->
+            <head xml:id="pqir89-de4279-Hd1e106">Articulus 1</head>
+            <head xml:id="pqir89-de4279-Hd1e109" type="question-title">
+        De formarum materialium, 
+        et immaterialium diversitate.
+      </head>
+            <p xml:id="pqir89-de4279-d1e112">
+      <!--81.xml-->
+               <pb ed="#A" n="64"/>
+               <lb ed="#A" n="1"/>EXERCITATIO 
+      <lb ed="#A" n="2"/>SECVNDA. 
+      <lb ed="#A" n="3"/>De origine animae, &amp; propaga¬ 
+      <lb ed="#A" n="4"/>tione peccati.
+    </p>
+            <p xml:id="pqir89-de4279-d1e128">
+               <lb ed="#A" n="5"/>ART. I 
+      <lb ed="#A" n="6"/>De formarum materialium, &amp; 
+        immate<lb ed="#A" n="7" break="no"/>rialium diversitate. 
+    </p>
+            <p xml:id="pqir89-de4279-d1e137">
+               <lb ed="#A" n="8"/>VT Decisio huius quaestionis, De 
+      <lb ed="#A" n="9"/>origine animae, facilius 
+      intelliga<lb ed="#A" n="10" break="no"/>tur, quaedam praemittam de 
+      for<lb ed="#A" n="11" break="no"/>marum di versitate, deque varia 
+      <lb ed="#A" n="12"/>causalitate, &amp; potentia materiae, respectu 
+      for<lb ed="#A" n="13" break="no"/>marum, quae in eam introducuntur, aut ex ea 
+      <lb ed="#A" n="14"/>educuntur. 
+      <lb ed="#A" n="15"/>2. Primo igitur tenendum est, tria esse 
+      ge<lb ed="#A" n="16" break="no"/>nera effectorum, quae propter certum 
+      ali<lb ed="#A" n="17" break="no"/>quem finem, non vero temere aut fortuito 
+      <lb ed="#A" n="18"/>producuntur: nam eorum alia omnium 
+      quam<lb ed="#A" n="19" break="no"/>tuor causarum, alia trium, alia duarum 
+      tan<lb ed="#A" n="20" break="no"/>tum concursu producuntur. Omnium 
+      quam<lb ed="#A" n="21" break="no"/>tuor causarum concursu producuntur 
+      sub<lb ed="#A" n="22" break="no"/>stantiae corporeae, quae non possunt habere 
+      <lb ed="#A" n="23"/>esse aliquod reale in mundo, nisi duae causae 
+      <lb ed="#A" n="24"/>internae, vid, materia &amp; forma, duae item ex¬ 
+      <!--82.xml-->
+      <pb ed="#A" n="65"/>
+               <lb ed="#A" n="1"/>ternae, i. e. efficiens &amp; finis, concutrant 
+      adtri<lb ed="#A" n="2" break="no"/>buendum iis existendi actum. Trium 
+      causa<lb ed="#A" n="3" break="no"/>rum concursu, videlicet efficientis, materiae, 
+      <lb ed="#A" n="4"/>&amp; finis, producuntur omnes formae 
+      acciden<lb ed="#A" n="5" break="no"/>tales seu accidentia, omnes item formae 
+      sub<lb ed="#A" n="6" break="no"/>stantiales, sola anima rationali excepta. Du 
+      a<lb ed="#A" n="7" break="no"/>rum causarum concursu, videlicet efficientis,  
+      <lb ed="#A" n="8"/>&amp; finis, producuntur Angeli, &amp; animae 
+      hu<lb ed="#A" n="9" break="no"/>manae: Angeli enim neque ex materia &amp; 
+      for<lb ed="#A" n="10" break="no"/>ma constant, neque in materia existunt, 
+      ideo<lb ed="#A" n="11" break="no"/>que duas tantum habere possunt causas, 
+      vi<lb ed="#A" n="12" break="no"/>delicet efficientem &amp; finem. Animae vero 
+      <lb ed="#A" n="13"/>humanae, licet in materia existant, non tamen 
+      <lb ed="#A" n="14"/>ex materia &amp; forma constant, neque 
+      produ<lb ed="#A" n="15" break="no"/>cuntur vi materiae, in qua existunt: cum enim 
+      <lb ed="#A" n="16"/>sint spiritus, nullius materiae vi produci 
+      pos<lb ed="#A" n="17" break="no"/>sunt, ut mox probabitur, sed a Deo ex nihilo 
+      <lb ed="#A" n="18"/>creantur, &amp; in materiam inducuntur, pro- 
+      <lb ed="#A" n="19"/>pter optimum finem, videlicet Dei glotiam, 
+      <lb ed="#A" n="20"/>&amp; ipsorum hominum salutem aeternam: 
+    </p>
+            <p xml:id="pqir89-de4279-d1e225">
+               <lb ed="#A" n="21"/>S. Dixi, formas accidentales, ut 
+      albedi<lb ed="#A" n="22" break="no"/>nem, nigredinem, &amp;c. trium causarum 
+      con<lb ed="#A" n="23" break="no"/>cursu produci, quia ut albedo habeat esse 
+      rea<lb ed="#A" n="24" break="no"/>le in mundo, v. oportet, finem aliquem, seu 
+      <lb ed="#A" n="25"/>propositum, excitare, &amp; allicere efficientem 
+      <lb ed="#A" n="26"/>ad agendum: 2. Oportet efficientem 
+      adhibe<lb ed="#A" n="27" break="no"/>re suam vim, seu concursum activum. 2. 
+      O<lb ed="#A" n="28" break="no"/>portet materiam in qua, seu subiectum 
+      albedi<lb ed="#A" n="29" break="no"/>nis, concurrere, &amp; cooperari concursu 
+      passi<lb ed="#A" n="30" break="no"/>vo, ad tribuendum illud esse albedini: hoc au¬ 
+      <!--83.xml-->
+      <pb ed="#A" n="66"/>
+               <lb ed="#A" n="1"/>tem praestat, recipiendo actionem causae 
+      es<lb ed="#A" n="2" break="no"/>ficientis &amp; producentis albedinem, item 
+      re<lb ed="#A" n="3" break="no"/>cipiendo ipsam albedinem, eamque 
+      susten<lb ed="#A" n="4" break="no"/>tando. Ex trium harum causarum concursu, 
+      <lb ed="#A" n="5"/>pendet albedinis aliorumque accidentium 
+      <lb ed="#A" n="6"/>existentia, praecipue vero a materia, in qua 
+      <lb ed="#A" n="7"/>recipiuntur, quaeque concursu passivo 
+      produ<lb ed="#A" n="8" break="no"/>cit &amp; sustentat ipsorum esse: idque quia ex 
+      <lb ed="#A" n="9"/>efficiente, &amp; fine, pendent tantum quoad 
+      <lb ed="#A" n="10"/>sieri, ex materia autem seu subiecto pendent,  
+      <lb ed="#A" n="11"/>&amp; quoad siers, &amp; quoad esse: nam neque 
+      pos<lb ed="#A" n="12" break="no"/>sunt fieri sine concursu materiae in quam 
+      exi<lb ed="#A" n="13" break="no"/>stunt, neque possunt in existendi actu 
+      perse<lb ed="#A" n="14" break="no"/>verare, illa materia sublata: at efficiente &amp; 
+      fi<lb ed="#A" n="15" break="no"/>nali causa sublatis, potest accidens iam. 
+      pro<lb ed="#A" n="16" break="no"/>ductum, in existendi actu perseuerare, ut 
+      li<lb ed="#A" n="17" break="no"/>quet ex infinitis pene exemplis.  
+    </p>
+            <p xml:id="pqir89-de4279-d1e290">
+               <lb ed="#A" n="18"/>ae Dixi omnes formas, substantiales, 
+      ani<lb ed="#A" n="19" break="no"/>ma humana excepta, etiam triumcausarum  
+      <lb ed="#A" n="20"/>concursu produci. quia ut forma lapidis vg. 
+      <lb ed="#A" n="21"/>actu existat, I. oportet finem aliquem 
+      mo<lb ed="#A" n="22" break="no"/>tione metaphorica movere efficientem. 2, 
+      ne<lb ed="#A" n="23" break="no"/>cesse est efficientem activa sua virtute 
+      dispo<lb ed="#A" n="24" break="no"/>nere materiam lapidis, ad recipiendam illam  
+      <lb ed="#A" n="25"/>formam substantialem. 2. oportet matetiam,  
+      <lb ed="#A" n="26"/>in genere causae subiectivae, concurtere ad 
+      <lb ed="#A" n="27"/>producendam, &amp; sustentandam illam 
+      for<lb ed="#A" n="28" break="no"/>inam, idque quia illa forma pendet a 
+      mate<lb ed="#A" n="29" break="no"/>ria, quoad fiert, esse, &amp; operari, h. e neque potest 
+      <lb ed="#A" n="30"/>fieri, neque esse, neque operari, sine materia in 
+      <!--84.xml-->
+      <pb ed="#A" n="67"/>
+               <lb ed="#A" n="1"/>qua existit: ista autem dependentia 
+      forma<lb ed="#A" n="2" break="no"/>rum substantialium a materia, manifeste 
+      ar<lb ed="#A" n="3" break="no"/>guit materiam esse formarum in ea 
+      existen<lb ed="#A" n="4" break="no"/>tium causam, non quidem acti vam, sed 
+      passi<lb ed="#A" n="5" break="no"/>pam, &amp; sub ectixam, ut vocant: omnis enim 
+      <lb ed="#A" n="6"/>dependentia alicuius ab aliquo, tanquam a 
+      <lb ed="#A" n="7"/>priori, in fieri, &amp; esse, est exidens causalitatis 
+      <lb ed="#A" n="8"/>indicium. at longe aliter se habet anima 
+      hu<lb ed="#A" n="9" break="no"/>mana, ea enim, post mortem hominis &amp; 
+      exi<lb ed="#A" n="10" break="no"/>stit, &amp; operatur extra materiam : Ergo a 
+      ma<lb ed="#A" n="11" break="no"/>terra non pendet quoad esse, &amp; operari: at 
+      neqe<lb ed="#A" n="12" break="no"/>ab ea pendet quoad siert, idque quia materia 
+      <lb ed="#A" n="13"/>non potest vi aliquam, aut concursu. causali 
+      tri<lb ed="#A" n="14" break="no"/>buere esse spirituali substantiae, qualis est 
+      ani<lb ed="#A" n="15" break="no"/>ma rationalis, ut mox probabitur, &amp; proinde 
+      <lb ed="#A" n="16"/>nullo modo est eius causa. Hinc consequitur,  
+      <lb ed="#A" n="17"/>animam esse ex earum rerum numero, quae 
+      <lb ed="#A" n="18"/>duarum tantum causarum concursu 
+      produ<lb ed="#A" n="19" break="no"/>cuntur, efficientis videlicet &amp; finis: patet item 
+      <lb ed="#A" n="20"/>anima recte appellari formam immaterialem, 
+      <lb ed="#A" n="21"/>seu independentem a materia, cum e contrario 
+      <lb ed="#A" n="22"/>omnes aliae formae, tum substantiales, tum 
+      ac<lb ed="#A" n="23" break="no"/>cidentales, vocentur formae materiales, &amp; a 
+      <lb ed="#A" n="24"/>materia pendentes, v. c. Forma ignis, sicut 
+      exi<lb ed="#A" n="25" break="no"/>stere nequit extra suam materiam, ita etiam  
+      <lb ed="#A" n="26"/>sine ea non potest calefacere, &amp; comburere. 
+      <lb ed="#A" n="27"/>Forma bruti, sicut existere nequit sine 
+      mate<lb ed="#A" n="28" break="no"/>ria sua, i. e. corpore, ita sine eadem 
+      senti<lb ed="#A" n="29" break="no"/>re, aut appetere non potest. At anima 
+      hu<lb ed="#A" n="30" break="no"/>mana, non solum existit extra materiam  
+      <!--85.xml-->
+      <pb ed="#A" n="68"/>
+               <lb ed="#A" n="1"/>post mortem hominis, sed etiam extra eam  
+      <lb ed="#A" n="2"/>operatur, exercendo actus intelligendi, 
+      vo<lb ed="#A" n="3" break="no"/>lendi, gaudendi, aut dolendi. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

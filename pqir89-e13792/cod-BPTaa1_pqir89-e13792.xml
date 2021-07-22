@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 12</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 12</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="197-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-e13792"><!-- p3a12 -->
+            <head xml:id="pqir89-e13792-Hd1e106">Articulus 12</head>
+            <head xml:id="pqir89-e13792-Hd1e109" type="question-title">
+        An fides fuerit in anima Christis et an sit 
+        in Sanctis, qui iam in coelum translati, 
+        habent Dei cognitionem facialem, ut 
+        ut loquuntur Scholastici. 
+      </head>
+            <p xml:id="pqir89-e13792-d1e112">
+               <lb ed="#A" n="13"/>ART. XII 
+      <lb ed="#A" n="14"/>An fides fuerit in anima Christis &amp; an sit 
+      <lb ed="#A" n="15"/>in Sanctis, qui iam in coelum translati, 
+      <lb ed="#A" n="16"/>habent Dei cognitionem facialem, ut 
+      <lb ed="#A" n="17"/>ut loquuntur Scholastici. 
+    </p>
+            <p xml:id="pqir89-e13792-d1e125">
+               <lb ed="#A" n="18"/>AD primam quaestionem, in titulo 
+      pro<lb ed="#A" n="19" break="no"/>A positam, sic respondetur: Quamvis in 
+      <lb ed="#A" n="20"/>Christo, durante statu humiliationis, fuerat 
+      <lb ed="#A" n="21"/>eximia Charitas, qua &amp; Deum diligebat 
+      pro<lb ed="#A" n="22" break="no"/>pter se, &amp; humanum genus propter Deum, 
+      <lb ed="#A" n="23"/>habitus tamen fidei, &amp; spei, in eo nunquam  
+      <lb ed="#A" n="24"/>fuerunt, quia fidei obiectum est Deus, 
+      quate<lb ed="#A" n="25" break="no"/>nus obscure &amp; in aenigmate cognoscitur: spei 
+      <lb ed="#A" n="26"/>vero obiectum est etiam Peus, quatenus 
+      non<lb ed="#A" n="27" break="no"/>dum habetur, sed expectatur: Christus autem a 
+      <!--216.xml-->
+      <pb ed="#A" n="197"/>
+               <lb ed="#A" n="1"/>primo instanti suae conceptionis, fuit non 
+      so<lb ed="#A" n="2" break="no"/>lum viator, sed etiam comprehensor, &amp; clare 
+      vi<lb ed="#A" n="3" break="no"/>dit Deum, resque divinas, quae sunt obiectum 
+      <lb ed="#A" n="4"/>fidei &amp; spei¬ 
+    </p>
+            <p xml:id="pqir89-e13792-d1e162">
+               <lb ed="#A" n="5"/>2 Ob. prim. Omnes virtutes fuerunt in 
+      <lb ed="#A" n="6"/>anima Christi: at fides est virtus: item in 
+      <lb ed="#A" n="7"/>Christo fuit plenitudo omnis gratiae. 
+      Re<lb ed="#A" n="8" break="no"/>spond. illud intelligendum esse de illis 
+      virtu<lb ed="#A" n="9" break="no"/>tibus &amp; donis, quae eius statui non 
+      repu<lb ed="#A" n="10" break="no"/>gnant, fides autem &amp; spes imperfectionem 
+      <lb ed="#A" n="11"/>quandam important contrariam isti 
+      perfe<lb ed="#A" n="12" break="no"/>ctioni quam Christus ab initio habuit: non 
+      <lb ed="#A" n="13"/>autem mirum videri debet, quod istas 
+      virtu<lb ed="#A" n="14" break="no"/>tes Christo non tribuamus, nam virtus 
+      poe<lb ed="#A" n="15" break="no"/>nitentiae, propter adiunctum malum, 
+      Chri<lb ed="#A" n="16" break="no"/>sto non potest tribui. Ob. 2. Si Christus 
+      ca<lb ed="#A" n="17" break="no"/>ruit fide, eius actiones fuerunt peccata, 
+      quic<lb ed="#A" n="18" break="no"/>quid enim non fit ex fide, est peccatum, Rom. 
+      <lb ed="#A" n="19"/>I4. verse ult. Respond. fidem ibi accipi pro 
+      <lb ed="#A" n="20"/>frma persuasione &amp; notitia, qua certo 
+      sci<lb ed="#A" n="21" break="no"/>mus, ea quae agimus esse honesta &amp; bona. 
+      <lb ed="#A" n="22"/>h. e. voluntati divinae conformia, &amp; 
+      consen<lb ed="#A" n="23" break="no"/>tanea: fides autem sic accepta, Christo 
+      tri<lb ed="#A" n="24" break="no"/>bui &amp; debet, &amp; potest: nam perfectam 
+      obe<lb ed="#A" n="25" break="no"/>dientiam legi divinae praestitit. 
+    </p>
+            <p xml:id="pqir89-e13792-d1e211">
+               <lb ed="#A" n="26"/>S Obiici etiam solent Scripturae 
+      testimo<lb ed="#A" n="27" break="no"/>nia, quae spem &amp; fiduciam Christo 
+      attri<lb ed="#A" n="28" break="no"/>buunt. ut Matili. 39. de Christo dicitur, 
+      spe<lb ed="#A" n="29" break="no"/>ravit aut confidit in Domino, eripiat eum: 
+      vel<lb ed="#A" n="30" break="no"/>ut habetur Psal. 32. de volvit se ad sehovam e 
+      <!--217.xml-->
+      <pb ed="#A" n="198"/>
+               <lb ed="#A" n="1"/>liberet eum. Item v. Heb. V. I2. ero confidens in 
+      <lb ed="#A" n="2"/>eum. Resp. I. ex Augustino, multa dici in 
+      Psal<lb ed="#A" n="3" break="no"/>mis de persona Christi, non respectu sui, sed 
+      <lb ed="#A" n="4"/>respectu membrorum eius, cum quibus unum 
+      <lb ed="#A" n="5"/>corpus constituit. 2. Non est negandum, 
+      fuis<lb ed="#A" n="6" break="no"/>se spem in Christo, respectu, eorum quae 
+      non<lb ed="#A" n="7" break="no"/>dum adeptus erat, ut resurrectionis, 
+      glorifi<lb ed="#A" n="8" break="no"/>cationis sui nominis, &amp; similium. Sed ea spes,  
+      <lb ed="#A" n="9"/>quia Deum ipsum ut principale obiectum 
+      <lb ed="#A" n="10"/>non spectabat, sed alia quaedam bona vera 
+      <lb ed="#A" n="11"/>quidem spes erat, non tamen fuit actus prin¬¬ 
+      <lb ed="#A" n="12"/>cipalis virtutis huius Theologicae, de qua hic 
+      <lb ed="#A" n="13"/>disseritur: fides autem ei nullo modo inesse 
+      <lb ed="#A" n="14"/>potuit, quia plena rerum cognitio, qua 
+      o<lb ed="#A" n="15" break="no"/>mnia in verbo clare videbat, fidem omnino 
+      <lb ed="#A" n="16"/>tollit. 
+    </p>
+            <p xml:id="pqir89-e13792-d1e263">
+               <lb ed="#A" n="17"/>A Ad poster. quaest. in titulo propositam,  
+      <lb ed="#A" n="18"/>unanimi consensu respondent aententiaris 
+      <lb ed="#A" n="19"/>fidem in beatis non posse inveniri, quia 
+      vid<lb ed="#A" n="20" break="no"/>Deum in aenigmate non cognoscunt, sed 
+      fa<lb ed="#A" n="21" break="no"/>cie adfaciem: at longe probabilius 
+      Aman<lb ed="#A" n="22" break="no"/>dus Polanus, Sont. Theol. lib. 9. cap. e. Quaest. 
+      <lb ed="#A" n="23"/>4. de subiecto fidet, dicit fidem aliter se 
+      habe<lb ed="#A" n="24" break="no"/>re in iis, quae ad essentiam beatitudinis 
+      coe<lb ed="#A" n="25" break="no"/>lestis pertinent, aliter in adiunctis ipsius: 
+      Es<lb ed="#A" n="26" break="no"/>sentiam (inquit) beatitudinis, hic nde 
+      credi<lb ed="#A" n="27" break="no"/>mus, in coelo visione evacuatur fides: adiuncta 
+      <lb ed="#A" n="28"/>pero quaedum eius, &amp; hic &amp; illic creduntur, 
+      <lb ed="#A" n="29"/>nempe quia visioni beatae minime adversantur, 
+      <lb ed="#A" n="30"/>Et infra dicit, ea quae a beatis craeduntur, par¬ 
+      <!--218.xml-->
+      <pb ed="#A" n="199"/>
+               <lb ed="#A" n="1"/>tim esse praeterita, ut sunt omnia quae 
+      Chri<lb ed="#A" n="2" break="no"/>stus fecit nostra causa, partim futura, ut sunt 
+      <lb ed="#A" n="3"/>secundus Christi aduentus, resurrectio 
+      car<lb ed="#A" n="4" break="no"/>nis, iudicium extremum, &amp; Ecclesiae 
+      per<lb ed="#A" n="5" break="no"/>fectio. 
+    </p>
+            <p xml:id="pqir89-e13792-d1e311">
+               <lb ed="#A" n="6"/>s Quia autem obiicere potuit aliquis, 
+      fi<lb ed="#A" n="7" break="no"/>dem per visionem evacuari, seu fidem non 
+      <lb ed="#A" n="8"/>posse illic esse, ubi est visio: Respondet 
+      Pola<lb ed="#A" n="9" break="no"/>nus, ubi est fides, ibi non esse visionem eius 
+      <lb ed="#A" n="10"/>rei euius est fides, hoc est, fidem &amp; visionem 
+      <lb ed="#A" n="11"/>beatorum non versari circa idem obiectum: 
+      <lb ed="#A" n="12"/>corum enim fides versatur circa praeterita, &amp; 
+      <lb ed="#A" n="13"/>futura Dei operas at visio versatur circa 
+      <lb ed="#A" n="14"/>Deum ipsum, &amp; Christum incarnatum : unde 
+      <lb ed="#A" n="15"/>patet fidem in Patria non exacuari quoad 
+      se<lb ed="#A" n="16" break="no"/>cundarium eius obiectum, licet evacuetur 
+      <lb ed="#A" n="17"/>quoad principale &amp; primarium eius 
+      obse<lb ed="#A" n="18" break="no"/>ctum, hoc est Deum. 
+    </p>
+            <p xml:id="pqir89-e13792-d1e342">
+               <lb ed="#A" n="19"/>&amp; Dicet aliquis, Polanum gratis hoc 
+      as<lb ed="#A" n="20" break="no"/>serere, &amp; nullam suae assertionis rationem 
+      <lb ed="#A" n="21"/>adferre. Respond. hanc sententiam 
+      pos<lb ed="#A" n="22" break="no"/>se validissima ratione confirmari: vel enim 
+      <lb ed="#A" n="23"/>dicendum est, notitiam, quam habent beati 
+      <lb ed="#A" n="24"/>de praeteritis &amp; futuris, niti autoritate Dei,  
+      <lb ed="#A" n="25"/>in Scriptura testantis ea aliquando fuisse aut 
+      <lb ed="#A" n="26"/>foress vel est dicendum, eos ista 
+      contempla<lb ed="#A" n="27" break="no"/>ri &amp; intueri in Verbo, hoc est, secunda 
+      <lb ed="#A" n="28"/>persona Trinitatis, tanquam in 
+      speculo<lb ed="#A" n="29" break="no"/>posterius admitti non potest: est enim 
+      <lb ed="#A" n="30"/>Pontificiorum figmentum, in Ecclesiam  
+      <!--219.xml-->
+      <pb ed="#A" n="200"/>
+               <lb ed="#A" n="1"/>in vectum ad stabiliendam mortuorum in 
+      vo<lb ed="#A" n="2" break="no"/>cationem. Ergo dicendum est prius, 
+      videli<lb ed="#A" n="3" break="no"/>cet eorum notitiam de praeteritis &amp; futuris,  
+      <lb ed="#A" n="4"/>niti Dei authoritate, &amp; proinde veram &amp;  
+      <lb ed="#A" n="5"/>proprie dictam fidem esse¬ 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

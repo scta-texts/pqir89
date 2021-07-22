@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 13</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 13</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="201-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-e14076"><!-- p3a13 -->
+            <head xml:id="pqir89-e14076-Hd1e106">Articulus 13</head>
+            <head xml:id="pqir89-e14076-Hd1e109" type="question-title">
+        An recte negent Remonstrantes, 
+        Adamum ante lapsum habuisse potentiam 
+        credendi in Christum. 
+      </head>
+            <p xml:id="pqir89-e14076-d1e112">
+               <lb ed="#A" n="6"/>ART. XIII 
+      <lb ed="#A" n="7"/>An recte negent Remonstrantes, 
+        Ada<lb ed="#A" n="8" break="no"/>mum ante lapsum habuisse potentiam 
+      <lb ed="#A" n="9"/>credendi in Christum. 
+    </p>
+            <p xml:id="pqir89-e14076-d1e123">
+               <lb ed="#A" n="10"/>πατ Heologi Orthodoxi, Arminianis 
+      <lb ed="#A" n="11"/>quaerentibus, quo iure obedientia 
+      <lb ed="#A" n="12"/>fidei a peccatoribus exigatur, quibus Deus  
+      <lb ed="#A" n="13"/>non vult dare vires credendi in Christum e 
+      <lb ed="#A" n="14"/>Respondere solent, Deum in 
+      primacreatio<lb ed="#A" n="15" break="no"/>ne Adamo dedisse fidei habitum, quo posset 
+      <lb ed="#A" n="16"/>assentiri omni Dei verbo, &amp; proinde 
+      Euan<lb ed="#A" n="17" break="no"/>gelio si illud fuisset ei praenunciatum: hunc 
+      <lb ed="#A" n="18"/>autem habitum dicunt in Adamo esse a 
+      no<lb ed="#A" n="19" break="no"/>bis amissum: ideoque cum ustitia non 
+      re<lb ed="#A" n="20" break="no"/>quirat, ut Deus nobis continuo reddat, quae 
+      <lb ed="#A" n="21"/>culpa nostra amittimus, ad aequitatem 
+      divi<lb ed="#A" n="22" break="no"/>nam in obsequio fidei exigendo. 
+      demonstran<lb ed="#A" n="23" break="no"/>dam, sufficere quod non postulet nisi quod 
+      <lb ed="#A" n="24"/>nobis aliquando dederit, 
+    </p>
+            <p xml:id="pqir89-e14076-d1e158">
+               <lb ed="#A" n="25"/>2 Hanc sententiam Orthodoxorum 
+      da<lb ed="#A" n="26" break="no"/>mnant &amp; reiiciunt Armin. in Apol ad versus 
+      <lb ed="#A" n="27"/>art. resp. ad art. I9. Iohannes Arnoldus, in 
+      <!--220.xml-->
+      <pb ed="#A" n="201"/>
+               <lb ed="#A" n="1"/>defensione sententiae D. Iacobi Arminii, ad 
+      ver<lb ed="#A" n="2" break="no"/>sus equsdem considerationem a Daniele Tileno 
+      <lb ed="#A" n="3"/>editam, cap. I4. Item Theologi 
+      Remonstran<lb ed="#A" n="4" break="no"/>tes citati &amp; vocati ad Venerandam nodum 
+      <lb ed="#A" n="5"/>Dordrechtanam, in defensione sententiae suae, 
+      <lb ed="#A" n="6"/>circa quartum articulum de gratiae 
+      operatio<lb ed="#A" n="7" break="no"/>ne: verum hi authores monent, non hic 
+      dis<lb ed="#A" n="8" break="no"/>putari simpliciter, an Adamus in Deum 
+      po<lb ed="#A" n="9" break="no"/>tuerit credere: sed an potuerit in Christum  
+      <lb ed="#A" n="10"/>credere: illud enim libenter concedunt, hoc 
+      <lb ed="#A" n="11"/>pertinaciter negant.  
+    </p>
+            <p xml:id="pqir89-e14076-d1e196">
+               <lb ed="#A" n="12"/> Hanc quaestionem non immerito 
+      per<lb ed="#A" n="13" break="no"/>magni esse momenti, &amp; proinde diligenter 
+      <lb ed="#A" n="14"/>considerandam iudicat insigne illud lumen 
+      <lb ed="#A" n="15"/>&amp; ornamentum Ecclesiae Gallicae Petrus 
+      Mo<lb ed="#A" n="16" break="no"/>lineus in Anat. Armin. cap. II. Vt igitur 
+      <lb ed="#A" n="17"/>recto ordine in ea explicanda progrediamur, 
+      <lb ed="#A" n="18"/>primo proponam &amp; explicabo nostram 
+      sen<lb ed="#A" n="19" break="no"/>tentiam de fide Adami. Secundo, eam 
+      ra<lb ed="#A" n="20" break="no"/>tionibus confirmabo. Tertio, respondebo 
+      <lb ed="#A" n="21"/>ad argumenta Remonstrantium: 
+    </p>
+            <p xml:id="pqir89-e14076-d1e220">
+               <lb ed="#A" n="22"/>a Sententiam Orthodoxorum, de fide 
+      <lb ed="#A" n="23"/>primorum parentum ante lapsum, 
+      assertio<lb ed="#A" n="24" break="no"/>nibus aliquot proponam, &amp; explicabo. 
+      Pri<lb ed="#A" n="25" break="no"/>ma assertio: Adamus ante lapsum non solum 
+      <lb ed="#A" n="26"/>habuit Ethicas virtutes, sed etiam Theologicas, 
+      <lb ed="#A" n="27"/>hoc est, fidem, spem, &amp; charitatem  his enim 
+      <lb ed="#A" n="28"/>carere non potuit, absque manifesta 
+      felicita<lb ed="#A" n="29" break="no"/>tis iactura, ut recte monet <ref xml:id="pqir89-e14076-Rd1e239">
+                  <name xml:id="pqir89-e14076-Nd1e241">Magnus ille 
+      Ti<lb ed="#A" n="30" break="no"/>lenus</name>, Sont. part. I. Disp. 22</ref>. Secunda asser¬ 
+      <!--221.xml-->
+      <pb ed="#A" n="202"/>
+               <lb ed="#A" n="1"/>tio: Adamus. per illum habitum fidei, actu 
+      in<lb ed="#A" n="2" break="no"/>telligebat ea sola, quae tum ei erant patefacta, at 
+      <lb ed="#A" n="3"/>per eundem intelligere potuit ea omnia quae nos 
+      <lb ed="#A" n="4"/>intelligimus, modo illi patefacta fuissent. Tertia 
+      <lb ed="#A" n="5"/>assertio: potentia credendi in Christum, quam  
+      <lb ed="#A" n="6"/>Adumo ante lapsum tribuimus, non fuit 
+      natu<lb ed="#A" n="7" break="no"/>ralis, sed habitualis, hoc est, non fuit ipsa 
+      na<lb ed="#A" n="8" break="no"/>turalis facultas intelligendi, ut autumat 
+      Ar<lb ed="#A" n="9" break="no"/>minius, sed fuit habitus supernaturalis a Deo 
+      <lb ed="#A" n="10"/>infusus. Quarta assertio: llla potentia 
+      creden<lb ed="#A" n="11" break="no"/>di in Christum, non potuit exire in actum, 
+      du<lb ed="#A" n="12" break="no"/>rante eo stati: quia videlicet eius actus 
+      re<lb ed="#A" n="13" break="no"/>pugnat isti statui. Quinta assertio: Non 
+      ta<lb ed="#A" n="14" break="no"/>men ideo cum Rrminio dicendum est, potentiam 
+      <lb ed="#A" n="15"/>illam fuisse improprie dictam, &amp; generalissima 
+      <lb ed="#A" n="16"/>notione sumptam. Nam nemo dixerit, 
+      poten<lb ed="#A" n="17" break="no"/>tiam videndi Solem, quam, is habet qui esti 
+      <lb ed="#A" n="18"/>tenebroso carcere, esse improprie dictam 
+      po<lb ed="#A" n="19" break="no"/>tentiam, quia in actum educi nonpotest 
+      du<lb ed="#A" n="20" break="no"/>rante eo status est enim vera &amp; proprie dicta 
+      <lb ed="#A" n="21"/>naturalis facultas. Item nemo negaverit 
+      <lb ed="#A" n="22"/>Adamum ante lapsum habuisse proprie 
+      di<lb ed="#A" n="23" break="no"/>ctam facultatem &amp; potentiam legendi &amp; 
+      in<lb ed="#A" n="24" break="no"/>telligendi historiam Mosaitam, quam vis ea 
+      <lb ed="#A" n="25"/>potentia durante eo statu. in actum educi non 
+      <lb ed="#A" n="26"/>potuit. 
+    </p>
+            <p xml:id="pqir89-e14076-d1e309">
+               <lb ed="#A" n="27"/> Haec sententia sic explicata, facile 
+      pro<lb ed="#A" n="28" break="no"/>bari &amp; confirmari potest. Primo enim sic 
+      ar<lb ed="#A" n="29" break="no"/>gumentatur Tilenus, in Consideratione Declar. 
+      <lb ed="#A" n="30"/>Arminianae: Adamus ante lapsum nec mentis 
+      <!--222.xml-->
+      <pb ed="#A" n="203"/>
+               <lb ed="#A" n="1"/>caecitate, nec cordis obduratione laboravits 
+      <lb ed="#A" n="2"/>quae internae causae sunt impotentiae 
+      creden<lb ed="#A" n="3" break="no"/>dis sed mentem habuit lucidam, &amp; affectus 
+      <lb ed="#A" n="4"/>compositos: Ergo si Euangelium tum ei 
+      fu<lb ed="#A" n="5" break="no"/>isset praenunciatum, potuit mente illius 
+      ve<lb ed="#A" n="6" break="no"/>ritatem videre, &amp; corde eius bonitatem 
+      am<lb ed="#A" n="7" break="no"/>plecti. Secundo, Adamus habuit potentiam 
+      <lb ed="#A" n="8"/>credendi omni Dei verbo, seu tunc revelato, 
+      <lb ed="#A" n="9"/>seu post revelando, item omni promissioni 
+      <lb ed="#A" n="10"/>Dei, seu datae, seu dandae, in quo genere certa 
+      <lb ed="#A" n="11"/>doctrina Euangelii etiam continetur. Resp. 
+      <lb ed="#A" n="12"/>lohan. Arn. Corvin. Adamum non habuisse 
+      <lb ed="#A" n="13"/>potentiam credendi omni Dei verbo, seu 
+      <lb ed="#A" n="14"/>tunc tevelato, seu post revelando, sed tantum  
+      <lb ed="#A" n="15"/>habuisse potentiam credendi verbo legis 
+      re<lb ed="#A" n="16" break="no"/>velato, &amp; datae promissioi legali: &amp; addit, 
+      <lb ed="#A" n="17"/>Vilenum nulla ratione posse probare 
+      contra<lb ed="#A" n="18" break="no"/>rium. Sed (siquid iudico) validum &amp; 
+      nervo<lb ed="#A" n="19" break="no"/>sum est Tilent argumentum, nec difficile est 
+      <lb ed="#A" n="20"/>probare illud quodabeo asseritur, videlicet 
+      <lb ed="#A" n="21"/>Adamum habuisse potentiam credendi 
+      o<lb ed="#A" n="22" break="no"/>mni Dei verbo sive rerelato, sive 
+      revelan<lb ed="#A" n="23" break="no"/>do: idque quia Adamus ante lapsum potuit 
+      <lb ed="#A" n="24"/>ea omnia praestare, quae lex, in eius corde 
+      <lb ed="#A" n="25"/>scripta, exigebat: at ea exigebat 
+      promptitu<lb ed="#A" n="26" break="no"/>dinem ad credendum omni Dei verbo, sive 
+      <lb ed="#A" n="27"/>revelato, sive revelando: Ergo potuit etiam  
+      <lb ed="#A" n="28"/>credere illi verbo, quod nondum rexelatum  
+      <lb ed="#A" n="29"/>erat. 
+    </p>
+            <p xml:id="pqir89-e14076-d1e387">
+               <lb ed="#A" n="30"/>S Ad hanc instantiam duobus modis re¬ 
+      <!--223.xml-->
+      <pb ed="#A" n="204"/>
+               <lb ed="#A" n="1"/>spondere possunt Remonstrantes: primo e 
+      <lb ed="#A" n="2"/>nim dicent Adamum habuisse potentiam 
+      <lb ed="#A" n="3"/>credendi omni Dei verbo, etiam revelando, 
+      <lb ed="#A" n="4"/>modo eius excellentia &amp; mysterium non 
+      ex<lb ed="#A" n="5" break="no"/>cedat primum illud lumen quo Adamus 
+      or<lb ed="#A" n="6" break="no"/>natus fuit: Euangelicae autem promissiones 
+      <lb ed="#A" n="7"/>excedere videntur lumen illud fidei 
+      pri<lb ed="#A" n="8" break="no"/>morum parentum. Sed supra sublatum est 
+      <lb ed="#A" n="9"/>hoc effugium: dictum enim est, Adamum 
+      <lb ed="#A" n="10"/>neque mentis caecitate, neque cordis 
+      obdu<lb ed="#A" n="11" break="no"/>ratione laborasse, quae causae sunt 
+      impoten<lb ed="#A" n="12" break="no"/>tiae credendi. Praeterea sicut is, qui novit 
+      <lb ed="#A" n="13"/>omnem triangulum habere tres angulos 
+      ae<lb ed="#A" n="14" break="no"/>quales duobus rectis, inducto quolibet 
+      par<lb ed="#A" n="15" break="no"/>ticulari triangulo, virtute iliius generalis 
+      co<lb ed="#A" n="16" break="no"/>gnitionis statim iudicat illum habere tres 
+      <lb ed="#A" n="17"/>angulos aequales duobus rectis: sic etiam  
+      <lb ed="#A" n="18"/>Adamus, qui persuasissimum habebat omne 
+      <lb ed="#A" n="19"/>Dei verbum esse fide dignum, &amp; proinde 
+      cre<lb ed="#A" n="20" break="no"/>dendum, virtute huius generalis persuasionis 
+      <lb ed="#A" n="21"/>facile potuit assentiri cuilibet verbo Dei, sive 
+      <lb ed="#A" n="22"/>Legali si ve Euangelico, 
+    </p>
+            <p xml:id="pqir89-e14076-d1e444">
+               <lb ed="#A" n="23"/>9 Secundo respondere possunt, per 
+      re<lb ed="#A" n="24" break="no"/>torsionem nostri argumenti, ad hunc 
+      mo<lb ed="#A" n="25" break="no"/>dum: Adamus non tenebatur credere 
+      Euan<lb ed="#A" n="26" break="no"/>gelio: Ergo non habuit vires hoc 
+      praestandi<lb ed="#A" n="27" break="no"/>Haec argumentatio valde infirma est. Primo 
+      <lb ed="#A" n="28"/>enim consequentia facillime negatur, &amp; 
+      ne<lb ed="#A" n="29" break="no"/>gationis nostrae ratio manifesta adferri 
+      po<lb ed="#A" n="30" break="no"/>test. Nam Aadamus non tenebatur tum le¬ 
+      <!--224.xml-->
+      <pb ed="#A" n="205"/>
+               <lb ed="#A" n="1"/>gere, intelligere, &amp; credere historiam 
+      Mosai<lb ed="#A" n="2" break="no"/>cam, attamen vires habuit haec praestandi. 
+      <lb ed="#A" n="3"/>Secundo, antecedens illius Enthymematis 
+      <lb ed="#A" n="4"/>aliquo sensu falsum est, &amp; proinde 
+      distin<lb ed="#A" n="5" break="no"/>guendum: nam lex menti Adam: indita 
+      <lb ed="#A" n="6"/>quam vis non actu &amp; expresse, tamen virtute 
+      <lb ed="#A" n="7"/>&amp; implicite praecipiebat fidei obedientiam  
+      <lb ed="#A" n="8"/>in Christum, quia videlicet iubebat 
+      Ada<lb ed="#A" n="9" break="no"/>mum credere omni Dei verbo. Hac 
+      distinctio<lb ed="#A" n="10" break="no"/>ne utitur clariss. Molineus, Anat. Armt. 
+      <lb ed="#A" n="11"/>cap. II, sed ad difficultatem exhauriendam,  
+      <lb ed="#A" n="12"/>ci alia addenda videtur: nam eorum quae 
+      im<lb ed="#A" n="13" break="no"/>plicite praecipiuntur iure naturae, seu lege 
+      <lb ed="#A" n="14"/>morali, alia absolute praecipiuntur, alia 
+      hypo<lb ed="#A" n="15" break="no"/>thetice: exempli gratia, primum praeceptum 
+      <lb ed="#A" n="16"/>Decalogi expresse prohibet cultum Idolotum, 
+      <lb ed="#A" n="17"/>&amp; cultum veri Dei praecipit implicite, sed ab. 
+      <lb ed="#A" n="18"/>solute: quintum praeceptum expresse praecipit 
+      <lb ed="#A" n="19"/>officia inferiorum erga superiores, implicite 
+      <lb ed="#A" n="20"/>vero etiam praecipit officia horum erga illos:  
+      <lb ed="#A" n="21"/>hoc est, latenter iubet nos liberos alere 
+      in<lb ed="#A" n="22" break="no"/>stituere, tueri, iisque in futurum prospicere, 
+      <lb ed="#A" n="23"/>sed hypot hetice seu ex hypothesis hoc est, 
+      mo<lb ed="#A" n="24" break="no"/>do liberos habeamus. Sic Adamus virtute 
+      <lb ed="#A" n="25"/>primi praecepti exigentis obsequium fidei, 
+      te<lb ed="#A" n="26" break="no"/>nebatur credere Euangelio, sed ex hypot hesi, 
+      <lb ed="#A" n="27"/>hoc est, si Euangelium ipsi annunciatum 
+      fu<lb ed="#A" n="28" break="no"/>isset. Hinc patet, quomodo distinguendum 
+      <lb ed="#A" n="29"/>sit antecedens argumenti istius. Vide Molin. 
+      <lb ed="#A" n="30"/>loco praedicto, 
+      <!--225.xml-->
+      <pb ed="#A" n="206"/>
+               <lb ed="#A" n="1"/>S Tertia ratio, seu probatio nostrae sen¬¬ 
+      <lb ed="#A" n="2"/>tentiae sit haec: Qui negant Adamum 
+      habuis<lb ed="#A" n="3" break="no"/>se potentiam credendi in Christum, vel hoc 
+      <lb ed="#A" n="4"/>negant, quod tum non darentur 
+      promissio<lb ed="#A" n="5" break="no"/>nes Euangelicae, vel quod absolute non 
+      po<lb ed="#A" n="6" break="no"/>tuerint dari durante eo statu: sed neutra ratio 
+      <lb ed="#A" n="7"/>sufficit. Nam Adamus ante lapsum. habuit 
+      <lb ed="#A" n="8"/>potentiam(ut iam dictum est) legendi, &amp; 
+      in<lb ed="#A" n="9" break="no"/>telligendi historiam Mosaicam, quamvis ea 
+      <lb ed="#A" n="10"/>historia durante illo statu nec fuit, nec esse 
+      <lb ed="#A" n="11"/>potuit in rerum natura: habuit etiam tum 
+      <lb ed="#A" n="12"/>potentiam, tum habitum miserendi &amp; 
+      suc<lb ed="#A" n="13" break="no"/>currendi egenis, ut fatetur ipse Arnoldus, 
+      <lb ed="#A" n="14"/>quamvis tum neque fuit, neque esse potuit, 
+      <lb ed="#A" n="15"/>durante illo statu, miseria aut egestas. 
+    </p>
+            <p xml:id="pqir89-e14076-d1e570">
+               <lb ed="#A" n="16"/>SPro sua sententia sic argumentatur 
+      An<lb ed="#A" n="17" break="no"/>noldus: Quod in primo statir non fuit 
+      necessa<lb ed="#A" n="18" break="no"/>rium, quod fuit inutile, quod cum veritate 
+      <lb ed="#A" n="19"/>praestari non potuit, quod primo foederi 
+      re<lb ed="#A" n="20" break="no"/>pugnat, &amp; ad secundum foedus pertinet, ad 
+      <lb ed="#A" n="21"/>ullud Adamus non accepit potentiam in 
+      pri<lb ed="#A" n="22" break="no"/>mo statu: sed obedientia fidei in Christum est 
+      <lb ed="#A" n="23"/>talis: Ergo, &amp;c. Resp. negando maiorem: 
+      <lb ed="#A" n="24"/>nam succurrere egenis, item legere, intelligere, 
+      <lb ed="#A" n="25"/>&amp; credere historiam Mosaicam, in primo statu 
+      <lb ed="#A" n="26"/>neque fuerunt utilia, neque necessaria, neque 
+      <lb ed="#A" n="27"/>tum praestari poterant, imo repugnabant. isti 
+      <lb ed="#A" n="28"/>statui: attamen, fatente ipso Arnoldo, homo 
+      <lb ed="#A" n="29"/>ad haec praestanda vires habuit. Instabit 
+      Ar<lb ed="#A" n="30" break="no"/>nold. ergo haec potentia fuit frustranea. 
+      <!--226.xml-->
+      <pb ed="#A" n="207"/>
+               <lb ed="#A" n="1"/>Resp. negando sequelam : potentia enim illa 
+      <lb ed="#A" n="2"/>credendi in Christum revera fuit habitus 
+      cre<lb ed="#A" n="3" break="no"/>dendi, &amp; assentiendi omni verbo Dei: hic 
+      <lb ed="#A" n="4"/>autem habitus, etsi durante illo statu in illum 
+      <lb ed="#A" n="5"/>particularem actum exire non potuit, in alios 
+      <lb ed="#A" n="6"/>tamen actus isti statui convenientes educi 
+      <lb ed="#A" n="7"/>poterat. 
+    </p>
+            <p xml:id="pqir89-e14076-d1e626">
+               <lb ed="#A" n="8"/>Io Ob. 2. Quod non praecipitur Lege, sed 
+      <lb ed="#A" n="9"/>Euangelio, ad illud praestandum non sunt 
+      da<lb ed="#A" n="10" break="no"/>tae homini vires in primo statu, at fides in 
+      <lb ed="#A" n="11"/>Christum non praescribitur lege, sed 
+      Euange<lb ed="#A" n="12" break="no"/>lio. Resp. fidem in Christum aliter praecipi 
+      <lb ed="#A" n="13"/>lege, aliter Euangelio: lege enim praecipitur, 
+      <lb ed="#A" n="14"/>sed implicite &amp; hypothetice, Euangelio vero 
+      <lb ed="#A" n="15"/>praecipitur expresse &amp; absolute: item lege 
+      prae<lb ed="#A" n="16" break="no"/>cipitur tanquam opus bonum, Euangelio 
+      ve<lb ed="#A" n="17" break="no"/>ro praecipitur tanquam instrumentum 
+      applica<lb ed="#A" n="18" break="no"/>tivum meriti Christi. Ob. S. Qui non 
+      acce<lb ed="#A" n="19" break="no"/>pit vites, quibus si laberetur possit resurgere, 
+      <lb ed="#A" n="20"/>ille non accepit vires Euangelio credendi si 
+      <lb ed="#A" n="21"/>illud annunciaretur, sed Adamus non accepit 
+      <lb ed="#A" n="22"/>tales vites: ergo. Respondet Molineus, 
+      Ada<lb ed="#A" n="23" break="no"/>mum accepisse vires quibus a peceato 
+      resur<lb ed="#A" n="24" break="no"/>gere potuit, si eas non perdidisset ipso eius 
+      <lb ed="#A" n="25"/>lapsu. Certum autem est, Adamum suo 
+      lapsu<lb ed="#A" n="26" break="no"/>amisisse omnes habitus virtutum, quibus 
+      an<lb ed="#A" n="27" break="no"/>te ornatus fuit. Et proinde etiam amisisse 
+      <lb ed="#A" n="28"/>vires resurgendi.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

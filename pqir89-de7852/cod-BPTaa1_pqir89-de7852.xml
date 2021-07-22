@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 11</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 11</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="111-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-de7852"><!-- p2a11 -->
+            <head xml:id="pqir89-de7852-Hd1e106">Articulus 11</head>
+            <head xml:id="pqir89-de7852-Hd1e109" type="question-title">
+        Considerantur duae aliae sententiae de 
+        traductione peccati
+      </head>
+            <p xml:id="pqir89-de7852-d1e112">
+               <lb ed="#A" n="11"/>ART. XI 
+      <lb ed="#A" n="12"/>Considerantur duae aliae sententiae de 
+        tra<lb ed="#A" n="13" break="no"/>ductione peccati
+    </p>
+            <p xml:id="pqir89-de7852-d1e121">
+               <lb ed="#A" n="14"/>SEquuntur in hoc articulo 
+      consideran<lb ed="#A" n="15" break="no"/>dae tertia &amp; quarta classis, eorum qui 
+      <lb ed="#A" n="16"/>traductionem peceati per semen parentum 
+      <lb ed="#A" n="17"/>damnant &amp; reiiciunt: ad tertiam classem  
+      <lb ed="#A" n="18"/>eos refero, qui cum Anselmo, in lib. de 
+      conce<lb ed="#A" n="19" break="no"/>ptu Pirginali, &amp; S. Thoma, in I, secundae quaest. 
+      <lb ed="#A" n="20"/>SI, art. I. &amp; quaest. 4. de malo, art. I. dicunt 
+      <lb ed="#A" n="21"/>ad traductionem peccati nihil aliud requiri, 
+      <lb ed="#A" n="22"/>nisi ut homo per veram generationem ab 
+      A<lb ed="#A" n="23" break="no"/>damo descendat. Hoc enim ipso quodaliquis 
+      <lb ed="#A" n="24"/>in lumbis Adae fuit cum is praeceptum in 
+      Pa<lb ed="#A" n="25" break="no"/>radiso transgrederetur, in illo esus peccato 
+      <lb ed="#A" n="26"/>communicavit. Haec sententia reficienda est,  
+      <lb ed="#A" n="27"/>quia descensus noster ab Adamo per natura¬ 
+      <!--130.xml-->
+      <pb ed="#A" n="111"/>
+               <lb ed="#A" n="1"/>lem generationem est quidem causa cur nos 
+      <lb ed="#A" n="2"/>rei sumus peccati ab Adamo commissi: non 
+      <lb ed="#A" n="3"/>vero potest esse causa nostrae caecitatis, 
+      igno<lb ed="#A" n="4" break="no"/>rantiae, &amp; propensionis ad malums &amp; 
+      pro<lb ed="#A" n="5" break="no"/>inde haec opinio in eo peceat, quod secundum 
+      <lb ed="#A" n="6"/>eam explicari possit traductio primae partis 
+      <lb ed="#A" n="7"/>peccati originalis, non vero secundae &amp; 
+      ter<lb ed="#A" n="8" break="no"/>tiae partis. 
+    </p>
+            <p xml:id="pqir89-de7852-d1e176">
+               <lb ed="#A" n="9"/>a2 Ad quartam classem eos refero, qui 
+      no<lb ed="#A" n="10" break="no"/>biscum consentiunt in explicanda 
+      traductio<lb ed="#A" n="11" break="no"/>ne primae &amp; secundae partis peccati, origin 
+      a<lb ed="#A" n="12" break="no"/>lis, dissentiunt vero in explicanda 
+      tradu<lb ed="#A" n="13" break="no"/>ctione tertiae partis, dicentes eam propagari 
+      <lb ed="#A" n="14"/>&amp; traduci a parentibus ad liberos, non per 
+      <lb ed="#A" n="15"/>se, sed per secundam partem: h. e. per 
+      caren<lb ed="#A" n="16" break="no"/>tiam originalis iustitiae, cum quam necessario 
+      <lb ed="#A" n="17"/>connexa &amp; coniuncta est. Si quis igitur eos 
+      <lb ed="#A" n="18"/>roget, undenam sit quod infans recens 
+      na<lb ed="#A" n="19" break="no"/>tus, sit reus peceati, ab Adamo 
+      commissi<lb ed="#A" n="20" break="no"/>Respondebunt, quia est filius Adami, h. e. quia 
+      <lb ed="#A" n="21"/>ab eo per naturalem generationem 
+      descen<lb ed="#A" n="22" break="no"/>dit. Item si roget, unde sit quod insans iste 
+      <lb ed="#A" n="23"/>originali iustitia caret: Respondebunt, quia 
+      <lb ed="#A" n="24"/>parentes eius non poterant illi iustitiam  
+      <lb ed="#A" n="25"/>communicare, ipsi enim. eam carebant. 
+      Deni<lb ed="#A" n="26" break="no"/>que si roget: unde sit quod infans iste ad 
+      ma<lb ed="#A" n="27" break="no"/>luin pronus &amp; propensus sitiRespondebunt, 
+      <lb ed="#A" n="28"/>quia originali iustitia caret, quicunque enim  
+      <lb ed="#A" n="29"/>originali iustitia caret, is necessario ad malum 
+      <lb ed="#A" n="30"/>propensus est: &amp; proinde propensio ad ma¬ 
+      <!--131.xml-->
+      <pb ed="#A" n="112"/>
+               <lb ed="#A" n="1"/>lum propagari videtur per concomitantiam  
+      <lb ed="#A" n="2"/>quandam, qua comitatur &amp; consequitur 
+      ca<lb ed="#A" n="3" break="no"/>rentiam originalis iustitiae. 
+    </p>
+            <p xml:id="pqir89-de7852-d1e238">
+               <lb ed="#A" n="4"/>S Doctissimus &amp; nunquam satis laudatus 
+      <lb ed="#A" n="5"/>Peirus Molineus, hanc sententiam egregie 
+      <lb ed="#A" n="6"/>explicat, &amp; defendit, in Anat. Arminiani. 
+      <lb ed="#A" n="7"/>smi, cap. Io. &amp; ibidem rationem reddit, cur 
+      <lb ed="#A" n="8"/>propensio voluntatis &amp; appetitus sensitivi ad 
+      <lb ed="#A" n="9"/>obiecta illicita, quae sensibus iucunda sunt,  
+      <lb ed="#A" n="10"/>necessario consequatur carentiam originalis 
+      <lb ed="#A" n="11"/>iustitiae. Quia autem, insigne illud opus 
+      Mdo<lb ed="#A" n="12" break="no"/>hines in omnium manibus non est, ego per 
+      <lb ed="#A" n="13"/>aliquot fundamenta seu assertiones 
+      propo<lb ed="#A" n="14" break="no"/>nam summam eorum, quae ab illo sub finem 
+      <lb ed="#A" n="15"/>cap. Io. proposita sunt, idque in eorum 
+      gra<lb ed="#A" n="16" break="no"/>tiam qui nondum Molineum legerunt. 
+    </p>
+            <p xml:id="pqir89-de7852-d1e269">
+               <lb ed="#A" n="17"/>ae Prima assertio: Intellectus hominis 
+      ori<lb ed="#A" n="18" break="no"/>ginali iustitia destituti, &amp; nondum per 
+      ver<lb ed="#A" n="19" break="no"/>bi praedicationem vocati, neque cognoscit, 
+      ne<lb ed="#A" n="20" break="no"/>que cognoscere potest, durante eo statu, bona. 
+      <lb ed="#A" n="21"/>spiritualia &amp; supernaturalia. Haec assertio. 
+      <lb ed="#A" n="22"/>probatione non eget, nam, ut docet 
+      Bellar<lb ed="#A" n="23" break="no"/>minus lib. 6. de gratia &amp; libero arbitrio, cap. 
+      I<lb ed="#A" n="24" break="no"/>convenit inter omnes Theologos, sive sint 
+      <lb ed="#A" n="25"/>Pontificii, sive Euangelici, ista mysteria 
+      fi<lb ed="#A" n="26" break="no"/>dei sine divina reyelatione cognosci non 
+      <lb ed="#A" n="27"/>posse. 
+    </p>
+            <p xml:id="pqir89-de7852-d1e295">
+               <lb ed="#A" n="28"/>S Secunda assert. Voluntas hominis 
+      <lb ed="#A" n="29"/>originali iustitiam destituti, &amp; nondum vocati 
+      <lb ed="#A" n="30"/>per verbi praedicationem, ad ea sola bona. pro¬ 
+      <!--132.xml-->
+      <pb ed="#A" n="113"/>
+               <lb ed="#A" n="1"/>pensa est, quae iste homo cognita habet, h. e. ad 
+      bo<lb ed="#A" n="2" break="no"/>na temporalia &amp; terrena. Cuius rei ratio est,  
+      <lb ed="#A" n="3"/>quia appetitio voluntatis praesupponit 
+      cog<lb ed="#A" n="4" break="no"/>nitionem intellectus, ideoque voluntas 
+      ni<lb ed="#A" n="5" break="no"/>hil potest appetere, nisi quod ratio 
+      cogno<lb ed="#A" n="6" break="no"/>scit. 
+    </p>
+            <p xml:id="pqir89-de7852-d1e321">
+               <lb ed="#A" n="7"/>o Tertia assert. Poluntas talium hominum 
+      <lb ed="#A" n="8"/>propensa est ad bona naturalia &amp; terrena, 
+      tan<lb ed="#A" n="9" break="no"/>quam ad praecipua bona, &amp; maxime expetibilia: 
+      <lb ed="#A" n="10"/>idque quia tales homines non cognoscunt 
+      <lb ed="#A" n="11"/>bonum illud quod revera est perfectissimum: 
+      <lb ed="#A" n="12"/>&amp; ob id alia bona, quasi essent perfectissima, 
+      <lb ed="#A" n="13"/>summo amore prosequuntur. 
+    </p>
+            <p xml:id="pqir89-de7852-d1e339">
+               <lb ed="#A" n="14"/>9 Quarta assert. Quam vis appetitio 
+      bono<lb ed="#A" n="15" break="no"/>rum temporalium per se mala non sit, ex 
+      acciden<lb ed="#A" n="16" break="no"/>te tamen fit mala, quatenus ista bona appetuntur 
+      <lb ed="#A" n="17"/>tanquam praecipua &amp; maxime expetibilia, &amp; 
+      <lb ed="#A" n="18"/>proinde propensio ad ea sic appetenda, vere 
+      appel<lb ed="#A" n="19" break="no"/>lari potest propensio ad malum. Hinc patet, 
+      pro<lb ed="#A" n="20" break="no"/>pensionem ad malum necessario consequi &amp; 
+      <lb ed="#A" n="21"/>comitari illam luminis supernaturalis 
+      caren<lb ed="#A" n="22" break="no"/>tiam, quae est in omnibus qui ab Adamo 
+      de<lb ed="#A" n="23" break="no"/>scendunt per veram generationem: 
+    </p>
+            <p xml:id="pqir89-de7852-d1e363">
+               <lb ed="#A" n="24"/>S Hanc sententiam quondam amplexus 
+      <lb ed="#A" n="25"/>sum: nunc vero eam reiicere cogor, idque 
+      pro<lb ed="#A" n="26" break="no"/>pter graves &amp; efficaces rationes, quae 
+      af<lb ed="#A" n="27" break="no"/>ferri possunt in contrarium. Primo enim, 
+      con<lb ed="#A" n="28" break="no"/>cupiscentia seu propensio ad malum est quid 
+      <lb ed="#A" n="29"/>reale &amp; positivum, ut docet ipse Molineus. 
+      <lb ed="#A" n="30"/>cap. 8. istius operis: Ergo habet realem &amp; po¬ 
+      <!--133.xml-->
+      <pb ed="#A" n="114"/>
+               <lb ed="#A" n="1"/>sitivam causam: ratio sequelae est, quia 
+      prira<lb ed="#A" n="2" break="no"/>tio, aut non Ens, qualis est carentia iustitiae, 
+      <lb ed="#A" n="3"/>non potest producere aliquod Ens reale: nam  
+      <lb ed="#A" n="4"/>Ens reale ad suam productionem requirit 
+      rea<lb ed="#A" n="5" break="no"/>lem inssuxum &amp; opaerationem alicuius 
+      cau<lb ed="#A" n="6" break="no"/>sae: at non Ens, sicut non habet reale esse, ita 
+      <lb ed="#A" n="7"/>non potest habere realem operationem. 
+      Di<lb ed="#A" n="8" break="no"/>cet aliquis, caecitas, quae est privatio, potest 
+      es<lb ed="#A" n="9" break="no"/>se causa lapsus, &amp; privatio luminis potest 
+      es<lb ed="#A" n="10" break="no"/>se causa aberrationis a via, lapsus autem &amp;  
+      <lb ed="#A" n="11"/>aberratio a via sunt entia realia. Resp. lapsus 
+      <lb ed="#A" n="12"/>&amp; aberratio a via duo includunt, videlicet 
+      <lb ed="#A" n="13"/>positivam entitatem talium motuum, &amp; 
+      super<lb ed="#A" n="14" break="no"/>additam incon venientiam, seu defectum: 
+      in<lb ed="#A" n="15" break="no"/>convenientia illa quae est privativum quid 
+      <lb ed="#A" n="16"/>privati vam causam habere potest, at 
+      posi<lb ed="#A" n="17" break="no"/>tiva entitas istorum motuum est a positiva 
+      <lb ed="#A" n="18"/>causa, nam positira entitas lapsus est partim  
+      <lb ed="#A" n="19"/>ab interna pravitate corporis, partim ab 
+      ex<lb ed="#A" n="20" break="no"/>terno offendiculo: item positira entitas 
+      aber<lb ed="#A" n="21" break="no"/>rationis est a Iocomotira facultate, tanquam  
+      <lb ed="#A" n="22"/>a causa. 
+    </p>
+            <p xml:id="pqir89-de7852-d1e434">
+               <lb ed="#A" n="23"/>9 Secundo, ex hac sententia sequitur, 
+      ve<lb ed="#A" n="24" break="no"/>ram causam vitiosae illius propensionis &amp; 
+      in<lb ed="#A" n="25" break="no"/>elinationis, quae est in voluntate, esse 
+      caecita<lb ed="#A" n="26" break="no"/>tem &amp; ignorantiam mentis: at hoc est 
+      fal<lb ed="#A" n="27" break="no"/>sum, &amp; quotidianae experientiae contrarium: 
+      <lb ed="#A" n="28"/>idque primo, quia multi impii seu non 
+      rena<lb ed="#A" n="29" break="no"/>ti, per naturales demonstrationes exidenter 
+      <lb ed="#A" n="30"/>sciunt Deum esse summu. bonum, &amp; 
+      <!--134.xml-->
+      <pb ed="#A" n="115"/>
+               <lb ed="#A" n="1"/>proinde summo amore prosequendums &amp; 
+      <lb ed="#A" n="2"/>nihilominus in voluntate habent 
+      propen<lb ed="#A" n="3" break="no"/>sionem ad prosequendum bona temporalia 
+      <lb ed="#A" n="4"/>&amp; terrena summo amore, posthabito 
+      supre<lb ed="#A" n="5" break="no"/>mo &amp; perfectissimo bono: Ergo causa 
+      il<lb ed="#A" n="6" break="no"/>lius propensionis non est ignorantia mentis. 
+      <lb ed="#A" n="7"/>Secundo, multi impii norunt quid sit 
+      hone<lb ed="#A" n="8" break="no"/>stum, quid inhonestum, &amp; tamen in 
+      volun<lb ed="#A" n="9" break="no"/>tate habent propensionem ad ea agenda, 
+      <lb ed="#A" n="10"/>quae inhonesta sunt &amp; naturali rationi 
+      con<lb ed="#A" n="11" break="no"/>traria: Ergo ignorantia non est causa illius 
+      <lb ed="#A" n="12"/>propensionis.  
+    </p>
+            <p xml:id="pqir89-de7852-d1e484">
+               <lb ed="#A" n="13"/>ro Tertio, concupiscentia seu propensio 
+      <lb ed="#A" n="14"/>ad malum, non solum est pronitas ad nimium 
+      <lb ed="#A" n="15"/>amorem rerum terrenarum, orta ex 
+      igno<lb ed="#A" n="16" break="no"/>rantia rerum coelestium &amp; supernaturalium 
+      <lb ed="#A" n="17"/>ut statuit haec sententias) sed etiam est 
+      pro<lb ed="#A" n="18" break="no"/>nitas quaedam ad contemnenda &amp; 
+      negligen<lb ed="#A" n="19" break="no"/>da bona illa coelestia, quae nobis patefacta &amp; 
+      <lb ed="#A" n="20"/>revelata sunt, h. e. quorum cognitionem ex 
+      <lb ed="#A" n="21"/>Verbi auditu acquisivimus, item est propensio 
+      <lb ed="#A" n="22"/>ad ea agenda, quorum turpitudinem ex Dei 
+      <lb ed="#A" n="23"/>Verbo cognitam &amp; perspectam habemus. 
+      <lb ed="#A" n="24"/>Vnde Paulus de se ipso conqueritur, cap. V. 
+      <lb ed="#A" n="25"/>Rom. Vers. 32. &amp; 24. Delector (inquit) lege 
+      <lb ed="#A" n="26"/>Dei, quod ad interiorem hominem, sed video 
+      a<lb ed="#A" n="27" break="no"/>liam legem in membris meis rebellantem legs 
+      <lb ed="#A" n="28"/>mentis meae, &amp; captivum reddentem me legi 
+      pec<lb ed="#A" n="29" break="no"/>cati, quae est in membris, meis. 
+    </p>
+            <p xml:id="pqir89-de7852-d1e523">
+               <lb ed="#A" n="30"/>II Quarto, si concupiscentia carnis n¬ 
+      <!--135.xml-->
+      <pb ed="#A" n="116"/>
+               <lb ed="#A" n="1"/>hil aliud sit nisi propensio ad inordinatum 
+      a<lb ed="#A" n="2" break="no"/>morem rerum terrenarum, orta ex 
+      ignoran<lb ed="#A" n="3" break="no"/>tia rerum coelestium, ingens sequetur 
+      absur<lb ed="#A" n="4" break="no"/>dum, videlicet concupiscentiam non esse in 
+      <lb ed="#A" n="5"/>renatis, qui rerum coelestium cognitione 
+      im<lb ed="#A" n="6" break="no"/>buti sunt: illi enim qui certo sciunt coelestia 
+      <lb ed="#A" n="7"/>&amp; supernaturalia illa dona infinitis gradibus 
+      <lb ed="#A" n="8"/>excellere &amp; praeferenda esse terrenis &amp; 
+      tem<lb ed="#A" n="9" break="no"/>poralibus bonis, non possunt ex ignorantia 
+      <lb ed="#A" n="10"/>rerum coelestium inordinato amore prosequi 
+      <lb ed="#A" n="11"/>bona terrena &amp; caduca. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

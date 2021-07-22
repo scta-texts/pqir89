@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 7</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 7</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="93-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-de6503"><!-- p2a7 -->
+            <head xml:id="pqir89-de6503-Hd1e106">Articulus 7</head>
+            <head xml:id="pqir89-de6503-Hd1e109" type="question-title">
+        Solvuntur argumenta quae afferri solent. 
+        contra praecedentem doctrinam de 
+        propagatione natinae corruptionis per 
+        semen parentum.
+      </head>
+            <p xml:id="pqir89-de6503-d1e112">
+               <lb ed="#A" n="16"/>ART. VII 
+      <lb ed="#A" n="17"/>Solvuntur argumenta quae afferri solent. 
+         <lb ed="#A" n="18"/>contra praecedentem doctrinam de 
+      pro<lb ed="#A" n="19" break="no"/>pagatione natinae corruptionis per 
+      se<lb ed="#A" n="20" break="no"/>men parentum. 
+    </p>
+            <p xml:id="pqir89-de6503-d1e125">
+               <lb ed="#A" n="21"/>Dicitur primo sic: Corpus non 
+      po<lb ed="#A" n="22" break="no"/>test agere in spiritum, vitiosam 
+      ali<lb ed="#A" n="23" break="no"/>quam qualitatem ei imprimendo: 
+      Ergo<lb ed="#A" n="24" break="no"/>concupiscentia, seu propensio ad malum, a 
+      <lb ed="#A" n="25"/>corpore ad animam non derivatur. 
+      TRespon<lb ed="#A" n="26" break="no"/>det ex <ref xml:id="pqir89-de6503-Rd1e140">Augustino Pareus, lib. 4.</ref> de amissio¬ 
+      <!--112.xml-->
+      <pb ed="#A" n="93"/>
+               <lb ed="#A" n="1"/>ne gratiae, cap. I2. non omnino fieri 
+      natu<lb ed="#A" n="2" break="no"/>raliter, sed occulto Dei iudicio, quod anima 
+      <lb ed="#A" n="3"/>a carne vitiata, ob culpam primorum 
+      pa<lb ed="#A" n="4" break="no"/>rentum, vitium contrahat, h. e. licet corpus 
+      <lb ed="#A" n="5"/>in spiritum naturaliter agere nequeat, per 
+      <lb ed="#A" n="6"/>occu tam tamen iustitiam divinae legis 
+      il<lb ed="#A" n="7" break="no"/>lud fieri posse. 2. Alii respondent, id non 
+      <lb ed="#A" n="8"/>fieri per actionem. carnis in animam, sed 
+      <lb ed="#A" n="9"/>per quandam naturalem concomitantiam  
+      <lb ed="#A" n="10"/>&amp; communicationem, quae est inter 
+      mate<lb ed="#A" n="11" break="no"/>riam &amp; formam, sicut enim anima corpori 
+      <lb ed="#A" n="12"/>communicat suas affectiones,, ut vitam,  
+      <lb ed="#A" n="13"/>sensum, &amp; alia huiusmodi, ita etiam 
+      disposi<lb ed="#A" n="14" break="no"/>tiones corporis communicantur animae, 
+      <lb ed="#A" n="15"/>nam anima infusa corpori male disposito, fit 
+      <lb ed="#A" n="16"/>stolida, ut videre est in naturaliter fatuis: ita 
+      <lb ed="#A" n="17"/>sentit <ref xml:id="pqir89-de6503-Rd1e184">Esthius Theolog. Pont. lib. 2. sent. SI. 
+      <lb ed="#A" n="18"/>art. I</ref> 
+            </p>
+            <p xml:id="pqir89-de6503-d1e190">
+               <lb ed="#A" n="19"/>ae Tertio, Hieronom. Zanchius, de operibus 
+      <lb ed="#A" n="20"/>Dei,, parte S. lib. 2. capit. 2. respondet, 
+      <lb ed="#A" n="21"/>animam, ex coniunctione cum corpore, 
+      pec<lb ed="#A" n="22" break="no"/>cato inficis non per Physicam actionem 
+      <lb ed="#A" n="23"/>corporis in animam, sed ex iustissima Dei 
+      or<lb ed="#A" n="24" break="no"/>dinatione, qui sic initio constituerat, ut sicut 
+      <lb ed="#A" n="25"/>si Adam non peccasset, tota illius iustitia. 
+      <lb ed="#A" n="26"/>in liberos propagaretur, sic, illo peccante, 
+      <lb ed="#A" n="27"/>tota naturae corruptio, quae eius 
+      inobedien<lb ed="#A" n="28" break="no"/>tiam est consecuta, ab illo tanquam a 
+      capi<lb ed="#A" n="29" break="no"/>te in omnes homines fueret &amp; derivaretur,  
+      <lb ed="#A" n="30"/>idque per semen, tanquam per. vehicu¬ 
+      <!--113.xml-->
+      <pb ed="#A" n="94"/>
+               <lb ed="#A" n="1"/>lum quo ista labes a patre ad prolem 
+      trans<lb ed="#A" n="2" break="no"/>fertur. 
+    </p>
+            <p xml:id="pqir89-de6503-d1e228">
+               <lb ed="#A" n="3"/>S Quarto, Alensis, &amp; Bona ventura, in 2. 
+      <lb ed="#A" n="4"/>sent. dicunt, animam in corpore immundo 
+      <lb ed="#A" n="5"/>vitiari, non quod caro spiritum inficiat veram 
+      <lb ed="#A" n="6"/>&amp; reali actione, sed quod caro destituta 
+      ori<lb ed="#A" n="7" break="no"/>ginali rectitudine, ac rebellis rationi effecta, 
+      <lb ed="#A" n="8"/>animam deorsum trahat, ac per hoc 
+      obli<lb ed="#A" n="9" break="no"/>quam &amp; distortam efficiat. Hanc sententiam  
+      <lb ed="#A" n="10"/>explicans Pareus, dicit nos posse sine ulla 
+      ab<lb ed="#A" n="11" break="no"/>surditate asserere, temperamentum corporis,  
+      <lb ed="#A" n="12"/>licet brutum sit, ad mala pronum esse, &amp; non 
+      <lb ed="#A" n="13"/>aptum animae ad bonas actiones organum: 
+      <lb ed="#A" n="14"/>animam vero rectitudine &amp; puritate 
+      origi<lb ed="#A" n="15" break="no"/>nali orbatam, sequi inclinationem &amp; 
+      vitio<lb ed="#A" n="16" break="no"/>sum temperamentum corporis: idem etiam  
+      <lb ed="#A" n="17"/>innuit Clariss. Festus Hommius, in suo 
+      Anti<lb ed="#A" n="18" break="no"/>bellarmino, disput. 98. Thes. S¬ 
+    </p>
+            <p xml:id="pqir89-de6503-d1e265">
+               <lb ed="#A" n="19"/>A Secundo obiicitur: Si Deus animam  
+      <lb ed="#A" n="20"/>puram in carcerem tam impurum detrudit, 
+      <lb ed="#A" n="21"/>crudeliter ac iniuste agit: at impium &amp; 
+      blas<lb ed="#A" n="22" break="no"/>phemum est posterius, Ergo &amp; prius est ab. 
+      <lb ed="#A" n="23"/>surdum. Resp. concedendo totum: nos enim 
+      <lb ed="#A" n="24"/>non dicimus Deum immittere animam 
+      iu<lb ed="#A" n="25" break="no"/>stam &amp; puram in corpus impurum: inde 
+      e<lb ed="#A" n="26" break="no"/>nim sequitur, animas nostras esse iustas 
+      an<lb ed="#A" n="27" break="no"/>te earum infusionem &amp; coniunctionem cum 
+      <lb ed="#A" n="28"/>corporibus, quod postea refutabitur art. S 
+      <lb ed="#A" n="29"/>lnstabit aliquis: Deus infundit animam, 
+      <lb ed="#A" n="30"/>ex, se peccatum non habentem, corpori 
+      <!--114.xml-->
+      <pb ed="#A" n="95"/>
+               <lb ed="#A" n="1"/>impuro &amp; contagioso: Ergo iniuste agit: 
+      <lb ed="#A" n="2"/>Resp. negando consequentiam, is enim agit 
+      <lb ed="#A" n="3"/>iniuste, qui illud agit cuius contrarium agere 
+      <lb ed="#A" n="4"/>tenetur ex aequo &amp; bono, sed Deus non 
+      tene<lb ed="#A" n="5" break="no"/>tur animas filiorum Adae, qui in Adamo 
+      pec<lb ed="#A" n="6" break="no"/>ca verunt, &amp; sic aeternam mortem meriti sunt,  
+      <lb ed="#A" n="7"/>puris corporibus infundere, h. e. non tenetur 
+      <lb ed="#A" n="8"/>corpora nostra, labe peccati foedata, ante 
+      in<lb ed="#A" n="9" break="no"/>fusionem animarum purgares sed contra, 
+      te<lb ed="#A" n="10" break="no"/>netur ea non purgare, idque vi illius 
+      com<lb ed="#A" n="11" break="no"/>minationis, quo die comederis, moriendo 
+      morie<lb ed="#A" n="12" break="no"/>rus, 
+    </p>
+            <p xml:id="pqir89-de6503-d1e324">
+               <lb ed="#A" n="13"/>s Tertio ob. Causa causae est etiam causa 
+      <lb ed="#A" n="14"/>causati: at Deus est causa vnionis animae cum 
+      <lb ed="#A" n="15"/>corpore: Ergo est etiam causa illius peccati, 
+      <lb ed="#A" n="16"/>quod anima ex coiunctione cum corpore 
+      con<lb ed="#A" n="17" break="no"/>trahit, nam unio est causa illius peceati in 
+      a<lb ed="#A" n="18" break="no"/>nima. Respondet 8anchius, I. unionem animae 
+      <lb ed="#A" n="19"/>cum corpore non per se, sed per accidens 
+      es<lb ed="#A" n="20" break="no"/>se causam peceanti, idque quia si Adam non 
+      <lb ed="#A" n="21"/>peccasset, Deus copulasset animas cum 
+      cor<lb ed="#A" n="22" break="no"/>poribus sine ulla peccati consecutione: 
+      quam<lb ed="#A" n="23" break="no"/>re ex accidente est, quod nunc animae labes 
+      <lb ed="#A" n="24"/>eam coniunctionem consequatur. 2. Resp. 
+      <lb ed="#A" n="25"/>Deum tantum creare animas in corporibus,  
+      <lb ed="#A" n="26"/>parentes vero. per vittutem prolificam animas 
+      <lb ed="#A" n="27"/>substantialiter cum corporibus coniungere: 
+      <lb ed="#A" n="28"/>quare quod animas habeamus in corporibus 
+      <lb ed="#A" n="29"/>nostris, est a Deo, quod vero animas 
+      habea<lb ed="#A" n="30" break="no"/>mus in co poribus impuris &amp; contagiosis 
+      <!--115.xml-->
+      <pb ed="#A" n="96"/>
+               <lb ed="#A" n="1"/>creatas, est a lapsu primorum parentum. In 
+      sum<lb ed="#A" n="2" break="no"/>ma, illa regula, Causa causae est etiam causa 
+      causa<lb ed="#A" n="3" break="no"/>ti, intelligenda est de causis per se, non per 
+      <lb ed="#A" n="4"/>accidens. Deus enim est causa suae legis, &amp; lex 
+      <lb ed="#A" n="5"/>divina est eausa peccati per accidens, ut patet 
+      <lb ed="#A" n="6"/>ex c. 9. ad Rom a Vs. 8. ad I4. nemo tamen inde 
+      <lb ed="#A" n="7"/>coneludere potest, Deum esse peccati causam.  
+    </p>
+            <p xml:id="pqir89-de6503-d1e385">
+               <lb ed="#A" n="8"/>o Quarto ob. Quod corpus non habet, eo 
+      <lb ed="#A" n="9"/>non potest animam inficere: at peceatum, 
+      <lb ed="#A" n="10"/>quod animae est proprium, nimirum 
+      ignoran<lb ed="#A" n="11" break="no"/>tia mentis &amp; aversio voluntatis a bono, non 
+      <lb ed="#A" n="12"/>inest corpori: Ergo corpus peccato animam  
+      <lb ed="#A" n="13"/>inficere non potest. Resp. sicut semen 
+      paren<lb ed="#A" n="14" break="no"/>tis leprosi producit sepram in corporibus 
+      fi<lb ed="#A" n="15" break="no"/>liorum, licet actu &amp; formaliter in se non 
+      ha<lb ed="#A" n="16" break="no"/>beat sepram, sed occultam quandam 
+      disposi<lb ed="#A" n="17" break="no"/>tionem ad lepram, ita etiam caro potest 
+      infi<lb ed="#A" n="18" break="no"/>cere animam peceato, licet actu &amp; 
+      formali<lb ed="#A" n="19" break="no"/>ter in se non habeat peccatum, sed tantum  
+      <lb ed="#A" n="20"/>dispositionem quandam ad peccatum. Resp. 
+      <lb ed="#A" n="21"/>igitur ad prositionem: quod corpus in se 
+      ha<lb ed="#A" n="22" break="no"/>bet nullo,modo, h. e. neque formaliter, 
+      ne<lb ed="#A" n="23" break="no"/>que virtualiter, eo non potest inficere 
+      ani<lb ed="#A" n="24" break="no"/>mam, potest tamen inficere animam eo quod 
+      <lb ed="#A" n="25"/>in se habet virtualiter, &amp; dispositive. 
+    </p>
+            <p xml:id="pqir89-de6503-d1e427">
+               <lb ed="#A" n="26"/>9 Quinto ob. In Alamo vitium prius fuit 
+      <lb ed="#A" n="27"/>in anima, quam in carne, &amp; ab anima in 
+      car<lb ed="#A" n="28" break="no"/>nem, non a carne ad animam transit: Ergo 
+      <lb ed="#A" n="29"/>eodem ordine in filiis Adae vitium existit, 
+      a<lb ed="#A" n="30" break="no"/>nima enim, non corpus, est τζοῶν δεXτκαoν 
+      <!--116.xml-->
+      <pb ed="#A" n="97"/>
+               <lb ed="#A" n="1"/>peccanti. Respondet Pareus, alium fuisse or. 
+      <lb ed="#A" n="2"/>dinem in vitii operatione quae a libero 
+      arbi<lb ed="#A" n="3" break="no"/>trio caepit, alium esse in vitii generatione 
+      <lb ed="#A" n="4"/>quae a carme incipit. Responderi etiam potest 
+      <lb ed="#A" n="5"/>eundem ordinem adhuc servari, &amp; animam  
+      <lb ed="#A" n="6"/>etiam nunc esse κξοτον δεκλκὸν peccati, 
+      id<lb ed="#A" n="7" break="no"/>que quia ignorantia, contumacia, &amp; aversio a 
+      <lb ed="#A" n="8"/>pono, actu &amp; formaliter primo insunt animae, 
+      <lb ed="#A" n="9"/>deinde corpori, licet disposide &amp; virtualiter 
+      <lb ed="#A" n="10"/>insint corpori prius quam animae. Hic nobis,  
+      <lb ed="#A" n="11"/>se offert occasio reprehendendi erassam &amp; 
+      ab<lb ed="#A" n="12" break="no"/>surdam eorum sententiam, qui dicunt 
+      pecca<lb ed="#A" n="13" break="no"/>tum originis actu &amp; formaliter in semine 
+      in<lb ed="#A" n="14" break="no"/>esse, ante adventum animae. Primo enim 
+      habi<lb ed="#A" n="15" break="no"/>tus &amp; privatio versantur circa subiectum: Ergo 
+      <lb ed="#A" n="16"/>privatio non potest esse in aliquo subiecto, in 
+      <lb ed="#A" n="17"/>quo habitus inesse nequit: at in semine non 
+      <lb ed="#A" n="18"/>potest esse iustitia originalis, quae est habitus: 
+      <lb ed="#A" n="19"/>ergo neque in eo existere potest peccatum 
+      o<lb ed="#A" n="20" break="no"/>riginale, quod est eius privatio. Secundo, si 
+      se<lb ed="#A" n="21" break="no"/>men, actu &amp; formaliter in se peccatum habet, 
+      <lb ed="#A" n="22"/>varia sequentur absurda. Primo, semini datam  
+      <lb ed="#A" n="23"/>esse legem, lex enim, inquit Paulus, data est 
+      pec<lb ed="#A" n="24" break="no"/>catoribus: secundo, semen esse obnoxium 
+      ae<lb ed="#A" n="25" break="no"/>ternae damnationis quod enim proprie 
+      pec<lb ed="#A" n="26" break="no"/>catum in se habet, id damnari in aeternum 
+      po<lb ed="#A" n="27" break="no"/>test: tertio, semen posse a Christo redimi, 
+      sal<lb ed="#A" n="28" break="no"/>vari, paenitentiam agere, &amp; credere: quae 
+      <lb ed="#A" n="29"/>omnia tam absurda sunt, inquit <name xml:id="pqir89-de6503-Nd1e507">Rechermanus</name>, 
+      <lb ed="#A" n="30"/>ut cogitari vix absurdius quidquam possit.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

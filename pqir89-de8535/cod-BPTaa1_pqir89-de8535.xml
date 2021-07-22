@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 13</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 13</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="120-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-de8535"><!-- p2a13 -->
+            <head xml:id="pqir89-de8535-Hd1e106">Articulus 13</head>
+            <head xml:id="pqir89-de8535-Hd1e109" type="question-title">
+        Refellitur quarta sententia, quae est 
+        Balthasaris Meisneri
+      </head>
+            <p xml:id="pqir89-de8535-d1e112">
+               <lb ed="#A" n="13"/>ART. XIII 
+      <lb ed="#A" n="14"/>Refellitur quarta sententia, quae est 
+         <lb ed="#A" n="15"/>
+               <name xml:id="pqir89-de8535-Nd1e120">Balthasaris Meisneri</name>. 
+      </p>
+            <p xml:id="pqir89-de8535-d1e124">
+               <lb ed="#A" n="16"/>QVarta sententia, quam amplectitur <name xml:id="pqir89-de8535-Nd1e128">Baltsi 
+      <lb ed="#A" n="17"/>Meisuerus</name>, in hoc convenit cum 
+      praeceden<lb ed="#A" n="18" break="no"/>te, quod statuat, anima non e potentia 
+      semi<lb ed="#A" n="19" break="no"/>nis educi, sed a parente in prolem traduci, &amp; 
+      <lb ed="#A" n="20"/>una cum semine in matricem infundi, ac 
+      pro<lb ed="#A" n="21" break="no"/>inde semen, quamprimum emittitur, esse actu 
+      <lb ed="#A" n="22"/>animatum: differt tamen ab ea, quatenus 
+      asse<lb ed="#A" n="23" break="no"/>rit, animam illam in semine existentem no fieri 
+      <lb ed="#A" n="24"/>ex anima patris per decisione &amp; partitionem  
+      <lb ed="#A" n="25"/>animae paternae, sed ab ea generari &amp; produci 
+      <lb ed="#A" n="26"/>de novo. Hanc sententiam explicans Meiss. P. 
+      <lb ed="#A" n="27"/>O34. sic ait, quamprimum pareus semen 
+      traus<lb ed="#A" n="28" break="no"/>fundit in uterum genitricis, tunc una cunt semine 
+      <lb ed="#A" n="29"/>transmittit animam, non quidem suam aut sus 
+      <!--139.xml-->
+      <pb ed="#A" n="120"/>
+               <lb ed="#A" n="1"/>partem, sed suae similem. &amp; p. sequente: Sicur 
+      <lb ed="#A" n="2"/>lumen se multiplicat, h. e. aliud Iumen 
+      immedia<lb ed="#A" n="3" break="no"/>te producit in materia idonea, idque (ut supra 
+      <lb ed="#A" n="4"/>monuit) non per sui partitionem, nec per Iocalem  
+      <lb ed="#A" n="5"/>sui in alteram facem transmissionem, sed per 
+      no<lb ed="#A" n="6" break="no"/>vi luminis accensionem, ita etiam animae nostrae 
+      <lb ed="#A" n="7"/>in semine ad generationem hominis disposito sese 
+      <lb ed="#A" n="8"/>multiplicant, hoc est, aliam sibi in specie 
+      simi<lb ed="#A" n="9" break="no"/>lem animam immediate, non interpeniente aliquo 
+      <lb ed="#A" n="10"/>instrumento corporeo, producunt. 
+    </p>
+            <p xml:id="pqir89-de8535-d1e186">
+               <lb ed="#A" n="11"/>2 Haec sententia facillime confutatur. 
+      <lb ed="#A" n="12"/>nam ex ea manifeste sequitur animam filii 
+      <lb ed="#A" n="13"/>creari ab anima patris: quod ingens 
+      absur<lb ed="#A" n="14" break="no"/>dum &amp; incommodum est: ut autem illud 
+      e<lb ed="#A" n="15" break="no"/>videnter demonstretur, fundamenti loco 
+      te<lb ed="#A" n="16" break="no"/>nendum est primo, creationem esse 
+      produ<lb ed="#A" n="17" break="no"/>ctionem ex nullo subiecto praeexistente. 
+      Se<lb ed="#A" n="18" break="no"/>cundo tenendum est, quatuor modis aliquid 
+      <lb ed="#A" n="19"/>dici fieri ex aliquo. I. Terminative, quomodo 
+      <lb ed="#A" n="20"/>dicimus hominem fieri ex non homine, 
+      al<lb ed="#A" n="21" break="no"/>bum ex non albo. 2. Fit aliquid ex aliquo 
+      <lb ed="#A" n="22"/>decisixe, seu per decisionem &amp; detractionem, 
+      <lb ed="#A" n="23"/>quomodo dicimus exiguum elavum fieri ex 
+      <lb ed="#A" n="24"/>ingenti massa ferri, &amp; exiguum annulum ex 
+      <lb ed="#A" n="25"/>ingenti massa auri. S. Fit aliquid ex aliquo 
+      <lb ed="#A" n="26"/>subiectixe, illud videlicet quod ex alicuius 
+      <lb ed="#A" n="27"/>subiecti potentia educitur, quomodo dicimus 
+      <lb ed="#A" n="28"/>omnes formas materiales fieri &amp; educi ex 
+      <lb ed="#A" n="29"/>potentia materiae. 4. Fit aliquid ex aliquo 
+      <lb ed="#A" n="30"/>constitutixe, quomodo dicimus omnia cor¬ 
+      <!--140.xml-->
+      <pb ed="#A" n="121"/>
+               <lb ed="#A" n="1"/>pora naturalia fieri ex materia &amp; forma. 
+    </p>
+            <p xml:id="pqir89-de8535-d1e239">
+               <lb ed="#A" n="2"/>S His positis, sic probatur animam patris 
+      <lb ed="#A" n="3"/>creare animam filii, ex Meisneri sententia: 
+      <lb ed="#A" n="4"/>Quod producit aliquid ex nihilo, illud creat: 
+      <lb ed="#A" n="5"/>at anima patris producit animam filii ex 
+      nihi<lb ed="#A" n="6" break="no"/>lo, ex Meisuers sententia: Ergo creat, &amp; 
+      pro<lb ed="#A" n="7" break="no"/>inde infinitam virtutem habet, nam 
+      produce<lb ed="#A" n="8" break="no"/>re ex nihilo seu creare, infinitam virtutem 
+      at<lb ed="#A" n="9" break="no"/>guit. Propositio maior est perspicua, nam 
+      ni<lb ed="#A" n="10" break="no"/>titur definitione creationis: minor sic, 
+      proba<lb ed="#A" n="11" break="no"/>tur, Si anima patris producit animam filij ex 
+      <lb ed="#A" n="12"/>aliqua re praeexistente, vel producit eam ex 
+      <lb ed="#A" n="13"/>sua substantia, vel ex materia seminis: at 
+      nul<lb ed="#A" n="14" break="no"/>lo modo eam producit ex materia seminis, ut 
+      <lb ed="#A" n="15"/>fatetur ipse Meisuerus: quod etiam, probatur 
+      <lb ed="#A" n="16"/>hac ratione, anima non fit ex materia, 
+      semi<lb ed="#A" n="17" break="no"/>nis terminative, h. e. materia seminis non est 
+      <lb ed="#A" n="18"/>terminus a quo illius mutationis quam anima 
+      <lb ed="#A" n="19"/>producitur: nam terminus a quo alicujus 
+      mu<lb ed="#A" n="20" break="no"/>tationis, ad veniente termino ad quem, perit, 
+      <lb ed="#A" n="21"/>sed materia seminis, adveniente anima, non 
+      <lb ed="#A" n="22"/>perit, sed animam in se recipit. Secundo, 
+      a<lb ed="#A" n="23" break="no"/>nima non fit ex materia seminis decisixe, quia 
+      <lb ed="#A" n="24"/>sic esset pars materiae, quod nimis absurdum 
+      <lb ed="#A" n="25"/>est. Tertio, non fit ex materia seminis, 
+      sub<lb ed="#A" n="26" break="no"/>fectiue seu eductive, sic enim esset forma 
+      ma<lb ed="#A" n="27" break="no"/>terialis, ut ipse Meisnerus fatetur. Denique 
+      <lb ed="#A" n="28"/>non fit ex ea constitutipe, sic enim esset sub. 
+      <lb ed="#A" n="29"/>stantia corporea. 
+    </p>
+            <p xml:id="pqir89-de8535-d1e302">
+               <lb ed="#A" n="30"/>A Nullo etiam modo producitur anima 
+      <!--141.xml-->
+      <pb ed="#A" n="122"/>
+               <lb ed="#A" n="1"/>filii ex anima patris. Nam primo non 
+      produ<lb ed="#A" n="2" break="no"/>citur ex anima patris terminative, quia 
+      termi<lb ed="#A" n="3" break="no"/>nus a quo perit producto termino ad quem 
+      <lb ed="#A" n="4"/>anima autem patris non perit producta 
+      ani<lb ed="#A" n="5" break="no"/>ma filiij. Secundo, non fit ex eam decisive seu 
+      <lb ed="#A" n="6"/>per divisionem &amp; partitionem, ut ipse 
+      Meis<lb ed="#A" n="7" break="no"/>nerus fatetur. Tertio, non fit ex ea subiectixe, 
+      <lb ed="#A" n="8"/>h. e non educitur ex eius potentia, quia quod 
+      <lb ed="#A" n="9"/>educitur ex alicuius subiecti potentia, illud in 
+      <lb ed="#A" n="10"/>eo subiecto recipitur, &amp; in eo existit: sed 
+      ne<lb ed="#A" n="11" break="no"/>mo dixerit animam filii existere in anima 
+      pa<lb ed="#A" n="12" break="no"/>tris, tanquam in subiecto. Quarto, anima 
+      pa<lb ed="#A" n="13" break="no"/>tris non est pars constitutiva animae filii: 
+      er<lb ed="#A" n="14" break="no"/>go anima filii non fit ex ea constitutixe. 
+    </p>
+            <p xml:id="pqir89-de8535-d1e341">
+               <lb ed="#A" n="15"/>s Quod, autem, ad illam similitudinem a 
+      <lb ed="#A" n="16"/>lumine petitam attinet: tenendum est, eam  
+      <lb ed="#A" n="17"/>ineptam esse, &amp; nullo modo pro eius 
+      senten<lb ed="#A" n="18" break="no"/>tia facere, nam lumen educitur de potentia 
+      <lb ed="#A" n="19"/>materiae, ut omnes fatentur: unde Fonseca, 2.s. 
+      <lb ed="#A" n="20"/>Metaph. cap. 2. quaest. 4. sect. I. Nemo (inquit) 
+      <lb ed="#A" n="21"/>dubitat lumen educi de potentia aeris. &amp; certe 
+      <lb ed="#A" n="22"/>cum faci lucenti admovetur fax alia, 
+      manife<lb ed="#A" n="23" break="no"/>stum est, ex potentia materiae istius facis 
+      ad<lb ed="#A" n="24" break="no"/>motae, educi fammam &amp; ipsius lucem. Quare 
+      <lb ed="#A" n="25"/>secundum argumentum contra Meisnerum sit 
+      <lb ed="#A" n="26"/>hoc: Si anima filii eo modo producitur ab 
+      a<lb ed="#A" n="27" break="no"/>nima patris, quo lumen a lumine: anima 
+      pa<lb ed="#A" n="28" break="no"/>tris educit animam filii ex materiae potentia: 
+      <lb ed="#A" n="29"/>at posterius est absurdum, fatente Meisnero: 
+      <lb ed="#A" n="30"/>Ergo prius. Probatur autem lumen educi ex 
+      <!--142.xml-->
+      <pb ed="#A" n="123"/>
+               <lb ed="#A" n="1"/>potentia materiae, quia illae formae 
+      educun<lb ed="#A" n="2" break="no"/>tur ex potentia materiae, quae a materia 
+      pen<lb ed="#A" n="3" break="no"/>dent quoad esse &amp; fieri, ut patet ex articuloI. 
+      <lb ed="#A" n="4"/>huius disputationis: at lumen est tale, quia 
+      <lb ed="#A" n="5"/>neque potest fieri, neque esse, sine concursu 
+      <lb ed="#A" n="6"/>passivo materiae lumen recipientis. Valeat 
+      <lb ed="#A" n="7"/>igitur illa formarum multiplicatio, ab 
+      eductio<lb ed="#A" n="8" break="no"/>ne earundem desumpta,: nam est figmentum 
+      <lb ed="#A" n="9"/>crassi alicuius cerebri, &amp; nulla ratione nititur. 
+    </p>
+            <p xml:id="pqir89-de8535-d1e402">
+               <lb ed="#A" n="10"/>o Tertio, si spiritualis substantia animae 
+      <lb ed="#A" n="11"/>qua talis est, h. e. qua spiritualis &amp; rationalis 
+      <lb ed="#A" n="12"/>est, habeat virtutem procreati vam similium, 
+      <lb ed="#A" n="13"/>sequetur facultatem procreatricem, non esse 
+      <lb ed="#A" n="14"/>propriam facultatem animae vegetativae, quod 
+      <lb ed="#A" n="15"/>est contra omnium Philosophorum 
+      doctri<lb ed="#A" n="16" break="no"/>nam: ratio est, quia facultates animae 
+      vege<lb ed="#A" n="17" break="no"/>tativae non conveniunt animae rationali, qua 
+      <lb ed="#A" n="18"/>talis est, sed quatenus est vegetativa: sed haec 
+      <lb ed="#A" n="19"/>facultas procreativa similium animarum 
+      abs<lb ed="#A" n="20" break="no"/>que eductione ex potentia materiae, competit 
+      <lb ed="#A" n="21"/>animae rationali per se, &amp; non quatenus est 
+      <lb ed="#A" n="22"/>vegetativa. 
+    </p>
+            <p xml:id="pqir89-de8535-d1e433">
+               <lb ed="#A" n="23"/>ῳ Quarto, in generatione uterque 
+      pa<lb ed="#A" n="24" break="no"/>rens emittit semen, ut docent non solum 
+      <lb ed="#A" n="25"/>Scholastici Theologi complures, lib. 2. δent. 
+      <lb ed="#A" n="26"/>Dist. 4. ut Scotus, Bona ventura, Maiur, 
+      Ocha<lb ed="#A" n="27" break="no"/>mus, Lichetus, Cabriel, sed etiam Medici 
+      <lb ed="#A" n="28"/>multis manifestis indiciis ab Anatomica 
+      ex<lb ed="#A" n="29" break="no"/>perientia ductis convincunt, quae hoc loco 
+      <lb ed="#A" n="30"/>in medium afferre non possum: ea tamen 
+      <!--143.xml-->
+      <pb ed="#A" n="124"/>
+               <lb ed="#A" n="1"/>scriptis mandarunt Galenus lib. 2. de semine, 
+      <lb ed="#A" n="2"/>cap. 4. Fernelius lib. 4. Physiol. cap. 6. Lexin. 
+      <lb ed="#A" n="3"/>Lemn. lib. I. cap. 6. de occultis naturae 
+      miracu<lb ed="#A" n="4" break="no"/>lis. Vesalius lib. 9. de fabrica corporis, cap. IS. 
+      <lb ed="#A" n="5"/>Laurentius Anat. lib. S. quaest. 8. &amp; multi alij, 
+      <lb ed="#A" n="6"/>Hoc igitur posito, sic argumentor: Semen 
+      <lb ed="#A" n="7"/>utriusque parentis vel est animatum, vel 
+      al<lb ed="#A" n="8" break="no"/>terum, videlicet semen matris, est 
+      inanima<lb ed="#A" n="9" break="no"/>tum: si utrumque est animatum, vel 
+      dicen<lb ed="#A" n="10" break="no"/>dum erit filium duas animas rationales 
+      habe<lb ed="#A" n="11" break="no"/>re, vel particulam animae a patre &amp; 
+      particu<lb ed="#A" n="12" break="no"/>lam animae a matre conferri: prius est 
+      absur<lb ed="#A" n="13" break="no"/>dum, quia tollit unitatem hominis, ipso 
+      Meis<lb ed="#A" n="14" break="no"/>nero fatente: posterius etiam est absurdum, 
+      <lb ed="#A" n="15"/>quia eo posito concidit animae indi visibilitas,  
+      <lb ed="#A" n="16"/>adeoque immaterialitas. Si semen matris sit 
+      <lb ed="#A" n="17"/>inanimatum, h. e. si mater non conferat 
+      ani<lb ed="#A" n="18" break="no"/>mam filio, tum per consequentiam ipsius 
+      <lb ed="#A" n="19"/>Meisneri, p. 9o8. mater non est mater totius 
+      <lb ed="#A" n="20"/>filij, sed tantum corporis: item non gignit 
+      ho<lb ed="#A" n="21" break="no"/>minem, sed partem hominis. Hoc 
+      argumen<lb ed="#A" n="22" break="no"/>tum revera &amp; in se non est validum, ut patet ex 
+      <lb ed="#A" n="23"/>supra dictis, est tamen ad hominem, ut 
+      loquun<lb ed="#A" n="24" break="no"/>tur, quia nititur ipsius Meisueri consequentia. 
+    </p>
+            <p xml:id="pqir89-de8535-d1e509">
+               <lb ed="#A" n="25"/>S Quinto, si quis a Meisuero exiquirat 
+      <lb ed="#A" n="26"/>quid fiat cum isto semine quod in uterum 
+      <lb ed="#A" n="27"/>transinittitur, ex quo tamen homo non 
+      gene<lb ed="#A" n="28" break="no"/>ratur, an &amp; illud animatum sit. Negative 
+      re<lb ed="#A" n="29" break="no"/>spondet. Causam si quaeras: dicit id fieri, vel 
+      <lb ed="#A" n="30"/>quia semen non erat per omnia apte disposi¬ 
+      <!--144.xml-->
+      <pb ed="#A" n="125"/>
+               <lb ed="#A" n="1"/>tum ad generationem, vel quia singularis 
+      <lb ed="#A" n="2"/>est poena a Deo, naturae cursum miraculose 
+      <lb ed="#A" n="3"/>inhibente, infficta: dico miraculose, quia 
+      si<lb ed="#A" n="4" break="no"/>cut miraculum esset, si faci lucenti fax alia, 
+      <lb ed="#A" n="5"/>materiam idoneam &amp; bene dispositam 
+      ha<lb ed="#A" n="6" break="no"/>bens, admoveretur, &amp; fammam non 
+      conci<lb ed="#A" n="7" break="no"/>peret, sic etiam miraculum est, si vera sit 
+      <lb ed="#A" n="8"/>Meisneri sententia, cum a parente semen 
+      suf<lb ed="#A" n="9" break="no"/>ficienter dispositum emittitur sine animas 
+      id<lb ed="#A" n="10" break="no"/>que quia anima per naturam, sui est 
+      multi<lb ed="#A" n="11" break="no"/>licativa in materia sufficienter disposita. 
+      <lb ed="#A" n="12"/>Haec responsio illius sententiae, quam 
+      defen<lb ed="#A" n="13" break="no"/>dit Meisnerus, infirmitatem arguit: absonum 
+      <lb ed="#A" n="14"/>enim &amp; absurdum est, dicere toties verum &amp;  
+      <lb ed="#A" n="15"/>proprie dictum miraculum fieri, quoties pater 
+      <lb ed="#A" n="16"/>semen sufficienter dispositum emittit, &amp; 
+      il<lb ed="#A" n="17" break="no"/>lam emissionem animatio, &amp; proinde 
+      gene<lb ed="#A" n="18" break="no"/>ratio non consequitur. 
+    </p>
+            <p xml:id="pqir89-de8535-d1e569">
+               <lb ed="#A" n="19"/>9 Sexto, omne rationale est homo: at 
+      se<lb ed="#A" n="20" break="no"/>men, si actu est animatum anima rationali, 
+      a<lb ed="#A" n="21" break="no"/>ctu est rationale: Ergo actu est homo, nam 
+      a<lb ed="#A" n="22" break="no"/>ctu habet formam hominis. Hinc autem varia 
+      <lb ed="#A" n="23"/>sequuntur absurda. I. Patrem in uterum 
+      ge<lb ed="#A" n="24" break="no"/>nitricis non tantum semen, sed hominem 
+      <lb ed="#A" n="25"/>transfundere. 2. Hominem &amp; semen 
+      homi<lb ed="#A" n="26" break="no"/>nis specie non differre. 2. Veras esse has 
+      pro<lb ed="#A" n="27" break="no"/>positiones, aliquod semen est homo, &amp; per 
+      con<lb ed="#A" n="28" break="no"/>versionem, aliquis homo est semen. 4. 
+      Genera<lb ed="#A" n="29" break="no"/>tionem hominis fieri sine interitu seminis: 
+      <lb ed="#A" n="30"/>forma enim seminis, i. e. anima, manet.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

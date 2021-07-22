@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 5</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 5</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="162"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-e11174"><!-- p3a5 -->
+            <head xml:id="pqir89-e11174-Hd1e106">Articulus 5</head>
+            <head xml:id="pqir89-e11174-Hd1e109" type="question-title">
+        De fidei divisione in explicitam, et 
+        implicitam: et an inevidentia, quam  
+        fidei tribuimus, faciat pro caeca et 
+        implicita Pontificiorum fide. 
+      </head>
+            <p xml:id="pqir89-e11174-d1e112">
+      <!--181.xml-->
+               <pb ed="#A" n="162"/>
+               <lb ed="#A" n="1"/>ART. V. 
+      <lb ed="#A" n="2"/>De fidei divisione in explicitam, &amp; 
+        im<lb ed="#A" n="3" break="no"/>plicitam: &amp; an inevidentia, quam  
+      <lb ed="#A" n="4"/>fidei tribuimus, faciat pro caeca &amp; 
+      im<lb ed="#A" n="5" break="no"/>plicita Pontificiorum fide. 
+    </p>
+            <p xml:id="pqir89-e11174-d1e130">
+               <lb ed="#A" n="6"/>SCholastici Theologidiridunt fidem in 
+      <lb ed="#A" n="7"/>Oexplicitam &amp; implicitam, vel, ut loquitur 
+      <lb ed="#A" n="8"/>
+               <ref xml:id="pqir89-e11174-Rd1e138">Lombardus, lib. 2. Sent. Dist. 2S.</ref> in 
+      distin<lb ed="#A" n="9" break="no"/>ctam, &amp; velatam seu confusam. Huius 
+      distin<lb ed="#A" n="10" break="no"/>ctionis explicationem legere possumus apud 
+      <lb ed="#A" n="11"/>elarissimum Tilenum, parte prima Syntagmatus, 
+      <lb ed="#A" n="12"/>Disp. 38. Thess. 38, &amp; 34. item apud 
+      Duran<lb ed="#A" n="13" break="no"/>dum, lib. 2. Sent. dist. 2S. quaest. T. S. 
+      Tho<lb ed="#A" n="14" break="no"/>mam, 2. Lae. q. 2. Art. q. Gulielmum Estium, 
+      <lb ed="#A" n="15"/>S sent. Dist. 2S. Ex quibus authoribus 
+      descri<lb ed="#A" n="16" break="no"/>ptiones membrorum istius divisionis sic 
+      col<lb ed="#A" n="17" break="no"/>ligi possunt: Fides explicitam, est qua aliquid 
+      ere<lb ed="#A" n="18" break="no"/>ditur secundum se, distincte, &amp; in 
+      partitulari<lb ed="#A" n="19" break="no"/>lmplicita vero, est qua aliquid creditur non in 
+      <lb ed="#A" n="20"/>se, sed in alio, tanquam in unipersali. Exempli 
+      <lb ed="#A" n="21"/>gratia, Christiani rudes &amp; simpliciores (ut 
+      <lb ed="#A" n="22"/>loquuntur) qui ea sola intelligunt, quae ad 
+      <lb ed="#A" n="23"/>salutem absolute necessaria sunt, ut articulos 
+      <lb ed="#A" n="24"/>fidei, decalogum, &amp; caetera, cum ex animo 
+      <lb ed="#A" n="25"/>profitentur se credere 8. scripturam esse Dei 
+      <lb ed="#A" n="26"/>verbum, &amp; protnde fide dignam, duplex ha¬ 
+      <!--182.xml-->
+      <pb ed="#A" n="163"/>
+               <lb ed="#A" n="1"/>bent suae fidei obiectums unum generale, 
+      <lb ed="#A" n="2"/>quod formaliter, explicite, &amp; per se 
+      cre<lb ed="#A" n="3" break="no"/>dunt: alterum particulare, quodimplicite &amp; 
+      <lb ed="#A" n="4"/>ex consequenti eredunt: obiectum generale, 
+      <lb ed="#A" n="5"/>quod explicite credunt, est, cripturam esse 
+      <lb ed="#A" n="6"/>Dei verbum, &amp; protnde fidem: et adhibendum 
+      <lb ed="#A" n="7"/>esse: obiecta particularia, quae implicitem in 
+      il<lb ed="#A" n="8" break="no"/>lo generali &amp; ex. consequenti eredunt, sunt 
+      <lb ed="#A" n="9"/>nistoriae &amp; dogmata Scripturae, quorum 
+      cog<lb ed="#A" n="10" break="no"/>nitionem nondum assecuti sunt, ut, Noac hum  
+      <lb ed="#A" n="11"/>habuisse tres filios, Abrahamum duos, non 
+      abla<lb ed="#A" n="12" break="no"/>tum esse sceptrum a luda ante ad ventum Messiaes 
+      <lb ed="#A" n="13"/>qui, enim credunt Scripturam totam esse 
+      ve<lb ed="#A" n="14" break="no"/>ram, illi implicite &amp; ex consequenti credunt 
+      <lb ed="#A" n="15"/>omnia esse vera quae in Scriptura 
+      continen<lb ed="#A" n="16" break="no"/>tur, hoc est, habent. fidem implicitam 
+      o<lb ed="#A" n="17" break="no"/>mnium historiarum, dogmatum, &amp; 
+      praedi<lb ed="#A" n="18" break="no"/>ctionum. Propheticarum, quae sunt in sacrae 
+      <lb ed="#A" n="19"/>Scripturae volumine, omnium (inquam ) 
+      quo<lb ed="#A" n="20" break="no"/>rum particularem &amp; distinctam notitiam non 
+      <lb ed="#A" n="21"/>acquisi verunt. 
+    </p>
+            <p xml:id="pqir89-e11174-d1e231">
+               <lb ed="#A" n="22"/>2 Quaeri hic potest, an haec divisio fidei in 
+      <lb ed="#A" n="23"/>explicitam &amp; implicitam, in Scholis 
+      Ecclesia<lb ed="#A" n="24" break="no"/>rum reformatarum ferenda sit. Resp. duabus 
+      <lb ed="#A" n="25"/>asserrionibus. Prior est haecs Praedicta distini 
+      <lb ed="#A" n="26"/>ctio fdei admitti potest, si sano modo 
+      conci<lb ed="#A" n="27" break="no"/>piatur: certum enim est non, solum Laicos 
+      <lb ed="#A" n="28"/>&amp; simpliciores, sed etia clarissimos &amp; 
+      doctis<lb ed="#A" n="29" break="no"/>simos Theologos quaedam implicite credere 
+      <lb ed="#A" n="30"/>in isto generali, quod s. riptura sit Dei, verbum, &amp; 
+      <!--183.xml-->
+      <pb ed="#A" n="164"/>
+               <lb ed="#A" n="1"/>proinde fide dignissima: quaedam: (inquam)  
+      <lb ed="#A" n="2"/>quorum distinctam intelligentiam nondum 
+      <lb ed="#A" n="3"/>assecuti sunt: hoc enim patet ex 
+      quotidia<lb ed="#A" n="4" break="no"/>no nostro in cognitione Scripturae 
+      profe<lb ed="#A" n="5" break="no"/>ctu, qui tamen non arguit Scripturae ipsius 
+      <lb ed="#A" n="6"/>obseuritatem, (ut nugantur Pontificii) sed 
+      <lb ed="#A" n="7"/>ingeni nostri imbecillitatem, &amp; 
+      mysterio<lb ed="#A" n="8" break="no"/>rum coelestium, quae in Scriptura passim  
+      <lb ed="#A" n="9"/>traduntur, immensam opulentiam, quae 
+      <lb ed="#A" n="10"/>sensim angusto illi vasi mentis humanae 
+      in<lb ed="#A" n="11" break="no"/>stillanda est, non autem tota simul infundi 
+      <lb ed="#A" n="12"/>potest. 
+    </p>
+            <p xml:id="pqir89-e11174-d1e284">
+               <lb ed="#A" n="13"/>S Secunda assertio est haec: Praedicta 
+      di<lb ed="#A" n="14" break="no"/>stinctio fidei Christianae, si ita accipiatur vt a 
+      <lb ed="#A" n="15"/>Pontificiis accipi solet, reiicienda est 
+      tan<lb ed="#A" n="16" break="no"/>quam. crassa, absurda, &amp; naturae fidei plane 
+      <lb ed="#A" n="17"/>contraria: illi enim per fidem implicitam 
+      in<lb ed="#A" n="18" break="no"/>telligunt eam fidem quam Laici ignota &amp; 
+      non<lb ed="#A" n="19" break="no"/>dum intellecta fidei dogmata credunt 
+      impli<lb ed="#A" n="20" break="no"/>cite in illo generali, quod vera sint omnia quae 
+      <lb ed="#A" n="21"/>Romana Ecclesia credit &amp; pro veris amplectitur. 
+      <lb ed="#A" n="22"/>quae quidem fides non est divina, sed 
+      huma<lb ed="#A" n="23" break="no"/>nas id est, non nititur Dei, sed hominum 
+      te<lb ed="#A" n="24" break="no"/>stimonio: non est ὑποσκῶις aut eAενα&amp;, sed 
+      <lb ed="#A" n="25"/>levis, &amp; fallax coniectura, quae non Dei 
+      <lb ed="#A" n="26"/>verbo, sed hominum iudicio per se parum 
+      fe<lb ed="#A" n="27" break="no"/>mo, atque adeo fiagili admodum &amp; ruinoso 
+      <lb ed="#A" n="28"/>fundamento nititur. 
+    </p>
+            <p xml:id="pqir89-e11174-d1e321">
+               <lb ed="#A" n="29"/>A Quaeri etiam potest, an inevidentia 
+      <lb ed="#A" n="30"/>quam non solum Theologi. vententiarit, sed 
+      <!--184.xml-->
+      <pb ed="#A" n="165"/>
+               <lb ed="#A" n="1"/>etiam Orthodoxi Doctores fidei attribuunt, 
+      <lb ed="#A" n="2"/>facaat pro caecam illa &amp; implicita 
+      Ponti<lb ed="#A" n="3" break="no"/>ficiorum fide: generalis enim &amp; confusus ille 
+      <lb ed="#A" n="4"/>assensus, qui solo Ecclesiae Romanae 
+      testimo<lb ed="#A" n="5" break="no"/>nio nititur, (ut id quod res est dicamx maxime 
+      <lb ed="#A" n="6"/>est inevidens. Respond. inevidentiam nihil 
+      <lb ed="#A" n="7"/>pro eorum sententia facere: quia 
+      ineviden<lb ed="#A" n="8" break="no"/>tia illa non excludit omnem notitiam, sed 
+      <lb ed="#A" n="9"/>eam solam quae nititur medio scientifico, id 
+      <lb ed="#A" n="10"/>est, sensu aut evidente ratione a naturam rei 
+      <lb ed="#A" n="11"/>petita. Secundo, quia certitudo, quae est 
+      se<lb ed="#A" n="12" break="no"/>cunda fidei conditio, necessario praesupponit 
+      <lb ed="#A" n="13"/>firmam notitiam &amp; persuasionem de 
+      doctri<lb ed="#A" n="14" break="no"/>na, cui assentimur, quod non sit hominis sed 
+      <lb ed="#A" n="15"/>Dei verbum: talis autem notitia aut 
+      persua<lb ed="#A" n="16" break="no"/>sio implicitae Pontificiorum fidei velut e 
+      re<lb ed="#A" n="17" break="no"/>glone adversatur, ac proinde in ea certitudo 
+      <lb ed="#A" n="18"/>inveniri: non potest. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

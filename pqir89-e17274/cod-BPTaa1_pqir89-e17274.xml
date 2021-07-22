@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 20</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 20</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="243"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-e17274"><!-- p3a20 -->
+            <head xml:id="pqir89-e17274-Hd1e106">Articulus 20</head>
+            <head xml:id="pqir89-e17274-Hd1e109" type="question-title">
+        Utrum obiectum fidei salvificae sit remissio 
+        peccatorum iam impetrata; An pero 
+        sit remissio peccatorum impetranda et 
+        obtinenda 
+        vbi obiter solvitur praecipuum 
+        argumentum Bellarmini contra objectum  
+        et naturam fidei justificantis.
+      </head>
+            <p xml:id="pqir89-e17274-d1e112">
+      <!--262.xml-->
+               <pb ed="#A" n="243"/>
+               <lb ed="#A" n="1"/>ART. XX. 
+      <lb ed="#A" n="2"/>vtrum obiectum fidei salvificae sit remissio 
+      <lb ed="#A" n="3"/>peccatorum iam impetrata; An pero 
+      <lb ed="#A" n="4"/>sit remissio peccatorum impetranda &amp; 
+      <lb ed="#A" n="5"/>obtinenda 
+         <lb ed="#A" n="6"/>vbi obiter solvitur praecipuum 
+        argumen<lb ed="#A" n="7" break="no"/>tum <name xml:id="pqir89-e17274-Nd1e133">Bellarmini</name> contra objectum  
+      <lb ed="#A" n="8"/>&amp; naturam fidei justificantis. 
+    </p>
+            <p xml:id="pqir89-e17274-d1e139">
+               <lb ed="#A" n="9"/>Ctus fidei salvificae, qui est causa 
+      in<lb ed="#A" n="10" break="no"/>TRstrumentalis iustificationis, non 
+      vi<lb ed="#A" n="11" break="no"/>detur esse fiducia veniae aut remissionis 
+      pecca<lb ed="#A" n="12" break="no"/>torum impetratae, sed fiducia veniae 
+      impetran<lb ed="#A" n="13" break="no"/>dae. Primo, qui a causa instrumentalis 
+      iustificatio<lb ed="#A" n="14" break="no"/>nis praecedit iustificationem,, seu 
+      remissio<lb ed="#A" n="15" break="no"/>nem peccatorum: sed fiducia veniae, seu 
+      remis<lb ed="#A" n="16" break="no"/>sionis impetratae, eam sequitur: alioqui enim  
+      <lb ed="#A" n="17"/>falsa esse convincitur, quia credere sibi remissa 
+      <lb ed="#A" n="18"/>esse peccata, quae nondum remissa, sed per ipsum 
+      <lb ed="#A" n="19"/>actum credendi sunt remittenda, est, falsum &amp;  
+      <lb ed="#A" n="20"/>erroneum iudicium habere. Secundo, quia 
+      <lb ed="#A" n="21"/>persuasio de re aliqua facta, semper est natura 
+      <lb ed="#A" n="22"/>posterior ipsa refacta, &amp; proinde, non potest 
+      <lb ed="#A" n="23"/>esse vausa instoumentalis ipsius, rei. factaes 
+      <lb ed="#A" n="24"/>ratio antecedentis est, , quia: omne, obiectum 
+      <lb ed="#A" n="25"/>est natura prius suo actu: actus, enim ab 
+      <lb ed="#A" n="26"/>obiecto dependet, illudque, praesupponit: 
+      <!--263.xml-->
+      <pb ed="#A" n="244"/>
+               <lb ed="#A" n="1"/>ratio item consequentiae est, quia id quod 
+      <lb ed="#A" n="2"/>est natura posterius, non potest esse causa 
+      <lb ed="#A" n="3"/>eius quod est natura prius, cum omnis 
+      cau<lb ed="#A" n="4" break="no"/>sa sit natura prior suo effecto. Has duas 
+      ratio<lb ed="#A" n="5" break="no"/>nes affert Bellarminus, Libro primo de 
+      Iusti<lb ed="#A" n="6" break="no"/>ficatione, Capite decimo, sed ffustra: nam  
+      <lb ed="#A" n="7"/>pro eius sententia nihil faciunt, ut mox 
+      pa<lb ed="#A" n="8" break="no"/>tebit. 
+    </p>
+            <p xml:id="pqir89-e17274-d1e202">
+               <lb ed="#A" n="9"/>2 Tertia ratio sit haec: Si quis quaerat, 
+      <lb ed="#A" n="10"/>quid sit credendum peccatori, ut remissionem 
+      pec<lb ed="#A" n="11" break="no"/>catorum consequatur: non satis apposite 
+      re<lb ed="#A" n="12" break="no"/>spondebo, si dicam, illi credendum esse, quod 
+      <lb ed="#A" n="13"/>eius peccata sint, iam remissa: ridiculum enim 
+      <lb ed="#A" n="14"/>est, dicere alicui, ut hoc fiat, crede illud factum  
+      <lb ed="#A" n="15"/>esse: quia cum dico, crede hoc factum esse, ego 
+      <lb ed="#A" n="16"/>indico, illud iam esse factum : eum vero dico, 
+      <lb ed="#A" n="17"/>ut fiat, indico, illud nondum esse sactum, sed 
+      <lb ed="#A" n="18"/>esse possibile tantum: Haec autem simul 
+      con<lb ed="#A" n="19" break="no"/>sistere nequeunt. 
+    </p>
+            <p xml:id="pqir89-e17274-d1e229">
+               <lb ed="#A" n="20"/>S Quarta ratio sit haec: Quicunque Deum 
+      <lb ed="#A" n="21"/>orat, ut ei peccata remittat, confidens se 
+      <lb ed="#A" n="22"/>esse unum ex eorum numero pro quibus 
+      <lb ed="#A" n="23"/>Christus est mortuus, Deumque 
+      exauditu<lb ed="#A" n="24" break="no"/>rum eius preces propter Christum, is pro- 
+      <lb ed="#A" n="25"/>cul dubio remissionem peceatorum 
+      conse<lb ed="#A" n="26" break="no"/>quetur: nulla igitur necessitas nos cogit, 
+      as<lb ed="#A" n="27" break="no"/>ferere, actum fidei salvificae, quiestcausa 
+      in<lb ed="#A" n="28" break="no"/>strumentalis iustificationis, essesiduciam 
+      ve<lb ed="#A" n="29" break="no"/>niae impetratae. 
+    </p>
+            <p xml:id="pqir89-e17274-d1e253">
+               <lb ed="#A" n="30"/>e Interim nonisum adeo absurdus, ut pu¬ 
+      <!--264.xml-->
+      <pb ed="#A" n="245"/>
+               <lb ed="#A" n="1"/>tem, fideles non habere eiusmodi fiduciam  
+      <lb ed="#A" n="2"/>veniae impetratae, per meritum Christi, aut 
+      <lb ed="#A" n="3"/>ut putem hanc fiduciam non esse fidei 
+      salvifi<lb ed="#A" n="4" break="no"/>cae actum: revera enim est actus fidei 
+      salvi<lb ed="#A" n="5" break="no"/>ficae, sed natura posterior iustificatione, &amp; 
+      <lb ed="#A" n="6"/>quid eam consequens, ideoque non est ille 
+      a<lb ed="#A" n="7" break="no"/>ctus fidei, qui est causa instrumentalis 
+      iustifi<lb ed="#A" n="8" break="no"/>cationis nostrae. 
+    </p>
+            <p xml:id="pqir89-e17274-d1e279">
+               <lb ed="#A" n="9"/>s De obiecto igitur fidei salvificae haec 
+      te<lb ed="#A" n="10" break="no"/>nenda sunt. Primo tenendum est, obiectum 
+      <lb ed="#A" n="11"/>fiduciae, non solum esse remissionem peccatorum 
+      <lb ed="#A" n="12"/>impetrandam &amp; obtinendam, sed etiam 
+      eorun<lb ed="#A" n="13" break="no"/>dem remissionem iam impetratam, Secundo, 
+      <lb ed="#A" n="14"/>fiduciam in haec duo tendere per duos distinctos 
+      a<lb ed="#A" n="15" break="no"/>ctus, quorum alter praecedit iustificationem, uc 
+      <lb ed="#A" n="16"/>eius causa instrumentalis, alter eam sequitur, 
+      <lb ed="#A" n="17"/>ut eius effectum &amp; consequens. Tertio, actum  
+      <lb ed="#A" n="18"/>fiducialem, qui iustificationem praecedit, ut esue 
+      <lb ed="#A" n="19"/>causa, esse persuasionem de Christi satusfactione 
+      <lb ed="#A" n="20"/>pro nobis in particulari, &amp; remissione 
+      peccato<lb ed="#A" n="21" break="no"/>rum obtinenda, per &amp; propter eius 
+      satusfactio<lb ed="#A" n="22" break="no"/>nem. Quarto, actum fiducialem, qui 
+      iustifica<lb ed="#A" n="23" break="no"/>tionem sequitur, esse persuasionem de remissione 
+      <lb ed="#A" n="24"/>peccatorum iam impetrata, &amp; de nostra 
+      perseve<lb ed="#A" n="25" break="no"/>rantia in eo statu usque ad finem vitae. 
+    </p>
+            <p xml:id="pqir89-e17274-d1e318">
+               <lb ed="#A" n="26"/>o Hanc sententiam de obiecto fidei 
+      sal<lb ed="#A" n="27" break="no"/>vificae amplexus sum, cum primum 
+      Theolo<lb ed="#A" n="28" break="no"/>giae operam dare coepi: sed eam suspectam  
+      <lb ed="#A" n="29"/>habui, ob novitatem suam, ideoque eam in 
+      <!--265.xml-->
+      <pb ed="#A" n="246"/>
+               <lb ed="#A" n="1"/>perpetuas tenebras damnaveram: verum hoc 
+      <lb ed="#A" n="2"/>ipso anno, dum legerem doctissimas 
+      anim<lb ed="#A" n="3" break="no"/>ad versiones &amp; castigationes Dapidis Parei, 
+      <lb ed="#A" n="4"/>in 4. som. Bellarmini, idem plane apud 
+      il<lb ed="#A" n="5" break="no"/>lum reperi, Zib. I. de iustificatione Cap. 
+      Io<lb ed="#A" n="6" break="no"/>Vnde accidit ut tanti viri testimonio fretus 
+      <lb ed="#A" n="7"/>&amp; munitus, hanc sententiam evulgare non 
+      <lb ed="#A" n="8"/>sim veritus. 
+    </p>
+            <p xml:id="pqir89-e17274-d1e351">
+               <lb ed="#A" n="9"/>9 Ex his patet, secundam rationem contra 
+      <lb ed="#A" n="10"/>obiectum fidei salvificae, a Bellarmino 
+      alla<lb ed="#A" n="11" break="no"/>tam Zib. I. de iustificatione Cap. Io. nullius 
+      <lb ed="#A" n="12"/>esse roboris, aut ponderis: ille enim sic 
+      ar<lb ed="#A" n="13" break="no"/>gumentatur: fides iustificans praecedere debet 
+      <lb ed="#A" n="14"/>qustificationem: at fides specialis misericordiae 
+      <lb ed="#A" n="15"/>eam sequitur: Ergo fides specialis misericordiae 
+      <lb ed="#A" n="16"/>non est fides iustificans. Respondeo ad 
+      propo<lb ed="#A" n="17" break="no"/>sitionem, fidem iustificantem praecedere 
+      iu<lb ed="#A" n="18" break="no"/>stificationem, sed non secundum omnes eius 
+      a<lb ed="#A" n="19" break="no"/>ctas: quidam enim actus fidei iustificantis 
+      <lb ed="#A" n="20"/>fustificationem sequuntur: uti dictum est. 
+      Si<lb ed="#A" n="21" break="no"/>militer ad assumptionem respondeo, Fidem  
+      <lb ed="#A" n="22"/>specialis misericordiae iustificatione 
+      posterio<lb ed="#A" n="23" break="no"/>rem esse, sed non secundum omnes eius actus: 
+      <lb ed="#A" n="24"/>persuasio enim de venia seis remissione 
+      peccato<lb ed="#A" n="25" break="no"/>rum impetrandam, est actus illius fidei, quam 
+      si<lb ed="#A" n="26" break="no"/>duciam specialis misericordiae vocant: ea autem  
+      <lb ed="#A" n="27"/>qustificationem praecedit, saltem ordine 
+      natu<lb ed="#A" n="28" break="no"/>cae¬
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

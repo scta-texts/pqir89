@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 7</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 7</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="171-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-e11818"><!-- p3a7 -->
+            <head xml:id="pqir89-e11818-Hd1e106">Articulus 7</head>
+            <head xml:id="pqir89-e11818-Hd1e109" type="question-title">
+        An detur in viatoribus lumen aliquod 
+        clarius fidei lumine. 
+      </head>
+            <p xml:id="pqir89-e11818-d1e112">
+               <lb ed="#A" n="17"/>ART. VII 
+      <lb ed="#A" n="18"/>An detur in viatoribus lumen aliquod 
+        cla<lb ed="#A" n="19"/>rius fidei lumine. 
+    </p>
+            <p xml:id="pqir89-e11818-d1e121">
+               <lb ed="#A" n="20"/>1 THeologia dividi solet in. Theologiam  
+      <lb ed="#A" n="21"/>τ Laicorum &amp; Theologiam Doctorum 
+      <lb ed="#A" n="22"/>quam argumentativam &amp; Scholasticam 
+      vo<lb ed="#A" n="23" break="no"/>cant. Prior est nuda notitia credibilium, (ut 
+      <lb ed="#A" n="24"/>vocant) ad salutem necessariorum, posterior 
+      <lb ed="#A" n="25"/>non est, nuda notitia credibilium, sed est 
+      fa<lb ed="#A" n="26" break="no"/>cultas qua valemus aiticulos fidei explicare, 
+      <!--190.xml-->
+      <pb ed="#A" n="171"/>
+               <lb ed="#A" n="1"/>defendere, &amp; confirmare, aliosque de 
+      eco<lb ed="#A" n="2" break="no"/>rum veritate instruere. 
+    </p>
+            <p xml:id="pqir89-e11818-d1e147">
+               <lb ed="#A" n="3"/>2 Theologia argumentativa seu s 
+      hola<lb ed="#A" n="4" break="no"/>stica duplice nomine Theologiam Zaicam  
+      <lb ed="#A" n="5"/>excedere dicitur. Primo quod extendat se 
+      <lb ed="#A" n="6"/>ad plura credibilia, plura enim intelligunt 
+      <lb ed="#A" n="7"/>viri docti in spiritualibus, quam Laici &amp; 
+      <lb ed="#A" n="8"/>simplices. Secundo quod valeat explicare 
+      <lb ed="#A" n="9"/>aliis ea quae credenda sunt, eaque 
+      defende<lb ed="#A" n="10" break="no"/>re, &amp; confirmare contra Atheos, ludaeos, 
+      <lb ed="#A" n="11"/>Mahumetanos, Ethnicos. Haec Theologiae 
+      <lb ed="#A" n="12"/>distinctio praebuit nonnullis, de quibus 
+      lo<lb ed="#A" n="13" break="no"/>quitur <ref xml:id="pqir89-e11818-Rd1e173">Durandus in prol. Sent. quaest. 2.</ref> 
+      occa<lb ed="#A" n="14" break="no"/>lionem excogitandi lumen quoddam 
+      spiri<lb ed="#A" n="15" break="no"/>tuale in viutoribus a lumine hdei di versum, 
+      <lb ed="#A" n="16"/>eoque clarius &amp; excellentius: cum enim 
+      <lb ed="#A" n="17"/>in omnibus fidelibus sit lumen fidei, 
+      faten<lb ed="#A" n="18" break="no"/>dum est in Doctoribus &amp; Pastoribus esse 
+      lu<lb ed="#A" n="19" break="no"/>men quoddam clarius fide, cuius beneficio 
+      <lb ed="#A" n="20"/>altiorem habent (ut loquitur Durandus) 
+      <lb ed="#A" n="21"/>cognitionem de credibilibus, quam per 
+      fi<lb ed="#A" n="22" break="no"/>dem:  
+    </p>
+            <p xml:id="pqir89-e11818-d1e197">
+               <lb ed="#A" n="23"/>sS Prima ratio huius sententiae peti solet 
+      <lb ed="#A" n="24"/>ab <name xml:id="pqir89-e11818-Nd1e203">Augustini</name> testimonio super illis verbis 
+      <lb ed="#A" n="25"/>loban. I. 9. erat lux vera, &amp;c. ubi dicit, 
+      ali<lb ed="#A" n="26" break="no"/>ud esse lumen ad credendum, aliud ad 
+      in<lb ed="#A" n="27" break="no"/>telligendum: item lucem increatam 
+      illu<lb ed="#A" n="28" break="no"/>minare homines duplici lumine, parvulos 
+      <lb ed="#A" n="29"/>quidam lumine sidei, quo nutriuntur ut 
+      la<lb ed="#A" n="30" break="no"/>cte, Maiores autem lumine sapientiae, quo, ut 
+      <!--191.xml-->
+      <pb ed="#A" n="172"/>
+               <lb ed="#A" n="1"/>solido cibo vescuntur. Secunda ratio est 
+      <lb ed="#A" n="2"/>hac: necesse est propter bonum 
+      publi<lb ed="#A" n="3" break="no"/>cum Ecclesiae, ut aliqui in ea sint qui 
+      <lb ed="#A" n="4"/>possunt fidem defendere, simpliciores 
+      in<lb ed="#A" n="5" break="no"/>struere &amp; Ecclesiae hostes confutare. Hoc 
+      <lb ed="#A" n="6"/>autem non potest fieri per solum lumen 
+      <lb ed="#A" n="7"/>fidei, seu per eam solam cognitionem Dei 
+      <lb ed="#A" n="8"/>quae est omnibus fidelibus communis, sic 
+      e<lb ed="#A" n="9" break="no"/>nim quiuis e fidelium coetu possit ista munia 
+      <lb ed="#A" n="10"/>obire: Ergo oportet in Masoribus esse 
+      ali<lb ed="#A" n="11" break="no"/>quod lumen clarius fide, per quod nabent 
+      <lb ed="#A" n="12"/>de credibilibus altiorem quandam 
+      cognitio<lb ed="#A" n="13" break="no"/>nem. 
+    </p>
+            <p xml:id="pqir89-e11818-d1e253">
+               <lb ed="#A" n="14"/>A Tertio probant, quod tale lumen non 
+      <lb ed="#A" n="15"/>evacuet fidem, seu non ita repugnet fidei ut 
+      <lb ed="#A" n="16"/>cum eo consistere nequeat, quia si tale lumen 
+      <lb ed="#A" n="17"/>non posset stare cum fide, illud esset maxime 
+      <lb ed="#A" n="18"/>propter oppositionem quae videtur esse inter 
+      <lb ed="#A" n="19"/>Aenigina fidei, &amp; claritatem illius luminis: 
+      <lb ed="#A" n="20"/>sed illud non impedit, quia contraria, licet 
+      <lb ed="#A" n="21"/>non compatiantur se in suis excellentiis, tamen 
+      <lb ed="#A" n="22"/>(ut dicunt) compatiuntur se in Esse remisso 
+      <lb ed="#A" n="23"/>&amp; diminuto, seu (ut alii loquuntur) in 
+      gradi<lb ed="#A" n="24" break="no"/>bus remissis: fidei autem obscuritas, 
+      quam<lb ed="#A" n="25" break="no"/>vis intensis gradibus opponatur claritati 
+      bea<lb ed="#A" n="26" break="no"/>tificae visionis, &amp; ob id cum ea consistere 
+      ne<lb ed="#A" n="27" break="no"/>queat, non tamen sic, sed in esse remisso 
+      <lb ed="#A" n="28"/>contrariatur huic lumini de quo loquimur: &amp; 
+      <lb ed="#A" n="29"/>ideo licet lumen gloriae exacuet fidem, hoc 
+      <lb ed="#A" n="30"/>tamen lumen eam non eyacuat aut abolet. 
+      <!--192.xml-->
+      <pb ed="#A" n="173"/>
+               <lb ed="#A" n="1"/>s Hanc suam doctrinam declarant exem: 
+      <lb ed="#A" n="2"/>plo acris, qui noctu est simpliciter 
+      tenebro<lb ed="#A" n="3" break="no"/>sus, &amp; meredie est simpliciter illuminatus,  
+      <lb ed="#A" n="4"/>sed mane est partim illuminatus, partim 
+      te<lb ed="#A" n="5" break="no"/>nebrosus, nec tenebrae depelluntur totaliter 
+      <lb ed="#A" n="6"/>ante horam, meridianam: sic gloria quasi 
+      lu<lb ed="#A" n="7" break="no"/>men meridianum totaliter expellit tenebras 
+      <lb ed="#A" n="8"/>fidet: sed lumen. hoc Doctorum est quasi lumen 
+      <lb ed="#A" n="9"/>aurorae, quod non depellit tenebras fidei, nec 
+      <lb ed="#A" n="10"/>expellitur per lucem meridianam gloriae, sed 
+      <lb ed="#A" n="11"/>potius perficitur. Appello autem lumen 
+      glo<lb ed="#A" n="12" break="no"/>riae, lumen meridianum, quia caecitas, 
+      natura<lb ed="#A" n="13" break="no"/>lis est quasi densissimae tenebrae, lux fidei est 
+      <lb ed="#A" n="14"/>quasi luae Lunaris, lumen Scholasticum quasi 
+      <lb ed="#A" n="15"/>luaxe matutina, &amp; lumen gloriae quasi, splendor 
+      <lb ed="#A" n="16"/>lucis meri dianae. 
+    </p>
+            <p xml:id="pqir89-e11818-d1e331">
+               <lb ed="#A" n="17"/>o Haec est sententia quorundam 
+      Theolo<lb ed="#A" n="18" break="no"/>gorum sententiariorum, contra quam 
+      Du<lb ed="#A" n="19" break="no"/>randus fuse disputat: Ego autem sine 
+      longio<lb ed="#A" n="20" break="no"/>ri disquisitione meam sententiam, de medio 
+      <lb ed="#A" n="21"/>hoc lumine, duabus aut tribus assertionibus 
+      <lb ed="#A" n="22"/>proponam. Prima sit haecs lumen illud quod 
+      <lb ed="#A" n="23"/>vocant medium inter lumen fidei &amp; lumen 
+      glo<lb ed="#A" n="24" break="no"/>riae, quatenus extendit se ad plura credibilia 
+      <lb ed="#A" n="25"/>quam fides Laicorum, non est aliquid a fidei 
+      lu<lb ed="#A" n="26" break="no"/>mine distinctum, sed est perfectior quidam  
+      <lb ed="#A" n="27"/>gradus fidei, vel (ut alii loquuntur) extensio 
+      <lb ed="#A" n="28"/>quaedam fidei. 
+    </p>
+            <p xml:id="pqir89-e11818-d1e360">
+               <lb ed="#A" n="29"/>9 Secunda assert. Lumen praedictum, 
+      qua<lb ed="#A" n="30" break="no"/>tenus est defensipum &amp; explicativum articulo¬ 
+      <!--193.xml-->
+      <pb ed="#A" n="174"/>
+               <lb ed="#A" n="1"/>rum fidei, non est vera &amp; proprie dicta 
+      scien<lb ed="#A" n="2" break="no"/>tia, ut bene probat Durandus: quia omnis 
+      <lb ed="#A" n="3"/>scientia proprie dicta, resolvitur in principia 
+      <lb ed="#A" n="4"/>evidentia, &amp; per se nota: at notitia Pastorum 
+      <lb ed="#A" n="5"/>&amp; Doctorum, quam habent de rebus 
+      spiritua<lb ed="#A" n="6" break="no"/>libus, non potest resolvi in principia per se 
+      <lb ed="#A" n="7"/>nota, sed tantum in principia naturaliter 
+      in<lb ed="#A" n="8" break="no"/>evidentia, quae spiritus Sanctus nobis. in 
+      ver<lb ed="#A" n="9" break="no"/>bo patefecit. 
+    </p>
+            <p xml:id="pqir89-e11818-d1e391">
+               <lb ed="#A" n="10"/>S Tertia assert. Lumen illud medium, non 
+      <lb ed="#A" n="11"/>est species luminis intellectualis a tribus 
+      praedi<lb ed="#A" n="12" break="no"/>ctis distincti, sed est complicatio quaedam luminis 
+      <lb ed="#A" n="13"/>naturae &amp; luminis fidei, he. Philosophiae &amp; 
+      <lb ed="#A" n="14"/>Theologiae: nam per Philosophiam 
+      Theolo<lb ed="#A" n="15" break="no"/>giae applicatam, articulos fidei explicamus, 
+      <lb ed="#A" n="16"/>defendimus, confirmamus contra, ad 
+      versa<lb ed="#A" n="17" break="no"/>tios, eosque confutamus. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

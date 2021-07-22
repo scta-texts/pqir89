@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 5</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 5</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="17-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-de1134"><!-- p1a5 -->
+            <head xml:id="pqir89-de1134-Hd1e106">Articulus 5</head>
+            <head xml:id="pqir89-de1134-Hd1e109" type="question-title">
+      Explicatio istarum vocum, Ens, 
+      Essentia, Existentia, Subsistentia, 
+      Suppositum, et Persona.
+    </head>
+            <p xml:id="pqir89-de1134-d1e112">
+               <lb ed="#A" n="7"/>ART. V. 
+      <lb ed="#A" n="8"/>Explicatio istarum vocum, Ens, 
+      Essen<lb ed="#A" n="9" break="no"/>tia, Existentia, Subsistentia, 
+      Sup<lb ed="#A" n="10" break="no"/>positum, &amp; Persona. 
+    </p>
+            <p xml:id="pqir89-de1134-d1e123">
+               <lb ed="#A" n="11"/>ESsentia variis modis a Philosophis 
+      de<lb ed="#A" n="12" break="no"/> Escribi solet. I,. sic, Essentia rei est id 
+      <lb ed="#A" n="13"/>quod definitione explicatur. 2. sic: Essentia est 
+      <lb ed="#A" n="14"/>id, per quod res constituitur in certo genere Entus, 
+      <lb ed="#A" n="15"/>&amp; ab omnibus aliis distinguitur. 2. sic, 
+      Essen<lb ed="#A" n="16" break="no"/>tia est primum ac radicale &amp; intimum 
+      princi<lb ed="#A" n="17" break="no"/>pium omnium rei actionum, &amp; proprietatatum: 
+      <lb ed="#A" n="18"/>e. g. multarum operationum humanarum  
+      <lb ed="#A" n="19"/>principia sunt habitus in animis hominum 
+      <lb ed="#A" n="20"/>existentes: habituum principia sunt potentiae 
+      <lb ed="#A" n="21"/>naturales ab essentia fuentes: potentiarum 
+      <lb ed="#A" n="22"/>principium est natura seu essentia humana: 
+      i<lb ed="#A" n="23" break="no"/>psa vero essentia humana, ex anima &amp; 
+      cor<lb ed="#A" n="24" break="no"/>pore constans, nullum habet principium sui 
+      <lb ed="#A" n="25"/>productivum, &amp; effectivum, in homine 
+      exi<lb ed="#A" n="26" break="no"/>stens: h. e. nihil in ipso homine inveniri 
+      po<lb ed="#A" n="27" break="no"/>test, a quo profsuat, aut dimanet esus essen¬ 
+      <!--34.xml-->
+      <pb ed="#A" n="17"/>
+               <lb ed="#A" n="1"/>tia. Dixi, eam nullum habere principium 
+      <lb ed="#A" n="2"/>effectivum, in homine existens, quia certum 
+      <lb ed="#A" n="3"/>est, eam habere principia constitutiVa tum 
+      <lb ed="#A" n="4"/>Physica, tum Metaphysica. Cum igitur rerum 
+      <lb ed="#A" n="5"/>potentiae naturales, potentiarumque 
+      opera<lb ed="#A" n="6" break="no"/>tiones, ab essentia originem suam trahant,  
+      <lb ed="#A" n="7"/>essentia vero nullam habeat causam 
+      efficien<lb ed="#A" n="8" break="no"/>tem se priorem, in ea re, cuius est essentia, 
+      <lb ed="#A" n="9"/>merito ea dicitur primum, ac radicale, &amp; 
+      inti<lb ed="#A" n="10" break="no"/>mum principium omnium rei proprietatum, 
+      <lb ed="#A" n="11"/>&amp; actionum. 
+    </p>
+            <p xml:id="pqir89-de1134-d1e190">
+               <lb ed="#A" n="12"/>2 Denique essentia sic non incommode 
+      <lb ed="#A" n="13"/>describi potest, Essentia est id, quod summe 
+      ne<lb ed="#A" n="14" break="no"/>cessario, &amp; omnium primo, rei con venit. Dico 
+      <lb ed="#A" n="15"/>summe uecessario, ad excludenda accidentia 
+      <lb ed="#A" n="16"/>communia, quae contingenter adsunt illi rei 
+      <lb ed="#A" n="17"/>cuius accidentia sunt. Dico omnium primo, 
+      <lb ed="#A" n="18"/>ad excludenda propria accidentia, quae licet 
+      <lb ed="#A" n="19"/>necedsario conveniant suo subiecto, non 
+      ta<lb ed="#A" n="20" break="no"/>men primo ei insunt, sed prius inest essentia, 
+      <lb ed="#A" n="21"/>a qua dimanant. Haec igitur est generalis 
+      <lb ed="#A" n="22"/>regula. Quicquid summe necessario, omnium 
+      <lb ed="#A" n="23"/>prino, &amp; intime rei inest, illud est rei 
+      essen<lb ed="#A" n="24" break="no"/>tia: quicquid vero aut contingenter inest, aut 
+      <lb ed="#A" n="25"/>propter aliud &amp; quo prostuit, quicquid item  
+      <lb ed="#A" n="26"/>est ad ventitium, &amp; non intimum, illud est 
+      <lb ed="#A" n="27"/>aliquid essentiae superadditum, non vero ipsa 
+      es<lb ed="#A" n="28" break="no"/>sentia. 
+    </p>
+            <p xml:id="pqir89-de1134-d1e230">
+               <lb ed="#A" n="29"/>2 Existentia praecipue ab. essentia differt 
+      <lb ed="#A" n="30"/>munere, &amp; officio: essentiae enim munus est 
+      <!--35.xml-->
+      <pb ed="#A" n="18"/>
+               <lb ed="#A" n="1"/>rem in certo genere entis constituere, 
+      eam<lb ed="#A" n="2" break="no"/>que ab aliis omnibus distinguere. Sic homo 
+      <lb ed="#A" n="3"/>per essentiam suam, quatenus nimirum est 
+      a<lb ed="#A" n="4" break="no"/>nimal rationale, ab omnibus aliis entibus 
+      di<lb ed="#A" n="5" break="no"/>stinguitur. At existentiae munus est, efficere ut 
+      <lb ed="#A" n="6"/>res, talem essentiam habens, sit extra causas 
+      <lb ed="#A" n="7"/>sua, sut loquuntur Metaphysici) aut potius, ut 
+      <lb ed="#A" n="8"/>sit extra causarum virtutem, &amp; potentiam 
+      pro<lb ed="#A" n="9" break="no"/>ductiram : res enim cum non existit, dicitur 
+      <lb ed="#A" n="10"/>esse in potentia causarum suarum, quia est 
+      pro<lb ed="#A" n="11" break="no"/>ducibilis a causis suis, &amp; per earum 
+      poten<lb ed="#A" n="12" break="no"/>tiam effectivam existere potest: at ubi actu 
+      <lb ed="#A" n="13"/>producta est, &amp; existendi actum accepit, non 
+      <lb ed="#A" n="14"/>amplius est in causarum potentia effectiva, sed 
+      <lb ed="#A" n="15"/>educta est ex statu potentialitatis, in statum  
+      <lb ed="#A" n="16"/>actualitatis, &amp; durante eo statu, non est per 
+      <lb ed="#A" n="17"/>causarum potentiam producibilis, oportet 
+      e<lb ed="#A" n="18" break="no"/>nim eam perire, &amp; existendi actum, quem iam  
+      <lb ed="#A" n="19"/>habet, amittere, priusquam a causis suis 
+      de<lb ed="#A" n="20" break="no"/>nuo produci, &amp; existentiam accipere queat. 
+    </p>
+            <p xml:id="pqir89-de1134-d1e285">
+               <lb ed="#A" n="21"/>A Differt hoc officium existentiae, ab offi- 
+      <lb ed="#A" n="22"/>cio essentiae, quod essentiae munus in omnibus 
+      <lb ed="#A" n="23"/>rebus sit stabile &amp; perpetuum: contra vero, 
+      <lb ed="#A" n="24"/>existentiae munus in quibusdam sit variis 
+      mu<lb ed="#A" n="25" break="no"/>tationibus obnoxium, quia ipsa nunc adest,  
+      <lb ed="#A" n="26"/>nunc abest. e. g. existentia rosae, ut tonitrus,  
+      <lb ed="#A" n="27"/>quibusdam temporibus exercet suum munus,  
+      <lb ed="#A" n="28"/>aliis vero temporibus non exercet, ut hyeme, 
+      <lb ed="#A" n="29"/>cum rosa &amp; tonitrus sunt in causarum suarum 
+      <lb ed="#A" n="30"/>potentia, ut loquuntur. Contra vero, harum  
+      <!--36.xml-->
+      <pb ed="#A" n="19"/>
+               <lb ed="#A" n="1"/>&amp; similium rerum essentiam, suum, munus 
+      per<lb ed="#A" n="2" break="no"/>petuo exercet: sive enim rosa existat, sive 
+      <lb ed="#A" n="3"/>non, rosa est fios, natura &amp; essentialiter ab. 
+      <lb ed="#A" n="4"/>omnibus aliis foribus distinctus: &amp; Physici 
+      <lb ed="#A" n="5"/>habent scientiam de rosa, etiam cum non 
+      <lb ed="#A" n="6"/>existit: quia norunt rosam esse forem ab 
+      a<lb ed="#A" n="7" break="no"/>liis foribus distinctum, non solum natura seu 
+      <lb ed="#A" n="8"/>essentiam, sed etiam proprietatibus, virtute, 
+      <lb ed="#A" n="9"/>&amp; efficacia: non enim putandum est, rosam  
+      <lb ed="#A" n="10"/>cum non existit, amittere essentiale suum 
+      <lb ed="#A" n="11"/>discrimen ab aliis foribus, aut cum iis quoad 
+      <lb ed="#A" n="12"/>essentiam confundi. Ex his colligi potest haec 
+      <lb ed="#A" n="13"/>definitio existentiae, Existentia est modus 
+      es<lb ed="#A" n="14" break="no"/>sentiae superadditus, efficiens ut res eam essentiam  
+      <lb ed="#A" n="15"/>habens, sit extra suas causas in mundo. 
+    </p>
+            <p xml:id="pqir89-de1134-d1e346">
+               <lb ed="#A" n="16"/>s Explicatis his vocibus, Essentia, &amp; 
+      Exi<lb ed="#A" n="17" break="no"/>stentia, facile est scire quid sit Ens: differt 
+      e<lb ed="#A" n="18" break="no"/>nim Ens ab essentia, &amp; existentia, ut 
+      concre<lb ed="#A" n="19" break="no"/>tum a duobus abstractis: item ut id quod 
+      ha<lb ed="#A" n="20" break="no"/>bet, ab iis quae ab eo habentur. nihil enim  
+      <lb ed="#A" n="21"/>aliud est Ens, quam id quod habet essentiam,  
+      <lb ed="#A" n="22"/>aut existentiam. Notandum hic est, Ens 
+      duo<lb ed="#A" n="23" break="no"/>bus modis accipi, participialiter, &amp; nominaliter, 
+      <lb ed="#A" n="24"/>ut loquuntur. Ens, ut est participium verbi 
+      <lb ed="#A" n="25"/>sum, significat id, quod est actu existens: Ens 
+      <lb ed="#A" n="26"/>vero, quatenus est nomen verbale, significat 
+      <lb ed="#A" n="27"/>id, quod habet essentiam, existentiae capacem, 
+      <lb ed="#A" n="28"/>si ve actu existat, sive non: &amp; ut loquitur δ
+      ua<lb ed="#A" n="29" break="no"/>rex, sionificat ipsum esse, non ut exercitum 
+      a<lb ed="#A" n="30" break="no"/>ctu, sed in potentia, vel aptitudine. Sic vi¬ 
+      <!--37.xml-->
+      <pb ed="#A" n="20"/>
+               <lb ed="#A" n="1"/>vens, ut est participium, significat actualem  
+      <lb ed="#A" n="2"/>usum vitae: ut vero est nomen, significat id 
+      <lb ed="#A" n="3"/>solum, quod habet eam essentiam, quae potest 
+      <lb ed="#A" n="4"/>esse vitalis operationis principium. 
+    </p>
+            <p xml:id="pqir89-de1134-d1e394">
+               <lb ed="#A" n="5"/>&amp; Subsistentia proprie, &amp; in tertio 
+      signifi<lb ed="#A" n="6" break="no"/>catu accepta, in hoc convenit cum existentia, 
+      <lb ed="#A" n="7"/>quod neque haec, neque illa, sit ipsum Ens, aut 
+      <lb ed="#A" n="8"/>essentia Entis, sed modus Entis: differt tamen 
+      <lb ed="#A" n="9"/>ab ea, primo, quod existentia latius pateat, 
+      <lb ed="#A" n="10"/>quam subsistentia: illa enim competit 
+      omni<lb ed="#A" n="11" break="no"/>bus, tum substantiis, tum accidentibus: haec 
+      <lb ed="#A" n="12"/>vero convenit, solis substantiis singularibus 
+      <lb ed="#A" n="13"/>completis, quatenus concretis nominibus 
+      si<lb ed="#A" n="14" break="no"/>gnificantur: ut huic homini, huic equo, huic 
+      <lb ed="#A" n="15"/>leoni: nam ut superiori articulo monui, haec 
+      <lb ed="#A" n="16"/>humanitas singularis aut haec equinitas 
+      sin<lb ed="#A" n="17" break="no"/>gularis, non subsistere, sed alteri inexistere 
+      di<lb ed="#A" n="18" break="no"/>citur: nimirum quia illa inest huic homini, haec 
+      <lb ed="#A" n="19"/>Vero huic equo. Secundo, differunt 
+      existen<lb ed="#A" n="20" break="no"/>tia, &amp; subsistentia, ratione muneris, seu officii 
+      <lb ed="#A" n="21"/>sui: munus enim existentiae, est efficere, ut res 
+      <lb ed="#A" n="22"/>aliqua actu sit in mundo, extra causarum 
+      vir<lb ed="#A" n="23" break="no"/>tutem, aut potentia: munus vero subsistentiae 
+      <lb ed="#A" n="24"/>est, efficere, ut res nullo modo possit esse in 
+      a<lb ed="#A" n="25" break="no"/>lio, vel ut pars in toto, vel tanquam accidens 
+      <lb ed="#A" n="26"/>in subiecto, vel tanquam natura, seu essentia, 
+      <lb ed="#A" n="27"/>in eo quod habet essentiam. Tertio, differunt 
+      <lb ed="#A" n="28"/>ut determinans &amp; determinatum: sicut enim 
+      <lb ed="#A" n="29"/>essentia est ex se indifferens ad existere, &amp; non 
+      <lb ed="#A" n="30"/>existere, ita existentia est ex se indifferens ad 
+      <!--38.xml-->
+      <pb ed="#A" n="21"/>
+               <lb ed="#A" n="1"/>esse in alio, &amp; esse per se, seu subsistere: h. 
+      e<lb ed="#A" n="2" break="no"/>existentia est indifferens ad modum existendi 
+      <lb ed="#A" n="3"/>innitendo alteri ut sustentanti, &amp; ad modum 
+      <lb ed="#A" n="4"/>existendi per se, sine dependentia ab alio 
+      re<lb ed="#A" n="5" break="no"/>cipiente &amp; sustentante. Subsistentia igitur sic 
+      <lb ed="#A" n="6"/>describi potest: Subsistentia, est modus 
+      existen<lb ed="#A" n="7" break="no"/>tiae superadditus, a quo res habet, quod non in alio, 
+      <lb ed="#A" n="8"/>sed per se existere possit. Vnde a quibusdam di- 
+      <lb ed="#A" n="9"/>citur omnimoda perseitas exiftendi. 
+    </p>
+            <p xml:id="pqir89-de1134-d1e477">
+               <lb ed="#A" n="10"/>9 Ex his, quae iam dicta sunt, colligere 
+      pos<lb ed="#A" n="11" break="no"/>sumus, in qualibet singulari substantia, 
+      con<lb ed="#A" n="12" break="no"/>creto nomine significata, tres hos actus cerni 
+      <lb ed="#A" n="13"/>posse: primo, actum essentiae singularis, per 
+      <lb ed="#A" n="14"/>quem substantia ea est tale individuum, ab 
+      o<lb ed="#A" n="15" break="no"/>mnibus aliis distinctum : secundo, actum 
+      exi<lb ed="#A" n="16" break="no"/>stentiae, per quem substantia talem 
+      singula<lb ed="#A" n="17" break="no"/>rem essentiam habens, est extra causas suas in 
+      <lb ed="#A" n="18"/>mundo: tertio, actum subsistentiae, per quem 
+      <lb ed="#A" n="19"/>ea ita est extra causas suas, ut non inexistat,  
+      <lb ed="#A" n="20"/>aut innitatur alteri, sed aliis ei inexistentibus 
+      <lb ed="#A" n="21"/>substet, &amp; supponatur: unde ut supra dictum 
+      <lb ed="#A" n="22"/>est, sumpositum appellatur. 
+    </p>
+            <p xml:id="pqir89-de1134-d1e508">
+               <lb ed="#A" n="23"/>S Suppositum facile explicatur, iam 
+      cooni<lb ed="#A" n="24" break="no"/>ta natura subsistentiae, nihil enim aliud est 
+      <lb ed="#A" n="25"/>suppositum, quam id quod subsistentiam habet, 
+      <lb ed="#A" n="26"/>suae essentiae &amp; existentiae superadditam : seu id, 
+      <lb ed="#A" n="27"/>quod in existendi actu nulli alteri innititur.  
+      <lb ed="#A" n="28"/>led aliis rebus ei innitentibus substernitur, &amp; 
+      <lb ed="#A" n="29"/>supponitur. Potest etiam sic explicari: 
+      sup<lb ed="#A" n="30" break="no"/>positum est id, quod nullo modo est communica¬ 
+      <!--39.xml-->
+      <pb ed="#A" n="22"/>
+               <lb ed="#A" n="1"/>bile pluribus, nullo item modo alteri inesse potest,  
+      <lb ed="#A" n="2"/>ad modum partis, aut formae. Singularis igitur 
+      <lb ed="#A" n="3"/>humanitas Petri non est suppositum, quia 
+      ve<lb ed="#A" n="4" break="no"/>re dicitur esse in Petro: item natura humana 
+      <lb ed="#A" n="5"/>Christi non est suppositum, ob eandem 
+      ratio<lb ed="#A" n="6" break="no"/>nem: at ipse Petrus est suppositum, quia non 
+      <lb ed="#A" n="7"/>inest alteri, tanquam pars in toto, accidens in 
+      <lb ed="#A" n="8"/>subiecto, aut natura in eo quod naturam 
+      ha<lb ed="#A" n="9" break="no"/>bet. Similiter Christus, &amp; quaelibet alia 
+      per<lb ed="#A" n="10" break="no"/>sona Trinitatis, est suppositum ob eandem  
+      <lb ed="#A" n="11"/>rationem. Accidentia non sunt supposita, 
+      si<lb ed="#A" n="12" break="no"/>ve sint universalia, sive singularia, quia 
+      subje<lb ed="#A" n="13" break="no"/>ctis suis insunt &amp; innituntur. Substantiae 
+      et<lb ed="#A" n="14" break="no"/>iam universales non sunt supposita, quia 
+      sin<lb ed="#A" n="15" break="no"/>gularibus communicantur, &amp; insunt. Denique 
+      <lb ed="#A" n="16"/>Deus gloriosus, quatenus est communis, 
+      inef<lb ed="#A" n="17" break="no"/>fabili modo, tribus personis Trinitatis, non 
+      <lb ed="#A" n="18"/>est suppositum: idque, quia est de ratione 
+      sup<lb ed="#A" n="19" break="no"/>positi, quod non possit communicari, aut 
+      in<lb ed="#A" n="20" break="no"/>esse alteri supposito: at Deus, aut Deitas, 
+      <lb ed="#A" n="21"/>communicatur, &amp; inest tribus personis 
+      Tri<lb ed="#A" n="22" break="no"/>nitatis.  
+    </p>
+            <p xml:id="pqir89-de1134-d1e581">
+               <lb ed="#A" n="23"/>9 Persona in hoc differt a supposito, quod 
+      <lb ed="#A" n="24"/>omnis persona sit suppositum, sed non omne 
+      <lb ed="#A" n="25"/>suppositum sit persona: persona enim nihil est 
+      <lb ed="#A" n="26"/>aliud, quam suppositum ratione praeditum: 
+      <lb ed="#A" n="27"/>unde a Boetio sic describitur, Est rationalis 
+      na<lb ed="#A" n="28" break="no"/>turae individua substantia. Quare suppositum 
+      <lb ed="#A" n="29"/>recte dividitur in rationale &amp; irrationale. 
+      <lb ed="#A" n="30"/>Suppositum rationale, appellatur persona: 
+      <!--40.xml-->
+      <pb ed="#A" n="23"/>
+               <lb ed="#A" n="1"/>suppositum irrationale, ut hic equus, hic lapis,  
+      <lb ed="#A" n="2"/>non habet peculiare nomen sibi impositum: 
+      <lb ed="#A" n="3"/>Persona dividitur, in creatam &amp; increatam.  
+      <lb ed="#A" n="4"/>Personae increatae sunt tres: Pater, Filius, &amp; 
+      <lb ed="#A" n="5"/>Spiritus sanctus. Persona creata, vel est 
+      Ange<lb ed="#A" n="6" break="no"/>lica, ut Gabriel, Michael: vel humana, ut 
+      <lb ed="#A" n="7"/>Petrus, Iohannes. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 10</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 10</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="43-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-de3074"><!-- p1a10 -->
+            <head xml:id="pqir89-de3074-Hd1e106">Articulus 10</head>
+            <head xml:id="pqir89-de3074-Hd1e109" type="question-title">
+        An Christus, quatenus homo, sit 
+        persona: item an Christus, quatenus homo, sit ubique
+      </head>
+            <p xml:id="pqir89-de3074-d1e112">
+               <lb ed="#A" n="18"/>ART. X. 
+      <lb ed="#A" n="19"/>AB CIIRISTVS, quatenus homo, sit 
+      <lb ed="#A" n="20"/>persona: item an CHRISTVS, 
+      qua<lb ed="#A" n="21" break="no"/>tonus homo, sit ubique. 
+    </p>
+            <p xml:id="pqir89-de3074-d1e123">
+               <lb ed="#A" n="22"/>Tfirmativam quaestionis partem  
+      <lb ed="#A" n="23"/>R probare videntur haec argumenta. 
+      <lb ed="#A" n="24"/>I. Sicut omnes singulares Boves, Equi, 
+      Leo<lb ed="#A" n="25" break="no"/>nes, &amp;c. sunt supposita irrationaliar ita 
+      et<lb ed="#A" n="26" break="no"/>iam omnes singulares homines sunt, 
+      supposi<lb ed="#A" n="27" break="no"/>ta rationalia, seu. personae: ErgoCHRI 
+      <!--60.xml-->
+      <pb ed="#A" n="43"/>
+               <lb ed="#A" n="1"/>STNS, qua est singularis homo, est persona. 
+      <lb ed="#A" n="2"/>2. Omnis singularis substantia completa, &amp;  
+      <lb ed="#A" n="3"/>concreto nomine significata, est suppositum, 
+      <lb ed="#A" n="4"/>ut docent omnes Metaphysici, at 
+      CHRT<lb ed="#A" n="5" break="no"/>STVS, quatenus est singularis homo, est talis: 
+      <lb ed="#A" n="6"/>ergo est suppositum: omne autem 
+      supposi<lb ed="#A" n="7" break="no"/>tum rationale est persona. 2. Homo 
+      singula<lb ed="#A" n="8" break="no"/>ris differt a singulari sua essentia, ut 
+      supposi<lb ed="#A" n="9" break="no"/>tum a natura in supposito existentes: ergo 
+      <lb ed="#A" n="10"/>CHRISTVS, quatenus est homo 
+      singula<lb ed="#A" n="11" break="no"/>ris, est suppositum, &amp; proinde persona. 
+    </p>
+            <p xml:id="pqir89-de3074-d1e167">
+               <lb ed="#A" n="12"/>2. Deinde si CRRISTVS, quatenus 
+      <lb ed="#A" n="13"/>est homo, sit persona, ut iam probatum est,  
+      <lb ed="#A" n="14"/>vel est persona immensa, &amp; ubique existens,  
+      <lb ed="#A" n="15"/>vel est persona finita, &amp; certo loco 
+      compre<lb ed="#A" n="16" break="no"/>hensa: posterius admitti non potest, quia sic 
+      <lb ed="#A" n="17"/>in CHRISTO duae essent personae, una 
+      <lb ed="#A" n="18"/>finita, altera infinitas ergo dicendum est 
+      <lb ed="#A" n="19"/>prius, videlicet CHRISTVM, quatenus 
+      <lb ed="#A" n="20"/>est homo, esse personam immensam, in omni 
+      <lb ed="#A" n="21"/>loco, &amp; extra omnem locum existentem: &amp; 
+      <lb ed="#A" n="22"/>proinde non solum fatendum est, illam 
+      pro<lb ed="#A" n="23" break="no"/>positionem, CHRISTVS homo est 
+      ubi<lb ed="#A" n="24" break="no"/>que, esse veram, sed etiam illam, CHRISTVS, 
+      <lb ed="#A" n="25"/>quatenus homo, est ubique. 
+    </p>
+            <p xml:id="pqir89-de3074-d1e201">
+               <lb ed="#A" n="26"/>S. Vt huic quaestioni satisfiat, dico 
+      pri<lb ed="#A" n="27" break="no"/>mo, ambiguam, &amp; proinde distinguendam  
+      <lb ed="#A" n="28"/>esse illam propositionem, CHRISTVS, 
+      <lb ed="#A" n="29"/>quatenus est hic homo, est pensonas nam ut. 
+      lo<lb ed="#A" n="30" break="no"/>quitur <ref xml:id="pqir89-de3074-Rd1e214">
+                  <name xml:id="pqir89-de3074-Nd1e216">Suarex</name>, in tertiam partem D. Thomae, 
+      <!--61.xml-->
+      <pb ed="#A" n="44"/>
+                  <lb ed="#A" n="1"/>Tom.I. quaest. To. art.II.</ref> illa particula 
+      qua<lb ed="#A" n="2" break="no"/>tenus, vel reduplicat suppositum, vel reduplicat 
+      <lb ed="#A" n="3"/>naturam: h.e. vel hic est eius sensus, Christus 
+      <lb ed="#A" n="4"/>ratione naturae humanae ab eo assumptae est 
+      per<lb ed="#A" n="5" break="no"/>sona, &amp; sic propositio est aperte falsa, nam  
+      <lb ed="#A" n="6"/>Christus neque habet a sua humanitate 
+      <lb ed="#A" n="7"/>quod sit persona simpliciter, neque ab ea 
+      <lb ed="#A" n="8"/>habet novam aliquam subsistentiam, aut 
+      <lb ed="#A" n="9"/>personalitatem, sic enim in eo duplex esset 
+      <lb ed="#A" n="10"/>hypostasis, neque verum est, dicere, 
+      huma<lb ed="#A" n="11" break="no"/>nitatem ab eo assumptam, suam propriam 
+      <lb ed="#A" n="12"/>subsistentiam, aut personalitatem habere, 
+      <lb ed="#A" n="13"/>quia ea alteri inexistit, &amp; non subsistit: 
+      Idcir<lb ed="#A" n="14" break="no"/>co negandum est Christum ratione naturae 
+      <lb ed="#A" n="15"/>suae humanae esse personant: vel hic est esus 
+      <lb ed="#A" n="16"/>sensus, Christus, quatenus est suppositum 
+      hu<lb ed="#A" n="17" break="no"/>manam naturam incidens, est persona, &amp; sic 
+      <lb ed="#A" n="18"/>propositio est verissima, ut probant tria illa 
+      <lb ed="#A" n="19"/>argumenta in simine articuli posita, illud 
+      <lb ed="#A" n="20"/>enim suppositum, in quo est humanitas, est 
+      <lb ed="#A" n="21"/>persona. 
+    </p>
+            <p xml:id="pqir89-de3074-d1e270">
+               <lb ed="#A" n="22"/>AAlii brevius respondent, Christum, 
+      qua<lb ed="#A" n="23" break="no"/>telnus est hic homo, duo includere, videlicet 
+      <lb ed="#A" n="24"/>subsistentiam divinam, &amp; naturam humanam:  
+      <lb ed="#A" n="25"/>&amp; dicunt, Christum, quatenus est homo, esse 
+      <lb ed="#A" n="26"/>personam respectu subsistentiae divinae 
+      <lb ed="#A" n="27"/>quam materialiter includit, non vero 
+      respe<lb ed="#A" n="28" break="no"/>ctu naturae humanae assumptae, quam magis  
+      <lb ed="#A" n="29"/>formaliter &amp; directe importat illa vox, hic 
+      <lb ed="#A" n="30"/>homo. 
+      <!--62.xml-->
+      <pb ed="#A" n="45"/>
+               <lb ed="#A" n="1"/>s Dico secundo, illum modum 
+      loquen<lb ed="#A" n="2" break="no"/>di, Christus, quatenus homo est, est persona, 
+      <lb ed="#A" n="3"/>fugiendum esse. I. Quia Nestoniano 
+      dogma<lb ed="#A" n="4" break="no"/>ti, quo duae personae Christo tribuuntur, 
+      fa<lb ed="#A" n="5" break="no"/>vere videtur. 2. Quia reduplicatio proprie 
+      ac<lb ed="#A" n="6" break="no"/>cepta importat proptiam rationem, vel 
+      cau<lb ed="#A" n="7" break="no"/>sam cur attributum insit subiecto: certum 
+      au<lb ed="#A" n="8" break="no"/>tem est, rationem, secundum quam 
+      persona<lb ed="#A" n="9" break="no"/>litas Chiisto competit, non esse in natura 
+      <lb ed="#A" n="10"/>humana, &amp; proinde Christum non satis 
+      com<lb ed="#A" n="11" break="no"/>mode dici personam, quatenus est hic homo. 
+      <lb ed="#A" n="12"/>S. Quia Theologi, dum disserunt de Christo,  
+      <lb ed="#A" n="13"/>&amp; utuntur illis reduplicationibus, quatenus 
+      <lb ed="#A" n="14"/>Deus, quatenus homo, aut quatenus hic homo, 
+      <lb ed="#A" n="15"/>non :espiciunt Christi subsistentiam 
+      persona<lb ed="#A" n="16" break="no"/>lem, sed naturam : designant enim naturam,  
+      <lb ed="#A" n="17"/>secundum quam haec, vel illa attributa, 
+      Chri<lb ed="#A" n="18" break="no"/>sto conveniunt: at personalitas non 
+      compe<lb ed="#A" n="19" break="no"/>rit Christo, secundum naturam humanam,  
+      <lb ed="#A" n="20"/>ideoque insolens est illa locutio, Christus,  
+      <lb ed="#A" n="21"/>quatenus est hic homo, est persona. 
+    </p>
+            <p xml:id="pqir89-de3074-d1e342">
+               <lb ed="#A" n="22"/>&amp; Quod ad alteram partem argumenti 
+      <lb ed="#A" n="23"/>attinet, respondendum est ut supra, 
+      Chri<lb ed="#A" n="24" break="no"/>stum, quatenus est hic homo, duo includere,  
+      <lb ed="#A" n="25"/>videlicet subsistentiam divinam, &amp; naturam  
+      <lb ed="#A" n="26"/>humanam ei superadditam : respectu 
+      subsi<lb ed="#A" n="27" break="no"/>stentiae divinae, quam materiali quadam 
+      ra<lb ed="#A" n="28" break="no"/>tione includit, dici potest Christus, quatenus 
+      <lb ed="#A" n="29"/>est hic homo, esse persona immensa, &amp; nullo 
+      <lb ed="#A" n="30"/>loco definita: respectu naturae humanae 
+      <!--63.xml-->
+      <pb ed="#A" n="46"/>
+               <lb ed="#A" n="1"/>quam magis formaliter &amp; directe importat 
+      <lb ed="#A" n="2"/>illa vox, hic homo, tecte negatur, 
+      CHRI<lb ed="#A" n="3" break="no"/>STVM, quatenus est hic homo, esse 
+      perso<lb ed="#A" n="4" break="no"/>nam, immensam, &amp; ubique existentem: idque 
+      <lb ed="#A" n="5"/>quia eius natura humana habet suum 
+      parti<lb ed="#A" n="6" break="no"/>culare ubi, &amp; certo loco comprehenditur. 
+    </p>
+            <p xml:id="pqir89-de3074-d1e381">
+               <lb ed="#A" n="7"/>9. Caeterum licent illa propositio aliquo 
+      <lb ed="#A" n="8"/>sensu vera sit, ut iam dictum est: quia tamen 
+      <lb ed="#A" n="9"/>vbiquitariorum exrorem redolet, quia item  
+      <lb ed="#A" n="10"/>sensus quem verba istius propositionis 
+      evi<lb ed="#A" n="11" break="no"/>dentius prae se ferunt, est absurdus, videlicet 
+      <lb ed="#A" n="12"/>quod CHRSVS ratione naturae humanae sit 
+      <lb ed="#A" n="13"/>immensuss seu quod eus humanitas immensa sit, 
+      <lb ed="#A" n="14"/>ideo reficienda est, &amp; sedulo cavenda. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

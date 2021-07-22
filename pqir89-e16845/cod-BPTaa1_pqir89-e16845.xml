@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 19</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 19</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="238-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-e16845"><!-- p3a19 -->
+            <head xml:id="pqir89-e16845-Hd1e106">Articulus 19</head>
+            <head xml:id="pqir89-e16845-Hd1e109" type="question-title">
+        An fiducia sit actus intellectus, et 
+        quomodo differat ab assensu. 
+      </head>
+            <p xml:id="pqir89-e16845-d1e112">
+               <lb ed="#A" n="5"/>ART. XIX 
+      <lb ed="#A" n="6"/>An fiducia sit actus intellectus, &amp; 
+        quomo<lb ed="#A" n="7" break="no"/>do differat ab assensu. 
+    </p>
+            <p xml:id="pqir89-e16845-d1e121">
+               <lb ed="#A" n="8"/>
+               <ref xml:id="pqir89-e16845-Rd1e125">
+                  <name xml:id="pqir89-e16845-Nd1e127">BEllarminus</name>, Lib. I. de Iust. Cap. o</ref> 
+               <lb ed="#A" n="9"/>Oprobare conatur, fiduciam non esse 
+      <lb ed="#A" n="10"/>actum fidei, argumento sumpto ab 
+      e<lb ed="#A" n="11" break="no"/>jus subiecto, quia videlicet fides ad 
+      intelle<lb ed="#A" n="12" break="no"/>ctum, fiducia vero ad voluntatem pertiner. 
+      <lb ed="#A" n="13"/>Haec ratio duplici nomine infirma est. Primo, 
+      <lb ed="#A" n="14"/>quia fides, licet subiective existat in solo 
+      in<lb ed="#A" n="15" break="no"/>tellectu, ut docet Tilenus, Snt. part. X. Disp. 
+      <lb ed="#A" n="16"/>4o. Thes. IO &amp; 17. revera tamen ad 
+      vo<lb ed="#A" n="17" break="no"/>suntatem etiam pertinet. Secundo, quia 
+      fi<lb ed="#A" n="18" break="no"/>ducia, quae Graece πατοiuoiς &amp; vMngoφogνῳ 
+      <lb ed="#A" n="19"/>dicitur, formaliter in solo intellectu existit, 
+      <lb ed="#A" n="20"/>Vt autem hoc intelligatur, proponam 
+      ali<lb ed="#A" n="21" break="no"/>quot fundamenta, quae meo iudicio non 
+      exi<lb ed="#A" n="22" break="no"/>guam utilitatem habent ad nostram 
+      senten<lb ed="#A" n="23" break="no"/>tiam stabiliendam, &amp; adversarij sententiam  
+      <lb ed="#A" n="24"/>confutandam:  
+    </p>
+            <p xml:id="pqir89-e16845-d1e167">
+               <lb ed="#A" n="25"/>Primum fundamentum: Fideles, seu 
+      rena<lb ed="#A" n="26" break="no"/>ti non uno, sed duobus actibus, meritum 
+      Chri<lb ed="#A" n="27" break="no"/>sti, &amp; Dei misericordiam, sibi applicant. 
+      <lb ed="#A" n="28"/>Prior actus in intellectu existit, estque certa. 
+      <!--257.xml-->
+      <pb ed="#A" n="238"/>
+               <lb ed="#A" n="1"/>persuasio, seu qudicium mentis Dei testimonio 
+      <lb ed="#A" n="2"/>nitens, quo apud nos statuimus, Salvatorem 
+      <lb ed="#A" n="3"/>nostrum lesum Christum pro nostris 
+      pecca<lb ed="#A" n="4" break="no"/>tis plenissime satisfecisse, &amp; per consequens 
+      <lb ed="#A" n="5"/>non solum aliis, sed nobis quoque 
+      remis<lb ed="#A" n="6" break="no"/>sionem peceatorum, aeternam iustitiam &amp;  
+      <lb ed="#A" n="7"/>vitam donatam esse, idque gratis, ex Dei 
+      <lb ed="#A" n="8"/>misericordia, propter unius Christi 
+      meri<lb ed="#A" n="9" break="no"/>tum. Posterior actus applicativus gratiae, in 
+      <lb ed="#A" n="10"/>voluntate existit, est enim ardens amor quo 
+      <lb ed="#A" n="11"/>voluntas gratiam, &amp; faxorem Dei, 
+      amplecti<lb ed="#A" n="12" break="no"/>tur, serio experens perfectiorem istius 
+      gra<lb ed="#A" n="13" break="no"/>tiae sensum in hac vita, &amp; claram Dei 
+      visio<lb ed="#A" n="14" break="no"/>nem in vita futura. 
+    </p>
+            <p xml:id="pqir89-e16845-d1e214">
+               <lb ed="#A" n="15"/>S Secundum fundamentum: Vterque 
+      a<lb ed="#A" n="16" break="no"/>ctus ad fidutiam requiritur: nemo enim 
+      di<lb ed="#A" n="17" break="no"/>ci potest confidere, seu fiduciam. habere de 
+      <lb ed="#A" n="18"/>bono obtinendo, nisi &amp; firmam habeat 
+      per<lb ed="#A" n="19" break="no"/>suasionem in intellectu, &amp; desiderium vel 
+      amo<lb ed="#A" n="20" break="no"/>rem istius boni in voluntate. Hoc egregie 
+      ex<lb ed="#A" n="21" break="no"/>plicat <ref xml:id="pqir89-e16845-Rd1e231">
+                  <name xml:id="pqir89-e16845-Nd1e233">Tilenus</name>, δSontag. part. 2. Disp. 28. Thes. 
+      <lb ed="#A" n="22"/>IS.</ref> dicens, obiectum fidet salvifieae esse 
+      verita<lb ed="#A" n="23" break="no"/>tem dixinam, non solum qua aliquid narrat, sed 
+      <lb ed="#A" n="24"/>cumprimis qua aliquid promittit: ubi non satu 
+      <lb ed="#A" n="25"/>est assentiri narrationi, ut verae, sed necesse est 
+      <lb ed="#A" n="26"/>rem oblatam amplecti, quod vtique ad 
+      volunta<lb ed="#A" n="27" break="no"/>tem pertinet. 
+    </p>
+            <p xml:id="pqir89-e16845-d1e251">
+               <lb ed="#A" n="28"/>A Tertium fundamentum: Prior actus est 
+      <lb ed="#A" n="29"/>ipsa essentia seu formalis ratio fiduciae: posterior 
+      <lb ed="#A" n="30"/>vero est tantum actus ei annexus &amp; concomi¬ 
+      <!--258.xml-->
+      <pb ed="#A" n="239"/>
+               <lb ed="#A" n="1"/>tans: &amp; proinde fiducia formaliter est in 
+      intel<lb ed="#A" n="2" break="no"/>lectis, licet annexum habeat desiderium 
+      volunta<lb ed="#A" n="3" break="no"/>tis. Probatur haec assertio. Primo, quia 
+      opposi<lb ed="#A" n="4" break="no"/>tum fiduciae, videlicet diffidentia, est in 
+      intelle<lb ed="#A" n="5" break="no"/>ctu: Ergo ipsa fiducia est in intellectu: ratio 
+      <lb ed="#A" n="6"/>antecedentis est, quia diffidentia, quam aliquis 
+      <lb ed="#A" n="7"/>dicitur diffidere sibi, aut suis rebus, non 
+      signi<lb ed="#A" n="8" break="no"/>ficat odium aut aversationem voluntatis, sed aue 
+      <lb ed="#A" n="9"/>dubitationem de viribus suis, aut persua sionem de 
+      <lb ed="#A" n="10"/>imbecillitate sua, quae procul dubio ad 
+      intelle<lb ed="#A" n="11" break="no"/>ctum pertinent Secundo, quia si fiducia 
+      for<lb ed="#A" n="12" break="no"/>maliter esset actus voluntatis, nihil aliud esset 
+      <lb ed="#A" n="13"/>quam desiderium aut amor obiecti: sed hoc 
+      <lb ed="#A" n="14"/>est quot idianae experientiae contrarium: 
+      mul<lb ed="#A" n="15" break="no"/>ti enim ardenter expetunt &amp; desiderant 
+      obie<lb ed="#A" n="16" break="no"/>ctum aliquod, qui non habent siduciam de eo 
+      <lb ed="#A" n="17"/>obtinendo. 
+    </p>
+            <p xml:id="pqir89-e16845-d1e301">
+               <lb ed="#A" n="18"/>S Ob. prim. &amp;i fidutia est actus 
+      intel<lb ed="#A" n="19" break="no"/>lectus, tota fides salvifica in intellectu exister. 
+      <lb ed="#A" n="20"/>Respondeo cum <ref xml:id="pqir89-e16845-Rd1e309">
+                  <name xml:id="pqir89-e16845-Nd1e311">Tileno</name>, Disp. 4o. part. 2.</ref> 
+      to<lb ed="#A" n="21" break="no"/>tam fidem ratione essentiae suae esse in 
+      intel<lb ed="#A" n="22" break="no"/>lectu, tanquam in proprio subiecto, licet 
+      <lb ed="#A" n="23"/>Eνeφηπυῶς sit in voluntate, quatenus eam  
+      <lb ed="#A" n="24"/>mo vet &amp; afficit. Sed de hac quaestione plura 
+      <lb ed="#A" n="25"/>postea in Art.2I 
+    </p>
+            <p xml:id="pqir89-e16845-d1e327">
+               <lb ed="#A" n="26"/>o Ob. secund. &amp; fiducia est in 
+      intelle<lb ed="#A" n="27" break="no"/>ctu, non differt ab assensu: at hoc repugnat 
+      do<lb ed="#A" n="28" break="no"/>ctrinae omnium Orthodoxorum, qui haec duo in 
+      <lb ed="#A" n="29"/>fide distinguunt, assensum &amp; fiduciam. Resp. 
+      Fi<lb ed="#A" n="30" break="no"/>duciam, primo modo acceptam, &amp; assensum, 
+      <!--259.xml-->
+      <pb ed="#A" n="240"/>
+               <lb ed="#A" n="1"/>differre, ut universale &amp; particulare: 
+      fidu<lb ed="#A" n="2" break="no"/>ciam uero secundo, tertio, aut quarto modo 
+      <lb ed="#A" n="3"/>acceptam, differre ab assensu, essentiali 
+      dis<lb ed="#A" n="4" break="no"/>crimine: sunt enim di versi specie actus 
+      men<lb ed="#A" n="5" break="no"/>tis. Dico fiduciam primo modo acceptam  
+      <lb ed="#A" n="6"/>differre ab assensu, ut universale &amp; 
+      parti<lb ed="#A" n="7" break="no"/>culare: quia assensus, quem Theologi 
+      se<lb ed="#A" n="8" break="no"/>cundum actum fidei appellant, est 
+      genera<lb ed="#A" n="9" break="no"/>lis quidam actus, quo intellectus toti Dei 
+      ver<lb ed="#A" n="10" break="no"/>bo assentitur: hoc est, tum Legi, tum. 
+      Euan<lb ed="#A" n="11" break="no"/>gelio. Fiducia vero est particularis quidam  
+      <lb ed="#A" n="12"/>&amp; applicativus assensus, pro obiecto 
+      ha<lb ed="#A" n="13" break="no"/>bens primo Euangelicas promissiones, 
+      secun<lb ed="#A" n="14" break="no"/>do internum testimonium sancti Sspiritus: nam  
+      <lb ed="#A" n="15"/>per fiduciam &amp; assentimur doctrinae 
+      Euan<lb ed="#A" n="16" break="no"/>gelii, &amp; testimonio Spiritus Dei, vna 
+      te<lb ed="#A" n="17" break="no"/>stantis cum nostro spiritu, nos esse filios 
+      Dei<lb ed="#A" n="18" break="no"/>atque ita nobis ipsis applicamus 
+      Euange<lb ed="#A" n="19" break="no"/>licas promissiones, certo statuentes &amp; 
+      tu<lb ed="#A" n="20" break="no"/>dicantes nos esse filios Dei, &amp; proinde 
+      <lb ed="#A" n="21"/>illas promissiones non solum aliis 
+      creden<lb ed="#A" n="22" break="no"/>tibus, sed nobis etiam in particulari esse 
+      fa<lb ed="#A" n="23" break="no"/>ctas. 
+    </p>
+            <p xml:id="pqir89-e16845-d1e394">
+               <lb ed="#A" n="24"/>ῳ Ob. tert. Per solam voluntatem 
+      ample<lb ed="#A" n="25" break="no"/>ctimur &amp; applicamus nobis ipsis 
+      promissio<lb ed="#A" n="26" break="no"/>nes gratiae: Ergo fiducia quae est actus 
+      applica<lb ed="#A" n="27" break="no"/>tivus fidei ad solam voluntatem pertinet. Resp. 
+      <lb ed="#A" n="28"/>applicationem gratiae fieri &amp; per actum 
+      intel<lb ed="#A" n="29" break="no"/>lectus, &amp; per actum voluntatis, (ut dictumlest 
+      <lb ed="#A" n="30"/>supra,) sed praecipue per actum intellectus: 
+      <!--260.xml-->
+      <pb ed="#A" n="241"/>
+               <lb ed="#A" n="1"/>magis enim applico promissionem gratiae 
+      <lb ed="#A" n="2"/>mihi ipsi, iudicando &amp; certo statuendo eam ad 
+      <lb ed="#A" n="3"/>me pertinere, quam expetendo &amp; defiderando 
+      <lb ed="#A" n="4"/>gratiam promissam. 
+    </p>
+            <p xml:id="pqir89-e16845-d1e425">
+               <lb ed="#A" n="5"/>S Obiectio quarta. Nullus unquam 
+      dr<lb ed="#A" n="6" break="no"/>thodoxus Theologus dixit, fiduciam esse 
+      assen<lb ed="#A" n="7" break="no"/>sum, aut iudicium mentis: Ergo ista 
+      senten<lb ed="#A" n="8" break="no"/>tia non est ferenda. Respond. Primo, 
+      do<lb ed="#A" n="9" break="no"/>ctrinam de facultate, seu potentia animae 
+      <lb ed="#A" n="10"/>in quam sita est fiducia, non esse dogna fideit 
+      <lb ed="#A" n="11"/>si ve enim statuamus eam in intellectu sive in 
+      <lb ed="#A" n="12"/>voluntate, parum interest, modo 
+      rele<lb ed="#A" n="13" break="no"/>cto Pontificiorum errore, de incertitudine 
+      <lb ed="#A" n="14"/>qustitiae, dicamus eam esse verum fidei 
+      a<lb ed="#A" n="15" break="no"/>ctum. Respond. Secundo, Orthodoxos 
+      <lb ed="#A" n="16"/>Theologos, cum dicunt fiduciam esse in 
+      vo<lb ed="#A" n="17" break="no"/>luntate, loqui de fiducia secundo, tertio, aut 
+      <lb ed="#A" n="18"/>quarto modo accepta. Respond. Tertio 
+      <lb ed="#A" n="19"/>quosdam doctissimos viros asserere, 
+      fdu<lb ed="#A" n="20" break="no"/>ciam esse quendam assensum, aut iudicium 
+      <lb ed="#A" n="21"/>intellectus: nam Zanchius, Tom. 4. Zibro 
+      <lb ed="#A" n="22"/>primo, Capite decimo tertio, dicit, fiduciam  
+      <lb ed="#A" n="23"/>&amp; fidem saluificam idem esse: &amp; definit 
+      fi<lb ed="#A" n="24" break="no"/>dem salvificam sic, Fides qustificans, est firmus 
+      <lb ed="#A" n="25"/>&amp; indubitatus assensus, &amp;c. Idem fiduciam  
+      <lb ed="#A" n="26"/>sic definit, Fiducia est certissima persuasio de 
+      <lb ed="#A" n="27"/>peritate promissionum, &amp;c. Assensus autem &amp;  
+      <lb ed="#A" n="28"/>persuasio ad intellectum pertinent, ut cuivis 
+      <lb ed="#A" n="29"/>manifestum est. Polanus etiam antagmat. 
+      <lb ed="#A" n="30"/>Theologic. Zibro nono, Capite sexto, dicit, 
+      <!--261.xml-->
+      <pb ed="#A" n="242"/>
+               <lb ed="#A" n="1"/>uλ, noopoλλαν esse plenam &amp; certam 
+      persuasio<lb ed="#A" n="2" break="no"/>nem dubitutionis &amp; discertationis expertem. &amp; 
+      <lb ed="#A" n="3"/>caetera. &amp; in secundo Libro partitionum 
+      <lb ed="#A" n="4"/>Theologicarum dicit, fidem specialem, seu 
+      <lb ed="#A" n="5"/>salvificam, esse internum cultum Dei, dum 
+      pro<lb ed="#A" n="6" break="no"/>missioni Euangelicae assentimur. 
+      <lb ed="#A" n="7"/>o Si quis autem pertinaciter hanc 
+      senten<lb ed="#A" n="8" break="no"/>tiam tanquam novam &amp; prius inauditam  
+      <lb ed="#A" n="9"/>damnet, quaeram ex ipso, ad quem actum 
+      fi<lb ed="#A" n="10" break="no"/>dei referendum putet illud applicativum 
+      iudi<lb ed="#A" n="11" break="no"/>cium intellectus, de quo hic loquimur, utrum 
+      vi<lb ed="#A" n="12" break="no"/>delicet referat illud ad notitiam, vel ad 
+      assen<lb ed="#A" n="13" break="no"/>sum, an vero ad siduciam. Non potest 
+      parti<lb ed="#A" n="14" break="no"/>culare hoc &amp; applicativum iudicium referri 
+      <lb ed="#A" n="15"/>ad notitiam praecedaneam, aut ad assensum 
+      <lb ed="#A" n="16"/>generalems nam istorum actuum obiectum 
+      <lb ed="#A" n="17"/>est totum Dei verbum: Ergo referri debet ad 
+      <lb ed="#A" n="18"/>fiduciam, &amp; per consequens fiducia ad 
+      in<lb ed="#A" n="19" break="no"/>tellectum pertinet, hoc enim iudicium est 
+      <lb ed="#A" n="20"/>actus intellectus.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

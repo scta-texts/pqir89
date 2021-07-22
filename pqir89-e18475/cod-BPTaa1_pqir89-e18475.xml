@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 24</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 24</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="259"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-e18475"><!-- p3a24 -->
+            <head xml:id="pqir89-e18475-Hd1e106">Articulus 24</head>
+            <head xml:id="pqir89-e18475-Hd1e109" type="question-title">
+        Ostenditur Theologiam viatorum 
+        tribus modis accipi: et probatur, 
+        Theologiam primo modo acceptam non esse 
+        habitum a Fide re distinctum. 
+      </head>
+            <p xml:id="pqir89-e18475-d1e112">
+      <!--278.xml-->
+               <pb ed="#A" n="259"/>
+               <lb ed="#A" n="1"/>ART. XXIV 
+      <lb ed="#A" n="2"/>Ostenditur Theologiam viatorum 
+        tri<lb ed="#A" n="3" break="no"/>bus modis accipi : &amp; probatur, 
+      Theo<lb ed="#A" n="4" break="no"/>logiam primo modo acceptam non esse 
+      <lb ed="#A" n="5"/>habitum a Fide re distinctum.  
+    </p>
+            <p xml:id="pqir89-e18475-d1e130">
+               <lb ed="#A" n="6"/>l. Agna est loquendi varietas, &amp; 
+      mi<lb ed="#A" n="7" break="no"/>Dlrabilia sunt sententiarum divergia 
+      <lb ed="#A" n="8"/>in hac controversia de natura Theologiae 
+      via<lb ed="#A" n="9" break="no"/>torum. Primo enim 8. Thomas, &amp; cum eo 
+      <lb ed="#A" n="10"/>multi alii Theologi Vententiarim statuunt,  
+      <lb ed="#A" n="11"/>Theologiam esse scientiam, quibus etiam 
+      adsti<lb ed="#A" n="12" break="no"/>pulatur Dudleius Fennerus, in lumine suae 
+      <lb ed="#A" n="13"/>Theologiae. Secundo, Durandus, Cuus, &amp; 
+      <lb ed="#A" n="14"/>Andreas Vega, asserunt Theologiam re non 
+      dif<lb ed="#A" n="15" break="no"/>ferre ab habitis fidei. Tertio, Nechermanus 
+      <lb ed="#A" n="16"/>dicit, eam esse prudentiam. Quarto, clarissimus 
+      <lb ed="#A" n="17"/>lunius, in libello de vera Theologia, 
+      Trelca<lb ed="#A" n="18" break="no"/>tius in prooemio Theologicarum institutionum, 
+      <lb ed="#A" n="19"/>Polanus LibroI. Sntag. 9. 2. Tilenus in 
+      Syste<lb ed="#A" n="20" break="no"/>mate horistico, &amp; harpius noster in cursu 
+      <lb ed="#A" n="21"/>Theologico, affrmant, eam esse sapientiam: 
+      <lb ed="#A" n="22"/>Quinto, Bulthasar Meisnerus, in Philosophiae 
+      <lb ed="#A" n="23"/>suae Sect. 2. c. 2. quaest. I. dicit, Theologiam  
+      <lb ed="#A" n="24"/>per specialius &amp; magis proprium genus definiri 
+      <lb ed="#A" n="25"/>non posse quam per habitum 8eo o δoῶον¬ 
+      <!--279.xml-->
+      <pb ed="#A" n="260"/>
+               <lb ed="#A" n="1"/>2 Quanquam controversia haec tractatur 
+      <lb ed="#A" n="2"/>a Scholasticis in prologo primi Libri 
+      senten<lb ed="#A" n="3" break="no"/>tiarum, revera tamen magis est Philosophica 
+      <lb ed="#A" n="4"/>quam Theologica: Philosophorum enim est,  
+      <lb ed="#A" n="5"/>habituum di versa genera considerare, &amp; ex 
+      <lb ed="#A" n="6"/>illa habituum classe cuiussibet particularis 
+      <lb ed="#A" n="7"/>habitus genus depromere. 
+    </p>
+            <p xml:id="pqir89-e18475-d1e195">
+               <lb ed="#A" n="8"/>S Vt igitur haec controversia magis 
+      di<lb ed="#A" n="9" break="no"/>lucide determinetur, tenendum est primo, 
+      <lb ed="#A" n="10"/>Theologiam tribus modis accipi, ut recte 
+      mo<lb ed="#A" n="11" break="no"/>fet Durandus in Prol. I. sent. Primo 
+      e<lb ed="#A" n="12" break="no"/>nim accipitur pro habitiu quo assentimur 
+      to<lb ed="#A" n="13" break="no"/>ti sacrae Scripturae propter Dei authoritatem: 
+      <lb ed="#A" n="14"/>Secundo, pro habitu quo assentimur 
+      conclu<lb ed="#A" n="15" break="no"/>sionibus Theologicis ex sacra Scriptura deductis. 
+      <lb ed="#A" n="16"/>Tertio, pro habitis defensivo &amp; explicatipo 
+      <lb ed="#A" n="17"/>articulorum fidei, qui appellari solet 
+      Theo<lb ed="#A" n="18" break="no"/>logia Doctorum, seu Theologia, Sholastica. 
+    </p>
+            <p xml:id="pqir89-e18475-d1e222">
+               <lb ed="#A" n="19"/>A Secundo tenendum est: Omnem 
+      hadbe<lb ed="#A" n="20" break="no"/>tum mentis, vel esse habitum sciendi, vel 
+      ha<lb ed="#A" n="21" break="no"/>bitum credendi, vel habitum opinandi. 
+      Ra<lb ed="#A" n="22" break="no"/>tio huius divisionis est, quia habituum 
+      va<lb ed="#A" n="23" break="no"/>rietas oritur ex di versitate actuum ad quos 
+      <lb ed="#A" n="24"/>referuntur &amp; ordinantur illi, habitus: actus 
+      <lb ed="#A" n="25"/>autem ad quos ordinantur omnes habitus 
+      <lb ed="#A" n="26"/>intellectuales sunt tres videlicet actus 
+      <lb ed="#A" n="27"/>credendi, actus sciendi, &amp; actus opinandi: 
+      <lb ed="#A" n="28"/>&amp;. proinde tria sunt genera habituum mentis 
+      <lb ed="#A" n="29"/>nostrae. 
+      <!--280.xml-->
+      <pb ed="#A" n="261"/>
+               <lb ed="#A" n="1"/>S Tertio tenendum est, Habitum sciendi, 
+      <lb ed="#A" n="2"/>quatenus opponitur habitibus credendi, &amp; 
+      opi<lb ed="#A" n="3" break="no"/>nandi, sub se complecti illa S. habituum genera, 
+      <lb ed="#A" n="4"/>quae ab Aristot, enumerantur sexto Ethicorum. 
+      <lb ed="#A" n="5"/>Late enim hic accipitur habitus sciendi, pro 
+      <lb ed="#A" n="6"/>quavis notitia habituali certa &amp; evidente, sive ea 
+      <lb ed="#A" n="7"/>sit de rebus necessariis, &amp; speculabilibus, sixe 
+      <lb ed="#A" n="8"/>sit de rebus contingentibus, &amp; operabilibus. 
+      Ta<lb ed="#A" n="9" break="no"/>lis autem notitia, non solum cernitur in 
+      dis<lb ed="#A" n="10" break="no"/>ciplinis speculativis, sed etiam in practicis, 
+      <lb ed="#A" n="11"/>Nam illi, qui praediti sunt habitu Prudentiae, seu 
+      <lb ed="#A" n="12"/>Philosophiae moralis, non opinantur, aut 
+      cre<lb ed="#A" n="13" break="no"/>dunt, sed certo &amp; evidenter seiunt, actiones 
+      <lb ed="#A" n="14"/>liberalitatis esse honestas, &amp; actiones 
+      vitio<lb ed="#A" n="15" break="no"/>rum ei oppositorum esse turpes &amp;inhonestes: 
+      <lb ed="#A" n="16"/>llli item qui periti sunt alicuius artis, non 
+      o<lb ed="#A" n="17" break="no"/>pinantur, aut credunt, sed certo sciunt, sua 
+      <lb ed="#A" n="18"/>arte: facta esse hoc vel illo modo efficienda: 
+      <lb ed="#A" n="19"/>eorum enim notitia est experimentalis, &amp; 
+      <lb ed="#A" n="20"/>proinde est certa &amp; evidens: certa autem &amp;  
+      <lb ed="#A" n="21"/>evidens notitia non est opinio aut fides, sed 
+      <lb ed="#A" n="22"/>scientia: ut patet ex iis quae dicta sunt primo 
+      <lb ed="#A" n="23"/>Articulo, 
+    </p>
+            <p xml:id="pqir89-e18475-d1e302">
+               <lb ed="#A" n="24"/>o His positis, ad quaestionen in titulo 
+      <lb ed="#A" n="25"/>propositam respondetur quatuor 
+      Assertioni<lb ed="#A" n="26" break="no"/>bus. Prima est haec, Nullus habituum 
+      Ari<lb ed="#A" n="27" break="no"/>stotelicorum, Theologiae primo modo acceptae 
+      ge<lb ed="#A" n="28" break="no"/>nus esse potest. Primo, quia omnes isti habitus 
+      <lb ed="#A" n="29"/>sunt habitus scaendi, ut iam dictum est: item 
+      <!--281.xml-->
+      <pb ed="#A" n="262"/>
+               <lb ed="#A" n="1"/>omnes isti habitus sunt hominum solertiam 
+      in<lb ed="#A" n="2" break="no"/>venti, &amp; exculti, seu ex principiis natura notis 
+      <lb ed="#A" n="3"/>deducti: Theologia auteim non est habitus 
+      <lb ed="#A" n="4"/>sciendi, sed credendi, ut mox patebit: Item non 
+      <lb ed="#A" n="5"/>est habitus hominum solertia inventus, sed 
+      <lb ed="#A" n="6"/>ξεoσdoτ&amp;: eius enim principium non est 
+      hu<lb ed="#A" n="7" break="no"/>mana ratio, sed dipina revelatio.  
+    </p>
+            <p xml:id="pqir89-e18475-d1e337">
+               <lb ed="#A" n="8"/>9 Secundo: si specialiter percurramus 
+      o<lb ed="#A" n="9" break="no"/>mnes illos habitus, videbimus Theologiam  
+      <lb ed="#A" n="10"/>sub eorienullo contineri. Primo enim 
+      Theo<lb ed="#A" n="11" break="no"/>logia non est ars, quia non est habitus 
+      effecti<lb ed="#A" n="12" break="no"/>vus: non est prudentia, quia ea est virtus 
+      dire<lb ed="#A" n="13" break="no"/>ctipa actionum cixilium: est enim 8ξiς τεατlαῳ 
+      <lb ed="#A" n="14"/>εξει τα ωνξφωτινα απαα, Lib. 6. Ethicorum, 
+      <lb ed="#A" n="15"/>cap. S. at Theologia est virtus directiva 
+      actio<lb ed="#A" n="16" break="no"/>num spiritualium. Non est intellectus, quia 
+      <lb ed="#A" n="17"/>non versatur circa principia natura nota, &amp; 
+      sua<lb ed="#A" n="18" break="no"/>luce clura. Non est scientia, tum quia non est 
+      <lb ed="#A" n="19"/>habitus demonstratipus, tum quia in cognitione 
+      <lb ed="#A" n="20"/>non acquiescit, sed eam ad operationem 
+      ordi<lb ed="#A" n="21" break="no"/>nat &amp; dirigit. Non est denique sapientia, quia 
+      <lb ed="#A" n="22"/>sapientia est scientia quaedam : est enim iαs &amp; 
+      <lb ed="#A" n="23"/>Eποιςιuν: at Theologia, ut dictum est, non 
+      <lb ed="#A" n="24"/>est scientia. 
+    </p>
+            <p xml:id="pqir89-e18475-d1e376">
+               <lb ed="#A" n="25"/>S Secunda assertio est haec: Theologia 
+      pri<lb ed="#A" n="26" break="no"/>mo modo accepta, hoc est, accepta prohabitu, quo 
+      <lb ed="#A" n="27"/>assentimur toti Scripturae propter Dei 
+      authorita<lb ed="#A" n="28" break="no"/>tem, nihil aliud est, nisi fides dixina. Probatur 
+      <lb ed="#A" n="29"/>haec assertio: primo, quia sides est habitus as¬ 
+      <!--282.xml-->
+      <pb ed="#A" n="263"/>
+               <lb ed="#A" n="1"/>sentiendi propter Dei aut horitatem, at Theologia 
+      <lb ed="#A" n="2"/>primo modo accepta, est. talis habitus: Ergo est 
+      <lb ed="#A" n="3"/>fides. Secundo, Theologus qua Theologus non 
+      <lb ed="#A" n="4"/>opinatur, quia eius notitia est certa, opinio 
+      <lb ed="#A" n="5"/>vero est incertas, non scit proprie, quia scientia 
+      <lb ed="#A" n="6"/>est evidens notitia, viatorum autem notitia 
+      <lb ed="#A" n="7"/>Theologica non est evidens, sed 
+      aenigmati<lb ed="#A" n="8" break="no"/>ca: Ergo Theologus, qua talis, credit, &amp; per 
+      con<lb ed="#A" n="9" break="no"/>sequens Theologia est fides. 
+    </p>
+            <p xml:id="pqir89-e18475-d1e413">
+               <lb ed="#A" n="10"/>o Tertia assertio: Quamvis fides historica 
+      <lb ed="#A" n="11"/>improborum, qua Scripturae assentiuntur, 
+      ali<lb ed="#A" n="12" break="no"/>quo modo dici possit Theologia, quia videlices 
+      <lb ed="#A" n="13"/>est notitia Dei, &amp; rerum dixinarum: sola 
+      <lb ed="#A" n="14"/>tamen salvifica fides electorum: qua &amp; 
+      assen<lb ed="#A" n="15" break="no"/>tiuntur sucrae Scripturae, &amp; assentiendo sibi 
+      ap<lb ed="#A" n="16" break="no"/>plicant promissiones Euangelicas, Theologiae 
+      <lb ed="#A" n="17"/>nomen meretur. Ratio huius assertionis est, 
+      <lb ed="#A" n="18"/>quia vera Theologia non est habitus 
+      specus<lb ed="#A" n="19" break="no"/>lativus, sed practicus, ut postea 
+      probabi<lb ed="#A" n="20" break="no"/>tur: impiorum autem Theologia, inefficax 
+      <lb ed="#A" n="21"/>est, &amp; otiosa, non vero actina. Quaeret 
+      ali<lb ed="#A" n="22" break="no"/>quis: In quo posita sit illa το 8iς, quae est 
+      <lb ed="#A" n="23"/>Theologiae finis. Respond. eam esse positam.  
+      <lb ed="#A" n="24"/>in gratitudine nostra erga Deum pro 
+      singu<lb ed="#A" n="25" break="no"/>lari illo redemptionis nostrae beneficio, hoc 
+      <lb ed="#A" n="26"/>est, in agnitione, praedicatione, &amp; celebeatione 
+      <lb ed="#A" n="27"/>clementiae Dei, qui sic dilexit niundum, ut 
+      fi<lb ed="#A" n="28" break="no"/>lium suum unigenitum, &amp;c. Item, in 
+      celebra<lb ed="#A" n="29" break="no"/>tione sapientiae, qustitiae, &amp; omnipotentiae divinae. 
+      <!--283.xml-->
+      <pb ed="#A" n="264"/>
+               <lb ed="#A" n="1"/>Haec autem nemo praestare potest, nisi in 
+      <lb ed="#A" n="2"/>corde suo habeat, illam applicativam 
+      persua<lb ed="#A" n="3" break="no"/>sionem &amp; fiduciam de remissione 
+      peccato<lb ed="#A" n="4" break="no"/>rum, de qua supra locuti sumus: unde 
+      ma<lb ed="#A" n="5" break="no"/>nifeste patet, veram &amp; salutarem Theologiam  
+      <lb ed="#A" n="6"/>tecte dici fidem salpificam.  
+    </p>
+            <p xml:id="pqir89-e18475-d1e476">
+               <lb ed="#A" n="7"/>Io Quarta assertio: Errat Balthasar 
+      <lb ed="#A" n="8"/>Meisnerus, qui dicit genus proximum Theologiae 
+      <lb ed="#A" n="9"/>esse habitum Gedodoτoν: est enim eius genus 
+      <lb ed="#A" n="10"/>remotum solummodo. Probatur haec 
+      asser<lb ed="#A" n="11" break="no"/>tio manifeste: quia, utiam declaratum est,  
+      <lb ed="#A" n="12"/>pera Theologia in prima significatione, revera 
+      <lb ed="#A" n="13"/>est habitus fidei salvificae: genus autem 
+      pro<lb ed="#A" n="14" break="no"/>ximum fidei saluificae est fides divina in 
+      oe<lb ed="#A" n="15" break="no"/>nere, prout complectitur sub se fidem 
+      histo<lb ed="#A" n="16" break="no"/>ricam temporariam, miraculosam, &amp; 
+      <lb ed="#A" n="17"/>salvificam: genus vero eius remotum est 
+      <lb ed="#A" n="18"/>habitus ξεoσdoτ&amp;, hoc est, a Deo 
+      infu<lb ed="#A" n="19" break="no"/>sus, qui sub se continet Fidem Spem, &amp; 
+      <lb ed="#A" n="20"/>Charitatem:  
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

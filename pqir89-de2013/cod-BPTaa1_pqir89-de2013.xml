@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 7</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 7</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="29-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-de2013"><!-- p1a7 -->
+            <head xml:id="pqir89-de2013-Hd1e106">Articulus 7</head>
+            <head xml:id="pqir89-de2013-Hd1e109" type="question-title">'
+      Quae sit causa cur compositionem ex 
+      essentia et existentia, item ex essentia et 
+      subsistentia, creatis substantiis, non 
+      autem Deo tribuant Philosophi.
+    </head>
+            <p xml:id="pqir89-de2013-d1e112">
+               <lb ed="#A" n="5"/>ART. VII 
+      <lb ed="#A" n="6"/>Quae sit causa cur compositionem ex 
+      essen<lb ed="#A" n="7" break="no"/>tia &amp; existentia, item ex essentia &amp; 
+      <lb ed="#A" n="8"/>subsistentia, creatis substantiis, non 
+      au<lb ed="#A" n="9" break="no"/>tem Deo tribuant Philosophi. 
+    </p>
+            <p xml:id="pqir89-de2013-d1e125">
+               <lb ed="#A" n="10"/>QVbstantiae creatae singulares tribus mo¬ 
+      <lb ed="#A" n="11" break="no"/>dis possunt considerari, ut supra dictum 
+      <lb ed="#A" n="12"/>est. Primo, quatenus habent talem essentiam.  
+      <lb ed="#A" n="13"/>Secundo, quatenus sunt entia actu existentia 
+      <lb ed="#A" n="14"/>in mundo. Tertio, quatenus habent talem  
+      <lb ed="#A" n="15"/>existendi modum, seu quatenus sunt 
+      supposi<lb ed="#A" n="16" break="no"/>ta. Si primo modo considerentur, habent 
+      <lb ed="#A" n="17"/>compositionem ex suae essentiae 
+      partibusphy<lb ed="#A" n="18" break="no"/>sicis, &amp; esusdem gradibus Metaphysicis: eg. 
+      <lb ed="#A" n="19"/>si Socrates consideretur quatenus est homo, 
+      <lb ed="#A" n="20"/>Physice constituitur ex materia &amp; forma sua: 
+      <lb ed="#A" n="21"/>item Metaphysice, aut Logice, ex genere &amp; 
+      <lb ed="#A" n="22"/>differentia, h. e, ex animali &amp; rationali. Si 
+      <lb ed="#A" n="23"/>singulares substantiae secundo modo 
+      consi<lb ed="#A" n="24" break="no"/>derentur, duo includunt, videlicet essentiam  
+      <lb ed="#A" n="25"/>&amp; existentiam: hae autem, saltem secundum 
+      <lb ed="#A" n="26"/>nostrum concipiendi modum, se habent ut 
+      <lb ed="#A" n="27"/>potentia &amp; actus, ut supra explicavi: ideo¬ 
+      <!--46.xml-->
+      <pb ed="#A" n="29"/>
+               <lb ed="#A" n="1"/>que cum ex potentia &amp; actu semper fiat 
+      <lb ed="#A" n="2"/>compositum aliquod unum per se, merito 
+      <lb ed="#A" n="3"/>dicimus, singulares substantias sic 
+      considera<lb ed="#A" n="4" break="no"/>tas, esse compositas ex essentia &amp; existentias 
+      <lb ed="#A" n="5"/>h. e. ex natura &amp; existendi actu. Sic Petrus 
+      <lb ed="#A" n="6"/>quatenus est homo actu existens in mundo, 
+      <lb ed="#A" n="7"/>haec duo includit, naturam humanam, &amp;  
+      <lb ed="#A" n="8"/>existendi actum, includit (inquam  
+      tan<lb ed="#A" n="9" break="no"/>quam duo principia ex quibus 
+      constitui<lb ed="#A" n="10" break="no"/>tur. 
+    </p>
+            <p xml:id="pqir89-de2013-d1e193">
+               <lb ed="#A" n="11"/>2 Si sinoulares substantiae creatae tertio 
+      <lb ed="#A" n="12"/>modo considerentur, i. e. si considerentur 
+      <lb ed="#A" n="13"/>quatenus sunt supposita, non solum habentia 
+      <lb ed="#A" n="14"/>essentiam actu existentem in mundo, sed 
+      et<lb ed="#A" n="15" break="no"/>iam talem modum existendi, nimirum per se 
+      <lb ed="#A" n="16"/>&amp; non in alio, si (inquam) sic 
+      consideren<lb ed="#A" n="17" break="no"/>tur, duo includunt, videlicet essentiam actu 
+      <lb ed="#A" n="18"/>existentem, &amp; subsistentiam, seu modum per 
+      <lb ed="#A" n="19"/>se existendi, illi essentiae existenti 
+      superaddi<lb ed="#A" n="20" break="no"/>tum: essentia autem seu natura singularis sub. 
+      <lb ed="#A" n="21"/>stantiae creatae, est potentia respectu 
+      subsi<lb ed="#A" n="22" break="no"/>stentiae, &amp; subsistentia est eius actus ei 
+      super<lb ed="#A" n="23" break="no"/>additus, eamque perficiens, ideoque ex 
+      es<lb ed="#A" n="24" break="no"/>sentia seu natura actu existente, &amp; 
+      subsisten<lb ed="#A" n="25" break="no"/>tia ei superaddita, merito dicimus fieri 
+      ali<lb ed="#A" n="26" break="no"/>quod unum per ses videlicet ipsum 
+      suppo<lb ed="#A" n="27" break="no"/>litum. Sic Petrus, quatenus est talis 
+      per<lb ed="#A" n="28" break="no"/>sona, includit singularem essentiam, per 
+      <lb ed="#A" n="29"/>quam est singulare Ens, &amp; singularem sub. 
+      <lb ed="#A" n="30"/>sistentiam, per quam est persona singulaiis. 
+      <!--47.xml-->
+      <pb ed="#A" n="30"/>
+               <lb ed="#A" n="1"/>S Quaeret aliquis, quae sit causa, cur istae 
+      <lb ed="#A" n="2"/>tres compositiones Deo non attribuantur: 
+      <lb ed="#A" n="3"/>cum essentia, existentia, &amp; subsistentia, seu 
+      <lb ed="#A" n="4"/>personalitas, in omnibus personis Trinitatis 
+      <lb ed="#A" n="5"/>in veniantur, non minus quam in personis 
+      hu<lb ed="#A" n="6" break="no"/>manis &amp; Angelicis: quaelibet enim persona 
+      <lb ed="#A" n="7"/>Trinitatis suam habet essentiam, &amp; 
+      existen<lb ed="#A" n="8" break="no"/>tiam, sibi cum reliquis personis Trinitatis 
+      <lb ed="#A" n="9"/>communem, habet etiam suam propriam sub. 
+      <lb ed="#A" n="10"/>sistentiam, aut personalitatem, per quam 
+      a<lb ed="#A" n="11" break="no"/>reliquis personis differt. Respondetur, earum  
+      <lb ed="#A" n="12"/>compositionem nullam posse Deo attribui, 
+      <lb ed="#A" n="13"/>salva eius simplicitate, salvam item infinita 
+      per<lb ed="#A" n="14" break="no"/>fectione, &amp; dignitate gloriosissimae illius 
+      na<lb ed="#A" n="15" break="no"/>turae. Hoc autem manifestum exadet, si istas 
+      <lb ed="#A" n="16"/>compositiones sigillatim, &amp; seorsim 
+      consi<lb ed="#A" n="17" break="no"/>deremus &amp; perpendamus. 
+    </p>
+            <p xml:id="pqir89-de2013-d1e281">
+               <lb ed="#A" n="18"/>A Primo igitur compositio essentialis,  
+      <lb ed="#A" n="19"/>tum Physica, tum Metaphysica, a Deo 
+      remo<lb ed="#A" n="20" break="no"/>venda est: illa quidem, quia spiritualem 
+      na<lb ed="#A" n="21" break="no"/>turam evertit, haec vero, quia Deus sub 
+      nul<lb ed="#A" n="22" break="no"/>lo genere univoco continetur, ut postea 
+      pro<lb ed="#A" n="23" break="no"/>babitur (Deo favente) in quaestionibus de 
+      <lb ed="#A" n="24"/>Deo. Secundo, compositio ex essentia &amp; 
+      <lb ed="#A" n="25"/>existentia, a Deo removetur, ob duas 
+      ratio<lb ed="#A" n="26" break="no"/>nes. Primo, quia ad omnem compositionem, 
+      <lb ed="#A" n="27"/>sive sit realis, sive rationis, requiritur ut 
+      u<lb ed="#A" n="28" break="no"/>num superaddatur alteri, propter 
+      constitutio<lb ed="#A" n="29" break="no"/>nem alicuius tertii: at existentia, neque 
+      re<lb ed="#A" n="30" break="no"/>vera, neque secundum nostrum concipiendi 
+      <!--48.xml-->
+      <pb ed="#A" n="31"/>
+               <lb ed="#A" n="1"/>modum, est aliquid superadditum essentiae 
+      <lb ed="#A" n="2"/>DEI, sed potius est aliquid in ipsa DEl 
+      essen<lb ed="#A" n="3" break="no"/>tia inclusum, ut declaraVr Art. I. Ergo 
+      exi<lb ed="#A" n="4" break="no"/>stentia DEI non potest cum eius essentia. 
+      <lb ed="#A" n="5"/>concurrere ad constituendum aliquod 
+      ter<lb ed="#A" n="6" break="no"/>tium. Secundo, compositio ex essentia &amp; 
+      <lb ed="#A" n="7"/>existentia, tribuitur substantiis creatis, quia 
+      <lb ed="#A" n="8"/>earum esse ita se habet ut potentia, &amp; 
+      <lb ed="#A" n="9"/>existentia actus illi superadditus: at essentia 
+      <lb ed="#A" n="10"/>DEI non potest appellari potentia, respectu 
+      <lb ed="#A" n="11"/>existentiae divinae, quia in se includit 
+      existen<lb ed="#A" n="12" break="no"/>tiam, ut dictum est loco iam ciato: nulla 
+      au<lb ed="#A" n="13" break="no"/>tem potentia in se includit actum suum, sed 
+      <lb ed="#A" n="14"/>ad actum tanquam ad aliquid ulterius &amp; 
+      ex<lb ed="#A" n="15" break="no"/>ternum dirigitur. 
+    </p>
+            <p xml:id="pqir89-de2013-d1e349">
+               <lb ed="#A" n="16"/>S. De tertia compositione, quae est 
+      sup<lb ed="#A" n="17" break="no"/>positorum ex natura singulari &amp; substantia, 
+      <lb ed="#A" n="18"/>maior est dubitatio: ea enim uidetur Deo 
+      <lb ed="#A" n="19"/>tribuenda, quia quaelibet persona Trinitatis,  
+      <lb ed="#A" n="20"/>haec duo includit: essentiam divinam, quas 
+      <lb ed="#A" n="21"/>communis est omnibus personis, &amp; 
+      particu<lb ed="#A" n="22" break="no"/>larem suam personalitatem, per quam a 
+      re<lb ed="#A" n="23" break="no"/>liquis duabus personis distinguitur: Ergo ex 
+      <lb ed="#A" n="24"/>his duabus composita est. Si respondeas, 
+      per<lb ed="#A" n="25" break="no"/>sonam aliquam ideo non esse compositam ex 
+      <lb ed="#A" n="26"/>natura &amp; subsistentia, quia subsistentia est 
+      <lb ed="#A" n="27"/>aliquid in ipsa Dei essentia inclusum, sicuti 
+      <lb ed="#A" n="28"/>iam dictum est de existentia, facile 
+      confuta<lb ed="#A" n="29" break="no"/>beris. Si enim subsistentia aut personalitas 
+      <lb ed="#A" n="30"/>Patris esset de essentia etus, esset toti Trini¬ 
+      <!--49.xml-->
+      <pb ed="#A" n="32"/>
+               <lb ed="#A" n="1"/>tati communis, sicut &amp; ipsa eius essentia est. 
+      <lb ed="#A" n="2"/>At hoc est absurdum: Ergo &amp; illud. De hac 
+      <lb ed="#A" n="3"/>controversia meam mentem aliquot 
+      assertio<lb ed="#A" n="4" break="no"/>nibus proponam: 
+    </p>
+            <p xml:id="pqir89-de2013-d1e397">
+               <lb ed="#A" n="5"/>o. Assert. I. Subsistentia, aut personalitas 
+      <lb ed="#A" n="6"/>Patris (idem de Filii, &amp; Sp. Sancti hypostasi 
+      <lb ed="#A" n="7"/>dicatur) non differt ab eius essentia ullo 
+      gene<lb ed="#A" n="8" break="no"/>re realis di versitatis, neque tanquam res a re, 
+      ne<lb ed="#A" n="9" break="no"/>que tanquam modus rei are, sed ab ea differt 
+      so<lb ed="#A" n="10" break="no"/>la distinctione rationis. Probatur haec assert. 
+      <lb ed="#A" n="11"/>sic. Primo, quicquid est in Deo, est Deus, 
+      Er<lb ed="#A" n="12" break="no"/>go nihil est in Deo, quod revera, &amp; a parte 
+      <lb ed="#A" n="13"/>rei (ut loquuntur) ab eius Deitate differt. 
+      Se<lb ed="#A" n="14" break="no"/>cundo, si persona Patris realiter componatur 
+      <lb ed="#A" n="15"/>ex eius essentia, &amp; subsistentia seu 
+      personali<lb ed="#A" n="16" break="no"/>tate, duo sequentur absurda: primo, Deum 
+      <lb ed="#A" n="17"/>Patrem non esse absolute lopuendo &amp; 
+      sum<lb ed="#A" n="18" break="no"/>me simplicem: summa enim simplicitas 
+      o<lb ed="#A" n="19" break="no"/>mnem compositionem tollit, imprimis 
+      au<lb ed="#A" n="20" break="no"/>tem realem: secundo, Deitatem esse 
+      alicu<lb ed="#A" n="21" break="no"/>ius rei partem, omnis autem pars est 
+      incom<lb ed="#A" n="22" break="no"/>pletum aliquid, &amp; minus perfectum quam  
+      <lb ed="#A" n="23"/>totum illud cuius est, pars. 
+    </p>
+            <p xml:id="pqir89-de2013-d1e441">
+               <lb ed="#A" n="24"/>v. Assert. 2. Deus non componitur ex 
+      na<lb ed="#A" n="25" break="no"/>tura &amp; subsistentia, tali compositione, qualis 
+      cer<lb ed="#A" n="26" break="no"/>nitur in creatis substantiis. Haec assert. 
+      ma<lb ed="#A" n="27" break="no"/>nifeste sequitur, &amp; infertur ex praecedente: si 
+      <lb ed="#A" n="28"/>enim Deus non componitur realiter ex 
+      na<lb ed="#A" n="29" break="no"/>tura &amp; subsistentia, non habet talem 
+      com<lb ed="#A" n="30" break="no"/>positionem ex natura &amp; subsistentia, qualem  
+      <!--50.xml-->
+      <pb ed="#A" n="33"/>
+               <lb ed="#A" n="1"/>habent substantiae creatae, nam hae 
+      compo<lb ed="#A" n="2" break="no"/>nuntur ex natura &amp; subsistentia, tanquam ex 
+      <lb ed="#A" n="3"/>duobus principiis re ipsa distinctis, &amp; ideo 
+      <lb ed="#A" n="4"/>earum compositio realis est. 
+    </p>
+            <p xml:id="pqir89-de2013-d1e472">
+               <lb ed="#A" n="5"/>g. Assert. 2. Quamvis subsistentia Patris 
+      <lb ed="#A" n="6"/>de eus essentia non sit, sed secundum nostrum 
+      <lb ed="#A" n="7"/>conciptendi modum, sit aliquid esus essentiae 
+      su<lb ed="#A" n="8" break="no"/>peradditum, non tamen licet dicere, Patris 
+      <lb ed="#A" n="9"/>personam esse ex iis duabus compositam 
+      compo<lb ed="#A" n="10" break="no"/>sitione rationis, imo non concipere debemus ista 
+      <lb ed="#A" n="11"/>duo in Patre, tanquam duas partes eum 
+      compo<lb ed="#A" n="12" break="no"/>nentes: cum enim concipimus Deitatem 
+      tan<lb ed="#A" n="13" break="no"/>quam alicuius rei partem, formamus de 
+      <lb ed="#A" n="14"/>Deo enormem conceptum, &amp; 
+      imperfectio<lb ed="#A" n="15" break="no"/>nem non exiguam Deo affingimus. Quare 
+      <lb ed="#A" n="16"/>laudanda, &amp; imitanda videtur eorum 
+      mode<lb ed="#A" n="17" break="no"/>stia, qui pie sentiunt &amp; profitentur, 
+      essen<lb ed="#A" n="18" break="no"/>tiam &amp; personalitatem includi in persona 
+      <lb ed="#A" n="19"/>Patris, Filii, &amp; Sp. sancti, non per modum 
+      <lb ed="#A" n="20"/>compositionis, sed per modum ineffabilis 
+      <lb ed="#A" n="21"/>coniunctionis aut unionis.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

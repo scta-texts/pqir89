@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 12</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 12</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="117-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-de8305"><!-- p2a12 -->
+            <head xml:id="pqir89-de8305-Hd1e106">Articulus 12</head>
+            <head xml:id="pqir89-de8305-Hd1e109" type="question-title">
+        ostenditur, eos qui animarum creationem 
+        impugnant, multum inter se dissentire: 
+        et confutantur tres primae eorum 
+        sontentiae de origine animae. 
+      </head>
+            <p xml:id="pqir89-de8305-d1e112">
+               <lb ed="#A" n="12"/>ART. XII 
+      <lb ed="#A" n="13"/>ostenditur, eos qui animarum creationem 
+      <lb ed="#A" n="14"/>impugnant, multum inter se dissentire: 
+      <lb ed="#A" n="15"/>&amp; confutantur tres primae eorum 
+      son<lb ed="#A" n="16" break="no"/>tentiae de origine animae. 
+    </p>
+            <p xml:id="pqir89-de8305-d1e125">
+               <lb ed="#A" n="17"/> Tatueram apud me, in hac 
+      Exercitatio<lb ed="#A" n="18" break="no"/>S Qne contra eos solummodo disputare, 
+      <lb ed="#A" n="19"/>qui putant animas humanas ex materiae 
+      po<lb ed="#A" n="20" break="no"/>tentia educi. Verum quia videbam, multos,  
+      <lb ed="#A" n="21"/>eosque doctissimos viros, animarum 
+      tradu<lb ed="#A" n="22" break="no"/>ctionem tueri, &amp; nihilominus serio damnare 
+      <lb ed="#A" n="23"/>&amp; relicere dogma illud de eductione animae 
+      <lb ed="#A" n="24"/>rationalis ex potentia materiae, ideo operae 
+      <lb ed="#A" n="25"/>pretium me facturum sentiebam, si 
+      propone<lb ed="#A" n="26" break="no"/>iem, &amp; sigillatim confutarem. omnes senten¬ 
+      <!--136.xml-->
+      <pb ed="#A" n="117"/>
+               <lb ed="#A" n="1"/>tias, quas memini me legisse aut audivisse de 
+      <lb ed="#A" n="2"/>traductione animarum: 
+    </p>
+            <p xml:id="pqir89-de8305-d1e158">
+               <lb ed="#A" n="3"/>ae Prima sententia est Iacobi Martini, qui 
+      <lb ed="#A" n="4"/>in lib. 2. Miscellanearum quaestionum, disput. 
+      I<lb ed="#A" n="5" break="no"/>dicit animam filii esse ab anima patris per 
+      tra<lb ed="#A" n="6" break="no"/>ducem, modo tamen imperserutabili &amp; 
+      no<lb ed="#A" n="7" break="no"/>bis incognito. Hic modus recedendi a 
+      com<lb ed="#A" n="8" break="no"/>muni sententia facilis est, sed inhonestus, &amp; 
+      <lb ed="#A" n="9"/>si quid iudico, tanti viri acumine indignus: 
+      <lb ed="#A" n="10"/>verum ne illi, qui his latebris se occultant, 
+      se<lb ed="#A" n="11" break="no"/>curem delitescant, contra eos utar unico 
+      argu<lb ed="#A" n="12" break="no"/>imento, sed nisi me animus fallit, valido &amp; 
+      <lb ed="#A" n="13"/>perspicuo: illud autem sic proponi potest, 
+      Pa<lb ed="#A" n="14" break="no"/>ter neque producit animam filit ex aliqua re 
+      prae<lb ed="#A" n="15" break="no"/>existente, neque producit eam ex nullam re 
+      praeexi<lb ed="#A" n="16" break="no"/>stente: hoc enim est creare: Ergo nullo modo eam  
+      <lb ed="#A" n="17"/>producit. Consequentia huius argumenti a 
+      <lb ed="#A" n="18"/>nullo negari potest, quia nititur communi 
+      il<lb ed="#A" n="19" break="no"/>lo principio, De qualibet re verum est affirmare 
+      <lb ed="#A" n="20"/>vel negare. Antecedens probatur hac ratione. 
+      <lb ed="#A" n="21"/>Pater neque producit animam filii ex materia 
+      <lb ed="#A" n="22"/>corporea seminis, neque ex spirituali substantia 
+      <lb ed="#A" n="23"/>animae suae, ut mox probabitur: Ergo non 
+      pro<lb ed="#A" n="24" break="no"/>ducit eam ex aliqua re praeexistente: item non 
+      <lb ed="#A" n="25"/>creat eam, quia creare est solius Dei proprium, 
+      <lb ed="#A" n="26"/>&amp; proinde non producit eam ex nulla re 
+      prae<lb ed="#A" n="27" break="no"/>existente. 
+    </p>
+            <p xml:id="pqir89-de8305-d1e216">
+               <lb ed="#A" n="28"/>S Secunda sententia est eorum qui 
+      di<lb ed="#A" n="29" break="no"/>cunt animam educi ex potentia seminis, id 
+      <lb ed="#A" n="30"/>est, volunt, animam primo, cum semen emit¬ 
+      <!--137.xml-->
+      <pb ed="#A" n="118"/>
+               <lb ed="#A" n="1"/>titur, non actu esse in semine, sed potentia 
+      dun<lb ed="#A" n="2" break="no"/>taxat, quando vero semen nonnihil 
+      elabora<lb ed="#A" n="3" break="no"/>tum est, &amp; membra corporis quodam modo 
+      <lb ed="#A" n="4"/>sunt delineata, tum deum per δυναμιν τλα ςι¬ 
+      <lb ed="#A" n="5"/>ul in semine haerentem, animam e potentia 
+      se<lb ed="#A" n="6" break="no"/>minis educiae excitari, &amp; accendi, ita ut actu 
+      <lb ed="#A" n="7"/>nunc vivere &amp; corpus suum informare incipiat. 
+    </p>
+            <p xml:id="pqir89-de8305-d1e245">
+               <lb ed="#A" n="8"/>A Haec sententia a me supra confutata est, &amp;  
+      <lb ed="#A" n="9"/>a Balthasare Meisnero, qui traductionem 
+      anima<lb ed="#A" n="10" break="no"/>rum acerrime propugnat, non immerito 
+      relici<lb ed="#A" n="11" break="no"/>tur, sect. 2. Philosophiae suae, c. 6 quaest. I. 
+      Argumen<lb ed="#A" n="12" break="no"/>ta eius haec sunt. I. Accidens, videlicet 
+      poten<lb ed="#A" n="13" break="no"/>tia τλασικῳ, non potest producere tam 
+      nobi<lb ed="#A" n="14" break="no"/>lem &amp; excellentem substantiam. 2. Aμνακις 
+      <lb ed="#A" n="15"/>ωλασιαῳ est animae facultas: Ergo non est in 
+      <lb ed="#A" n="16"/>semine ante adventum animae. 2. Formarum 
+      <lb ed="#A" n="17"/>materialium proprium est educi e potentia 
+      <lb ed="#A" n="18"/>materiae, anima autem est forma spiritualis. 
+      <lb ed="#A" n="19"/>Vide caetera apud ipsu Meisnerum, loco citato. 
+    </p>
+            <p xml:id="pqir89-de8305-d1e274">
+               <lb ed="#A" n="20"/>s Tertia sententia est eorum, qui asserunt 
+      <lb ed="#A" n="21"/>parentem simul cum semine emittere suae 
+      a<lb ed="#A" n="22" break="no"/>nimae particulam, &amp; proinde semen primo 
+      <lb ed="#A" n="23"/>cum emittitur esse actu animatum.  hi igitur 
+      <lb ed="#A" n="24"/>volunt anima filii esse ab anima patris, pereius 
+      <lb ed="#A" n="25"/>divisionem &amp; quasi imminutionem. Hunc 
+      mo<lb ed="#A" n="26" break="no"/>dum tuendi animarum traducem, non satis 
+      <lb ed="#A" n="27"/>tutum iudicatMeisnerus, &amp; merito, quia ex eo 
+      <lb ed="#A" n="28"/>sequitur animam divisibilem, &amp; proinde 
+      ma<lb ed="#A" n="29" break="no"/>terialem &amp; corruptibilem esse, quia item inde 
+      <lb ed="#A" n="30"/>sequitur, formam posse migrare de una mate¬ 
+      <!--138.xml-->
+      <pb ed="#A" n="119"/>
+               <lb ed="#A" n="1"/>ria in aliam, imo de uno supposito in 
+      aliud<lb ed="#A" n="2" break="no"/>nam, secundum hanc sententiam, verum est,  
+      <lb ed="#A" n="3"/>dicere, totam animam filii fuisse quondam in 
+      <lb ed="#A" n="4"/>corpore patris, &amp; corpus eius informasse. 
+    </p>
+            <p xml:id="pqir89-de8305-d1e313">
+               <lb ed="#A" n="5"/>o Vnde Serenissimus noster Princeps 
+      sa<lb ed="#A" n="6" break="no"/>cobus Britanniae Rex, docte admodum &amp; acutem 
+      <lb ed="#A" n="7"/>colligebat. dum hic Andreapoli esset, animam  
+      <lb ed="#A" n="8"/>filii esse ream omnium peccatorum quae a patre 
+      <lb ed="#A" n="9"/>commissa sunt ante eius emiisionem&amp; 
+      trans<lb ed="#A" n="10" break="no"/>fusionem: nam anima filiij ante transfusionem 
+      <lb ed="#A" n="11"/>fuit in patre, &amp; in eo peccavit, anima aute quae 
+      <lb ed="#A" n="12"/>peccapit, ipsa morietur. EX. I8. 4. &amp; ler. 32. So¬ 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

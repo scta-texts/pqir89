@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 28</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 28</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="274-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-e19532"><!-- p3a28 -->
+            <head xml:id="pqir89-e19532-Hd1e106">Articulus 28</head>
+            <head xml:id="pqir89-e19532-Hd1e109" type="question-title">
+        vtrum Theologia sit disciplina 
+        speculativa, an practica,
+      </head>
+            <p xml:id="pqir89-e19532-d1e112">
+               <lb ed="#A" n="12"/>ART. XXVIII 
+      <lb ed="#A" n="13"/>vtrum Theologia sit disciplina 
+        speculati<lb ed="#A" n="14" break="no"/>va, an practica, 
+    </p>
+            <p xml:id="pqir89-e19532-d1e121">
+               <lb ed="#A" n="15"/>TN hac controversia variae sunt 
+      Philoso<lb ed="#A" n="16" break="no"/>lphorum sententiae. Primo enim, 
+      qui<lb ed="#A" n="17" break="no"/>dam dicunt, Theologiam, nec Practitum, nec 
+      <lb ed="#A" n="18"/>contemplativam esse, sed altiorem practicis 
+      <lb ed="#A" n="19"/>&amp; contemplativis disciplinis, &amp; proinde eam  
+      <lb ed="#A" n="20"/>affectivam vocant: quia eius finis est Dei 
+      <lb ed="#A" n="21"/>adoratio, proveniens ex affectu Charitatis.  
+      <lb ed="#A" n="22"/>alij dicunt, eam simpliciter esse 
+      contemplati<lb ed="#A" n="23" break="no"/>vam &amp; practicam, sed magis 
+      contemplati<lb ed="#A" n="24" break="no"/>vam. alij putant, eam &amp; contemplatiuum, 
+      <lb ed="#A" n="25"/>&amp; practicam esse, sed magis practicam ¬ 
+      <lb ed="#A" n="26"/>alij deique dicunt, eam simpliciter esse 
+      <!--293.xml-->
+      <pb ed="#A" n="274"/>
+               <lb ed="#A" n="1"/>practicam, &amp; non contemplatinam.  
+    </p>
+            <p xml:id="pqir89-e19532-d1e156">
+               <lb ed="#A" n="2"/>2 Vt intelligatur &amp; confirmetur haec 
+      <lb ed="#A" n="3"/>postrema sententia, quae omnibus reliquis 
+      <lb ed="#A" n="4"/>praeferenda est, notandum est primo, eam 
+      vo<lb ed="#A" n="5" break="no"/>titiam dici theoreticam quae in se ipsa acquiescit, 
+      <lb ed="#A" n="6"/>&amp; ad operationem non dirigitur, tanquam ad 
+      <lb ed="#A" n="7"/>ultertorem finem: eam vero dici practicam, quae 
+      <lb ed="#A" n="8"/>ad operationem tanquam ad finem refertur. 
+      Se<lb ed="#A" n="9" break="no"/>cundo notandum est, notitiam aliquam 
+      duo<lb ed="#A" n="10" break="no"/>bus modis ad operationem tanquam ad finem 
+      di<lb ed="#A" n="11" break="no"/>rigi posse: videlicet, vel absolute &amp; per se, 
+      <lb ed="#A" n="12"/>vel secundum quid &amp; per accidens. Ila 
+      no<lb ed="#A" n="13" break="no"/>titia per se ad praxin dirigitur, quae, secundum 
+      <lb ed="#A" n="14"/>naturam illius disciplinae, ad quam pertinet, 
+      <lb ed="#A" n="15"/>nd operationem refertur: sic notitia rerum 
+      <lb ed="#A" n="16"/>Ethicarum est practica, quia natura. 
+      E<lb ed="#A" n="17" break="no"/>thicae postulat, ut omnia quae in ea 
+      tra<lb ed="#A" n="18" break="no"/>ctantur, ad operationem &amp; usum 
+      referan<lb ed="#A" n="19" break="no"/>tur. Illa vero notitia per accidens ad 
+      ope<lb ed="#A" n="20" break="no"/>rationem refertur, quae non ost practica, 
+      se<lb ed="#A" n="21" break="no"/>cundum naturam illius disciplinae ad quam 
+      per<lb ed="#A" n="22" break="no"/>tinet, sed ratione finis quem sibi proponit is 
+      <lb ed="#A" n="23"/>qui ea notitia est praeditus: Sic notitia rerum 
+      <lb ed="#A" n="24"/>Physicarum seu naturalium est practica per 
+      <lb ed="#A" n="25"/>accidens, quando is qui ea notitia praeditus 
+      <lb ed="#A" n="26"/>est, eam ad operationem aut usum dirigit &amp;  
+      <lb ed="#A" n="27"/>ordinat. 
+    </p>
+            <p xml:id="pqir89-e19532-d1e216">
+               <lb ed="#A" n="28"/>S2 Tertio notandum est, eam notitiam, quae 
+      <lb ed="#A" n="29"/>per se &amp; absolute est practica, tribus modis ad 
+      <!--294.xml-->
+      <pb ed="#A" n="275"/>
+               <lb ed="#A" n="1"/>praxin dinigi &amp; ordinari. Primo, ea notitia 
+      <lb ed="#A" n="2"/>per se ad praxin dirigitur, quae est regulatinae 
+      <lb ed="#A" n="3"/>&amp; directiva alicuius operationis: Exempli 
+      <lb ed="#A" n="4"/>gratia, notitia qua sciunt Architecti 
+      quomo<lb ed="#A" n="5" break="no"/>do ponendum sit fundamentum domus, 
+      <lb ed="#A" n="6"/>quomodo erigendi sint parietes, &amp;c. est 
+      pra<lb ed="#A" n="7" break="no"/>ctica, quia est regulativa &amp; directiva 
+      aedifi<lb ed="#A" n="8" break="no"/>cationis. Secundo, ea notitia per se ad praxin 
+      <lb ed="#A" n="9"/>dirigitur, quae est incitatina &amp; impulsiva ad 
+      <lb ed="#A" n="10"/>operationem: talis est notitia, qua sciunt 
+      pru<lb ed="#A" n="11" break="no"/>dentes viri quae commoda sequantur 
+      actio<lb ed="#A" n="12" break="no"/>nes honestas virtutum, quae vero 
+      incommo<lb ed="#A" n="13" break="no"/>da sequantur actiones vitiorum haec enim  
+      <lb ed="#A" n="14"/>notitia: incitat &amp; impellit hominem ad 
+      a<lb ed="#A" n="15" break="no"/>ctiones honestas. Tertio, ea etiam notitia per 
+      <lb ed="#A" n="16"/>se ad praxin dirigitur, quae neque est directiva, 
+      <lb ed="#A" n="17"/>operationis, neque est impulsa ad operationem, 
+      <lb ed="#A" n="18"/>sed secundum naturam illius disc iplinae, ad quam  
+      <lb ed="#A" n="19"/>pertinet, est praerequisita ad melius operandum 
+      <lb ed="#A" n="20"/>&amp; agendum. Exempli gratiam, in arte Medicam, 
+      <lb ed="#A" n="21"/>quae tota est disciplina practica, agitur de 
+      par<lb ed="#A" n="22" break="no"/>tibus humani corporis, de partium morbis,  
+      <lb ed="#A" n="23"/>de morborum causis, signis, symptomatis,  
+      <lb ed="#A" n="24"/>&amp;c. quae quidem notitia non est speculativa, 
+      <lb ed="#A" n="25"/>sed practica, quia videlicet natura illius artis 
+      <lb ed="#A" n="26"/>postulat ut in ea cognitione non 
+      acquiesca<lb ed="#A" n="27" break="no"/>mus, sed eam ad operationem dirigamus, &amp; 
+      <lb ed="#A" n="28"/>in praxin redigamus. 
+    </p>
+            <p xml:id="pqir89-e19532-d1e288">
+               <lb ed="#A" n="29"/>A Ex his patet, illos Philosophos imper¬ 
+      <!--295.xml-->
+      <pb ed="#A" n="276"/>
+               <lb ed="#A" n="1"/>fectam &amp; inadaequatam definitionem 
+      practi<lb ed="#A" n="2" break="no"/>cae cognitionis afferre, qui dicunt, eam 
+      so<lb ed="#A" n="3" break="no"/>lam notitiam esse practicam, quae est de re 
+      <lb ed="#A" n="4"/>operabili, estque regulatiue &amp; directiva 
+      ali<lb ed="#A" n="5" break="no"/>cuius operatiouis: inde enim sequetur, eam  
+      <lb ed="#A" n="6"/>Medicinae partem quae considerat partes 
+      hu<lb ed="#A" n="7" break="no"/>mani corporis, partium morboss, &amp; mor. 
+      <lb ed="#A" n="8"/>borum causas &amp; signa, esse speculativam &amp;  
+      <lb ed="#A" n="9"/>non practicam: ista enim pars Medicinae non 
+      <lb ed="#A" n="10"/>est formaliter regulatiua alicuius 
+      operatio<lb ed="#A" n="11" break="no"/>nis, neque est de rebus operabilibus, sed 
+      <lb ed="#A" n="12"/>de rebus naturalibus: absurdum autem est,  
+      <lb ed="#A" n="13"/>asserere illam Medicinae partem esse 
+      specula<lb ed="#A" n="14" break="no"/>tiuam, quia disciplina, aut pars aliqua 
+      disci<lb ed="#A" n="15" break="no"/>plinae, dicitur speculativa (ut recte monet 
+      <lb ed="#A" n="16"/>Fonseca Lib. 6. Metaph. Cap. I. Quaest. 
+      S<lb ed="#A" n="17" break="no"/>Pect. S.) Afine vtimo &amp; prcaeipuo: finis autem  
+      <lb ed="#A" n="18"/>ultimus illius partis Medicinae, non est mor. 
+      <lb ed="#A" n="19"/>botum cognitio &amp; speculatio, sed curatio, ut 
+      <lb ed="#A" n="20"/>cui vis manffestum est. Dixi, disciplinam, aut 
+      <lb ed="#A" n="21"/>partem disciplinae, dici speculativam a fine 
+      <lb ed="#A" n="22"/>ultims &amp; praecipuo: quia alioqui omnes 
+      vir<lb ed="#A" n="23" break="no"/>tutes intesle: tuales, &amp; proinde etiam ipsae artes 
+      <lb ed="#A" n="24"/>essent speculative: nam fsinis proximas 
+      omni<lb ed="#A" n="25" break="no"/>um intellectuatium virtutum est cognitio aut 
+      con<lb ed="#A" n="26" break="no"/>sideratio intellectus. 
+    </p>
+            <p xml:id="pqir89-e19532-d1e353">
+               <lb ed="#A" n="27"/>S Ex his patet, totam Theologum esse 
+      praec<lb ed="#A" n="28" break="no"/>ticam, &amp; nullam eius partem esse speculati, 
+      <lb ed="#A" n="29"/>va. Piimo enim, omnis notitia quam  
+      <!--296.xml-->
+      <pb ed="#A" n="277"/>
+               <lb ed="#A" n="1"/>habemus de Deo &amp; esus operibus, ideo a S. 
+      <lb ed="#A" n="2"/>Spiritu in cordibus nostris gignitur, ut Deum 
+      <lb ed="#A" n="3"/>recte cognitum rite colamus, hoc est, ad 
+      <lb ed="#A" n="4"/>modum ab ipso in verbo praescriptum. 
+      Se<lb ed="#A" n="5" break="no"/>cundo, si respiciamus naturam ipsius 
+      Theo<lb ed="#A" n="6" break="no"/>logiae, videbimus omnem notitiam 
+      Theolo<lb ed="#A" n="7" break="no"/>gicam per se &amp; sua natura vel esse regulatipam  
+      <lb ed="#A" n="8"/>alicuius operationis, vel incitutinam &amp; 
+      im<lb ed="#A" n="9" break="no"/>pulsi vam ad operationem: notitia enim quam 
+      <lb ed="#A" n="10"/>novimus quomodo Deum colere &amp; 
+      proxi<lb ed="#A" n="11" break="no"/>mum diligere debeamus, est regulatiua &amp; 
+      di<lb ed="#A" n="12" break="no"/>rectiua actionum nostrarum erga Deum &amp;  
+      <lb ed="#A" n="13"/>proximum: notitia vero quam habemus de 
+      <lb ed="#A" n="14"/>natura &amp; attributis Dei, de incarnatione &amp; 
+      <lb ed="#A" n="15"/>πῶVις, &amp; aliis similibus, est incitutina seu 
+      im<lb ed="#A" n="16" break="no"/>pulsiva ad amorem, timorem, rererentiam, 
+      <lb ed="#A" n="17"/>&amp; adorationem Dei Optimi Maximi, idque 
+      <lb ed="#A" n="18"/>secundum naturam huius disciplinae: nam  
+      <lb ed="#A" n="19"/>Deus ideo voluit nos scire eius 
+      poten<lb ed="#A" n="20" break="no"/>tiam, ut eum timeamus, &amp; revereamur, 
+      <lb ed="#A" n="21"/>ideo voluit nos scire eius bonitatem &amp; 
+      <lb ed="#A" n="22"/>misericordiam, ut eum amemus &amp; 
+      celebre<lb ed="#A" n="23" break="no"/>mus. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

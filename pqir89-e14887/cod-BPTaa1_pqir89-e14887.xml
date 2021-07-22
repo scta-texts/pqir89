@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 15</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 15</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="212-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-e14887"><!-- p3a15 -->
+            <head xml:id="pqir89-e14887-Hd1e106">Articulus 15</head>
+            <head xml:id="pqir89-e14887-Hd1e109" type="question-title">
+        Quomodo solvendum sit illud 
+        argumentum Remonstrantium: 
+        Quod unusquisque tenetur credere, 
+        illud est verum, etc.
+      </head>
+            <p xml:id="pqir89-e14887-d1e112">
+               <lb ed="#A" n="5"/>ART. XV. 
+      <lb ed="#A" n="6"/>Quomodo solvendum sit illud 
+        argumen<lb ed="#A" n="7" break="no"/>tum Remonstrantium: 
+         <lb ed="#A" n="8"/>Quod unusquisque tenetur credere, 
+      <lb ed="#A" n="9"/>illud est verum, &amp;c. 
+    </p>
+            <p xml:id="pqir89-e14887-d1e125">
+               <lb ed="#A" n="10"/>9 Emonstrantes in Colloquio 
+      Hagiensi<lb ed="#A" n="11" break="no"/>R &amp; in defensione sententiae suae, ex 
+      hi<lb ed="#A" n="12" break="no"/>bita Ord. Gener. D. Delegatis ad Synodum 
+      <lb ed="#A" n="13"/>Dordrechtanam, hoc argumento demonstrare 
+      <lb ed="#A" n="14"/>conantur universalitatem mortis &amp; meriti 
+      <lb ed="#A" n="15"/>Christi. 
+    </p>
+            <p xml:id="pqir89-e14887-d1e141">
+               <lb ed="#A" n="16"/>Quod omnes &amp; singuli tenentur credere, 
+      il<lb ed="#A" n="17" break="no"/>lud est verum. 
+    </p>
+            <p xml:id="pqir89-e14887-d1e149">
+               <lb ed="#A" n="18"/>At omnes, etiam reprobi, tenentur 
+      crede<lb ed="#A" n="19" break="no"/>re Christum pro iis esse mortuum: Ergo 
+      <lb ed="#A" n="20"/>verum est Christum pro illis esse mortuum: 
+      <lb ed="#A" n="21"/>Ad hoc argumentum tribus: modis 
+      respon<lb ed="#A" n="22" break="no"/>dere solent Theologi Contra. 
+      Remonstran<lb ed="#A" n="23" break="no"/>tes: primo, negando maiorem secundo, 
+      <lb ed="#A" n="24"/>distinguendo minorem, tertio, simpliciter 
+      ne<lb ed="#A" n="25" break="no"/>gando minorem. Primus modus respondendi 
+      <lb ed="#A" n="26"/>non satis tutus, videtur: quia si negetur 
+      <!--231.xml-->
+      <pb ed="#A" n="212"/>
+               <lb ed="#A" n="1"/>maior, sequetur Deum illum sanctissimum 
+      <lb ed="#A" n="2"/>&amp; veracissimum ea reprobis credenda 
+      praeci<lb ed="#A" n="3" break="no"/>pere, quae falsa sunt: quod superiori articulo 
+      <lb ed="#A" n="4"/>confutatum est. 
+    </p>
+            <p xml:id="pqir89-e14887-d1e184">
+               <lb ed="#A" n="5"/>2 Secundum modum respondendi 
+      se<lb ed="#A" n="6" break="no"/>quuntur Belgici Ecclesiastae, in Coll. Hagiensis 
+      <lb ed="#A" n="7"/>item Molin. in Anat. Armin. cap. 39. hi 
+      <lb ed="#A" n="8"/>enim dicunt, fidem in Christum praescribi 
+      <lb ed="#A" n="9"/>omnibus hominibus, nonabsolute, sed sub 
+      <lb ed="#A" n="10"/>conditione poenitentiae, &amp; con versionis, hoc est,  
+      <lb ed="#A" n="11"/>si convertantur, &amp; sic Christi Beneficium fi-¬ 
+      <lb ed="#A" n="12"/>deli animo amplectantur: ut videre est 
+      <lb ed="#A" n="13"/>in summa Euangelicorum Praeceptorum, 
+      <lb ed="#A" n="14"/>Marc. cap. I. Vers. I. con pertimini, &amp; 
+      cre<lb ed="#A" n="15" break="no"/>dite Euangelio. Ex hac igitur sententia 
+      re<lb ed="#A" n="16" break="no"/>probi absolute loquendo non tenentur 
+      cre<lb ed="#A" n="17" break="no"/>dere, Christum pro iis esse mortuums sed 
+      <lb ed="#A" n="18"/>(ut dictum est) praesupposita conditione 
+      <lb ed="#A" n="19"/>conversionis: quamdium enim in malitia sua 
+      <lb ed="#A" n="20"/>pergunt, Deus vult ut credantiram Dei 
+      su<lb ed="#A" n="21" break="no"/>per illos manere, Iohan. tertio, vers. trigesimo 
+      <lb ed="#A" n="22"/>sexto, 
+    </p>
+            <p xml:id="pqir89-e14887-d1e226">
+               <lb ed="#A" n="23"/>a Huius resposionis veritas duabus 
+      ratio<lb ed="#A" n="24" break="no"/>nibus efficaciter probatur. Primo ea sola 
+      cre<lb ed="#A" n="25" break="no"/>denda sunt, quae Deus in suo verbo testatur 
+      <lb ed="#A" n="26"/>esse vera: at Deus in S. Scriptura nusquam 
+      te<lb ed="#A" n="27" break="no"/>statur Christum esse mortuum pro 
+      peccato<lb ed="#A" n="28" break="no"/>ribus, sive convertantur, sive non 
+      conver<lb ed="#A" n="29" break="no"/>tantur: Ergo illud non est credendum. 
+      Se<lb ed="#A" n="30" break="no"/>cundo, si peccatores in malitia sua pergentes 
+      <!--232.xml-->
+      <pb ed="#A" n="213"/>
+               <lb ed="#A" n="1"/>tenentur credere Christum pro iis esse 
+      mor<lb ed="#A" n="2" break="no"/>tuum, tenentur etiam credere se esse electos,  
+      <lb ed="#A" n="3"/>&amp; aeternae beatitudinis participes futuros: 
+      <lb ed="#A" n="4"/>at falsum est posterius, ergo &amp; prius. Ratio 
+      <lb ed="#A" n="5"/>propositionis est, quia Christus mortuus est 
+      <lb ed="#A" n="6"/>pro solis electis, ut patet ex iis S. Scripturae 
+      <lb ed="#A" n="7"/>ocis, quae testantur Christum mortuum 
+      es<lb ed="#A" n="8" break="no"/>se pro ovibus suis, pro Ecclesia sua, pro iis quos 
+      <lb ed="#A" n="9"/>Pater ipsi dedit, pro filiis Dei, pro populo suo, 
+      <lb ed="#A" n="10"/>&amp;c. Probatur etiam assumptio, quia 
+      pecca<lb ed="#A" n="11" break="no"/>tores in malitia sua pergentes tenentur 
+      cre<lb ed="#A" n="12" break="no"/>dere iram Dei super eos manere, &amp; proinde 
+      <lb ed="#A" n="13"/>non tenentur credere se esse elcctos ad vitam  
+      <lb ed="#A" n="14"/>aeternam:  
+    </p>
+            <p xml:id="pqir89-e14887-d1e281">
+               <lb ed="#A" n="15"/>d Tertium modum respondendi 
+      sequi<lb ed="#A" n="16" break="no"/>tur venerabilis ille senex sohannes Piscator, 
+      <lb ed="#A" n="17"/>S. Literarum Professor in illustri Schola 
+      <lb ed="#A" n="18"/>Derbornensi: is enim in Resposione 
+      Apologe<lb ed="#A" n="19" break="no"/>tica ad Parasceuen Conradi Vorstii cap. 9. 
+      ab<lb ed="#A" n="20" break="no"/>solute negat, reprobos teneri in Christum  
+      <lb ed="#A" n="21"/>credere: h. e. credere Christum pro iis esse 
+      <lb ed="#A" n="22"/>mortuum: tantum enim (inquit) tenentur 
+      cre<lb ed="#A" n="23" break="no"/>dere Euangelio, seu doctrinae Euangelii, quae. 
+      ci<lb ed="#A" n="24" break="no"/>tra controversiam verissima est. Haec 
+      respon<lb ed="#A" n="25" break="no"/>sio, quam vis postea displicuit ipsi Piscatori, 
+      <lb ed="#A" n="26"/>in Responsione ad amicam Duplicationem 
+      <lb ed="#A" n="27"/>Conradi Vorstii, revera tamen, magnam 
+      pro<lb ed="#A" n="28" break="no"/>babilitatem habet, ut patet ex hac rationes 
+      <lb ed="#A" n="29"/>Quod neque absolute, neque sub conditione 
+      vu<lb ed="#A" n="30" break="no"/>rum est, illud neque absolute neque sub. condi¬ 
+      <!--233.xml-->
+      <pb ed="#A" n="214"/>
+               <lb ed="#A" n="1"/>tione credendum est: at Christum missum esse 
+      <lb ed="#A" n="2"/>in mundum, ut pro luda proditore mortem 
+      op<lb ed="#A" n="3" break="no"/>peteret, neque absolute, neque sub conditione 
+      <lb ed="#A" n="4"/>verum est: Ergo ludas nullo modo tenebatur 
+      <lb ed="#A" n="5"/>hoc credere, neque potuit illud ei proponi 
+      creden<lb ed="#A" n="6" break="no"/>dum. 
+    </p>
+            <p xml:id="pqir89-e14887-d1e336">
+               <lb ed="#A" n="7"/>s Caeterum quia praecedens sententia 
+      ple<lb ed="#A" n="8" break="no"/>risque Orthodoxis Theologis magis arridet,  
+      <lb ed="#A" n="9"/>ego ex istius sententiae fundamentis soluam  
+      <lb ed="#A" n="10"/>duo praecipue argumenta, quae afferri possunt 
+      <lb ed="#A" n="11"/>in contrarium. Prius est hoc: Praecepta ea quae 
+      <lb ed="#A" n="12"/>Deus vult omnibus &amp; singulis proponi, omnes 
+      <lb ed="#A" n="13"/>&amp; singulos obligant &amp; astrigunt obediendi 
+      ne<lb ed="#A" n="14" break="no"/>cessitate: At, Crede in Christum, est tale 
+      <lb ed="#A" n="15"/>praeceptum: Ergo, &amp;c. Respond. Praecepta 
+      <lb ed="#A" n="16"/>Dei duplicia sunt, videlicet absoluta, &amp; 
+      con<lb ed="#A" n="17" break="no"/>ditionalia. Absoluta praecepta omnes, sive 
+      <lb ed="#A" n="18"/>electos, sive reprobos, absolute obligant ad 
+      <lb ed="#A" n="19"/>obedientiam. Conditionalia praecepta omnes 
+      <lb ed="#A" n="20"/>etiam obligant, sive sint electi, si ve reprobi, 
+      <lb ed="#A" n="21"/>sed sub certa conditione. Tale est 
+      praece<lb ed="#A" n="22" break="no"/>ptum illud de quo hic sermo est. illud enim  
+      <lb ed="#A" n="23"/>obligat etiam reprobos, sed sub conditione 
+      <lb ed="#A" n="24"/>conversionis, seu resipiscentiae: h. e, si 
+      agno<lb ed="#A" n="25" break="no"/>seant peceata sua, &amp; percipiant in se dolorem 
+      <lb ed="#A" n="26"/>de iis: conceptum, quem Scripturae nunc 
+      <lb ed="#A" n="27"/>lacerationem cordis, nunc καταιυξιν vocant. 
+      <lb ed="#A" n="28"/>solis enim illis qui haec in se sentiunt 
+      prae<lb ed="#A" n="29" break="no"/>Sipit vox. Euangelii, ut credant, 
+      reconci<lb ed="#A" n="30" break="no"/>liationem &amp; peccatorum remissionem 
+      <!--234.xml-->
+      <pb ed="#A" n="215"/>
+               <lb ed="#A" n="1"/>esse sibi impetratam per mortem 
+      Chri<lb ed="#A" n="2" break="no"/>sti. 
+    </p>
+            <p xml:id="pqir89-e14887-d1e399">
+               <lb ed="#A" n="3"/>e Instabit aliquis primo, Ilud praeceptum 
+      <lb ed="#A" n="4"/>(credere in Christum) frustra poponitur 
+      re<lb ed="#A" n="5" break="no"/>probis, in quibus ne quidem potest inpeniri 
+      con<lb ed="#A" n="6" break="no"/>ditio illa requisita, vid. con versio. Resp. Hoc 
+      <lb ed="#A" n="7"/>praeceptum non ob eundum finem 
+      proponi<lb ed="#A" n="8" break="no"/>tur fidelibus &amp; infidelibus: nam 
+      poeniten<lb ed="#A" n="9" break="no"/>tibus &amp; fidelibus proponitur haec 
+      consola<lb ed="#A" n="10" break="no"/>tio propter ipsorum salutem: 
+      impoenitenti<lb ed="#A" n="11" break="no"/>bus vero &amp; infidelibus, quales sunt reprobi, 
+      <lb ed="#A" n="12"/>monstratur via qua ipsis est incedendum, ut 
+      <lb ed="#A" n="13"/>recipiant fructus mortis Christi, nimirum  
+      <lb ed="#A" n="14"/>quod debent converti, &amp; conversione 
+      prae<lb ed="#A" n="15" break="no"/>supposita in Christum credere. Instant. 
+      se<lb ed="#A" n="16" break="no"/>cunda: Omne bonum opus absolute &amp; absque 
+      <lb ed="#A" n="17"/>conditione omnibus praecipitur &amp; Deo: at 
+      crede<lb ed="#A" n="18" break="no"/>re in Christum est bonus actus: seu bonum opus: 
+      <lb ed="#A" n="19"/>Ergo. Resp. primo ad propositionem, 
+      ne<lb ed="#A" n="20" break="no"/>gando: nam (ut dictum est in articulo rs) 
+      <lb ed="#A" n="21"/>in ipso Decalogo multa bona: opera 
+      praeci<lb ed="#A" n="22" break="no"/>piuntur hypothetice, seu sub conditione: 
+      Se<lb ed="#A" n="23" break="no"/>cundo respond. distinguendo: nam persuasio 
+      <lb ed="#A" n="24"/>de reconciliatione, &amp; peccatorum remissione 
+      <lb ed="#A" n="25"/>impetrata per mortem Christi, in fidelibus 
+      <lb ed="#A" n="26"/>est bonus &amp; salutaris actus, ab habitu fidei 
+      <lb ed="#A" n="27"/>elicitus: at in reprobis qui in malitia pergunt 
+      <lb ed="#A" n="28"/>ad finem vitae est pernitiosus error &amp; 
+      fanati<lb ed="#A" n="29" break="no"/>ca arrogantia. 
+    </p>
+            <p xml:id="pqir89-e14887-d1e461">
+               <lb ed="#A" n="30"/>V. Posterius argumentum est hoc: Repro¬¬ 
+      <!--235.xml-->
+      <pb ed="#A" n="216"/>
+               <lb ed="#A" n="1"/>bi propter suam infidelitatem condemnabuntur, 
+      <lb ed="#A" n="2"/>h. e. quia in Christum non crediderunt: Ergo 
+      <lb ed="#A" n="3"/>tenentur in Christum credere. Respondent 
+      <lb ed="#A" n="4"/>Contra. Remonstrantes in Col. Hag. peccatores 
+      <lb ed="#A" n="5"/>impoenitentes non ideo peccare, quod non 
+      <lb ed="#A" n="6"/>credant Christum pro impoenitentibus &amp; 
+      in<lb ed="#A" n="7" break="no"/>fidelibus peccatoribus, qui tales sunt &amp; 
+      ma<lb ed="#A" n="8" break="no"/>nent, mortuum esse, (nam si illud crederent,  
+      <lb ed="#A" n="9"/>mendacio crederent) &amp; proinde eos propter 
+      <lb ed="#A" n="10"/>illam infidelitatis speciem non condemnari: 
+      <lb ed="#A" n="11"/>sed potius quia noluerunt converti, &amp; 
+      secun<lb ed="#A" n="12" break="no"/>dum doctrinam S. Euangelii in Christum  
+      <lb ed="#A" n="13"/>credere. 
+    </p>
+            <p xml:id="pqir89-e14887-d1e498">
+               <lb ed="#A" n="14"/>S Vt haec responsio intelligatur, 
+      tenen<lb ed="#A" n="15" break="no"/>dum est, illam infidelitatis speciem, de quam 
+      <lb ed="#A" n="16"/>hic quaestio est, h. e. defectum illius 
+      persua<lb ed="#A" n="17" break="no"/>sionis, quam vocant fiduciam specialis 
+      mise<lb ed="#A" n="18" break="no"/>ricordiae, duodus modis considerari posse: vel 
+      <lb ed="#A" n="19"/>enim consideratur per se &amp; seorsim: vel 
+      qua<lb ed="#A" n="20" break="no"/>tenus provenit ex defectu con versionis &amp; 
+      resi<lb ed="#A" n="21" break="no"/>piscentiae, quam diximus esse conditionem 
+      <lb ed="#A" n="22"/>praecedaneam &amp; praerequisitam ad fidem in 
+      <lb ed="#A" n="23"/>Christum: priori modo considerata, non est 
+      <lb ed="#A" n="24"/>causa meritoria condemnationis, quia 
+      videli<lb ed="#A" n="25" break="no"/>cet illi absolute non tenentur eredere 
+      Chri<lb ed="#A" n="26" break="no"/>stum pro iis esse mortuum: at posteriori 
+      mo<lb ed="#A" n="27" break="no"/>do recte dici potest mereri 
+      condemnatio<lb ed="#A" n="28" break="no"/>nem: quamvis enim absolute non tenentur 
+      <lb ed="#A" n="29"/>in Christum credere, tenentur tamen ex 
+      prae<lb ed="#A" n="30" break="no"/>scripto Euangelii con perti, &amp; praesupposita con¬ 
+      <!--236.xml-->
+      <pb ed="#A" n="217"/>
+               <lb ed="#A" n="1"/>versione credere, &amp; sibi applicare illas 
+      pro<lb ed="#A" n="2" break="no"/>missiones Euangclicas. 
+    </p>
+            <p xml:id="pqir89-e14887-d1e546">
+               <lb ed="#A" n="3"/>9 Instant. Illa infidelitas de qua hic est 
+      <lb ed="#A" n="4"/>quaestio, est peccatum: opponitur enim uirtuti, 
+      <lb ed="#A" n="5"/>id est, fidei, &amp; proinde est vitium, si autem est 
+      <lb ed="#A" n="6"/>peccatum, male negatur eam per se esse causam  
+      <lb ed="#A" n="7"/>meritoriam condemnationis. Resp. 
+      distinguen<lb ed="#A" n="8" break="no"/>do infidelitatem, in privativam &amp; negati vam:  
+      <lb ed="#A" n="9"/>in fidelitas privativa est, cum ea non 
+      credi<lb ed="#A" n="10" break="no"/>mus, quae credere tenemur: haec enim 
+      infide<lb ed="#A" n="11" break="no"/>litas adiunctam habet obligationem ad 
+      cre<lb ed="#A" n="12" break="no"/>dendum: exempli gratia, Haeretici aliique 
+      <lb ed="#A" n="13"/>hostes Ecclesiae infideles sunt infidelitate 
+      pri<lb ed="#A" n="14" break="no"/>vativa, quia ea non credunt, quae credere 
+      te<lb ed="#A" n="15" break="no"/>nentur: hoc est, quia non credunt ea, quae 
+      <lb ed="#A" n="16"/>Deus in verbo suo testatur esse vera: 
+      infide<lb ed="#A" n="17" break="no"/>litas negativa est mera carentia fidei, sine 
+      ob<lb ed="#A" n="18" break="no"/>ligatione ad credendum: exempli gratia, illi 
+      <lb ed="#A" n="19"/>quibus nunquam annunciatum est 
+      Euange<lb ed="#A" n="20" break="no"/>lium, sunt infideles infidelitate hac 
+      negati<lb ed="#A" n="21" break="no"/>va, quia non tenentur credere ea quae 
+      nun<lb ed="#A" n="22" break="no"/>quam audi verunt: unde Christus, lob.Is. 
+      <lb ed="#A" n="23"/>vers. 3X. dicit, Si non venissem &amp; loquutus iis 
+      <lb ed="#A" n="24"/>fuissem, peccatum non haberent: quia vid. non 
+      <lb ed="#A" n="25"/>tenerentur haec credere quae nunc tenentur 
+      <lb ed="#A" n="26"/>credere. 
+      <lb ed="#A" n="27"/>Io Vt haec proposito applicem, assero 
+      <lb ed="#A" n="28"/>infidelitatem pri vati vam esse peccatum, seu 
+      vi<lb ed="#A" n="29" break="no"/>tium, quia pri pative opponitur virtuti, h. e. 
+      fi<lb ed="#A" n="30" break="no"/>dei: infidelitatem vero negativam non esse pec¬ 
+      <!--237.xml-->
+      <pb ed="#A" n="218"/>
+               <lb ed="#A" n="1"/>catum, quia contradictorie tantum opponitur 
+      <lb ed="#A" n="2"/>pirtuti: nemo autem dixerit ea omnia quae 
+      <lb ed="#A" n="3"/>contradictorie virtuti opponuntur habere 
+      <lb ed="#A" n="4"/>rationem vitii: idem etiam probatur ex dicto 
+      <lb ed="#A" n="5"/>Christi, sinis non loquutus fuissem, non haberent 
+      <lb ed="#A" n="6"/>peceatum, vid. infidelitatis huius privativae, 
+      <lb ed="#A" n="7"/>qua non credunt Euangelio, quod per me est 
+      <lb ed="#A" n="8"/>ns anunciatum, atque adeo quod credere 
+      te<lb ed="#A" n="9" break="no"/>nentur: unde <ref xml:id="pqir89-e14887-Rd1e632">Augustinus locum eum 
+      expo<lb ed="#A" n="10" break="no"/>nens, tract. 89. in Ioan.</ref> testatur eos ad quos 
+      <lb ed="#A" n="11"/>Euangelii praedicatio non pervenit, excusari 
+      <lb ed="#A" n="12"/>a peccato infidelitatis, damnandos autem  
+      <lb ed="#A" n="13"/>propter alia peccata quorum excusationem 
+      <lb ed="#A" n="14"/>non habent, utpote in legem naturae 
+      com<lb ed="#A" n="15" break="no"/>missa. 
+    </p>
+            <p xml:id="pqir89-e14887-d1e649">
+               <lb ed="#A" n="16"/>II Reproborum igitur infidelitas, qua 
+      <lb ed="#A" n="17"/>non credunt ea quae sacra Scriptura vera esse 
+      <lb ed="#A" n="18"/>testatur, de potentia Dei, de qustitia eusdem, &amp; 
+      <lb ed="#A" n="19"/>ira ad versus peccatum, de sanctorum 
+      beatitudi<lb ed="#A" n="20" break="no"/>ne, de aeterna miseria reproborum, de rerum 
+      fer<lb ed="#A" n="21" break="no"/>renarum vilitate, &amp;c. Haec (inquam 
+      infideli<lb ed="#A" n="22" break="no"/>tas est privatina, estque peccatum propie 
+      di<lb ed="#A" n="23" break="no"/>ctum, quia videlicet non credunt ea quae 
+      cre<lb ed="#A" n="24" break="no"/>dere tenentur. At infidelitas eorundem quam 
+      <lb ed="#A" n="25"/>non credunt Christum pro iis esse, mortuum, 
+      <lb ed="#A" n="26"/>est infidelitas negati va, hoc est, mera carentia 
+      <lb ed="#A" n="27"/>fidei, sine obligatione ad credendum, nam (ut 
+      <lb ed="#A" n="28"/>supra dictum est )quamdiu in malitia sua 
+      per<lb ed="#A" n="29" break="no"/>gunt, tenentur potius credere iram Dei super 
+      <lb ed="#A" n="30"/>illos manere: haec igitur infidelitas per se &amp; 
+      <!--238.xml-->
+      <pb ed="#A" n="219"/>
+               <lb ed="#A" n="1"/>seorsim spectata, non est peccatum: licet 
+      qua<lb ed="#A" n="2" break="no"/>tenus ea proyenit ex defectu convorsionis &amp; 
+      re<lb ed="#A" n="3" break="no"/>sipiscentiae, vere &amp; proprie sit peccatum: 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

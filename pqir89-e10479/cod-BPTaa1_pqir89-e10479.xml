@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 3</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 3</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="153"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-e10479"><!-- p3a3 -->
+            <head xml:id="pqir89-e10479-Hd1e106">Articulus 3</head>
+            <head xml:id="pqir89-e10479-Hd1e109" type="question-title">
+        An fides semper sit τῶν ζsολετομενῶν
+      </head>
+            <p xml:id="pqir89-e10479-d1e112">
+      <!--172.xml-->
+               <pb ed="#A" n="153"/>
+               <lb ed="#A" n="1"/>ART. III 
+      <lb ed="#A" n="2"/>An fides semper sit <foreign>τῶν ζsολετομενῶν</foreign>.
+      </p>
+            <p xml:id="pqir89-e10479-d1e126">
+               <lb ed="#A" n="3"/>ilctum est superiori articulo, fidem  
+      <lb ed="#A" n="4"/>, omnem, sive sit divina, sive humana, 
+      <lb ed="#A" n="5"/>esse assensum inevidentem, &amp; ob id 
+      Aposto<lb ed="#A" n="6" break="no"/>lum iI, ad Aebraeos versor. asserere fidem 
+      es<lb ed="#A" n="7" break="no"/>se πουον G Gλετoάξων. Idem etiam confirmari 
+      <lb ed="#A" n="8"/>potest ex I. Cor. cap. TX. Vers. I4. ubi 
+      Apo<lb ed="#A" n="9" break="no"/>stolus asserit, Nos nunc videre per speculum, &amp;&amp; 
+      <lb ed="#A" n="10"/>inaenigmate. Item ex doctrina eiusdem 
+      Apo<lb ed="#A" n="11" break="no"/>stoli, de cessatione &amp; e pacuatione fidei, quae 
+      <lb ed="#A" n="12"/>futura est in patria. Ideo enim fides evacuari 
+      <lb ed="#A" n="13"/>dicitur, &amp; non perfici, sicut charitas, quia 
+      <lb ed="#A" n="14"/>imperfectionem quandam, nimirum 
+      obscuri<lb ed="#A" n="15" break="no"/>tatem &amp; inevidentiam, in sui ratione &amp; 
+      essen<lb ed="#A" n="16" break="no"/>tia involuit. Quare <ref xml:id="pqir89-e10479-Rd1e158">Augustinus in illud 
+      Io<lb ed="#A" n="17" break="no"/>hannis T4.</ref> vadoparare vobis locum, egregie 
+      di<lb ed="#A" n="18" break="no"/>cit, eat Dominus, ut puret locum, eat, ut 
+      videa<lb ed="#A" n="19" break="no"/>turs lateat, ut credatur. Similiter docet 
+      <ref xml:id="pqir89-e10479-Rd1e168">Gre<lb ed="#A" n="20" break="no"/>gonius, Hom. Io. in Euang,</ref> &amp; <ref xml:id="pqir89-e10479-Rd1e173">lib. 4. Dial. cap. 
+      <lb ed="#A" n="21"/>S.</ref> apparentia (inquit) non habent fidem, sed 
+      <lb ed="#A" n="22"/>agnitionem: &amp; iterum: hoc veraciter dicitur 
+      <lb ed="#A" n="23"/>credi, quod non valet videri. 
+    </p>
+            <p xml:id="pqir89-e10479-d1e183">
+               <lb ed="#A" n="24"/>2 Vt autem hoc planius evadat, afferam:  
+      <lb ed="#A" n="25"/>&amp; soluam ea argumenta, quae probant, ea 
+      et<lb ed="#A" n="26" break="no"/>iam quae videntur vel sciuntur, sub fidei 
+      obie<lb ed="#A" n="27" break="no"/>cto comprehendi: quale imprimis est illudi 
+      <lb ed="#A" n="28"/>Domini ad Discipulos, Iohan. 34. dixi vobis 
+      <!--173.xml-->
+      <pb ed="#A" n="154"/>
+               <lb ed="#A" n="1"/>priusquam fiat, ut cum factum fuerit, credatis: hint 
+      <lb ed="#A" n="2"/>enim colligitur, fidem esse aliquando rerum 
+      <lb ed="#A" n="3"/>per ex perientiam cognitarum, atque adeo 
+      <lb ed="#A" n="4"/>visarum.
+    </p>
+            <p xml:id="pqir89-e10479-d1e210">
+               <lb ed="#A" n="5"/>S Deinde Iohann. 2o. cum dixisset 
+      Tho<lb ed="#A" n="6" break="no"/>mas Apostolus, nisi videro, non credam: 
+      Chri<lb ed="#A" n="7" break="no"/>stum, videlicet redi vivum: dixit ei Dominus 
+      <lb ed="#A" n="8"/>iam credenti, quia vidisti me, Thoma, 
+      credi<lb ed="#A" n="9" break="no"/>disti. 
+    </p>
+            <p xml:id="pqir89-e10479-d1e223">
+               <lb ed="#A" n="10"/>A Tertio, eaeteri quoque Apostoli, &amp; 
+      <lb ed="#A" n="11"/>Virgo Maria, multique alii fideles, quod 
+      vi<lb ed="#A" n="12" break="no"/>derunt hoc crediderunt, Christum videlicet 
+      <lb ed="#A" n="13"/>hominem, passum, mortuum, sepultum,, 
+      a<lb ed="#A" n="14" break="no"/>mortuis resurgentem, &amp; in coelos 
+      ascen<lb ed="#A" n="15" break="no"/>dentem, &amp; alia multa, quae ipsis fidei 
+      arti<lb ed="#A" n="16" break="no"/>culis expressa sunt: unde lohan. I. Epist. I
+      <lb ed="#A" n="17"/>ait, quod audivimus, quod vidimus oculias 
+      <lb ed="#A" n="18"/>nostris, quod perspeximus, &amp; manus 
+      nostrae<lb ed="#A" n="19" break="no"/>contrecta verunt, de verbo. vitae, annuntiamus: 
+      <lb ed="#A" n="20"/>pobis.
+    </p>
+            <p xml:id="pqir89-e10479-d1e249">
+               <lb ed="#A" n="21"/>s Quarto, Philosophus aliquis, sciens per 
+      <lb ed="#A" n="22"/>Demonstrationem, unum Deum esse 
+      o<lb ed="#A" n="23" break="no"/>mnium, rerum principium &amp; causam, potest. 
+      <lb ed="#A" n="24"/>eiusdem propositionis accipere fidem, 
+      ma<lb ed="#A" n="25" break="no"/>nente priori cognitione, si videlicete Paga¬¬ 
+      <lb ed="#A" n="26"/>no fiat Christianus: is ergo simul habebit 
+      fi<lb ed="#A" n="27" break="no"/>dem &amp; scientiam, eiusque fides pro obiect 
+      o<lb ed="#A" n="28" break="no"/>habebit res evidenter scitas seu visas. e.¬ 
+    </p>
+            <p xml:id="pqir89-e10479-d1e269">
+               <lb ed="#A" n="29"/>o Vt haec argumenta tollantur: 
+      primo<lb ed="#A" n="30" break="no"/>ponam aliquot fundamenta, ex quibus ho¬¬ 
+      <!--174.xml-->
+      <pb ed="#A" n="155"/>
+               <lb ed="#A" n="1"/>rum argumentorum solutiones colligi 
+      pos<lb ed="#A" n="2" break="no"/>sunt, deinde Fonsecae, Estii, &amp; aliorum 
+      <lb ed="#A" n="3"/>pravam doctrinam de repugnantia sides &amp; 
+      <lb ed="#A" n="4"/>scientiae confutabo. Primum fundamentum 
+      <lb ed="#A" n="5"/>sit hoc: Fides seu ro credere saepenumero in 
+      <lb ed="#A" n="6"/>Scriptura, &amp; apud probatos Authores 
+      genera<lb ed="#A" n="7" break="no"/>liter accipitur, pro eo quod est quonis modo 
+      as<lb ed="#A" n="8" break="no"/>sentiri &amp; qudrearae aliquid verum esse: sic enim 
+      <lb ed="#A" n="9"/>dicitur aliquis oculis suis credere, &amp; apud 
+      Dia<lb ed="#A" n="10" break="no"/>lecticos qualecunque argumentum fidem 
+      fa<lb ed="#A" n="11" break="no"/>cere dicitur. 
+    </p>
+            <p xml:id="pqir89-e10479-d1e304">
+               <lb ed="#A" n="12"/> Secundum fundamentum est: S 
+      Tho<lb ed="#A" n="13" break="no"/>mam, aliosque Apostolos &amp; fideles, aliud 
+      vi<lb ed="#A" n="14" break="no"/>disse, aliud credidisse: hominem enim 
+      vide<lb ed="#A" n="15" break="no"/>tunt, &amp; Deum crediderunt: h. e. ut ait 
+      <lb ed="#A" n="16"/>Augustinus, Cernebunt hominem viventem 
+      <lb ed="#A" n="17"/>quem viderant morientem, &amp; credebant Deum 
+      <lb ed="#A" n="18"/>in came latentem. &amp; alibi, apparuit inter 
+      ho<lb ed="#A" n="19" break="no"/>mines homo, offerens Hominem videntibus,  
+      <lb ed="#A" n="20"/>Deum servans credentibus. 
+      <lb ed="#A" n="21"/>CS Tertium fundamentum: Fides dicitur 
+      <lb ed="#A" n="22"/>assensus inevidens: item dicitur esse τον &amp; 
+      SMe<lb ed="#A" n="23" break="no"/>oroμuoν, non quod ea quae creduntor, omnino 
+      <lb ed="#A" n="24"/>ine vi dentia sint, &amp; nullo modo videantur, sed 
+      <lb ed="#A" n="25"/>quod quatenus creduntur, ine videntia sint, sen 
+      <lb ed="#A" n="26"/>quod non habeant exidentiam ab eo propter quod 
+      <lb ed="#A" n="27"/>creduntur: In hoc enim differe fides a 
+      scien<lb ed="#A" n="28" break="no"/>tia, quod fundamentum quo nititur scientia, 
+      <lb ed="#A" n="29"/>(h. e. medium demonstrationis) per exidentiam  
+      <lb ed="#A" n="30"/>rei intellectum convincat, causas eius ape¬ 
+      <!--175.xml-->
+      <pb ed="#A" n="156"/>
+               <lb ed="#A" n="1"/>riendo: fundamentum vero quo nititur 
+      fi<lb ed="#A" n="2" break="no"/>des (videlicet Dei authoritas) intellectum  
+      <lb ed="#A" n="3"/>convincat, non per exidentiam rei cui 
+      assen<lb ed="#A" n="4" break="no"/>timur, sed per certitudinem suam &amp; 
+      infalli<lb ed="#A" n="5" break="no"/>bilitatem. Cum igitur munus fidei non sit, 
+      <lb ed="#A" n="6"/>efficere ut res obscurae fiant perspicuae, sed 
+      ef<lb ed="#A" n="7" break="no"/>ficere ut intellectus cedat aut horitati 
+      dicen<lb ed="#A" n="8" break="no"/>tis, &amp; sic assentiatur, manifestum est ea quae 
+      <lb ed="#A" n="9"/>treduntur quatenus creduntur esse 
+      ineviden<lb ed="#A" n="10" break="no"/>tia, seu non habere evidentiam a 
+      fundamen<lb ed="#A" n="11" break="no"/>to suo propter quod creduntur. Vide D. 
+      Pa<lb ed="#A" n="12" break="no"/>reum de Iustificatione, lib. 2. cap. 8. &amp; D. Ric 
+      har<lb ed="#A" n="13" break="no"/>dum Field, de Eccl. lib. 4. cap. S. Caeterum hoc 
+      <lb ed="#A" n="14"/>non impedit, quo minus ea quae creduntur 
+      a<lb ed="#A" n="15" break="no"/>lia ratione evidentia sint, &amp; ex se manifesta 
+      <lb ed="#A" n="16"/>Vel sensibus externis velrationi: sicut enim 
+      <lb ed="#A" n="17"/>una &amp; eadem propsitio, quatenus est 
+      conclu<lb ed="#A" n="18" break="no"/>sio demonstrationis, iudicatur esse necessaria, 
+      <lb ed="#A" n="19"/>&amp; non posse aliter se habere, quatenus vero. 
+      <lb ed="#A" n="20"/>est conclusio probabilis svllogisini, iudicatur 
+      <lb ed="#A" n="21"/>ab eodem homine contingens, &amp; posse aliter 
+      <lb ed="#A" n="22"/>se habere: ita etiam Articuli quidam fidei, 
+      <lb ed="#A" n="23"/>quatenus ab Apostolis sensu percipiebantur, 
+      <lb ed="#A" n="24"/>aut a nobis ratione manifesta 
+      demonstran<lb ed="#A" n="25" break="no"/>tur, evidentiam habent &amp; claritatem: 
+      quate<lb ed="#A" n="26" break="no"/>nus vero ereduntur propter Dei testantis 
+      au<lb ed="#A" n="27" break="no"/>thoritatem, evidentiam illam non habent, &amp; 
+      <lb ed="#A" n="28"/>ob id recte dicuntur &amp; ἀλςτζμλυα.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

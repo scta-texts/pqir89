@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 26</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 26</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="268-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-e19109"><!-- p3a26 -->
+            <head xml:id="pqir89-e19109-Hd1e106">Articulus 26</head>
+            <head xml:id="pqir89-e19109-Hd1e109" type="question-title">
+        Probatur, Theologiam tertio modo 
+        acceptam, hoc est, Theologiam 
+        Scholasticam, esse habitum aggregatum ex 
+        Fide, et Philosophicis disciplinis. 
+      </head>
+            <p xml:id="pqir89-e19109-d1e112">
+               <lb ed="#A" n="17"/>ART. XXVI 
+      <lb ed="#A" n="18"/>Probatur, Theologiam tertio modo 
+        acce<lb ed="#A" n="19" break="no"/>ptam, hoc est, Theologiam 
+      Schola<lb ed="#A" n="20" break="no"/>sticam, esse habitum aggregatum ex 
+      <lb ed="#A" n="21"/>Fide, &amp; Philosophicis disciplinis. 
+    </p>
+            <p xml:id="pqir89-e19109-d1e125">
+               <lb ed="#A" n="22"/>AX iis quae dicta sunt in duobus 
+      praece<lb ed="#A" n="23" break="no"/>Ldentibus Articulis, manifeste sequitur 
+      <lb ed="#A" n="24"/>Theologiam esse habitum a Deo infusum, &amp; 
+      <lb ed="#A" n="25"/>non a nobis ipsis acquisitum: hoc autem 
+      vide<lb ed="#A" n="26" break="no"/>tur esse falsum, &amp; quotidianae experientiae 
+      <!--287.xml-->
+      <pb ed="#A" n="268"/>
+               <lb ed="#A" n="1"/>contrarium: videmus enim Theologiae 
+      habi<lb ed="#A" n="2" break="no"/>tum in adolescentibus non produci 
+      imme<lb ed="#A" n="3" break="no"/>diate a Deo, sed potius per ipsorum 
+      diligen<lb ed="#A" n="4" break="no"/>tiam &amp; indefessum laborem acquiri. Vt 
+      <lb ed="#A" n="5"/>haec difficultas tollatur, tenendum est, in 
+      Theo<lb ed="#A" n="6" break="no"/>logia, primo &amp; secundo modo accepta, duo esse 
+      <lb ed="#A" n="7"/>consideranda. Prius est, informatio seu instructio 
+      <lb ed="#A" n="8"/>mentis de credibilibus, ut loquuntur 
+      Scholasti<lb ed="#A" n="9" break="no"/>ci: hoc est, notitia quam novimus quaenam  
+      <lb ed="#A" n="10"/>dogmata in Scriptura credenda proponantur, 
+      <lb ed="#A" n="11"/>&amp; quaenam dogmata ex Scripturam per 
+      neces<lb ed="#A" n="12" break="no"/>sariam consequentiam colligantur. Posterius 
+      <lb ed="#A" n="13"/>est, inclinatio mentis ad assentiendum illis 
+      credi<lb ed="#A" n="14" break="no"/>bilibus, h. e. frma persuasio de veritate 
+      isto<lb ed="#A" n="15" break="no"/>rum dogmatum. Prior illa notitia non est 
+      in<lb ed="#A" n="16" break="no"/>fusa, sed acquisita nostro labore &amp; diligentia, 
+      <lb ed="#A" n="17"/>videlicet legendo, &amp; relegendo Libros 
+      Pro<lb ed="#A" n="18" break="no"/>pheticos &amp; Apostolicos: at posterior illa 
+      <lb ed="#A" n="19"/>notitia seu persuasio, non est a nobis ipsis,  
+      <lb ed="#A" n="20"/>sed a Deo, qui mentes nostras efficaciter 
+      <lb ed="#A" n="21"/>moret, &amp; inclinat ad assentiendum illis 
+      arti<lb ed="#A" n="22" break="no"/>culis. 
+    </p>
+            <p xml:id="pqir89-e19109-d1e190">
+               <lb ed="#A" n="23"/>2 At alia est ratio Theologiae tertio 
+      mo<lb ed="#A" n="24" break="no"/>do acceptae, vid. pro habitu defensivo, &amp; 
+      eaxe<lb ed="#A" n="25" break="no"/>plicatipo articulorum Fidet. Nam in ea sic 
+      ac<lb ed="#A" n="26" break="no"/>cempta tria sunt considet anda. Primo, 
+      snfor<lb ed="#A" n="27" break="no"/>unatio mentis de credibilibus: Secundo, AEssensus 
+      <lb ed="#A" n="28"/>quem praebemus illis credibilibus, seu articulis 
+      fi<lb ed="#A" n="29" break="no"/>dei: Tertio, Facilitas seu promptitudo explicandi, 
+      <!--288.xml-->
+      <pb ed="#A" n="269"/>
+               <lb ed="#A" n="1"/>defendendi, &amp; confirmandi illos, articulos, 
+      con<lb ed="#A" n="2" break="no"/>tra Haereticos &amp;. alios Ecclesiae hostes. Primus 
+      <lb ed="#A" n="3"/>actus a nostro labore &amp; industria dependet. 
+      <lb ed="#A" n="4"/>secundus est a Deo solo, ut iam dictum est: 
+      <lb ed="#A" n="5"/>at tertia illa, eius pars, nostro etiam labore 
+      <lb ed="#A" n="6"/>&amp; diligentia, comparaturis nam: diligenter 
+      <lb ed="#A" n="7"/>legendo &amp; considerando contioversias 
+      The<lb ed="#A" n="8" break="no"/>ologicas, acquirimus illam promtitudinem 
+      <lb ed="#A" n="9"/>explicandi, :&amp; confirmandi nostram 
+      senten<lb ed="#A" n="10" break="no"/>tiam, &amp; confutandi adgersariorum 
+      doctri<lb ed="#A" n="11" break="no"/>nam.  
+      xvmini<lb ed="#A" n="12" break="no"/>Ti S Hine. patet,: Theologiam tertio modo 
+      <lb ed="#A" n="13"/>acoeptam, non esse unum simplicem habitum: 
+      <lb ed="#A" n="14"/>sed aggregatum ex habitu fidei, seu 
+      Theolo<lb ed="#A" n="15" break="no"/>giae, &amp; Philosophicis disciplinis: illa enim 
+      fa<lb ed="#A" n="16" break="no"/>cilitas explicandi articulos fidei, &amp; de illis 
+      dis<lb ed="#A" n="17" break="no"/>putandi, quam Theologia Scholastica 
+      supperad<lb ed="#A" n="18" break="no"/>dit habitui fidei: di vinaea, nihil aliud estiquam  
+      <lb ed="#A" n="19"/>Dhilosopbia Theologiae applicata, 
+    </p>
+            <p xml:id="pqir89-e19109-d1e254">
+               <lb ed="#A" n="20"/>A Vt autem hoc manifestum fiat, 
+      tenen<lb ed="#A" n="21" break="no"/>dum est, omnes fere Dhilosophiae partes suum 
+      <lb ed="#A" n="22"/>usum habere: in explicatione, &amp; defensione 
+      <lb ed="#A" n="23"/>articulorum fidei: primo enim, beneficio 
+      Lo<lb ed="#A" n="24" break="no"/>gicae Doctores explicant articulos fidei 
+      distin<lb ed="#A" n="25" break="no"/>cte &amp; methodice, debito: ordine 
+      proponen<lb ed="#A" n="26" break="no"/>tes terum. Theologicarum causas, effecta 
+      <lb ed="#A" n="27"/>subiecta, adiuncta: item, solventes 
+      adversa<lb ed="#A" n="28" break="no"/>riorum sophisinata, &amp; solidis rationibus 
+      con<lb ed="#A" n="29" break="no"/>firmantes veram doctrinam: 
+      <!--289.xml-->
+      <pb ed="#A" n="270"/>
+               <lb ed="#A" n="1"/>S Beneficio Metaphysicae explicant 
+      mul<lb ed="#A" n="2" break="no"/>ta Dei attributa, ut immensitatem, 
+      im<lb ed="#A" n="3" break="no"/>mutabilitatem, simplicitatem, 
+      aeternita<lb ed="#A" n="4" break="no"/>tem, &amp;c. eiusdem etiam beneficio probant 
+      <lb ed="#A" n="5"/>haec artributa Deo vere vttribuis &amp; si quae 
+      <lb ed="#A" n="6"/>argumenta in contrarium afferantur, ea 
+      dis<lb ed="#A" n="7" break="no"/>solvunt. 
+    </p>
+            <p xml:id="pqir89-e19109-d1e298">
+               <lb ed="#A" n="8"/>o Beneficio Dhysicae explicant facultates 
+      <lb ed="#A" n="9"/>animae rationalis: idque ut manifestum sit 
+      <lb ed="#A" n="10"/>in qua facultate animae haec vel illa virtus 
+      <lb ed="#A" n="11"/>Theologica sedem habeat. Denique benefi- 
+      <lb ed="#A" n="12"/>cio Ethica explicant virtutes morales, quae in 
+      <lb ed="#A" n="13"/>decalogo praecipiuntur: &amp; vitia eis opposita, 
+      <lb ed="#A" n="14"/>quae ibidem vetantur. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 14</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 14</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="208"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-e14647"><!-- p3a14 -->
+            <head xml:id="pqir89-e14647-Hd1e106">Articulus 14</head>
+            <head xml:id="pqir89-e14647-Hd1e109" type="question-title">
+        An obiectum fidei possit esse falsum
+      </head>
+            <p xml:id="pqir89-e14647-d1e112">
+      <!--227.xml-->
+               <pb ed="#A" n="208"/>
+               <lb ed="#A" n="1"/>ART. XIV 
+      <lb ed="#A" n="2"/>An obiectum fidei possit esse falsum. 
+    </p>
+            <p xml:id="pqir89-e14647-d1e123">
+               <lb ed="#A" n="3"/>sOn desunt, qui asserant obiectum 
+      fi<lb ed="#A" n="4" break="no"/>CNdei posse esse falum, &amp; saepenumero 
+      <lb ed="#A" n="5"/>ea laudabiliter credi, ac pro veris haberi, quae 
+      <lb ed="#A" n="6"/>revera falsa, sunt: exempli gratia, dicunt, 
+      no<lb ed="#A" n="7" break="no"/>bis statuendum esse, Deum velle a nobis id 
+      fie<lb ed="#A" n="8" break="no"/>ri quod nobis praecipit, itemque velle a nobis 
+      <lb ed="#A" n="9"/>omitti quod nos facere vetat. Et tamen (
+      in<lb ed="#A" n="10" break="no"/>quiunt) ille interim saepe di versum vult. Haec 
+      <lb ed="#A" n="11"/>sententia nimis absurda est, &amp; doctorum 
+      vi<lb ed="#A" n="12" break="no"/>rorum patrocinio indigna. Primo enim lex 
+      <lb ed="#A" n="13"/>di vina nusquam iubet nos errare: Ergo 
+      nus<lb ed="#A" n="14" break="no"/>quam iubet fidem adhibere falsis, &amp; proinde 
+      <lb ed="#A" n="15"/>non tenemur credere falsa. Ratio 
+      consequen<lb ed="#A" n="16" break="no"/>tiae est, quia credere falsa, seu falsa pro veris 
+      <lb ed="#A" n="17"/>habere, est errare. Probatur antecedens: Lex 
+      <lb ed="#A" n="18"/>divina nihil praecipit aut mandat, quod est 
+      <lb ed="#A" n="19"/>contrarium naturae divinae: at error seu 
+      fal<lb ed="#A" n="20" break="no"/>fus assensus repugnat, &amp; contrariatur 
+      natu<lb ed="#A" n="21" break="no"/>rae Dei, qui ipsa veritas est. 
+      <lb ed="#A" n="22"/>a2 Secundo, ea sola credenda sunt, quae 
+      <lb ed="#A" n="23"/>Deus in verbo suo testatur esse vera: at Deus  
+      <lb ed="#A" n="24"/>in verbo suo non testatur falsa esse vera: 
+      Er<lb ed="#A" n="25" break="no"/>go falsa non sunt credenda. Ratio 
+      proposi<lb ed="#A" n="26" break="no"/>tionis est, quia fides est assensus nitens Dei 
+      <lb ed="#A" n="27"/>testimonio. Assumptio satis manifesta est, &amp; 
+      <lb ed="#A" n="28"/>a nullo negari potest. 
+    </p>
+            <p xml:id="pqir89-e14647-d1e182">
+      <!--228.xml-->
+               <pb ed="#A" n="209"/>
+               <lb ed="#A" n="1"/>S Tertio, si per veram &amp; voluntati 
+      Di<lb ed="#A" n="2" break="no"/>vinae conformem fidem falsis 
+      assenti<lb ed="#A" n="3" break="no"/>mur: sides divina aliquando est error: at 
+      ab<lb ed="#A" n="4" break="no"/>surdum est posterius: Ergo &amp; prius. 
+      Proba<lb ed="#A" n="5" break="no"/>tur propositio, quia assentiri falsis, eaque pro 
+      <lb ed="#A" n="6"/>veris amplecti, est errare. Assumptio 
+      mani<lb ed="#A" n="7" break="no"/>festa est, quia fides Divina &amp; error sunt 
+      ha<lb ed="#A" n="8" break="no"/>bitus non solum essentialiter distincti, sed 
+      re<lb ed="#A" n="9" break="no"/>pugnantes &amp; contrarii, &amp; proinde horum 
+      al<lb ed="#A" n="10" break="no"/>ter alteri attribui non potest. Vide Tilenum 
+      <lb ed="#A" n="11"/>parte prima Sontag. disp. S8. 
+    </p>
+            <p xml:id="pqir89-e14647-d1e214">
+               <lb ed="#A" n="12"/>A Ob. Statuendum est nobis &amp; 
+      creden<lb ed="#A" n="13" break="no"/>dum, Deum velle id a nobis fieri, quod 
+      no<lb ed="#A" n="14" break="no"/>bis praecipit, &amp; tamen ille interim saepe 
+      di<lb ed="#A" n="15" break="no"/>versum vult: Ergo quaedam falsa sunt 
+      cre<lb ed="#A" n="16" break="no"/>denda. Probatur antecedens: Praeceptum 
+      <lb ed="#A" n="17"/>Dei est signum voluntatis divinae: ideo enim 
+      <lb ed="#A" n="18"/>appellatur voluntas signi, &amp; voluntas 
+      revela<lb ed="#A" n="19" break="no"/>ta: quare cum omne signum conforme sit 
+      <lb ed="#A" n="20"/>signato, nobis statuendum est Deum revera 
+      <lb ed="#A" n="21"/>ea velle, quae nobis praecipit, attamen ille 
+      re<lb ed="#A" n="22" break="no"/>vera non vult ea fieri: si enim vellet ea fieri, 
+      <lb ed="#A" n="23"/>necessarioevenirent. Vt haec difficultas 
+      tol<lb ed="#A" n="24" break="no"/>latur, tenendum est, Praeceptum Dei 
+      appel<lb ed="#A" n="25" break="no"/>lari signum voluntatis, non quod significet 
+      abso<lb ed="#A" n="26" break="no"/>lutam voluntatem procurandi aut efficiendi 
+      <lb ed="#A" n="27"/>ut res praecepta fiat, sed quod indicet (ut. 
+      lo<lb ed="#A" n="28" break="no"/>quitur δuareg. lib. 2. de Deo, cap. S. 
+      Vvolun<lb ed="#A" n="29" break="no"/>tatem praecipiendi, &amp; obligandi homines ad ea 
+      <lb ed="#A" n="30"/>facienda, simul cum affectu simplicis approbatio¬ 
+      <!--229.xml-->
+      <pb ed="#A" n="210"/>
+               <lb ed="#A" n="1"/>nis: duo igitur indieat seu significat omne 
+      <lb ed="#A" n="2"/>praeceptum Dei: primo, voluntatem obligandi 
+      <lb ed="#A" n="3"/>homines ad ea facienda, quae praecipit: secundo, 
+      <lb ed="#A" n="4"/>voluntatem approbantem seu approbati vam,  
+      <lb ed="#A" n="5"/>qua approbat &amp; amat bonos illos actus, quos 
+      <lb ed="#A" n="6"/>a nobis exigit: voluntas autem decretiva, seu 
+      <lb ed="#A" n="7"/>absoluta &amp; efficax, nequaquam indicatur 
+      <lb ed="#A" n="8"/>seu manifestatur perrmandata legis divinae, 
+      <lb ed="#A" n="9"/>&amp; proinde non tenemur credere Deum velle 
+      <lb ed="#A" n="10"/>ea a nobis fieri voluntate efficaci, quae nobis 
+      <lb ed="#A" n="11"/>in verbo praecipit. 
+    </p>
+            <p xml:id="pqir89-e14647-d1e286">
+               <lb ed="#A" n="12"/>ga Secundo tenendum est, ea omnia quae 
+      <lb ed="#A" n="13"/>Deus vult voluntate decretiva seu efficaci, 
+      ne<lb ed="#A" n="14" break="no"/>cessario exenire, ea vero quae vult voluntate 
+      <lb ed="#A" n="15"/>simplicis approbationis, saepissime non exenires 
+      <lb ed="#A" n="16"/>vult enim omnes homines obedire legi: suae, 
+      <lb ed="#A" n="17"/>voluntate simplicis approbationis, attamen 
+      <lb ed="#A" n="18"/>hoc non evenit ut experientia docet. His 
+      <lb ed="#A" n="19"/>positis, ad argumentum propositum 
+      respon<lb ed="#A" n="20" break="no"/>detur, distinguendo utramque partem 
+      ante<lb ed="#A" n="21" break="no"/>cedentis. Prima eius pars sic distingui potest. 
+      <lb ed="#A" n="22"/>statuendum est nobis Deum velle ea omnia a 
+      <lb ed="#A" n="23"/>nobis fieri, quae praecipit, velle (inquam) 
+      vo<lb ed="#A" n="24" break="no"/>luntate approbativa: non uero decreti va &amp; 
+      <lb ed="#A" n="25"/>efficaci: pars etiam, secunda eodem modo 
+      di<lb ed="#A" n="26" break="no"/>stinguenda est: Deus enim ea quae: praecipit, 
+      <lb ed="#A" n="27"/>non semper vult fieri voluntate decretina, 
+      sem<lb ed="#A" n="28" break="no"/>per tamen vult ea fieri voluntate approbativa. 
+      <lb ed="#A" n="29"/>Quare cum nobis tantum statuendum sit, 
+      <lb ed="#A" n="30"/>Deum: velle ea quae praecipit voluntate sim¬ 
+      <!--230.xml-->
+      <pb ed="#A" n="211"/>
+               <lb ed="#A" n="1"/>plicis approbationis, quod procul dubio 
+      <lb ed="#A" n="2"/>semper verum est, manifestum est nunquam  
+      <lb ed="#A" n="3"/>incumbere nobis necessitatem credendi falsa, 
+      <lb ed="#A" n="4"/>seu falsa pro veris amplectendi. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

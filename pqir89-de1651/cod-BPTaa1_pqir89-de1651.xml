@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 6</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 6</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="24-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-de1651"><!-- p1a6 -->
+            <head xml:id="pqir89-de1651-Hd1e106">Articulus 6</head>
+            <head xml:id="pqir89-de1651-Hd1e109" type="question-title">
+      An in creaturis suppositum, et singularus 
+      eius natura, re differant.
+    </head>
+            <p xml:id="pqir89-de1651-d1e112">
+               <lb ed="#A" n="8"/>ART. VI 
+      <lb ed="#A" n="9"/>An in creaturis suppositum, &amp; singularus 
+      <lb ed="#A" n="10"/>eius natura, re differant.
+    </p>
+            <p xml:id="pqir89-de1651-d1e121">
+               <lb ed="#A" n="11"/>(On statui, hic eventilare celebrem 
+      <lb ed="#A" n="12"/>Nillam controversiam, de discrimine 
+      <lb ed="#A" n="13"/>&amp; diversitate essentiae ab existentia: utrum 
+      <lb ed="#A" n="14"/>ridelicet sit realis, an vero solius rationis: ea 
+      <lb ed="#A" n="15"/>enim quaestio nullam habet utilitatem in 
+      <lb ed="#A" n="16"/>Theologia, &amp; spinosior est, &amp; difficilior, quam  
+      <lb ed="#A" n="17"/>ut ab iis capi possit, qui in Metaphysica rudes,  
+      <lb ed="#A" n="18"/>ac tirones sunt. De discrimine tamen 
+      subsi<lb ed="#A" n="19" break="no"/>stentiae, &amp; naturae seu essentiae, pauca dicam: 
+      <lb ed="#A" n="20"/>stius enim quaestionis determinatio insignem 
+      <lb ed="#A" n="21"/>usum habet in Theologia. 
+    </p>
+            <p xml:id="pqir89-de1651-d1e147">
+               <lb ed="#A" n="22"/>2 Duobus modis proponi solet haec 
+      quae<lb ed="#A" n="23" break="no"/>stio. Primo, sic, Vtrum in suppositis creatis,  
+      <lb ed="#A" n="24"/>subsi stentia sit aliquid positivum, &amp; realiter 
+      <lb ed="#A" n="25"/>distinctum ab essentia singulari, cui 
+      superad<lb ed="#A" n="26" break="no"/>dita est, an vero non sit. Secundo, sics v. 
+      <lb ed="#A" n="27"/>trum suppositum, &amp; singularis eius natura, re 
+      <!--41.xml-->
+      <pb ed="#A" n="24"/>
+               <lb ed="#A" n="1"/>differant: e. g. utrum Petrus, &amp; singularis 
+      e<lb ed="#A" n="2" break="no"/>ius natura humana, revera idem sint. an vero 
+      <lb ed="#A" n="3"/>Petrus, qua Petrus, includat aliquid reale, &amp; 
+      <lb ed="#A" n="4"/>realiter diversum a singulari eius natura. Sire 
+      <lb ed="#A" n="5"/>hoc, sive illo modo proponatur quaestio, 
+      ea<lb ed="#A" n="6" break="no"/>dem controversia est, ideoque breviter 
+      re<lb ed="#A" n="7" break="no"/>spondeo, Petrum, &amp; singularem eius 
+      natu<lb ed="#A" n="8" break="no"/>ram, realiter differre, tanquam includens &amp; 
+      <lb ed="#A" n="9"/>inclusum, seu tanquam compositum &amp; 
+      prin<lb ed="#A" n="10" break="no"/>cipium eius constitutivum: suppositum enim 
+      <lb ed="#A" n="11"/>omne creatum, ut Petrus, includit naturam  
+      <lb ed="#A" n="12"/>fingularem, &amp; aliquid ei superadditum, 
+      subsi<lb ed="#A" n="13" break="no"/>stentiam nimirum: vel sut planius dicam )
+      o<lb ed="#A" n="14" break="no"/>mne suppositum creatum est realiter 
+      compo<lb ed="#A" n="15" break="no"/>situm ex essentia singulari &amp; subsistentia ei 
+      <lb ed="#A" n="16"/>superaddita, quam nonnulli suppositalitatem,  
+      <lb ed="#A" n="17"/>alii personalitatem vocant. Si igitur 
+      compa<lb ed="#A" n="18" break="no"/>remus suppositum ad naturam singularem,  
+      <lb ed="#A" n="19"/>distinguuntur ut totum &amp; pars, at si 
+      com<lb ed="#A" n="20" break="no"/>parationem instuamus inter naturam ipsam  
+      <lb ed="#A" n="21"/>singularem, &amp; subsistentiam, ut inter 
+      singula<lb ed="#A" n="22" break="no"/>rem naturam humanam Petri, &amp; Petri 
+      subsi<lb ed="#A" n="23" break="no"/>stentiam, seu personalitatem, tum inter se 
+      <lb ed="#A" n="24"/>contradistinguuntur, tanquam duo extrema 
+      <lb ed="#A" n="25"/>componentia suppositum illud creatum, 
+      Pe<lb ed="#A" n="26" break="no"/>trum videlicet. Vt autem haec sententia 
+      stabi<lb ed="#A" n="27" break="no"/>liatur, primo probandum est, subsistentiam,  
+      <lb ed="#A" n="28"/>seu suppositalitatem, non esse meram 
+      nega<lb ed="#A" n="29" break="no"/>tionem, ut opinatur ecotus, sed esse positi vum  
+      <lb ed="#A" n="30"/>quid, simul cum natura singulari constituens 
+      <!--42.xml-->
+      <pb ed="#A" n="25"/>
+               <lb ed="#A" n="1"/>Petrum, quatenus est suppositum. Secundo, 
+      <lb ed="#A" n="2"/>positi vum illud, non ratione sola, sed realiter 
+      <lb ed="#A" n="3"/>differre a natura singulari, cum qua constituit 
+      <lb ed="#A" n="4"/>Petrum: inde autem manifeste inferam, 
+      Pe<lb ed="#A" n="5" break="no"/>trum realiter differre a fingulari sua naturam 
+      <lb ed="#A" n="6"/>humana, eiusque naturam humanam, vere &amp; 
+      <lb ed="#A" n="7"/>proprie dici in eo esse. Si enim Petrus, 
+      qua<lb ed="#A" n="8" break="no"/>tenus est Petrus, seu quatenus est particularis 
+      <lb ed="#A" n="9"/>quaedam persona humana, haec duo, i. e. 
+      huma<lb ed="#A" n="10" break="no"/>nitatem singularem, &amp; personalitatem suam,  
+      <lb ed="#A" n="11"/>tanquam duo principia constitutipa, re 
+      distin<lb ed="#A" n="12" break="no"/>cta, includat: necesse est eius humanitatem  
+      <lb ed="#A" n="13"/>singularem re ab ipso differre, &amp; tam vere 
+      <lb ed="#A" n="14"/>esse in eo, quam aut materia, aut forma ipsius 
+      <lb ed="#A" n="15"/>in eo esse dicitur. 
+    </p>
+            <p xml:id="pqir89-de1651-d1e270">
+               <lb ed="#A" n="16"/>S Scotus, in 2. Sent. dist. I. qu. I dicit, omne 
+      <lb ed="#A" n="17"/>suppositum, praeter naturam singularem, 
+      in<lb ed="#A" n="18" break="no"/>cludere etiam subsistentiam: sed asserit, 
+      subsi<lb ed="#A" n="19" break="no"/>stentiam esse meram negationem 
+      aptitudi<lb ed="#A" n="20" break="no"/>nis, seu potentiae essendi in alio supposito: 
+      na<lb ed="#A" n="21" break="no"/>turae enim singulares, habent potentiam 
+      exi<lb ed="#A" n="22" break="no"/>stendi in supposito: at ipsum suppositum, ut 
+      <lb ed="#A" n="23"/>Petrus, in nullo alio supposito esse potest, 
+      id<lb ed="#A" n="24" break="no"/>eoque ex eius sententia suppositum, qua tale 
+      <lb ed="#A" n="25"/>est, constituitur per negationem huius 
+      poten<lb ed="#A" n="26" break="no"/>tiae existendi in supposito. Haec sententia 
+      me<lb ed="#A" n="27" break="no"/>rito reficitur a Francisco, δuareg, disp. Met. 
+      84<lb ed="#A" n="28" break="no"/>sect. a2. Primo, quia subsistentia, quam 
+      suppo<lb ed="#A" n="29" break="no"/>situm addit naturae sinoulari est 
+      perfectio<lb ed="#A" n="30" break="no"/>luaedam substantialis: sed mera negatio non 
+      <!--43.xml-->
+      <pb ed="#A" n="26"/>
+               <lb ed="#A" n="1"/>potest esse perfectio substantialis, ergo mera 
+      <lb ed="#A" n="2"/>negatio non est subsistentia. Secundo, si 
+      sub<lb ed="#A" n="3" break="no"/>sistentia, aut personalitas, sit mera negatio,  
+      <lb ed="#A" n="4"/>tres personae Trinitatis in suo esse personali 
+      <lb ed="#A" n="5"/>constituentur &amp; a se invicem distinguentur 
+      <lb ed="#A" n="6"/>per solam negationem: distinguuntur enim 
+      <lb ed="#A" n="7"/>per suas subsistentias, aut personalitates: sed 
+      <lb ed="#A" n="8"/>hoc est absurdum, &amp; mysterium Trinitatis 
+      pla<lb ed="#A" n="9" break="no"/>ne destruit: Ergo subsistentia non est mera 
+      ne<lb ed="#A" n="10" break="no"/>gatio, sed positivum aliquid essentiae singulari 
+      <lb ed="#A" n="11"/>superadditum, ad constituendum suppositum: 
+    </p>
+            <p xml:id="pqir89-de1651-d1e333">
+               <lb ed="#A" n="12"/>A lam probandum est contra Durandum, 
+      <lb ed="#A" n="13"/>in I, sent. dist. 34. subsistentiam esse quid 
+      rea<lb ed="#A" n="14" break="no"/>liter diversum ab essentia, seu natura 
+      singula<lb ed="#A" n="15" break="no"/>ri creatarum substantiarum(nam de Deo 
+      lon<lb ed="#A" n="16" break="no"/>ge aliter sentiendum est, )illud autem 
+      perspi<lb ed="#A" n="17" break="no"/>cue ostenditur hac ratione: Nον&amp; assumpsit 
+      <lb ed="#A" n="18"/>naturam humanam singularem, non autem  
+      <lb ed="#A" n="19"/>assumpsit suppositum humanum, seu 
+      perso<lb ed="#A" n="20" break="no"/>nam humanam, sic enim non esset una 
+      sim<lb ed="#A" n="21" break="no"/>plex persona, sed gemina: Ergo suppositum 
+      <lb ed="#A" n="22"/>humanum, &amp; singularis eius natura sunt re 
+      <lb ed="#A" n="23"/>di versa, ideoque revera aliquid includitur in 
+      <lb ed="#A" n="24"/>supposito humano, praeter eius naturam 
+      sin<lb ed="#A" n="25" break="no"/>gularem : hoc autem non potest esse aliud, 
+      <lb ed="#A" n="26"/>quam subsistentia, seu perso nalitas. 
+    </p>
+            <p xml:id="pqir89-de1651-d1e368">
+               <lb ed="#A" n="27"/>S Haec ratio etiam sic proponi solet: quae 
+      <lb ed="#A" n="28"/>possunt separari realiter, ea non sunt realiter 
+      <lb ed="#A" n="29"/>idem: at subsistentia separari potest a singulari 
+      <lb ed="#A" n="30"/>natura: Ergo non sunt realiter ide quid. Pro¬ 
+      <!--44.xml-->
+      <pb ed="#A" n="27"/>
+               <lb ed="#A" n="1"/>batur assumptio: κον&amp; assumpsit singularem  
+      <lb ed="#A" n="2"/>naturam humanam: at non assumpsit 
+      perso<lb ed="#A" n="3" break="no"/>nalitatem, aut subsistentiam humanam, ut 
+      fa<lb ed="#A" n="4" break="no"/>tentur omnes Theologi: Ergo separari 
+      pos<lb ed="#A" n="5" break="no"/>sunt. Haec ratio non solum probat 
+      subsisten<lb ed="#A" n="6" break="no"/>tiam re differre a natura specifica, quae 
+      com<lb ed="#A" n="7" break="no"/>munis est omnibus individuis, sed etiam a 
+      <lb ed="#A" n="8"/>natura individuali, seu singulari, ideoque 
+      a<lb ed="#A" n="9" break="no"/>perte falsam esse eorum sententiam, qui 
+      di<lb ed="#A" n="10" break="no"/>cunt subsistentiam aut personalitatem Petri 
+      <lb ed="#A" n="11"/>esse eius differentiam individualem: Christus 
+      <lb ed="#A" n="12"/>enim non assumpsit naturam humanam in 
+      <lb ed="#A" n="13"/>communi, sed humanitatem singularem: at 
+      <lb ed="#A" n="14"/>non assumpsit singularem personam: revera 
+      <lb ed="#A" n="15"/>igitur, singularis persona differt a singulari 
+      <lb ed="#A" n="16"/>natura, &amp; aliquid includit, quod non 
+      inclu<lb ed="#A" n="17" break="no"/>ditur in natura singularis subsistentiam 
+      nimi<lb ed="#A" n="18" break="no"/>rum, &amp; personalitatem: 
+    </p>
+            <p xml:id="pqir89-de1651-d1e423">
+               <lb ed="#A" n="19"/>o Duabus his rationibus perspicue 
+      proba<lb ed="#A" n="20" break="no"/>tur, suppositum omne, praeter singularem  
+      <lb ed="#A" n="21"/>suam naturam, includere positivum aliquid, 
+      <lb ed="#A" n="22"/>realiter ab ea natura distinctum, nimirum  
+      <lb ed="#A" n="23"/>subsistentiam : &amp; ob id, suppositum omne 
+      cre<lb ed="#A" n="24" break="no"/>atum, esse realiter compositum ex singulari 
+      <lb ed="#A" n="25"/>sua natura, &amp; subsistentia, quam alii 
+      supposi<lb ed="#A" n="26" break="no"/>talitatem vocant. Dicet aliquis: si subsistentia 
+      <lb ed="#A" n="27"/>sit aliquid reale, re distinctum ab essentia, vel 
+      <lb ed="#A" n="28"/>est materia, vel forma, vel ipsum 
+      composi<lb ed="#A" n="29" break="no"/>tum, vel aliquod eius accidens. Resp. illud, 
+      <lb ed="#A" n="30"/>quod in constitutione suppositi superadditur 
+      <!--45.xml-->
+      <pb ed="#A" n="28"/>
+               <lb ed="#A" n="1"/>naturae singulari, non esse Ens aliquod 
+      pro<lb ed="#A" n="2" break="no"/>prie, sed modum Entis: ideoque neque esse 
+      <lb ed="#A" n="3"/>materiam, neque formam, neque 
+      composi<lb ed="#A" n="4" break="no"/>tum, neque eius accidens. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

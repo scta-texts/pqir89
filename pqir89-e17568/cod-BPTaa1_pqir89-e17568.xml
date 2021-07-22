@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 21</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 21</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="247"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-e17568"><!-- p3a21 -->
+            <head xml:id="pqir89-e17568-Hd1e106">Articulus 21</head>
+            <head xml:id="pqir89-e17568-Hd1e109" type="question-title">
+        An et quatenus fides ad voluntatem per¬ 
+        tineat.
+      </head>
+            <p xml:id="pqir89-e17568-d1e112">
+      <!--266.xml-->
+               <pb ed="#A" n="247"/>
+               <lb ed="#A" n="1"/>ART. XXI 
+      <lb ed="#A" n="2"/>An &amp; quatenus fides ad voluntatem per¬ 
+      <lb ed="#A" n="3"/>tineat. 
+    </p>
+            <p xml:id="pqir89-e17568-d1e125">
+               <lb ed="#A" n="4"/>
+               <ref xml:id="pqir89-e17568-Rd1e129">VAVtielmus Estius, in Zib. 2. Sent. Dist. 
+      <lb ed="#A" n="5"/>22.</ref> dicit, fidem partim intellectus 
+      es<lb ed="#A" n="6" break="no"/>se, partim voluntatis: intellectus quidem  
+      <lb ed="#A" n="7"/>tanquam subiecti &amp; propriae potentiae: ipsum 
+      <lb ed="#A" n="8"/>namque credere, seu assentiri, est actus 
+      co<lb ed="#A" n="9" break="no"/>gnitinae partis: voluntatis vero, quia ab ea 
+      de<lb ed="#A" n="10" break="no"/>pendet tanquam ab imperante, &amp; consentiente 
+      <lb ed="#A" n="11"/>principio: Cum enim (inquit) humanae menti 
+      <lb ed="#A" n="12"/>proprium sit ratione discutere, &amp; exuminare 
+      sit<lb ed="#A" n="13" break="no"/>ne rebus propositis assentiendum an non: ea 
+      ve<lb ed="#A" n="14" break="no"/>ro quae ad religionem pertinent talia fere sint, 
+      <lb ed="#A" n="15"/>quae rationis examen non admittant, utpote 
+      qu<lb ed="#A" n="16" break="no"/>dicio humanae sapientiae ut plurimum 
+      improbabi<lb ed="#A" n="17" break="no"/>lia, ut docet <ref xml:id="pqir89-e17568-Rd1e160">Apost. I. ad Cor. Cap. I. 
+      Vers<lb ed="#A" n="18" break="no"/>T&amp;.</ref> profecto vel nunquam, vel raro intellectus 
+      <lb ed="#A" n="19"/>noster rebus hiqusmodi acquiesceret nisi 
+      volun<lb ed="#A" n="20" break="no"/>tatis imperio &amp; inclinatione in assensum 
+      ducere<lb ed="#A" n="21" break="no"/>tur, &amp; ut Apost. loquitur, <ref xml:id="pqir89-e17568-Rd1e172">2. Cor. Cap. Io</ref>
+               <lb ed="#A" n="22"/>in captivitatem redigeretur, in obsequium seu 
+      o<lb ed="#A" n="23" break="no"/>bedientiam Christi. Necessaria est igitur 
+      intel<lb ed="#A" n="24" break="no"/>lectui in credendo haec benigna voluntatis 
+      incli<lb ed="#A" n="25" break="no"/>natio, ium ut ad eas rationes se conpertat, quae 
+      <lb ed="#A" n="26"/>fidem gignant, aiutriantque, vel saltem ostendant 
+      <lb ed="#A" n="27"/>id quod creditur non esse absurdum, tum ut eas 
+      <!--267.xml-->
+      <pb ed="#A" n="248"/>
+               <lb ed="#A" n="1"/>reficiat, quae assensum impedire, aut remorari 
+      pos<lb ed="#A" n="2" break="no"/>sunt, unde de Abrahamo dicitur, <ref xml:id="pqir89-e17568-Rd1e197">Rom. 4.</ref> quod 
+      <lb ed="#A" n="3"/>non considera vit corpus suum emoriuum, &amp;c. Est 
+      <lb ed="#A" n="4"/>igitur assensus fidei ex consequenti etiam. 
+      volun<lb ed="#A" n="5" break="no"/>tatis actus, nimirum a voluntate imperatus, tum 
+      <lb ed="#A" n="6"/>quoad eius initium, tum quoad eius 
+      continuatio<lb ed="#A" n="7" break="no"/>nem. Hactenus Esthius. 
+    </p>
+            <p xml:id="pqir89-e17568-d1e211">
+               <lb ed="#A" n="8"/>a Dauiel Tilenus, Syntag. part. 2. Disp. 
+      <lb ed="#A" n="9"/>Ao. dicit, salpificam fidem esse subiectixe in 
+      so<lb ed="#A" n="10" break="no"/>lo intellectu, Eεgνηλκῶς vero seu effectire 
+      <lb ed="#A" n="11"/>pertinere ad voluntatem, quatenus eam mones 
+      <lb ed="#A" n="12"/>&amp; adficit: quemadmodum scientia qua bonum 
+      <lb ed="#A" n="13"/>a malo, internoscimus, subiectine inest menti, 
+      <lb ed="#A" n="14"/>voluntati effectipe cum imperat aut elicit 
+      actio<lb ed="#A" n="15" break="no"/>nes, quas ratio dictat. Haec sententia differt 
+      <lb ed="#A" n="16"/>ab opinione Esthit, quia non refert fidem  
+      <lb ed="#A" n="17"/>ad voluntatem ratione originis suae, sed 
+      ra<lb ed="#A" n="18" break="no"/>tiono fructus quem ex directione fidei capit 
+      <lb ed="#A" n="19"/>voluntas, nam illuminationem fidei in 
+      men<lb ed="#A" n="20" break="no"/>te sequitur renovatio &amp; emollitio 
+      volunta<lb ed="#A" n="21" break="no"/>tis. 
+    </p>
+            <p xml:id="pqir89-e17568-d1e245">
+               <lb ed="#A" n="22"/>S David Pareus, in Lib. I. de 
+      lustificatio<lb ed="#A" n="23" break="no"/>ne, Cap. 6. dicit, Fidem non solum effectire, 
+      <lb ed="#A" n="24"/>sed etiam subiective esse in voluntate, saltem  
+      <lb ed="#A" n="25"/>quoad postremum eius actum, videlicet fiduciam: 
+      <lb ed="#A" n="26"/>quam vis enim notitia &amp; assensus sint in 
+      so<lb ed="#A" n="27" break="no"/>lo intellectu, Aducia tamen ex, eius 
+      senten<lb ed="#A" n="28" break="no"/>tia formaliter est in voluntate, tanquam in 
+      <lb ed="#A" n="29"/>subiecto. 
+      <!--268.xml-->
+      <pb ed="#A" n="249"/>
+               <lb ed="#A" n="1"/>ae Proposita iam sententiarum varietate, 
+      <lb ed="#A" n="2"/>meam mentem assertionibus aliquot 
+      propo<lb ed="#A" n="3" break="no"/>nam. Prima sit haec: Non est anxie 
+      litigan<lb ed="#A" n="4" break="no"/>dum de subiecto fidei: sive enim dicamus eam  
+      <lb ed="#A" n="5"/>esse in intellectu, sive in voluntate, 
+      tan<lb ed="#A" n="6" break="no"/>quam in subiecto, nihil detrimenti capiet 
+      <lb ed="#A" n="7"/>nostra sententia, quae asserit fiduciam 
+      spe<lb ed="#A" n="8" break="no"/>cialis misericordiae esse fidei actum. Dicet 
+      a<lb ed="#A" n="9" break="no"/>liquis: Bellarminus ex eo colligit fiduciam non 
+      <lb ed="#A" n="10"/>esse fidei actum, quod fiducia ad voluntatem, 
+      fi<lb ed="#A" n="11" break="no"/>des ad intellectum pertineat. Respond. 
+      Bel<lb ed="#A" n="12" break="no"/>larminum asserere quidem, sed nondum 
+      pro<lb ed="#A" n="13" break="no"/>basse fiduciam esse voluntatis actum. <ref xml:id="pqir89-e17568-Rd1e297">vide 
+      <lb ed="#A" n="14"/>Art. I2</ref> 
+            </p>
+            <p xml:id="pqir89-e17568-d1e303">
+               <lb ed="#A" n="15"/>S Secunda assert. Fides est in solo intellectu 
+      <lb ed="#A" n="16"/>proprie, subiective, &amp; respectu suae essentiae, ut 
+      <lb ed="#A" n="17"/>loquitur Tilenus. Ratio huius assertionis est,  
+      <lb ed="#A" n="18"/>quia non solum notitia, &amp; assensus, sed etiam  
+      <lb ed="#A" n="19"/>fiducia in intellectu existit: ut <ref xml:id="pqir89-e17568-Rd1e316">probatum est 
+      <lb ed="#A" n="20"/>Art. I9.</ref> &amp; per consequens tota fides est in 
+      <lb ed="#A" n="21"/>intellectu. 
+    </p>
+            <p xml:id="pqir89-e17568-d1e324">
+               <lb ed="#A" n="22"/>&amp; Tertia assert. Quamvis fides in solo 
+      in<lb ed="#A" n="23" break="no"/>tellectu tanquam in subiecto existat, non est 
+      <lb ed="#A" n="24"/>ideo putandum, fidei habitum esse speculativum, 
+      <lb ed="#A" n="25"/>&amp; quasi otiosum, tum quia eius finis est τ
+      ee<lb ed="#A" n="26" break="no"/>ξiς, nam per charitatem operatur, S. Gal. vers. 
+      o<lb ed="#A" n="27" break="no"/>tum quia ad voluntatem variis modis 
+      perti<lb ed="#A" n="28" break="no"/>net, licet proprie &amp; subiective in eam non 
+      exi<lb ed="#A" n="29" break="no"/>stat. Atque hinc est, quod fides in S. Scriptura. 
+      <!--269.xml-->
+      <pb ed="#A" n="250"/>
+               <lb ed="#A" n="1"/>saepe cordi attribuatur, ut <ref xml:id="pqir89-e17568-Rd1e350">Rom. Io. Versi 9. &amp; 
+      <lb ed="#A" n="2"/>Io.</ref> 
+               <quote xml:id="pqir89-e17568-Qd1e355">Si tu credideris in cordetuo</quote>, &amp;c. &amp;, <quote xml:id="pqir89-e17568-Qd1e358">Corde 
+      <lb ed="#A" n="3"/>creditur ad iustitiam</quote>, &amp;c. 
+    </p>
+            <p xml:id="pqir89-e17568-d1e364">
+               <lb ed="#A" n="4"/> Quart. assert. Fides ad voluntatem 
+      per<lb ed="#A" n="5" break="no"/>tinet, primo ratione originis, secundo 
+      ratio<lb ed="#A" n="6" break="no"/>ne actus annexi, tertio ratione fructuum, qui 
+      <lb ed="#A" n="7"/>ex fide in voluntate nascuntur: pertinet ad 
+      <lb ed="#A" n="8"/>eam ratione originis, quia intellectus noster 
+      <lb ed="#A" n="9"/>pia voluntatis inclinatione, &amp; imperio, ad 
+      as<lb ed="#A" n="10" break="no"/>sentiendum movetur, &amp; in captivitatem 
+      re<lb ed="#A" n="11" break="no"/>digitur: unde assensus fidei appellari, solet 
+      <lb ed="#A" n="12"/>actus imperatus a voluntate, item 
+      denomi<lb ed="#A" n="13" break="no"/>nari solet voluntarius &amp; liber actus, videlicet 
+      <lb ed="#A" n="14"/>quia dependet a principio libere agente, h. 
+      e<lb ed="#A" n="15" break="no"/>a voluntate: atque hinc est quod dixit 
+      Au<lb ed="#A" n="16" break="no"/>gustinus, nem inem credere nisi volentem: 
+      per<lb ed="#A" n="17" break="no"/>tinet etiam fides ad voluntatem ratione actus 
+      <lb ed="#A" n="18"/>annexi &amp; concomitantis: nam eo ipso 
+      instan<lb ed="#A" n="19" break="no"/>ti, quo fides in intellectu assentitur 
+      Euangeli<lb ed="#A" n="20" break="no"/>cis promissionibus, easque certo &amp; stabili 
+      qu<lb ed="#A" n="21" break="no"/>dicio sibi applicat, voluntas ardenti amore 
+      <lb ed="#A" n="22"/>gratiam &amp; favorem Dei amplectitur: denique 
+      <lb ed="#A" n="23"/>pertinet ad eam ratione fructuum &amp; 
+      operatio<lb ed="#A" n="24" break="no"/>num, quia (ut dictum est) illuminationem 
+      <lb ed="#A" n="25"/>fidei in mente sequitur sanctificatio &amp; 
+      emol<lb ed="#A" n="26" break="no"/>litio voluntatis.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

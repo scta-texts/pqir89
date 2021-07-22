@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 1</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 1</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="144"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-de9798"><!-- p3a1 -->
+            <head xml:id="pqir89-de9798-Hd1e106">Articulus 1</head>
+            <head xml:id="pqir89-de9798-Hd1e109" type="question-title">
+        De firmitate, certitudine, et evidentia 
+        assensuum mentis nostrae.
+      </head>
+            <p xml:id="pqir89-de9798-d1e112">
+      <!--163.xml-->
+               <pb ed="#A" n="144"/>
+               <lb ed="#A" n="1"/>EXERCITATIO 
+      <lb ed="#A" n="2"/>TERTIA 
+      <lb ed="#A" n="3"/>De Fide, Scientia, &amp; opintone. 
+    </p>
+            <p xml:id="pqir89-de9798-d1e125">
+               <lb ed="#A" n="4"/>ART. I. 
+      <lb ed="#A" n="5"/>De firmitate, certitudine, &amp; evidentia 
+      <lb ed="#A" n="6"/>assensuum mentis nostrae. 
+    </p>
+            <p xml:id="pqir89-de9798-d1e134">
+               <lb ed="#A" n="7"/>CVm omnis habitus intellectivus,  
+      <lb ed="#A" n="8"/>pro fine proximo habeat 
+      noti<lb ed="#A" n="9" break="no"/>tiam, sive assensum, quo mens 
+      as<lb ed="#A" n="10" break="no"/>sentitur iis propositionibus, 
+      qua<lb ed="#A" n="11" break="no"/>rum veritatem percipit &amp; cognoscit, operae 
+      <lb ed="#A" n="12"/>pretium erit, nonnihilt praefari de assensu 
+      <lb ed="#A" n="13"/>mentis, deque eius affectionibus, &amp; 
+      specie<lb ed="#A" n="14" break="no"/>bus, idque ut intelligatur diversitas actuum  
+      <lb ed="#A" n="15"/>mentis nostrae. 
+    </p>
+            <p xml:id="pqir89-de9798-d1e157">
+               <lb ed="#A" n="16"/>2. Assensus mentis, est iudicium quo 
+      intel<lb ed="#A" n="17" break="no"/>foctus qudicat propositionem aliquam esse veram: 
+      <lb ed="#A" n="18"/>mens enim assentitur huic propositioni, homo 
+      <lb ed="#A" n="19"/>est animal, eam amplectendo &amp; approbando, 
+      <lb ed="#A" n="20"/>hoc est, iudieando eam esse veram.  
+    </p>
+            <p xml:id="pqir89-de9798-d1e170">
+               <lb ed="#A" n="21"/>3. Tres sunt vradus perfectionis, quos in 
+      <lb ed="#A" n="22"/>assensu mentis observarunt Philosophi, 
+      vide<lb ed="#A" n="23" break="no"/>licet firmitas, certitudo, &amp; exidentia: quibus 
+      <!--164.xml-->
+      <pb ed="#A" n="145"/>
+               <lb ed="#A" n="1"/>opponuntur totidem gradus imperfectionis,  
+      <lb ed="#A" n="2"/>videlicet infirmitas, seu vacillatio, incertitudo, 
+      <lb ed="#A" n="3"/>&amp; inevidentia. 
+    </p>
+            <p xml:id="pqir89-de9798-d1e190">
+               <lb ed="#A" n="4"/>A Assensus firmus, est is qui est sine 
+      haesita<lb ed="#A" n="5" break="no"/>tione, dubitatione, aut formidine partis 
+      oppositae<lb ed="#A" n="6" break="no"/>lnfirmus vero, seu vacillans assensus, est cum  
+      <lb ed="#A" n="7"/>mens ita assentitur huic vel illi propositioni, ut de 
+      <lb ed="#A" n="8"/>eius veritate dubitet, aut saltem aliquo modo 
+      me<lb ed="#A" n="9" break="no"/>tuat ne isti propositioni assentiendo erret. 
+    </p>
+            <p xml:id="pqir89-de9798-d1e206">
+               <lb ed="#A" n="10"/>S Assensus certus, est qui nititur certo aliquo 
+      <lb ed="#A" n="11"/>aut solidofundamento, non vero lexi aut fallaci 
+      ra<lb ed="#A" n="12" break="no"/>tione. Assensus incertus, est quicontrario 
+      mo<lb ed="#A" n="13" break="no"/>do se habet. Hic disigenter notandum est, ad 
+      <lb ed="#A" n="14"/>certitudinem assensus requiri, ut sundamentum 
+      <lb ed="#A" n="15"/>quo mens nititur, dum assensum praebet, non 
+      so<lb ed="#A" n="16" break="no"/>lum sit in se certum, sed etiam ut assentienti 
+      ta<lb ed="#A" n="17" break="no"/>le videatur: nisi enim ille sciat, rationem, qua 
+      <lb ed="#A" n="18"/>nititur, esse certam, eius assensus nullo modo 
+      <lb ed="#A" n="19"/>erit certus &amp; stabilis.  
+    </p>
+            <p xml:id="pqir89-de9798-d1e230">
+               <lb ed="#A" n="20"/>o Denique assensus evidens, est cum quis 
+      <lb ed="#A" n="21"/>per se, hoc est, vi sui sensus aut rationis, absque 
+      <lb ed="#A" n="22"/>alterius insormatione &amp; testificatione percipit, eam  
+      <lb ed="#A" n="23"/>propositionem, cui assentitur, esse veram : 
+      exem<lb ed="#A" n="24" break="no"/>pli gratia, cum video otrutem apud me 
+      stan<lb ed="#A" n="25" break="no"/>tem, assentior huic propositioni, δocrates, stat. 
+      <lb ed="#A" n="26"/>&amp; assensus meus est evidens, idque quia non 
+      <lb ed="#A" n="27"/>per alterius informationem aut 
+      testimo<lb ed="#A" n="28" break="no"/>nium, sed vi mei sensus, rem ita se 
+      habe<lb ed="#A" n="29" break="no"/>re percipio: item cum assentior huic 
+      pro<lb ed="#A" n="30" break="no"/>positioni, homo est animal, assensus est exi¬ 
+      <!--165.xml-->
+      <pb ed="#A" n="146"/>
+               <lb ed="#A" n="1"/>dens, idque quia vi proprii intellectus,  
+      <lb ed="#A" n="2"/>seu rationis, percipio homini inesse 
+      natu<lb ed="#A" n="3" break="no"/>ram sensitiuam: adeoque quamvis nemo 
+      <lb ed="#A" n="4"/>illud assereret, imo quamvis omnes 
+      contra<lb ed="#A" n="5" break="no"/>rium assererent, istam propositionem veram 
+      <lb ed="#A" n="6"/>esse iudicarem. 
+    </p>
+            <p xml:id="pqir89-de9798-d1e274">
+               <lb ed="#A" n="7"/>V Contra vero, inevidens est 
+      assen<lb ed="#A" n="8" break="no"/>sus, cum quis assentitur propositioni, non 
+      <lb ed="#A" n="9"/>quod sensus aut solida ratio eam veram esse 
+      <lb ed="#A" n="10"/>demonstret: sed vel quod levis &amp; inefficux 
+      <lb ed="#A" n="11"/>ratio illud suadeat, (levis enim ratio non 
+      <lb ed="#A" n="12"/>pellit mentis tenebras, atque adeo facit 
+      <lb ed="#A" n="13"/>assensum obscurum &amp; inevidentem7 vel 
+      <lb ed="#A" n="14"/>quod alius testatur eam esse veram: sic qui 
+      <lb ed="#A" n="15"/>vidit Petrum interfectum, &amp; assensum 
+      prae<lb ed="#A" n="16" break="no"/>bet huic propositioni, Petrus est 
+      interfe<lb ed="#A" n="17" break="no"/>ctus, eius assensus est evidens: qui vero 
+      <lb ed="#A" n="18"/>propter huius narrationem &amp; testimonium, 
+      <lb ed="#A" n="19"/>assensum praebet isti propositioni, eius 
+      <lb ed="#A" n="20"/>assensus est inevidens, idque quia 
+      ne<lb ed="#A" n="21" break="no"/>que sensu, neque ratione percipit eam esse 
+      <lb ed="#A" n="22"/>veram. 
+    </p>
+            <p xml:id="pqir89-de9798-d1e312">
+               <lb ed="#A" n="23"/>S Hi tres gradus perfectionis, qui in 
+      as<lb ed="#A" n="24" break="no"/>sensu cernuntur, ita se habent, ut secundus 
+      <lb ed="#A" n="25"/>includat primum, eique aliquid superaddat, 
+      <lb ed="#A" n="26"/>tertius vero includat &amp; primum &amp; 
+      secun<lb ed="#A" n="27" break="no"/>dum, illisque aliquid supperaddat: nam ut 
+      <lb ed="#A" n="28"/>assensus sit firmus, satis est quod 
+      fundamen<lb ed="#A" n="29" break="no"/>tum, quo nigtur ille assensus, assentienti 
+      cer<lb ed="#A" n="30" break="no"/>tum &amp; solidum videatur: quamvis enim re¬ 
+      <!--166.xml-->
+      <pb ed="#A" n="147"/>
+               <lb ed="#A" n="1"/>vera non sit tale, si tamen assentienti tale 
+      es<lb ed="#A" n="2" break="no"/>se vileatur, is procul dubio frmiter &amp; 
+      abs<lb ed="#A" n="3" break="no"/>que haesitatione assentietur: sic haeretici 
+      fir<lb ed="#A" n="4" break="no"/>miter assentiuntur suis erroribus: 
+      quam<lb ed="#A" n="5" break="no"/>vis enim fundamenta quibus nituntur, non 
+      <lb ed="#A" n="6"/>sint certa &amp; solida, iis tamen (quae eorum 
+      <lb ed="#A" n="7"/>est caecitas) efficacissima &amp; validissima 
+      vi<lb ed="#A" n="8" break="no"/>dentur. 
+    </p>
+            <p xml:id="pqir89-de9798-d1e354">
+               <lb ed="#A" n="9"/>o At vero vt assensus sit certus, &amp; plane 
+      <lb ed="#A" n="10"/>ab errore alienus, non tantum sequiritur, ut 
+      <lb ed="#A" n="11"/>fundamentum quo nititur, videatur 
+      assen<lb ed="#A" n="12" break="no"/>tienti certum, &amp; solidum: sed etiam ut 
+      rexe<lb ed="#A" n="13" break="no"/>ra &amp; in se tale sit, alioqui assensus noster 
+      e<lb ed="#A" n="14" break="no"/>rit erroneus, &amp; falsus: quare quam vis 
+      haereti<lb ed="#A" n="15" break="no"/>cis attribui patiamur frmitatem in 
+      iudican<lb ed="#A" n="16" break="no"/>do, non tamen putamus iis competere 
+      certi<lb ed="#A" n="17" break="no"/>tudinem iudicandi: certitudo enim &amp; error 
+      <lb ed="#A" n="18"/>simul consistere nequeunt. 
+    </p>
+            <p xml:id="pqir89-de9798-d1e378">
+               <lb ed="#A" n="19"/>Io Tandem vero, ut assensus sit evidens,  
+      <lb ed="#A" n="20"/>non tantum requiritur, ut eius 
+      fundamen<lb ed="#A" n="21" break="no"/>tum assentienti videatur ceitum &amp; solidum, 
+      <lb ed="#A" n="22"/>&amp; etiam in se sit tale, sed etiam requiritur, ur 
+      <lb ed="#A" n="23"/>illud fundamentum non sit alterius 
+      testimo<lb ed="#A" n="24" break="no"/>nium, vel nartatio, sed vel sit sensus, vel 
+      so<lb ed="#A" n="25" break="no"/>lida aliqua ratio perspicue demonstrans rem 
+      <lb ed="#A" n="26"/>ita se habere. 
+    </p>
+            <p xml:id="pqir89-de9798-d1e398">
+               <lb ed="#A" n="27"/>II Quemadmodum igitur assensus 
+      po<lb ed="#A" n="28" break="no"/>test esse firmus, quamvis non sit certus, ut 
+      <lb ed="#A" n="29"/>videre est in haereticis, absque ullo 
+      timo<lb ed="#A" n="30" break="no"/>re aut formidine assensum praebentibus iis 
+      <!--167.xml-->
+      <pb ed="#A" n="148"/>
+               <lb ed="#A" n="1"/>dogmatis, quae Catholicae Fidei aut bonis 
+      <lb ed="#A" n="2"/>moribus repugnant, ita etiam assensus 
+      po<lb ed="#A" n="3" break="no"/>test esse certus, quam vis non sit evidens: 
+      qui<lb ed="#A" n="4" break="no"/>enim assentitur propositioni alicui propter 
+      <lb ed="#A" n="5"/>Dei testimonium in sacra Scriptura 
+      proposi<lb ed="#A" n="6" break="no"/>tum, eius assensus procul dubio est valde 
+      cer<lb ed="#A" n="7" break="no"/>tus, quia nititur cettissimo fundamento, 
+      vi<lb ed="#A" n="8" break="no"/>delicet Dei testimonio, non tamen est 
+      evi<lb ed="#A" n="9" break="no"/>dens: non enim ideo assensitur Theologus,  
+      <lb ed="#A" n="10"/>quod aut sensu aut ratione percipiat rem ita 
+      <lb ed="#A" n="11"/>se habere, sed quod Deus asserat, aut dicat 
+      <lb ed="#A" n="12"/>rem ita se habere. 
+    </p>
+            <p xml:id="pqir89-de9798-d1e440">
+               <lb ed="#A" n="13"/>ra Ex his patet, ho. tres gradus 
+      perfe<lb ed="#A" n="14" break="no"/>ctionis, qui in assensu mentis cernuntur, ita se 
+      <lb ed="#A" n="15"/>habere, ut primus latius pateat secundo, &amp; 
+      <lb ed="#A" n="16"/>secundus tertios quemadmodum etiam in 
+      <lb ed="#A" n="17"/>gradibus necessitatis, κ ταιτὸς latius quam  
+      <lb ed="#A" n="18"/>καῳ &amp;vνo, &amp; καῳ ωuτo quam καδOλ ω
+      co<lb ed="#A" n="19" break="no"/>χον. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

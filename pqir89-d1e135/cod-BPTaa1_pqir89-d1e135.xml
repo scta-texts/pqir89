@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 2</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 2</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="3-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-d1e135"><!-- p1a2 -->
+            <head xml:id="pqir89-d1e135-Hd1e106">Articulus 2</head>
+            <head xml:id="pqir89-d1e135-Hd1e109" type="question-title">
+      Proponitur secunda divisio Entis realis, et 
+      probatur solum Deum esse Ens per 
+      essentiam.
+    </head>
+            <p xml:id="pqir89-d1e135-d1e112">
+               <lb ed="#A" n="21"/>ART. II 
+      <lb ed="#A" n="22"/>Proponitur secunda divisio Entis realis, &amp; 
+      <lb ed="#A" n="23"/>probatur solum DEUM esse Ens per 
+      <lb ed="#A" n="24"/>essentiam.  
+    </p>
+            <p xml:id="pqir89-d1e135-d1e123">
+               <lb ed="#A" n="25"/>ALtera divisio est in Ens per essentiam, &amp; 
+      <lb ed="#A" n="26"/>Ens per participationem: Ens per essentiam,  
+      <lb ed="#A" n="27"/>est DEVS gloriosus, qui vi suae essentiae 
+      exi<lb ed="#A" n="28" break="no"/>stit: entia vero per participationem, sunt entia 
+      <lb ed="#A" n="29"/>creata, quae non habent actualem &amp; realem  
+      <!--20.xml-->
+      <pb ed="#A" n="3"/>
+               <lb ed="#A" n="1"/>existentiam, in mundo, nisi 
+      communica<lb ed="#A" n="2" break="no"/>tam &amp; participatam ab alio, a quo 
+      produ<lb ed="#A" n="3" break="no"/>cta sunt, hoc est, a DEO. Vt autem 
+      in<lb ed="#A" n="4" break="no"/>telligatur, quomodo DEVS dicatur vi suae 
+      <lb ed="#A" n="5"/>essentiae existere, teneantur haec fundamenta. 
+      <lb ed="#A" n="6"/>Primo, Existentia DEl est de eius 
+      essen<lb ed="#A" n="7" break="no"/>tia, hoc est, non est quid superadditum 
+      divi<lb ed="#A" n="8" break="no"/>nae essentiae, neque a nobis concipi debet 
+      <lb ed="#A" n="9"/>tanquam quid ei superadditum, sed est 
+      ali<lb ed="#A" n="10" break="no"/>quid in ipsa DEI essentia inclusum, non 
+      <lb ed="#A" n="11"/>minus, quam animalitas, aut rationalitas in 
+      <lb ed="#A" n="12"/>essentia humana clauditur. Hoc autem sic 
+      o<lb ed="#A" n="13" break="no"/>stenditur: Omnis perfectio substantialis est 
+      <lb ed="#A" n="14"/>de essentia DEI: (non enim esset essentia 
+      <lb ed="#A" n="15"/>DEI infinitae perfectionis, si daretur aliqua 
+      <lb ed="#A" n="16"/>perfectio, quam eius essentia non claudit in 
+      <lb ed="#A" n="17"/>se) sed existentia est substantialis perfectio.  
+      <lb ed="#A" n="18"/>ut cuivis manifestum est: ergo est de essentia 
+      <lb ed="#A" n="19"/>DEI. Sicut igitur est de essentia hominis esse 
+      <lb ed="#A" n="20"/>animal, aut corpus, aut substantiam ita 
+      <lb ed="#A" n="21"/>est de essentia DEI esse aliquid actu 
+      exi<lb ed="#A" n="22" break="no"/>stens. 
+    </p>
+            <p xml:id="pqir89-d1e135-d1e188">
+               <lb ed="#A" n="23"/>2. Contra vero, neque necesse, neque 
+      pos<lb ed="#A" n="24" break="no"/>sibile est, existentiam creaturae esse de eius 
+      <lb ed="#A" n="25"/>essentia. Non est necesse, quia essentia 
+      crea<lb ed="#A" n="26" break="no"/>turae, non est infinitae perfectionis. Non est 
+      <lb ed="#A" n="27"/>possibile, quia quicquid est de essentia rei, illud 
+      <lb ed="#A" n="28"/>necessario rei competit, esusque affirmatio de 
+      <lb ed="#A" n="29"/>ea re est necessaria, &amp; aeternae veritatis. Ac 
+      <lb ed="#A" n="30"/>existentia ita se non habet in creaturis: non 
+      <!--21.xml-->
+      <pb ed="#A" n="4"/>
+               <lb ed="#A" n="1"/>enim vere dico, necesse est rosam existere, 
+      <lb ed="#A" n="2"/>aut necesse est tonitru existere : possunt enim 
+      <lb ed="#A" n="3"/>non existere. At vere dico, necesse est rosam  
+      <lb ed="#A" n="4"/>esse forem: aut tonitru esse sonum, etiam 
+      ro<lb ed="#A" n="5" break="no"/>sa &amp; tonitrum non existentibus. Vnde patet 
+      <lb ed="#A" n="6"/>has esse praedicationes essentiales: non vero 
+      <lb ed="#A" n="7"/>illas. Haec ratio non solum probat 
+      existen<lb ed="#A" n="8" break="no"/>tiam non esse de essentia creaturae: sed etiam  
+      <lb ed="#A" n="9"/>existentiam non necessario essentiam 
+      creatu<lb ed="#A" n="10" break="no"/>rae consequi, aut ab ea dimanare. Quicquid 
+      <lb ed="#A" n="11"/>enim est essentiale promanando, illuo 
+      neces<lb ed="#A" n="12" break="no"/>sario de re, cui est essentiale, affrmatur: at 
+      ex<lb ed="#A" n="13" break="no"/>istentia actualis (ut dictum est) contingenter 
+      <lb ed="#A" n="14"/>creaturis competit. Interim admittimus 
+      exi<lb ed="#A" n="15" break="no"/>stentiae capacitatem seu potentiam, non 
+      con<lb ed="#A" n="16" break="no"/>tingenter, sed necessario &amp; essentialiter 
+      com<lb ed="#A" n="17" break="no"/>petere omni reali enti, sive creato, sive 
+      in<lb ed="#A" n="18" break="no"/>creato: sed non idem de actuali existentia 
+      di<lb ed="#A" n="19" break="no"/>cendum est. 
+    </p>
+            <p xml:id="pqir89-d1e135-d1e254">
+               <lb ed="#A" n="20"/>3. Secundum fundamentum sit hoc: Si 
+      <lb ed="#A" n="21"/>quis quaerat undenam sit, quod DEVS 
+      exi<lb ed="#A" n="22" break="no"/>stat, &amp; non possit non existere: nulla potest 
+      <lb ed="#A" n="23"/>afferri ratio, praeter hanc unam, videlicet quia 
+      <lb ed="#A" n="24"/>eius essentia est infinitae perfectionis, id est,  
+      <lb ed="#A" n="25"/>omnem perfectionem in se claudit, atque 
+      ad<lb ed="#A" n="26" break="no"/>eo etiam existentiam. Vnde patet DEVM 
+      <lb ed="#A" n="27"/>recte dici vi suae essentiae existere. At si de 
+      <lb ed="#A" n="28"/>creaturis moveatur quaestio, undenam 
+      vide<lb ed="#A" n="29" break="no"/>licet sit, quod illae iam actu existant: non 
+      re<lb ed="#A" n="30" break="no"/>spondendum est illud ideo fieri, quia talis est 
+      <!--22.xml-->
+      <pb ed="#A" n="5"/>
+               <lb ed="#A" n="1"/>earum essentia, aut quia ea est essentiae 
+      ipsa<lb ed="#A" n="2" break="no"/>rum conditio: earum enim essentia est indifi 
+      <lb ed="#A" n="3"/>ferens ad existere &amp; non existeres id est, 
+      po<lb ed="#A" n="4" break="no"/>test existere, vel non existere pro DEl 
+      arbi<lb ed="#A" n="5" break="no"/>trio. Sed respondendum est, veram illius rei 
+      <lb ed="#A" n="6"/>rationem esse, quia earum essentia, quae prius 
+      <lb ed="#A" n="7"/>erat possibilis &amp; apta ad existendum 
+      solum<lb ed="#A" n="8" break="no"/>modo, iam ipso existentiae actu aDEO &amp; 
+      <lb ed="#A" n="9"/>causis secundis donata est. Non ergo possunt 
+      <lb ed="#A" n="10"/>creaturae dici existere vi suae essentiae, sed vi 
+      <lb ed="#A" n="11"/>causarum, a quibus productae sunt, praecipue 
+      <lb ed="#A" n="12"/>autem primae causae. Vnde sequitur eas non 
+      <lb ed="#A" n="13"/>esse entia per essentiam suam, sed per 
+      parti<lb ed="#A" n="14" break="no"/>cipationem &amp; receptionem existentiae a 
+      pri<lb ed="#A" n="15" break="no"/>ma causa. Praeterea huius rei ratio reddi 
+      po<lb ed="#A" n="16" break="no"/>test ex hoc fundamento, admodum 
+      perspi<lb ed="#A" n="17" break="no"/>cuo: ea est essentiae divinae conditio, ut non 
+      <lb ed="#A" n="18"/>possit non existere, neque existentiam suam  
+      <lb ed="#A" n="19"/>ab alio participare: ea vero est essentiae 
+      creo<lb ed="#A" n="20" break="no"/>tae conditio, ut possit pro arbitrio primae 
+      cau<lb ed="#A" n="21" break="no"/>sae, existentiam habere aut non habere, &amp; ut 
+      <lb ed="#A" n="22"/>non possit existere, nisi participando 
+      existen<lb ed="#A" n="23" break="no"/>tiae actum a prima causa. Vnde patet, primam  
+      <lb ed="#A" n="24"/>causam, vi suae essentiae, existere: causas 
+      ve<lb ed="#A" n="25" break="no"/>ro secundas, seu entia creata, vi suae essentiae, 
+      <lb ed="#A" n="26"/>non existere, sed per actionem primae causae, 
+      <lb ed="#A" n="27"/>a qua actualem existentiam accipiunt. 
+    </p>
+            <p xml:id="pqir89-d1e135-d1e343">
+               <lb ed="#A" n="28"/>4. Tertium fundamentum. Essentia 
+      crea<lb ed="#A" n="29" break="no"/>turae recte &amp; vere appellatur potentia: 
+      exi<lb ed="#A" n="30" break="no"/>stentia vero creaturae bene dici potest actus 
+      <!--23.xml-->
+      <pb ed="#A" n="6"/>
+               <lb ed="#A" n="1"/>superadditus essentiae: hoc autem sic 
+      declara<lb ed="#A" n="2" break="no"/>tur: sicut materia Physica appellatur 
+      poten<lb ed="#A" n="3" break="no"/>tia, &amp; forma Physica actus, quia materia in 
+      se<lb ed="#A" n="4" break="no"/>&amp; ex se, nullam habet formam, sed formae 
+      ca<lb ed="#A" n="5" break="no"/>pax est, seu potest recipere formam: sic 
+      essen<lb ed="#A" n="6" break="no"/>tia creaturae potest dici potentia, quia neque 
+      <lb ed="#A" n="7"/>in se claudit existentiam, neque eam a se 
+      ha<lb ed="#A" n="8" break="no"/>bet, sed eius capax est seu potest eam 
+      recipe<lb ed="#A" n="9" break="no"/>re, &amp; participare a prima causa: at contra, 
+      <lb ed="#A" n="10"/>DEIessentia longe aliter se habet: in se enim 
+      <lb ed="#A" n="11"/>claudit existendi actum: ideoque non se habet 
+      <lb ed="#A" n="12"/>ad existentiam, ut potentia ad actum: nulla 
+      e<lb ed="#A" n="13" break="no"/>nim potentia in se claudit actum, sed ad actum 
+      <lb ed="#A" n="14"/>tanquam ad quid externum refertur. Atque 
+      <lb ed="#A" n="15"/>haec de divisioneEntis in finitum &amp;infinitum: 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

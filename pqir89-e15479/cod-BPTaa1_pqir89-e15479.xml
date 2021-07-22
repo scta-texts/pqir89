@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 16</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 16</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="220-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-e15479"><!-- p3a16 -->
+            <head xml:id="pqir89-e15479-Hd1e106">Articulus 16</head>
+            <head xml:id="pqir89-e15479-Hd1e109" type="question-title">
+        An fides sit assensus, discursibus: Et an 
+        Pontifici utantur, circular. discursu in 
+        stabilienda fide
+      </head>
+            <p xml:id="pqir89-e15479-d1e112">
+               <lb ed="#A" n="4"/>ART. XVI 
+      <lb ed="#A" n="5"/>An fides sit assensus, discursibus: Et an 
+        Pon<lb ed="#A" n="6" break="no"/>tifici utantur, circular. discursu in 
+      sta<lb ed="#A" n="7" break="no"/>bilienda fide. 
+    </p>
+            <p xml:id="pqir89-e15479-d1e123">
+               <lb ed="#A" n="8"/>Ssensus dividi solet in simplicem, 
+      <lb ed="#A" n="9"/>A quem Nocticum vocant, &amp; 
+      Dianoe<lb ed="#A" n="10" break="no"/>ticum seu discursixum. Simplex assensus est,  
+      <lb ed="#A" n="11"/>quo intellectus noster assentitur propositionibus 
+      <lb ed="#A" n="12"/>sua luce claris &amp; manisestis: quales sunt 
+      hae<lb ed="#A" n="13" break="no"/>omne totum est maius sua parte: De qualiber 
+      <lb ed="#A" n="14"/>re verum est affirmare vel negare: harum 
+      e<lb ed="#A" n="15" break="no"/>nim propositionum veritas primo quasi 
+      in<lb ed="#A" n="16" break="no"/>tuitu intellectui innotescit per terminorum 
+      <lb ed="#A" n="17"/>apprehensionem, &amp; non per externum 
+      ali<lb ed="#A" n="18" break="no"/>quod medium eas notificans. Assensus 
+      dis<lb ed="#A" n="19" break="no"/>cursiuus est, cum intellectus assentitur 
+      proposi<lb ed="#A" n="20" break="no"/>tionibus, non propter insitam earum exidentiam, 
+      <lb ed="#A" n="21"/>sed propter certitudinem, exidentiam, &amp; 
+      proba<lb ed="#A" n="22" break="no"/>bilitatem medij quo intellectus movetur ad 
+      assen<lb ed="#A" n="23" break="no"/>tiendum. 
+    </p>
+            <p xml:id="pqir89-e15479-d1e160">
+               <lb ed="#A" n="24"/>2 Ad quaestionem igitur in titulo 
+      propo<lb ed="#A" n="25" break="no"/>sitam respondetur, fidei assensum non 
+      sim<lb ed="#A" n="26" break="no"/>plicem, sed discursivum esse: quia nimirum 
+      <lb ed="#A" n="27"/>propositiones illae quibus per fidem assenti¬ 
+      <!--239.xml-->
+      <pb ed="#A" n="220"/>
+               <lb ed="#A" n="1"/>mur, non sunt sua luce clarae aut manifestae, 
+      <lb ed="#A" n="2"/>neque iis assentimur propter insitam earum  
+      <lb ed="#A" n="3"/>evidentiam, sed propter authoritatem Dei, 
+      <lb ed="#A" n="4"/>in S. Scriptura testantis eas esse veras. 
+    </p>
+            <p xml:id="pqir89-e15479-d1e185">
+               <lb ed="#A" n="5"/>a Discursus fidei hoc Syllogismo non 
+      in<lb ed="#A" n="6" break="no"/>commode exprimitur: 
+    </p>
+            <p xml:id="pqir89-e15479-d1e192">
+               <lb ed="#A" n="7"/>Quicquid Deus dicit, est verum: 
+      <lb ed="#A" n="8"/>At Deus ea omnia dixit &amp; dictapit, quae in 
+      <lb ed="#A" n="9"/>Scriptis Propheticis &amp; Apostolicis extant: 
+      Er<lb ed="#A" n="10" break="no"/>go ea omnia sunt vera. 
+    </p>
+            <p xml:id="pqir89-e15479-d1e203">
+               <lb ed="#A" n="11"/>Huius Syllog. propositio maior 
+      eviden<lb ed="#A" n="12" break="no"/>ter probatur ex principiis natura notis, hoc 
+      <lb ed="#A" n="13"/>est ex fundamentis Metaphysicis, quibus Dei 
+      <lb ed="#A" n="14"/>veritas &amp; veracitas demonstrantur: adeo ut 
+      <lb ed="#A" n="15"/>nullus sit Philosophus Ethnicus, qui eam 
+      ne<lb ed="#A" n="16" break="no"/>gare audeat. si quis autem tam absurdus &amp; 
+      <lb ed="#A" n="17"/>demens sit, ut hanc manifestam veritatem  
+      <lb ed="#A" n="18"/>neget, fagris excipiendus est, nec 
+      Philo<lb ed="#A" n="19" break="no"/>sophi verba, sed carnificis verbera meretur. 
+    </p>
+            <p xml:id="pqir89-e15479-d1e225">
+               <lb ed="#A" n="20"/>A Propositio minor Syllogismi praedicti 
+      <lb ed="#A" n="21"/>naturali ratione probari non potest, &amp; 
+      pro<lb ed="#A" n="22" break="no"/>inde eius veritatem aliis fundamentis niti 
+      <lb ed="#A" n="23"/>oportet. Hic Pontificij &amp; Euangelici 
+      Theo<lb ed="#A" n="24" break="no"/>logi longe dissentiunt: illi enim fidem 
+      no<lb ed="#A" n="25" break="no"/>stram, qua credimus scripta Prophetarum &amp;  
+      <lb ed="#A" n="26"/>Apostolorum esse Dei verbum, Ecclesiae 
+      testi<lb ed="#A" n="27" break="no"/>monio fulciendam &amp; statuminandam 
+      pu<lb ed="#A" n="28" break="no"/>tant: hi viro licetEcclesiae testimonium 
+      teme<lb ed="#A" n="29" break="no"/>re non reiiciant, sed rererenter amplectantur, 
+      <lb ed="#A" n="30"/>ab eo tamen solo veritatem istius proposi¬ 
+      <!--240.xml-->
+      <pb ed="#A" n="221"/>
+               <lb ed="#A" n="1"/>tionis minoris non suspendunt, sed eam 
+      de<lb ed="#A" n="2" break="no"/>ducunt partim ex internis κεατmeιoiς ipsius 
+      <lb ed="#A" n="3"/>Scripturae, (hoc est, ex genere doctrinae, quae 
+      sa<lb ed="#A" n="4" break="no"/>pientissima, sanctissima, &amp; ubique sibi 
+      consen<lb ed="#A" n="5" break="no"/>tanea est: ex qualitate stoli, qui simplex 
+      qui<lb ed="#A" n="6" break="no"/>dem &amp; humilis est, sed purus, inaffectatus, &amp; 
+      <lb ed="#A" n="7"/>di vinae Mafestati conventens: ex Sermonis 
+      <lb ed="#A" n="8"/>ipsius operatione, mirifice enim afficit mentes 
+      <lb ed="#A" n="9"/>hominum, &amp; Di mino quodam modo efficax est 
+      <lb ed="#A" n="10"/>ad fidem &amp; pietatem in animis hominem 
+      inge<lb ed="#A" n="11" break="no"/>nerandam: ) partim ex testimonio S. Spiritus,  
+      <lb ed="#A" n="12"/>intus in piorum cordibus sancientis &amp; 
+      obsi<lb ed="#A" n="13" break="no"/>gnantis divinam Scripturae veritatem, &amp; 
+      au<lb ed="#A" n="14" break="no"/>thoritatem: 
+    </p>
+            <p xml:id="pqir89-e15479-d1e286">
+               <lb ed="#A" n="15"/>s Processus ille, quo vtuntur Pontificii 
+      <lb ed="#A" n="16"/>in probanda Scripturae authoritate, circularis 
+      <lb ed="#A" n="17"/>est, &amp; proinde non solum inutilis, sed etiam  
+      <lb ed="#A" n="18"/>(ut loquitur Tilenus) fatuus, &amp; sophisticae 
+      <lb ed="#A" n="19"/>ἁEδωλεξας foetus est: etenim interrogati, cur 
+      <lb ed="#A" n="20"/>credant Scripturam esse Dei verbum: 
+      respon<lb ed="#A" n="21" break="no"/>dent, se id eo credere, quod Ecclesia quae 
+      ex<lb ed="#A" n="22" break="no"/>tra omnem errandi aleam posita est, id 
+      teste<lb ed="#A" n="23" break="no"/>tur: rursus interrogati, quibus argumentis 
+      <lb ed="#A" n="24"/>de illa Ecclesiae ἀςφαλciα persuasi sint: 
+      re<lb ed="#A" n="25" break="no"/>spondent, se hoc eo credere, quod Scriptura 
+      <lb ed="#A" n="26"/>cestetur. Ec clesiam, esse domum Det, sponsam  
+      <lb ed="#A" n="27"/>Christi, firmamentum &amp;. columnam veritatis: 
+      <lb ed="#A" n="28"/>atque ita a Scriptura ad Ecclesiam, &amp; ab 
+      Ec<lb ed="#A" n="29" break="no"/>clesia ad Scripturam revoluti, circulum nobis 
+      <lb ed="#A" n="30"/>obtruduntiliaim:: 
+      <!--241.xml-->
+      <pb ed="#A" n="222"/>
+               <lb ed="#A" n="1"/>o δtapletonus, ut hunc progressum 
+      cir<lb ed="#A" n="2" break="no"/>cularem vitet, dicit se ideo credere Ecclesiam  
+      <lb ed="#A" n="3"/>a S. Spiritu in omnem veritatem dirigi, quia 
+      <lb ed="#A" n="4"/>S. Spiritus eius intellectum efficaciter 
+      mo<lb ed="#A" n="5" break="no"/>vet ad illud credendum. Sed hoc effugium  
+      <lb ed="#A" n="6"/>facile praecludi potest stapletono. Primo, 
+      <lb ed="#A" n="7"/>quia internum S. Spiritus testim onium a 
+      <lb ed="#A" n="8"/>verbo scripto seiungendum non est, neque 
+      <lb ed="#A" n="9"/>(ut recte monet Tilenus) Vertiginosis 
+      En<lb ed="#A" n="10" break="no"/>thusiasmis est inhiandum: nam verbum est 
+      <lb ed="#A" n="11"/>norma &amp; regula, ad quam examinandae 
+      <lb ed="#A" n="12"/>sunt nostrae mentis persuasiones, ut 
+      scia<lb ed="#A" n="13" break="no"/>mus nos a Spiritu veritatis &amp; sapientiae, non 
+      <lb ed="#A" n="14"/>a Spiritu vertiginis &amp; mendacii agitari: 
+      Er<lb ed="#A" n="15" break="no"/>go necesse est, ut ad S. Scripturam tandem  
+      <lb ed="#A" n="16"/>revoluatur stapletonus. Secundo, quia ad 
+      as<lb ed="#A" n="17" break="no"/>sensum fidei tria requiruntur, ut egregie 
+      do<lb ed="#A" n="18" break="no"/>cet Doctissimus Richardus Field, lib. 4. de 
+      Ec<lb ed="#A" n="19" break="no"/>clesia Cap. y. Primo, lumen Divinae 
+      intelli<lb ed="#A" n="20" break="no"/>gentiae, quo apprehendimus &amp; intelligimus 
+      <lb ed="#A" n="21"/>ea quae sunt Dei. Secundo, S. Spiritus qui 
+      il<lb ed="#A" n="22" break="no"/>lius illuminationis author est. Tertio, 
+      argu<lb ed="#A" n="23" break="no"/>mentorum pondera quibus Spiritus 
+      intelle<lb ed="#A" n="24" break="no"/>ctum nostrum moret ad assentiendum. Non 
+      <lb ed="#A" n="25"/>igitur hic quaerimus ex istapletono, quis 
+      au<lb ed="#A" n="26" break="no"/>thor sit illius fidei, qua creditur Ecclesiae 
+      in<lb ed="#A" n="27" break="no"/>fallibilitas, neque quo lum ine illa 
+      infallibili<lb ed="#A" n="28" break="no"/>tas cognoscatur, sed quibus mediis aut 
+      argi<lb ed="#A" n="29" break="no"/>mentis Spiritus intellectui suadeat, 
+      Eccle<lb ed="#A" n="30" break="no"/>siam non posse errare, h,e. utrum illud suadeat 
+      <!--242.xml-->
+      <pb ed="#A" n="223"/>
+               <lb ed="#A" n="1"/>argumentis ex Scriptura, an vero aliunde 
+      de<lb ed="#A" n="2" break="no"/>sumptis. 
+    </p>
+            <p xml:id="pqir89-e15479-d1e401">
+               <lb ed="#A" n="3"/>V Hic est ille scopulus, quem 
+      praeter<lb ed="#A" n="4" break="no"/>navigare non potest stapletonus, nisi cum 
+      <lb ed="#A" n="5"/>Durando Lib. X. Sent. dist. 34. quaest. 2. 
+      <lb ed="#A" n="6"/>confugiat ad rationes (sut vocant) 
+      huma<lb ed="#A" n="7" break="no"/>nas: hoc est, ad argumenta non ex 
+      Scri<lb ed="#A" n="8" break="no"/>ptura, sed aliunde desumpta: &amp; certe non 
+      <lb ed="#A" n="9"/>desunt, qui hoc Durandi delirium 
+      inter<lb ed="#A" n="10" break="no"/>polare, &amp; quasi ab inferis revocare 
+      conan<lb ed="#A" n="11" break="no"/>tur: dicentes, fidem qua creditur. 
+      Eccle<lb ed="#A" n="12" break="no"/>siae authoritas, niti, ratione humana, quao 
+      <lb ed="#A" n="13"/>dictat ex apparentibus, (Durandi verba sunt) 
+      <lb ed="#A" n="14"/>quod doctrina confirmata per tot signa, 
+      conser<lb ed="#A" n="15" break="no"/>vata a martoribus inter tot supplicia, sit vera: 
+      <lb ed="#A" n="16"/>&amp; proinde quod coetus hominum hanc 
+      do<lb ed="#A" n="17" break="no"/>ctrinam profitentium, sit vera Ecclesia 
+      <lb ed="#A" n="18"/>Christi. . Sed haec sententia facile 
+      convelli<lb ed="#A" n="19" break="no"/>tur. Primo, quia haec ratio quamvis 
+      pro<lb ed="#A" n="20" break="no"/>bare videatur hunc vel illum, coetum esse 
+      ve<lb ed="#A" n="21" break="no"/>ram Ecclesiam, non tamen probat id quod 
+      <lb ed="#A" n="22"/>illi asserunt, videlicet, Ecclesiam extra 
+      o<lb ed="#A" n="23" break="no"/>mnem errandi &amp; fallendi aleam esse 
+      posi<lb ed="#A" n="24" break="no"/>tam. . Secundo, quia ratio illa non est certa 
+      <lb ed="#A" n="25"/>&amp;, necessaria, sed probabilis, est enim ex 
+      appa<lb ed="#A" n="26" break="no"/>rentibus, fatente ipso Durando, ideoque non 
+      <lb ed="#A" n="27"/>potest esse fundamentum fidei divinae, quae 
+      <lb ed="#A" n="28"/>est assensus certus &amp; firmus. 
+    </p>
+            <p xml:id="pqir89-e15479-d1e461">
+               <lb ed="#A" n="29"/>S Quidam Pontificii, ut haec incommoda 
+      <lb ed="#A" n="30"/>&amp; absurda exitent, confugiunt ad imperium 
+      <!--243.xml-->
+      <pb ed="#A" n="224"/>
+               <lb ed="#A" n="1"/>voluntatis, quam dicunt sine ulla ratione aut 
+      <lb ed="#A" n="2"/>argumento intellectum movere ad 
+      creden<lb ed="#A" n="3" break="no"/>dum illud dogma de infallibilitate Ecclesiae. 
+      <lb ed="#A" n="4"/>Haec sententia non immerito displicuit Pico 
+      <lb ed="#A" n="5"/>Mirandulae, Cardinali Cameracensi, &amp; 
+      Duran<lb ed="#A" n="6" break="no"/>do. Primo, quia fides est assensus nitens 
+      alte<lb ed="#A" n="7" break="no"/>rius testimonio: illa igitur fides qua 
+      credi<lb ed="#A" n="8" break="no"/>tur Ecclesiae infallibilitas, vel nititur 
+      testi<lb ed="#A" n="9" break="no"/>monio aliquo, vel non est fides. Secundo, 
+      <lb ed="#A" n="10"/>nemo assentiri potest alicui propositioni 
+      du<lb ed="#A" n="11" break="no"/>biae, nisi vel ratio, vel sensus, vel testimonium 
+      <lb ed="#A" n="12"/>alicuius fide digni, doceat eam esse veram: 
+      <lb ed="#A" n="13"/>Tertio, intellectus non potest assentiri 
+      pro<lb ed="#A" n="14" break="no"/>positioni alicui, nisi ea appareat intellectui 
+      <lb ed="#A" n="15"/>pera, at nudum imperium voluntatis non 
+      po<lb ed="#A" n="16" break="no"/>test efficere, ut propositio dubia intellectui 
+      <lb ed="#A" n="17"/>vera: appareat: Ergo non potest efficere vt 
+      <lb ed="#A" n="18"/>assentiatur, nisi adsit ratio aliqua aut 
+      testi<lb ed="#A" n="19" break="no"/>monium. 
+    </p>
+            <p xml:id="pqir89-e15479-d1e513">
+               <lb ed="#A" n="20"/> Alii pontificii confitentur Scripturae 
+      <lb ed="#A" n="21"/>a uthotitatem stabiliri per Ecclesiae 
+      infallibi<lb ed="#A" n="22" break="no"/>litatem, &amp; rursus Ecclesiae 
+      infallibilita<lb ed="#A" n="23" break="no"/>tem per Scripturae authoritatem probari, 
+      <lb ed="#A" n="24"/>sed asserunt, hunc progressum non 
+      circu<lb ed="#A" n="25" break="no"/>lum, sed regressum esse: quia vid. non est 
+      <lb ed="#A" n="26"/>ab eodem ad idem eodem modo cognitum:: primo 
+      <lb ed="#A" n="27"/>enim cum ex Ecclesiae infallibilitate 
+      proba<lb ed="#A" n="28" break="no"/>tur Scripturae authoritas, fit progressus ab 
+      <lb ed="#A" n="29"/>Ecclesiae infallibilitate, tanquam ab aliquo 
+      <lb ed="#A" n="30"/>notiore &amp; evidentiore nobis, ad id quod nobis 
+      <!--244.xml-->
+      <pb ed="#A" n="225"/>
+               <lb ed="#A" n="1"/>est ignotius: deinde cum ex Scripturae 
+      autho<lb ed="#A" n="2" break="no"/>ritate probatur Ecclesiae infallibilitas, fit 
+      <lb ed="#A" n="3"/>progressus ab eo quod notius est natura, &amp; 
+      <lb ed="#A" n="4"/>prius, ad id quod ignotius est &amp; posterius 
+      na<lb ed="#A" n="5" break="no"/>turae ordine. 
+    </p>
+            <p xml:id="pqir89-e15479-d1e554">
+               <lb ed="#A" n="6"/>Io Haec sententia non minus absurda est 
+      <lb ed="#A" n="7"/>quam praecedentes: quia Ecclesia, eiusque 
+      in<lb ed="#A" n="8" break="no"/>fallibilitas, quam ei affingunt Pontificii, non 
+      <lb ed="#A" n="9"/>solum ordine essendi, sed etiam cognoscendi, 
+      <lb ed="#A" n="10"/>ignotiores sunt Dei verbo, ut patet ex hac 
+      <lb ed="#A" n="11"/>ratione. 
+      <lb ed="#A" n="12"/>Quod ex sola Scriptura cognosci potest, illud or. 
+    </p>
+            <p xml:id="pqir89-e15479-d1e572">
+               <lb ed="#A" n="13"/>dine cognoscendi, non est notius, sed ignolius 
+      <lb ed="#A" n="14"/>ipsa Scriptura. 
+      <lb ed="#A" n="15"/>At Ecclesia eusque infallibilitas ex sola Scri¬ 
+    </p>
+            <p xml:id="pqir89-e15479-d1e581">
+               <lb ed="#A" n="16"/>ptura cognosci potest. 
+      <lb ed="#A" n="17"/>Ergo, &amp;c. 
+      <lb ed="#A" n="18"/>Maior manifesta est. Probatur assumptio: 
+      Ec<lb ed="#A" n="19" break="no"/>elesi a nihil aliud est, quam coetus hominum 
+      <lb ed="#A" n="20"/>profitentium ueram &amp; sanam doctrinam de 
+      <lb ed="#A" n="21"/>Deo, eiusque operibus: quis autem coetus 
+      <lb ed="#A" n="22"/>talis sit, non cognosci potest, nisi ex 
+      Scri<lb ed="#A" n="23" break="no"/>ptura: nam ea sola doctrina vera est, quae 
+      <lb ed="#A" n="24"/>S. Scripturae est eonsentanea. Quod ad 
+      Ec<lb ed="#A" n="25" break="no"/>clesiae infallibilitatem attinet, ea nobis 
+      inno<lb ed="#A" n="26" break="no"/>tescit vel ex ratione naturali, (quod nemo ad 
+      <lb ed="#A" n="27"/>miserit,) vel ex testimonio. rursus si ex 
+      testi<lb ed="#A" n="28" break="no"/>monio, vel ex testimonio Dei, vel ex testimo, 
+      <lb ed="#A" n="29"/>nio eorum hominum qui sunt extra Ecclesiam, 
+      <lb ed="#A" n="30"/>vel ex testimonio ipsius Ecclesiae: non. ex te¬ 
+      <!--245.xml-->
+      <pb ed="#A" n="226"/>
+               <lb ed="#A" n="1"/>stimonio ipsius Ecclesiae, quia illud nullius 
+      <lb ed="#A" n="2"/>ponderis est apud eos qui nondum persuasi 
+      <lb ed="#A" n="3"/>sunt de Ecclesiae authoritate: neque ex 
+      testi<lb ed="#A" n="4" break="no"/>monio corum qui extra Ecclesiam sunt, quia 
+      <lb ed="#A" n="5"/>de Ecclesia illi testimonium perhibere non 
+      <lb ed="#A" n="6"/>possunt: Ergo necesse est, ut innotescat ex 
+      <lb ed="#A" n="7"/>testimonio Dei in verbo, &amp; proinde Dei 
+      ver<lb ed="#A" n="8" break="no"/>bum etiam notius est ordine cognoscendi, 
+      <lb ed="#A" n="9"/>quam infallibilitas illa quam affingunt 
+      Ec<lb ed="#A" n="10" break="no"/>clesiae. 
+    </p>
+            <p xml:id="pqir89-e15479-d1e642">
+               <lb ed="#A" n="11"/>IX. Becanus Tom. I. opuscul. Io. Thes: Io. 
+      <lb ed="#A" n="12"/>pag. 292. nostri argumenti vim 
+      declinatu<lb ed="#A" n="13" break="no"/>rus, dicit non committi circulum, si unum 
+      <lb ed="#A" n="14"/>per alterum probetur apud eum qui alterum  
+      <lb ed="#A" n="15"/>admittit, alterum negat. Verbi gratia, (
+      in<lb ed="#A" n="16" break="no"/>quit) Cal vinista admittit Scripturam, negat 
+      <lb ed="#A" n="17"/>Ecclesiae infallibilitatem : recte ergo conxincam 
+      <lb ed="#A" n="18"/>illum hoc modo: Scriptura quam tu admittus, 
+      <lb ed="#A" n="19"/>dicit Ecclesiam esse infallabilem: Ergo rexera 
+      in<lb ed="#A" n="20" break="no"/>fallibilis est. Similiter, si quis Idiota admittat 
+      <lb ed="#A" n="21"/>qudicium Ecclesiae, &amp; tamen nesciat in 
+      par<lb ed="#A" n="22" break="no"/>ticulari, Libros Machabaeorum esse dixinos: 
+      <lb ed="#A" n="23"/>facile persuadebo illi sine circulo, si sic dicam: 
+      Ec<lb ed="#A" n="24" break="no"/>clesia, cuqus tu authoritatem admittis, asse verat 
+      <lb ed="#A" n="25"/>Libros Machabaeorum esse dixinos: Erao non 
+      <lb ed="#A" n="26"/>debes hac de re amplius dubitare. Hactenus 
+      <lb ed="#A" n="27"/>Becanus. 
+    </p>
+            <p xml:id="pqir89-e15479-d1e682">
+               <lb ed="#A" n="28"/>rae Hoc Becani effugium nullum est: 
+      quae<lb ed="#A" n="29" break="no"/>ram enim ex eo, reliquisque Pontificiis, 
+      un<lb ed="#A" n="30" break="no"/>de divina Scripturae authoritas probari possit 
+      <!--246.xml-->
+      <pb ed="#A" n="227"/>
+               <lb ed="#A" n="1"/>apud eum qui Scripturam universam 
+      impu<lb ed="#A" n="2" break="no"/>gnat, &amp; per consequens Ecclesiam pro contu 
+      <lb ed="#A" n="3"/>hominum absurdorum &amp; delirantium 
+      ha<lb ed="#A" n="4" break="no"/>bet: haec enim duo cohaerent necessario, nec 
+      <lb ed="#A" n="5"/>di velli possunt: cum enim Scripturae &amp; verae 
+      <lb ed="#A" n="6"/>Ecclesiae eadem sit doctrina, fieri nequit, ut 
+      <lb ed="#A" n="7"/>quis veram Ecclesiam agnoscat, illique 
+      cre<lb ed="#A" n="8" break="no"/>dat, qui uni versam Scripturam negat. Si 
+      di<lb ed="#A" n="9" break="no"/>xerint canonicam authoritatem sacri codicis 
+      <lb ed="#A" n="10"/>per nullum aliud medium, quam per 
+      Eccle<lb ed="#A" n="11" break="no"/>siae authoritatem probari: excipiam primo, 
+      <lb ed="#A" n="12"/>ignotum probari per aeque ignotum: nam is 
+      <lb ed="#A" n="13"/>non minus Ecclesiae, quam Scripturae 
+      autho<lb ed="#A" n="14" break="no"/>ritatem negat. Secundo, quaeram quo pacto 
+      <lb ed="#A" n="15"/>Ecclesiae authoritas illi demonstrari possit¬) 
+      <lb ed="#A" n="16"/>aut enim ex Scripturis, aut aliunde 
+      demon<lb ed="#A" n="17" break="no"/>stranda est, non aliunde, quia Ecclesiae 
+      autho<lb ed="#A" n="18" break="no"/>ritas solis Scripturis superstructa est, ut iam  
+      <lb ed="#A" n="19"/>probatum est: si ad Scripturam recurrendum 
+      <lb ed="#A" n="20"/>est, circularis erit progressus, nam Scriptura 
+      <lb ed="#A" n="21"/>per Ecclesiam, &amp; rursus Ecclesia per 
+      Scriptu<lb ed="#A" n="22" break="no"/>ram demonstrabitur.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

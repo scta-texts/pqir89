@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 25</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 25</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="265-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-e18882"><!-- p3a25 -->
+            <head xml:id="pqir89-e18882-Hd1e106">Articulus 25</head>
+            <head xml:id="pqir89-e18882-Hd1e109" type="question-title">
+        Probatur, contra Antonium Ruvium. 
+        Theologiam secundo modo acceptam, 
+        non esse scientiam, sed fidem 
+        dirinam
+      </head>
+            <p xml:id="pqir89-e18882-d1e112">
+               <lb ed="#A" n="21"/>ART. XXV. 
+      <lb ed="#A" n="22"/>Probatur, contra <name xml:id="pqir89-e18882-Nd1e118">Antonium Ruvium</name>. 
+      <lb ed="#A" n="23"/>Theologiam secundo modo acceptam, 
+      <lb ed="#A" n="24"/>non esse scientiam, sed fidem 
+      diri<lb ed="#A" n="25" break="no"/>nam:  
+    </p>
+            <p xml:id="pqir89-e18882-d1e129">
+               <lb ed="#A" n="26"/>)Vidam Pontificii Theologi nobiscum 
+      <lb ed="#A" n="27"/>κλAsserunt, Theologiam acceptam pro 
+      <!--284.xml-->
+      <pb ed="#A" n="265"/>
+               <lb ed="#A" n="1"/>habitu quo assentimur sacrae Scripturae, recte 
+      <lb ed="#A" n="2"/>dici fidem divinam: Theologiam vero 
+      ac<lb ed="#A" n="3" break="no"/>ceptam pro habitu conclusionum ex Scriptura 
+      de<lb ed="#A" n="4" break="no"/>ductarum, non fidem, sed scientiam 
+      appel<lb ed="#A" n="5" break="no"/>lant, quia proxime non innititur 
+      authorita<lb ed="#A" n="6" break="no"/>ti, sed evidenti discursui. Hanc sententiam  
+      <lb ed="#A" n="7"/>optime explicat, &amp; defendit <ref xml:id="pqir89-e18882-Rd1e155">
+                  <name xml:id="pqir89-e18882-Nd1e157">Antonius 
+      Ru<lb ed="#A" n="8" break="no"/>vius</name>, in <title>Logica Mexicana</title> opusc. de habit. 
+      <lb ed="#A" n="9"/>fract</ref>. a
+    </p>
+            <p xml:id="pqir89-e18882-d1e169">
+               <lb ed="#A" n="10"/>2 His Theologis si obiicias, scientiam  
+      <lb ed="#A" n="11"/>esse notitiam exidentem: habitum uero 
+      conclu<lb ed="#A" n="12" break="no"/>sionum Theologicarum esse notitiam inexidentem: 
+      <lb ed="#A" n="13"/>Respondebunt, exidentiam esse de essentia 
+      <lb ed="#A" n="14"/>scientiae naturaliter acquisitae, quam solam  
+      <lb ed="#A" n="15"/>defini vit Aristoteles, non vero: competere 
+      <lb ed="#A" n="16"/>scientiae supernaturali, Theologiae videlicet, 
+      <lb ed="#A" n="17"/>quam ob defectum evidentiae imperfectam 
+      es<lb ed="#A" n="18" break="no"/>se scientiam fatentur. 
+    </p>
+            <p xml:id="pqir89-e18882-d1e192">
+               <lb ed="#A" n="19"/>S Sed haec Responsio non satisfacit. cum 
+      <lb ed="#A" n="20"/>enim scientia generaliter accepta, cum fide 
+      <lb ed="#A" n="21"/>conveniat in firmitate &amp; certitudine, &amp; ab 
+      <lb ed="#A" n="22"/>ea distinguatur per solam exidentiam: 
+      pro<lb ed="#A" n="23" break="no"/>cul dubio dicendum est, habitum illum, cut 
+      <lb ed="#A" n="24"/>deest epidentia, modo certitudo &amp; firmitas ei 
+      <lb ed="#A" n="25"/>conveniant, non ad, scientiam, sed ad fidem  
+      <lb ed="#A" n="26"/>referendum esse: supra enim dictum est, 
+      fi<lb ed="#A" n="27" break="no"/>dem esse assensum certum &amp; inexidentem: 
+      <lb ed="#A" n="28"/>praeterea si habitus conclusionum 
+      Theologi<lb ed="#A" n="29" break="no"/>carum ex Scriptura deductarum est habitus 
+      <!--285.xml-->
+      <pb ed="#A" n="266"/>
+               <lb ed="#A" n="1"/>certus &amp; inexidens, est κετοσυασις τῶν S 
+      GMe<lb ed="#A" n="2" break="no"/>πομλμων, &amp; proinde est sides dipina: at 
+      ve<lb ed="#A" n="3" break="no"/>rum est ptius fatente ipso Ruxio: Ergo 
+      et<lb ed="#A" n="4" break="no"/>iam posterius. 
+    </p>
+            <p xml:id="pqir89-e18882-d1e231">
+               <lb ed="#A" n="5"/>A Alii respondent, notitiam 
+      conclusio<lb ed="#A" n="6" break="no"/>num Theologicarum revera esse 
+      eviden<lb ed="#A" n="7" break="no"/>tem, hoc enim posito, quod vera sint ea 
+      o<lb ed="#A" n="8" break="no"/>mnia, quae in S. Scriptura continentur, 
+      eviden<lb ed="#A" n="9" break="no"/>ter &amp; perspicue sequitur, conclusiones ex 
+      <lb ed="#A" n="10"/>Scriptura deductas esse veras: sed illi quiita 
+      <lb ed="#A" n="11"/>respondent, non advertunt, ad evidentiam  
+      <lb ed="#A" n="12"/>notitiae plus requiri, quam ut conclusio cui 
+      as<lb ed="#A" n="13" break="no"/>sentimur, ex praemissis suis principiis 
+      exiden<lb ed="#A" n="14" break="no"/>ter inferatur: nam praeter hoc etiam 
+      requiri<lb ed="#A" n="15" break="no"/>tur, ut praemissa, ex quibus inferiur, sint 
+      e<lb ed="#A" n="16" break="no"/>videntes, hoc est, ut seiantur, non vero 
+      <lb ed="#A" n="17"/>credantur. 
+    </p>
+            <p xml:id="pqir89-e18882-d1e262">
+               <lb ed="#A" n="18"/>s Probatur haec assertio: Quia si notitia 
+      <lb ed="#A" n="19"/>conclusionum ex S. Scripturam ductarum sit 
+      <lb ed="#A" n="20"/>evidens, quia illae conclusiones ex 
+      Scriptura<lb ed="#A" n="21" break="no"/>evidenter &amp; perspicue colliguntur, pari 
+      ratio<lb ed="#A" n="22" break="no"/>ne notitia conclusionum, exidenter &amp; 
+      perspi<lb ed="#A" n="23" break="no"/>cue ductarum ex praemissis probabilibus, de 
+      <lb ed="#A" n="24"/>quibus opinionem tantum habemus, 
+      exi<lb ed="#A" n="25" break="no"/>dens dicenda est: at hoc est manifeste 
+      ab<lb ed="#A" n="26" break="no"/>surduma nam notitia conclusionum 
+      ducta<lb ed="#A" n="27" break="no"/>rum ex praemissis probabilibus &amp; 
+      opinabili<lb ed="#A" n="28" break="no"/>bus, est incerta, &amp; per consequens etiam 
+      ine<lb ed="#A" n="29" break="no"/>videns. 
+      <!--286.xml-->
+      <pb ed="#A" n="267"/>
+               <lb ed="#A" n="1"/>S Praeterea sententiae supradictae falsitas 
+      <lb ed="#A" n="2"/>ex eo patet, quod credere non tantum sit 
+      <lb ed="#A" n="3"/>assentiri testimonio propter testantis authoritatem, 
+      <lb ed="#A" n="4"/>h. e. assentiri alicui narrationi propter 
+      nar<lb ed="#A" n="5" break="no"/>rantis dignitatem, sed etiam assentiri 
+      couclusto<lb ed="#A" n="6" break="no"/>ni ex eo testimonio deductae propter illud 
+      testimo<lb ed="#A" n="7" break="no"/>nium: qui enim assentitur alicui veritati ex 
+      <lb ed="#A" n="8"/>testimonio deductae, propter testimonium ex 
+      <lb ed="#A" n="9"/>quo deducitur, is non proprie dicitur scire, 
+      <lb ed="#A" n="10"/>sed credere rem ita se habere: idque quia 
+      <lb ed="#A" n="11"/>fundamentum, quo nititur scientia, non est 
+      <lb ed="#A" n="12"/>testimonium, sed ratio. Quare actus 
+      creden<lb ed="#A" n="13" break="no"/>di, non tantum est assensus quem praebemus 
+      <lb ed="#A" n="14"/>Dei testimonio in Scriptura proposito, sed 
+      <lb ed="#A" n="15"/>etiam quem praebemus conclusionibus ex eo 
+      <lb ed="#A" n="16"/>testimonio deductis. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

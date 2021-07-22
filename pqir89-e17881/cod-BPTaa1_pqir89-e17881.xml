@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 22</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 22</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="251"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-e17881"><!-- p3a22 -->
+            <head xml:id="pqir89-e17881-Hd1e106">Articulus 22</head>
+            <head xml:id="pqir89-e17881-Hd1e109" type="question-title">
+        Utrum Charitas sit forma Fidei.
+      </head>
+            <p xml:id="pqir89-e17881-d1e112">
+      <!--270.xml-->
+               <pb ed="#A" n="251"/>
+               <lb ed="#A" n="1"/>ART. XXII 
+      <lb ed="#A" n="2"/>vtrum Charitas sit forma Fidei. 
+    </p>
+            <p xml:id="pqir89-e17881-d1e123">
+               <lb ed="#A" n="3"/>Prandus, in Zib. 2. Sent. Distinct. 
+      <lb ed="#A" n="4"/>L 2S. Quaest. 8. de hac controversia 
+      <lb ed="#A" n="5"/>in utramque partem disserit. Et primo 
+      pro<lb ed="#A" n="6" break="no"/>bat Charitatem non esse formam fidei, duabus 
+      <lb ed="#A" n="7"/>rationibus. Prima ratio est, Quia forma &amp;  
+      <lb ed="#A" n="8"/>id cuius est forma, in eodem subiecto 
+      exi<lb ed="#A" n="9" break="no"/>stunt, at Fides &amp; Charitas sunt in diversis 
+      <lb ed="#A" n="10"/>subiectis, nam Fides est in intellectu, 
+      Cha<lb ed="#A" n="11" break="no"/>ritas vero est in voluntate: Ergo Charitas 
+      <lb ed="#A" n="12"/>non est forma Fidei. Secunda ratio est, quia 
+      <lb ed="#A" n="13"/>Charitas neque est forma essentialis Fidei, 
+      ne<lb ed="#A" n="14" break="no"/>que accidentalis: Ergo nullo modo est eius 
+      <lb ed="#A" n="15"/>forma. Probat antecedens sic, Fides potest 
+      <lb ed="#A" n="16"/>esse sine Charitate: Ergo charitas non est 
+      e<lb ed="#A" n="17" break="no"/>ius forma essentialis. Item Charitas est 
+      nobi<lb ed="#A" n="18" break="no"/>lior &amp; praestantior Fide: Ergo non est eius 
+      <lb ed="#A" n="19"/>forma accidentalis.  
+    </p>
+            <p xml:id="pqir89-e17881-d1e162">
+               <lb ed="#A" n="20"/>a Deinde probat Charitatem esse Fidei 
+      <lb ed="#A" n="21"/>formam, quia illud per quod aliquid vi vit &amp; 
+      <lb ed="#A" n="22"/>operatur, est forma: at Fides operatur per 
+      Chari<lb ed="#A" n="23" break="no"/>tatem, Gal. S. vers. 6 vivit etiam per eam,  
+      <lb ed="#A" n="24"/>quia sine operibus charitatis fides est mortua, 
+      <lb ed="#A" n="25"/>lacob. 2. Vers. 2o. Ergo Charitas est forma 
+      <lb ed="#A" n="26"/>Fidei. 
+      <!--271.xml-->
+      <pb ed="#A" n="252"/>
+               <lb ed="#A" n="1"/>S Vt quaestionem hanc dissolvat 
+      Duran<lb ed="#A" n="2" break="no"/>dus, distinctione utitur, dicens Fidei 
+      habi<lb ed="#A" n="3" break="no"/>tum duobus modis posse considerari, 
+      videli<lb ed="#A" n="4" break="no"/>cet secundum eius esse naturae, hoc est, 
+      se<lb ed="#A" n="5" break="no"/>aeundum eius essentiam, &amp; secundum eius 
+      <lb ed="#A" n="6"/>esse meritorium: hoc est, quatenus meretur 
+      <lb ed="#A" n="7"/>vitam aeternam: secundum priorem 
+      consi<lb ed="#A" n="8" break="no"/>derationem, dicit, Fidei formam esse 
+      Chari<lb ed="#A" n="9" break="no"/>tatem, ut probant duo illa argumenta in 
+      <lb ed="#A" n="10"/>prima assertione proposita: at secundum 
+      <lb ed="#A" n="11"/>posteriorem, putat, Charitatem recte 
+      appel<lb ed="#A" n="12" break="no"/>lari Bdet formam: idque quia actus Fidei 
+      <lb ed="#A" n="13"/>non est meritorius, nisi quatenus imperatur 
+      <lb ed="#A" n="14"/>a Charitate, sine quam non habet rationem 
+      <lb ed="#A" n="15"/>meriti. 
+    </p>
+            <p xml:id="pqir89-e17881-d1e218">
+               <lb ed="#A" n="16"/>A Ex hac distinctione Durandi duo 
+      colli<lb ed="#A" n="17" break="no"/>go. Primo, Eos non recte procedere contra 
+      <lb ed="#A" n="18"/>Pontificios, qui probant Charitatem non esse 
+      <lb ed="#A" n="19"/>formam Fidei, argumentis sumptis aut ab 
+      essen<lb ed="#A" n="20" break="no"/>tiali dipersitate Fidei &amp; Charitatis, aut a 
+      priori<lb ed="#A" n="21" break="no"/>tate originis, qua Fides Charitatem ordine 
+      na<lb ed="#A" n="22" break="no"/>turae praecedit, aut ex eo quod Fides Charitatem  
+      <lb ed="#A" n="23"/>dirigat, &amp; Charitas Fidei obsequatur, &amp;c. Ista 
+      <lb ed="#A" n="24"/>enim argumenta non sunt ad hominem, ut 
+      <lb ed="#A" n="25"/>loquuntur: nam nihil aliud probant quam  
+      <lb ed="#A" n="26"/>id quod Pontificii concedunt, videlicet 
+      Cha<lb ed="#A" n="27" break="no"/>ritatem non esse formam Fidei quoad eius 
+      <lb ed="#A" n="28"/>esse naturae. 
+    </p>
+            <p xml:id="pqir89-e17881-d1e249">
+               <lb ed="#A" n="29"/>S Secundo colligo, doctrinam Durandi, 
+      <!--272.xml-->
+      <pb ed="#A" n="253"/>
+               <lb ed="#A" n="1"/>&amp; aliorum Pontificiorum de forma Fidei 
+      reficien<lb ed="#A" n="2" break="no"/>dam &amp; explodendam esse: quia vid, nititur 
+      ab<lb ed="#A" n="3" break="no"/>surdissimo &amp; periculosissimo illo dogmate de 
+      me<lb ed="#A" n="4" break="no"/>ritis Fidei &amp; bonorum operum: cuius 
+      falsita<lb ed="#A" n="5" break="no"/>tem evidentissime demonstrant nostri 
+      Theo<lb ed="#A" n="6" break="no"/>logi in controversia de iustificatione, idque 
+      <lb ed="#A" n="7"/>quatuor praecipue rationibus. Primum, quta 
+      <lb ed="#A" n="8"/>opera illa, qua bona, non sunt nostra, hoc est, 
+      <lb ed="#A" n="9"/>bonitas istorum actuum non nobis, sed Deo 
+      <lb ed="#A" n="10"/>ascribenda est. Secundo, quia opera illa sunt 
+      <lb ed="#A" n="11"/>debita. Tertio, quia nihil ex illis accedit Deo. 
+      <lb ed="#A" n="12"/>Quarto, quia nullam habent analogiam ad 
+      prae<lb ed="#A" n="13" break="no"/>mium, quod est vita aeterna. 
+    </p>
+            <p xml:id="pqir89-e17881-d1e286">
+               <lb ed="#A" n="14"/>o Argumentum Pontificiorum petitum 
+      <lb ed="#A" n="15"/>ab operatione Fidei per Charitatem 
+      facilli<lb ed="#A" n="16" break="no"/>me solvitur: nam agens principale, non solum 
+      <lb ed="#A" n="17"/>operatur per formam, sed etiam per facultates 
+      <lb ed="#A" n="18"/>suas, &amp; per instrumenta sua: &amp; proinde 
+      ne<lb ed="#A" n="19" break="no"/>ganda est illa consequentia: Fides operatur 
+      <lb ed="#A" n="20"/>per Charitatem: Ergo Charitas est forma Fidei: 
+      <lb ed="#A" n="21"/>nec minus inepta est illa altera consequentia. 
+      <lb ed="#A" n="22"/>Fides sine operibus Charitatis est mortua: Ergo 
+      <lb ed="#A" n="23"/>Charitas est forma Fidei: si enim illa illatio 
+      <lb ed="#A" n="24"/>bona esset, sequeretur, caput aut. cor hominis.  
+      <lb ed="#A" n="25"/>esse eius formam, idque quia homo sine 
+      ca<lb ed="#A" n="26" break="no"/>pite aut corde, vivere: non potest.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

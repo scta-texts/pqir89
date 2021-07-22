@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 11</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 11</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="47-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-de3373"><!-- p1a11 -->
+            <head xml:id="pqir89-de3373-Hd1e106">Articulus 11</head>
+            <head xml:id="pqir89-de3373-Hd1e109" type="question-title">
+        An Vbiquitariorum argumenta ab
+        unione personali petita, sint valida.
+      </head>
+            <p xml:id="pqir89-de3373-d1e112">
+               <lb ed="#A" n="15"/>ART.XI 
+      <lb ed="#A" n="16"/>An Qbiquitariorum argumenta abu¬ 
+      <lb ed="#A" n="17"/>nione personali petita sint valida.
+    </p>
+            <p xml:id="pqir89-de3373-d1e121">
+               <lb ed="#A" n="18"/>RIMA obiectio eorum, qui 
+      huma<lb ed="#A" n="19" break="no"/>A nae CHRISTI naturae, 
+      immensita<lb ed="#A" n="20" break="no"/>tem quandam affingunt, sic proponi, solet, 
+      <lb ed="#A" n="21"/>Quicquid personaliter counctum est cum toto 
+      <lb ed="#A" n="22"/>Nvo, illud existit ubicunque existito Aοο&amp;ν¬ 
+      <lb ed="#A" n="23"/>at natura humand CHRISTI est talis: 
+      Er<lb ed="#A" n="24" break="no"/>go. Respondetur, propositionem esse aperte 
+      <lb ed="#A" n="25"/>falsam: nam ex personali unione duarum 
+      na<lb ed="#A" n="26" break="no"/>turarum in. CHRISTO, non magis 
+      se<lb ed="#A" n="27" break="no"/>quitur, ahumanitatem esse ubicunque est 
+      <!--64.xml-->
+      <pb ed="#A" n="47"/>
+               <lb ed="#A" n="1"/>Deitas, quam ex unione substantiali animae 
+      <lb ed="#A" n="2"/>nostrae cum materia capitis, sequitur capitis 
+      <lb ed="#A" n="3"/>materiam esse ubicunque est aninia, h.e. esse 
+      <lb ed="#A" n="4"/>in pede, quia anima est in pede. Dico eam esse 
+      <lb ed="#A" n="5"/>substantialiter conunctam toti animae, quia 
+      <lb ed="#A" n="6"/>est in toto corpore, &amp; tota in qualibet eius 
+      <lb ed="#A" n="7"/>parte. Si igitur bene &amp; acutem argumentantur 
+      <lb ed="#A" n="8"/>Vbiquistae, cum talem svllogismum exstruunt, 
+      <lb ed="#A" n="9"/>bona &amp; efficax erit haec argumentatio, Quod 
+      <lb ed="#A" n="10"/>substantialiter est counctum toti animae, illud 
+      <lb ed="#A" n="11"/>existit ubicunque existit anima: at materia 
+      ca<lb ed="#A" n="12" break="no"/>pitis est substantialiter coniuncta toti animae: 
+      Er<lb ed="#A" n="13" break="no"/>go est ubicunque est anima: anima autem: est 
+      <lb ed="#A" n="14"/>in materia pedis: Ergo etiam, materia 
+      capi<lb ed="#A" n="15" break="no"/>tis est in materia pedis. 
+    </p>
+            <p xml:id="pqir89-de3373-d1e182">
+               <lb ed="#A" n="16"/>2. Secunda ob. Vnio duarum naturarum  
+      <lb ed="#A" n="17"/>in CHRISTO facta est, δδεῶρενως, κα 
+      <lb ed="#A" n="18"/>δωπάντως: Ergo non existit earum vna, nisi ubi 
+      <lb ed="#A" n="19"/>existit altera: i.e. in omnibus locis coexistunt. 
+      <lb ed="#A" n="20"/>Resp. adverbia inseparaliliter &amp; indistanter, 
+      <lb ed="#A" n="21"/>cum adhibentur ad explicandum modum, 
+      <lb ed="#A" n="22"/>quo uniuntur duae naturae in persona rs 
+      Ao<lb ed="#A" n="23" break="no"/>α, duplicem usum habere: primo enim 
+      ad<lb ed="#A" n="24" break="no"/>hibentur, ad refellendum Nestorij errorem, 
+      <lb ed="#A" n="25"/>qui has naturas non tantum distinxit, sed divisit 
+      <lb ed="#A" n="26"/>&amp; separavit, utrique naturae suam propriam 
+      <lb ed="#A" n="27"/>hypostasim affingens, ideoque illas non 
+      con<lb ed="#A" n="28" break="no"/>iunxit in unam hypostasin. Secundo ut 
+      scia<lb ed="#A" n="29" break="no"/>mus istam unionem esse indissolubilem, &amp; 
+      <lb ed="#A" n="30"/>has naturas, postquam semel coniunctae sunt,  
+      <!--65.xml-->
+      <pb ed="#A" n="48"/>
+               <lb ed="#A" n="1"/>nunquam disiungi aut separari posse. 
+      Nega<lb ed="#A" n="2" break="no"/>mus igitur istam consequentiam, humana &amp; 
+      <lb ed="#A" n="3"/>di vina natura, indissolubiliter, &amp; 
+      inseparabili<lb ed="#A" n="4" break="no"/>ter, in una persona conunctae sunt: Ergo 
+      ubicun<lb ed="#A" n="5" break="no"/>que existit earum una, ibi etiam existit altera, 
+      <lb ed="#A" n="6"/>ratio est, quia per distinctionem localis 
+      prae<lb ed="#A" n="7" break="no"/>sentiae duarum naturarum, earum unio non 
+      <lb ed="#A" n="8"/>dissolvitur, sed potius naturarum veritas 
+      as<lb ed="#A" n="9" break="no"/>seritur, &amp; confusio tollitur. 
+    </p>
+            <p xml:id="pqir89-de3373-d1e242">
+               <lb ed="#A" n="10"/>a Instabit aliquis primo: Si istarum 
+      na<lb ed="#A" n="11" break="no"/>turarum vna ibi existit, ubi non existit altera, 
+      <lb ed="#A" n="12"/>eum earum una ab altera separatur: at verum est 
+      <lb ed="#A" n="13"/>prius: Ergo etiam posterius. Resp. Negando 
+      <lb ed="#A" n="14"/>connexionem: anima enim humana, quae 
+      to<lb ed="#A" n="15" break="no"/>ta est in materia capitis, est etiam tota in alijs 
+      <lb ed="#A" n="16"/>membris, in quibus materia capitis, non 
+      exi<lb ed="#A" n="17" break="no"/>stit, at unio animae cum materia capitis, hoc 
+      <lb ed="#A" n="18"/>pacto non dissoluitur: nam, vt omnes 
+      no<lb ed="#A" n="19" break="no"/>runt, anima non nisi per mortem hominis,  
+      <lb ed="#A" n="20"/>divellitur &amp; separatur a capite, &amp; reliquis 
+      <lb ed="#A" n="21"/>membris. Secundo inst. Anima, quae tota 
+      exi<lb ed="#A" n="22" break="no"/>stit in materia capitis, &amp; tota extra eam, non 
+      <lb ed="#A" n="23"/>unitur capiti, vnione adaequata, &amp; completa, sed 
+      <lb ed="#A" n="24"/>ei unitur, tanquam materiae partiali &amp; 
+      incomple<lb ed="#A" n="25" break="no"/>te: contra vero vnione adaequata, &amp; completa, 
+      <lb ed="#A" n="26"/>unitur toti corpori, quia anima ita est tota in 
+      to<lb ed="#A" n="27" break="no"/>to corpore, ut nullo modo sit extra illud: Ergo, 
+      <lb ed="#A" n="28"/>cum ex sententia Calvinistarum, tota Deitas 
+      <lb ed="#A" n="29"/>existat in humanitate, &amp; etiam tota extra eam,  
+      <lb ed="#A" n="30"/>unio T NOαcum humanitate, non erit adae¬ 
+      <!--66.xml-->
+      <pb ed="#A" n="49"/>
+               <lb ed="#A" n="1"/>quata, &amp; completa.. Respond. Imparem esse 
+      <lb ed="#A" n="2"/>rationem: vnio enim animae cum materia 
+      ca<lb ed="#A" n="3" break="no"/>pitis, dicitur incompleta, quia non est unio 
+      <lb ed="#A" n="4"/>totius cum toto: i. e. totius formae cum tota 
+      <lb ed="#A" n="5"/>materia, sed cum eius parte: at unio r&amp; Aoxe 
+      <lb ed="#A" n="6"/>cum humana natura, est totius cum toto: 
+      <lb ed="#A" n="7"/>i. e. totius Deitatis Christi, cum tota eius 
+      hu<lb ed="#A" n="8" break="no"/>manitate in una hypostasi. Vera igiturratio 
+      <lb ed="#A" n="9"/>cur unio animae cum materia capitis, sit 
+      in<lb ed="#A" n="10" break="no"/>adaequata, non est quod anima existat extra 
+      <lb ed="#A" n="11"/>materiam capitis, sed quod non sit unio to 
+      <lb ed="#A" n="12"/>tius cum toto: i. e. integrae formae cum 
+      inte<lb ed="#A" n="13" break="no"/>gra materia. Quamobrem non est, quod 
+      Vbi<lb ed="#A" n="14" break="no"/>quitarij nobis obiiciant, nos personam 
+      Chri<lb ed="#A" n="15" break="no"/>sti soluere, naturas ipsius divellere, &amp; 
+      inadae<lb ed="#A" n="16" break="no"/>quatam coniunctionem naturarum ei 
+      affin<lb ed="#A" n="17" break="no"/>gere: sed contra est, quod nos doleamus, &amp; 
+      <lb ed="#A" n="18"/>mitemur, tam elumbia argumenta, tam 
+      pue<lb ed="#A" n="19" break="no"/>riles ineptias, viris ab eruditione claris 
+      pla<lb ed="#A" n="20" break="no"/>cere, &amp; imponere potuisse. 
+    </p>
+            <p xml:id="pqir89-de3373-d1e338">
+               <lb ed="#A" n="21"/>A Tert. ob. Secunda persona 
+      Trinita<lb ed="#A" n="22" break="no"/>tis, postquam humanum naturam assumpsit, 
+      <lb ed="#A" n="23"/>sem per &amp; ubique est Deus Incarnatus: Ergo 
+      <lb ed="#A" n="24"/>nusquam est Excarnatus, ut insolenter 
+      lo<lb ed="#A" n="25" break="no"/>quitur DPhilippus Nicolai. Resp. Illud 
+      argu<lb ed="#A" n="26" break="no"/>mentum, nihil concludere contra nos, &amp; 
+      <lb ed="#A" n="27"/>proinde totum admitti posse: cum enim 
+      in<lb ed="#A" n="28" break="no"/>carnatio Dei posita sit in humanae naturae 
+      as<lb ed="#A" n="29" break="no"/>sumptione, eiusque coniunctione hypostatica 
+      <lb ed="#A" n="30"/>cum dixina, necesse est excarnatione sut cum 
+      <!--67.xml-->
+      <pb ed="#A" n="50"/>
+               <lb ed="#A" n="1"/>Dhilipoo Nicolai loquar), significare humanae 
+      <lb ed="#A" n="2"/>naturae depositionem, desertionem, &amp; 
+      unio<lb ed="#A" n="3" break="no"/>nis iam factae dissolutionem: absit autem 
+      di<lb ed="#A" n="4" break="no"/>camus, beatissimum ποωον, carnem, quam  
+      <lb ed="#A" n="5"/>inutero Virginis assumpsit, alicubi deponere, 
+      <lb ed="#A" n="6"/>exuere, aut e sua hypostasi exterminare. Insta. 
+      <lb ed="#A" n="7"/>bit aliquis primo, si Aοο&amp; existit extra 
+      car<lb ed="#A" n="8" break="no"/>nem, Aοv&amp; est alicubi excarnatus: at verum 
+      <lb ed="#A" n="9"/>est prius, ex vestra sententia. Ergo etiam 
+      po<lb ed="#A" n="10" break="no"/>sterius admittere tenemini. Resp. Negando 
+      <lb ed="#A" n="11"/>illam connexionem: sicut enim tota anima 
+      <lb ed="#A" n="12"/>humana existit extra materiam capitis, salua 
+      <lb ed="#A" n="13"/>eius vnione cum materia capitis, ita etiam  
+      <lb ed="#A" n="14"/>totus Adλ &amp; existit &amp; in carnme, &amp; extra 
+      car<lb ed="#A" n="15" break="no"/>nem, salua sua personali vnione cum natura 
+      <lb ed="#A" n="16"/>humana, &amp; proinde τo esse eaxetra carnem non 
+      <lb ed="#A" n="17"/>necessario infert excarnationem, seu unionis 
+      <lb ed="#A" n="18"/>istius personalis dissolutionem Matthias 
+      <lb ed="#A" n="19"/>Martinius acutissimus Theologus, ad 
+      huius<lb ed="#A" n="20" break="no"/>modi argumentum a Balthaxare Menigaero 
+      <lb ed="#A" n="21"/>propositum respondens, dicit voculam 
+      extra<lb ed="#A" n="22" break="no"/>esse ambiguam, &amp; alias idem valere quod 
+      <lb ed="#A" n="23"/>ultra, h,e, negare rei unius inclusionem in alia 
+      <lb ed="#A" n="24"/>res alias autem, importare separationem, &amp; 
+      <lb ed="#A" n="25"/>negare unionem: priore modo dicit Aῶξον  
+      <lb ed="#A" n="26"/>existere ex tra carnem a se assumptam, non 
+      <lb ed="#A" n="27"/>vero posteriore modo. 
+    </p>
+            <p xml:id="pqir89-de3373-d1e425">
+               <lb ed="#A" n="28"/>S. Instabit aliquis secundo: Si Aοο&amp;, 
+      prio<lb ed="#A" n="29" break="no"/>ri modo est extra humanitatem, No&amp; alicubi 
+      <lb ed="#A" n="30"/>non erit homo: at Noν&amp; nuspiam non est homo, 
+      <!--68.xml-->
+      <pb ed="#A" n="51"/>
+               <lb ed="#A" n="1"/>Ergo nuspiam est extra humanitatem: 
+      proba<lb ed="#A" n="2" break="no"/>tur assumptio: Nοκ&amp; semper &amp; ubique est 
+      <lb ed="#A" n="3"/>homo, nam semper &amp; ubique est Sεῶν
+      Spa<lb ed="#A" n="4" break="no"/>τ&amp;ν. Resp. Quam vis sanctus Thomas, &amp; cum  
+      <lb ed="#A" n="5"/>eo fere omnes Scholastici Theologi, putent 
+      <lb ed="#A" n="6"/>illam propositionem, Aον&amp; ubique est homo, 
+      <lb ed="#A" n="7"/>simpliciter esse falsam, puto tamen 
+      distin<lb ed="#A" n="8" break="no"/>ctionem esse adhibendam: vel enim hic est 
+      <lb ed="#A" n="9"/>eius sensus, Aῶν&amp; ubique est persona, 
+      huma<lb ed="#A" n="10" break="no"/>nam naturam sibi vnitam habens: vel hic est 
+      e<lb ed="#A" n="11" break="no"/>ius sensus, Aο9&amp; est persona habens 
+      natu<lb ed="#A" n="12" break="no"/>ram humanam, ubique sibi vnitam, ideoque vo 
+      <lb ed="#A" n="13"/>bique sibi Iocaliter praesentem. In priori 
+      sensu<lb ed="#A" n="14" break="no"/>propositio est vera, &amp; a nobis admittitur, quia 
+      <lb ed="#A" n="15"/>nostrae sententiae non contradicit: in 
+      posterio<lb ed="#A" n="16" break="no"/>ri vero, plane falsa est, &amp; proinde a nobis 
+      <lb ed="#A" n="17"/>nunquam admittitur. Inter hos duos sensus 
+      <lb ed="#A" n="18"/>istius propositionis, ingens esse discrimens ex 
+      <lb ed="#A" n="19"/>his exemplis liquet: Maritus ubique, seu 
+      ubi<lb ed="#A" n="20" break="no"/>cunque existit, est vir uxorem habens, est 
+      propo<lb ed="#A" n="21" break="no"/>sitio vera: at haec, maritus est vir, sei in 
+      omni<lb ed="#A" n="22" break="no"/>bus locis uxorem habens, est proposstio 
+      falsa<lb ed="#A" n="23" break="no"/>Similiter haec, Dominus ubique est vir servum 
+      <lb ed="#A" n="24"/>ha bens, propositio est vera: haec vero, 
+      Domi<lb ed="#A" n="25" break="no"/>nus est vir, ubique servum habens, falsa est. 
+    </p>
+            <p xml:id="pqir89-de3373-d1e493">
+               <lb ed="#A" n="26"/>&amp;. Instabit aliquis tertio.: Si Aῶν&amp; non 
+      <lb ed="#A" n="27"/>habet naturam humanam ubique sibi vnitam &amp; 
+      <lb ed="#A" n="28"/>localiter coexistentem, totus Christus non est 
+      <lb ed="#A" n="29"/>ubique, sed vna tantum eius natura, videlicet 
+      <lb ed="#A" n="30"/>Deitas: at absurdum est posterius. Ergo etiam  
+      <!--69.xml-->
+      <pb ed="#A" n="52"/>
+               <lb ed="#A" n="1"/>prius. Resp. Negando connexionem 
+      propo<lb ed="#A" n="2" break="no"/>sitionis: nam ex antecedente istius 
+      conne<lb ed="#A" n="3" break="no"/>xae propositionis, bene sequitur totum 
+      Chri<lb ed="#A" n="4" break="no"/>sti, i. e omnes partes Christi, non esse 
+      ubi<lb ed="#A" n="5" break="no"/>que, non vero bene sequitur totum Christum  
+      <lb ed="#A" n="6"/>non esse ubique. Hanc distinctionem cur 
+      re<lb ed="#A" n="7" break="no"/>pudiet D. Iacobus Andreae, &amp; cum eo reliqui 
+      <lb ed="#A" n="8"/>vbiquitarij, magnopere demiror: Totus enim 
+      <lb ed="#A" n="9"/>Christi est homo, sed non totum Christi, totus 
+      <lb ed="#A" n="10"/>Christus est passus, mortuus, &amp; resurrexit, 
+      <lb ed="#A" n="11"/>sed non totum Christi: i,. e. utraque eius 
+      na<lb ed="#A" n="12" break="no"/>tura. 
+    </p>
+            <p xml:id="pqir89-de3373-d1e537">
+               <lb ed="#A" n="13"/>v. Instabit aliquis quarto: Christus non 
+      <lb ed="#A" n="14"/>est totus, sine humanitate: Ergo si totus 
+      Chri<lb ed="#A" n="15" break="no"/>stus est ubique, humanitas Christi est ubique. 
+      <lb ed="#A" n="16"/>Resp. Negando sequelam: istius enim 
+      argu<lb ed="#A" n="17" break="no"/>menti consequentia, est plane ridicula, &amp; 
+      re<lb ed="#A" n="18" break="no"/>futatione indigna, ut patet ex his exemplis,  
+      <lb ed="#A" n="19"/>quae similem consequentiam continent: Totus 
+      <lb ed="#A" n="20"/>Christus non est sine Deitate: Ergo si totus 
+      <lb ed="#A" n="21"/>Christus est passus &amp; mortuus, Deitas etiam  
+      <lb ed="#A" n="22"/>passa est, &amp; mortua: Item, Christus non est 
+      to<lb ed="#A" n="23" break="no"/>tus, sine pede suo: Ergo si totus Christus est 
+      ho<lb ed="#A" n="24" break="no"/>mo, pes Christi est homo.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

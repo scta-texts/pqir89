@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 27</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 27</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="271-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-e19322"><!-- p3a27 -->
+            <head xml:id="pqir89-e19322-Hd1e106">Articulus 27</head>
+            <head xml:id="pqir89-e19322-Hd1e109" type="question-title">
+        Theologiam esse similem omnibus 
+        habitibus Aristotelicis, praecipue pero 
+        Prudentiae.
+      </head>
+            <p xml:id="pqir89-e19322-d1e112">
+               <lb ed="#A" n="15"/>ART. XXVII 
+      <lb ed="#A" n="16"/>Theologiam esse similem omnibus 
+        habiti<lb ed="#A" n="17" break="no"/>bus Aristotelicis, praecipue pero 
+      Pru<lb ed="#A" n="18" break="no"/>dentiae. 
+    </p>
+            <p xml:id="pqir89-e19322-d1e123">
+               <lb ed="#A" n="19"/>TOn desunt, qui asserunt Theologiam  
+      <lb ed="#A" n="20"/>Nesse omnem habitum eminenter, sed 
+      <lb ed="#A" n="21"/>non formaliter, id est, cuiuslibet habitus 
+      quan<lb ed="#A" n="22" break="no"/>dam conditionem in. S. Theologia 
+      excellen<lb ed="#A" n="23" break="no"/>ter expressaminveniri, quamvis sub nullo 
+      il<lb ed="#A" n="24" break="no"/>lorum habituum, tanquam sub genere, 
+      con<lb ed="#A" n="25" break="no"/>tineatur: primo enim, quatenus considerat 
+      <lb ed="#A" n="26"/>Deum, qui est suprema &amp; generalissima cau¬ 
+      <!--290.xml-->
+      <pb ed="#A" n="271"/>
+               <lb ed="#A" n="1"/>sa, est similis, sapientiae: secundo, quatenus 
+      <lb ed="#A" n="2"/>versatur circa necessaria, &amp; ab arbitrio 
+      huma<lb ed="#A" n="3" break="no"/>no non pendentia, dici potest scientia: tertio, 
+      <lb ed="#A" n="4"/>quatenus considerat prima &amp; 
+      indemonstrabi<lb ed="#A" n="5" break="no"/>lia principia Fidei, ex quibus conclusiones 
+      <lb ed="#A" n="6"/>Theologicae deducuntur, dici potest 
+      intelle<lb ed="#A" n="7" break="no"/>ctus: quarto, quatenus Actus Christiani 
+      ho<lb ed="#A" n="8" break="no"/>minis dirigit, Prudentia appellari potest: 
+      quin<lb ed="#A" n="9" break="no"/>to, Arti similis est quatenus est aedificatira 
+      <lb ed="#A" n="10"/>Ecclesiae: unde Ap. I. Cor. S. Io. dicit, secundum 
+      <lb ed="#A" n="11"/>gratiam quae duta est mibi, ut peritus 
+      Architec<lb ed="#A" n="12" break="no"/>tus fundumentum posui, alius autem superaedificat. 
+    </p>
+            <p xml:id="pqir89-e19322-d1e173">
+               <lb ed="#A" n="13"/>2 Si quis, quaerat, an Theologia sit, similior 
+      <lb ed="#A" n="14"/>uni horum quinque habituum, quam reliquis: 
+      <lb ed="#A" n="15"/>Respondebo, eam esse Prudentiae Cixili 
+      simil<lb ed="#A" n="16" break="no"/>limam. Primo enim, ei accomodari potest 
+      <lb ed="#A" n="17"/>Prudentiae definitio. nam sicut Prudentia 
+      Ci<lb ed="#A" n="18" break="no"/>vilis est habitus rectam, cum ratione activus, i. 
+      e<lb ed="#A" n="19" break="no"/>directixus actionum Cixilium: ita etiam 
+      Theo<lb ed="#A" n="20" break="no"/>logia est habitus recta cum ratione activus, id 
+      <lb ed="#A" n="21"/>est, directivus actionum spiritualium. 
+      Secun<lb ed="#A" n="22" break="no"/>do, sicuti. Prudentia, quae est principium 
+      di<lb ed="#A" n="23" break="no"/>rectivum actionum cixilium, in intellectu 
+      exi<lb ed="#A" n="24" break="no"/>stens, operatur per virtutes morales in voluntate 
+      <lb ed="#A" n="25"/>existentes, quae sunt principia executiva 
+      bo<lb ed="#A" n="26" break="no"/>narum actionum, inclinantia &amp; quasi 
+      im<lb ed="#A" n="27" break="no"/>pellentia voluntatem ad id eligendum quod 
+      <lb ed="#A" n="28"/>intellectus iudicat esse melius: ita etiam  
+      <lb ed="#A" n="29"/>Theologia, quae est principium directirum 
+      <!--291.xml-->
+      <pb ed="#A" n="272"/>
+               <lb ed="#A" n="1"/>bonarum actionum, spiritualium, in intellectu 
+      <lb ed="#A" n="2"/>existens, operatur per virtutes Theologicas, quae 
+      <lb ed="#A" n="3"/>sunt in voluntate, hoc est, per Charitatem, &amp; 
+      <lb ed="#A" n="4"/>eius Filias. Hae enim sunt priucipia 
+      exeruti<lb ed="#A" n="5" break="no"/>va actionum spiritualium, hoc est, inclinantia 
+      <lb ed="#A" n="6"/>voluntatem ad id eligendum, quod 
+      Theolo<lb ed="#A" n="7" break="no"/>gia in intellectu existens indicat esse confor. 
+      <lb ed="#A" n="8"/>me voluntati Dei in verbo reyelatae: atque 
+      <lb ed="#A" n="9"/>hinc est quod Apost. Galat. cap. S. Verse o 
+      <lb ed="#A" n="10"/>dicat Fidem operari per Charitatem.  
+    </p>
+            <p xml:id="pqir89-e19322-d1e239">
+               <lb ed="#A" n="11"/>2 Tertia similitudo seu convenientia 
+      <lb ed="#A" n="12"/>Prudentiae civilis, &amp; Theologiae, in eo est 
+      <lb ed="#A" n="13"/>posita, quod vtraque proponat sibi 
+      felicita<lb ed="#A" n="14" break="no"/>tem practicam consequendam: duplex enim 
+      <lb ed="#A" n="15"/>est felicitas practica, videlicet, Cvilis, &amp; 
+      <lb ed="#A" n="16"/>spiritualis: illa posita est in actione 
+      secun<lb ed="#A" n="17" break="no"/>dum optimam virtutem moralem, hoc est, 
+      <lb ed="#A" n="18"/>iustitiam unipersalem, estque finis 
+      Pruden<lb ed="#A" n="19" break="no"/>tiae Civilis: haec vero posita est in 
+      accto<lb ed="#A" n="20" break="no"/>ue secundum virtutem Theologicam 
+      praestan<lb ed="#A" n="21" break="no"/>tissimam, videlicet Charitatem s estque 
+      fi<lb ed="#A" n="22" break="no"/>nis Prudentiae Religiosae, hoc est 
+      Theolo<lb ed="#A" n="23" break="no"/>giae: haec autem actio nihil est aliud, 
+      ni<lb ed="#A" n="24" break="no"/>ui divinae Mafestatis adoratio, ex 
+      feryen<lb ed="#A" n="25" break="no"/>ti amore divinae bonitantis prorentens, &amp;confor. 
+      <lb ed="#A" n="26"/>mis Dei voluntati in verbo putefuctae. 
+    </p>
+            <p xml:id="pqir89-e19322-d1e276">
+               <lb ed="#A" n="27"/>A Dicet aliquis: Vstimus fnis Theologiae, 
+      <lb ed="#A" n="28"/>seis felicitas Theologica, quam in hac vita 
+      as<lb ed="#A" n="29" break="no"/>sequimur, non est posita in actionibus charita¬ 
+      <!--292.xml-->
+      <pb ed="#A" n="273"/>
+               <lb ed="#A" n="1"/>tis: videtur enim, potius consistere vel in actu 
+      <lb ed="#A" n="2"/>fidei iustificantis, vel in ipsa iustificatione 
+      ho<lb ed="#A" n="3" break="no"/>minis. Respondeo, Dei cultum &amp; 
+      adoratio<lb ed="#A" n="4" break="no"/>iteni recte appellari ultimum finem Theologiae, 
+      <lb ed="#A" n="5"/>quem assequimur in hac vita, idque quia &amp; 
+      <lb ed="#A" n="6"/>fides &amp; iustificatio ad eum, tanquam ad 
+      ul<lb ed="#A" n="7" break="no"/>teriorem finem referuntur: ideo enim 
+      illu<lb ed="#A" n="8" break="no"/>minatur mens nostra per sidem, ideo etiam 
+      re<lb ed="#A" n="9" break="no"/>mittuntur nobis nostra peccata, ut Deum 
+      co<lb ed="#A" n="10" break="no"/>lamus, esusque clementiam, &amp; bonitatem 
+      ce<lb ed="#A" n="11" break="no"/>lebremus. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

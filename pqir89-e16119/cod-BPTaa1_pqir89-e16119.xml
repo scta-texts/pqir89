@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 17</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 17</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="228-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-e16119"><!-- p3a17 -->
+            <head xml:id="pqir89-e16119-Hd1e106">Articulus 17</head>
+            <head xml:id="pqir89-e16119-Hd1e109" type="question-title">
+      An notitia sit actus ab habitu fidei elicitus.
+    </head>
+            <p xml:id="pqir89-e16119-d1e112">
+      <!-- missing line break here -->ART. XVII
+      <lb ed="#A" n="23"/>An notitia sit actus ab habitu fidei elicitus.
+    </p>
+            <p xml:id="pqir89-e16119-d1e119">
+               <lb ed="#A" n="24"/>I <ref xml:id="pqir89-e16119-Rd1e123">
+                  <name xml:id="pqir89-e16119-Nd1e125">Robbertus Bellarminus</name>, Lib. I. de 
+      iusti<lb ed="#A" n="25" break="no"/>ficatione, Cap. 7</ref>. dicit, fidem non 
+      es<lb ed="#A" n="26" break="no"/>se notitiam, sed assensum: item, fidem 
+      ma<lb ed="#A" n="27" break="no"/>gis per ignorantiam, quam per notitiam 
+      <!--247.xml-->
+      <pb ed="#A" n="228"/>
+               <lb ed="#A" n="1"/>definiendam esse. Euangelici vero hanc 
+      Bei<lb ed="#A" n="2" break="no"/>larmini sententiam tanquam absurdam &amp;  
+      <lb ed="#A" n="3"/>perniciosam reiiciunt, dicentes cum Calxino. 
+      <lb ed="#A" n="4"/>Lib. S. Instit. cap. 2. Non ignorantia. nec 
+      sen<lb ed="#A" n="5" break="no"/>sus nostri submissione, sed cognitione certa &amp; 
+      <lb ed="#A" n="6"/>explorata regnun colorum adiri. Interim 
+      <lb ed="#A" n="7"/>monent, per notitiam quam fidei tribuunt, 
+      <lb ed="#A" n="8"/>non intelligi ab iis scientiam conclusionum. 
+      <lb ed="#A" n="9"/>acquisitam per media demonstrationum, ex 
+      <lb ed="#A" n="10"/>principiis per se notis: talis enim notitia 
+      <lb ed="#A" n="11"/>pugnat cum inevidentia quam fidei 
+      tribui<lb ed="#A" n="12" break="no"/>mus. monent etiam, se non tollere gradus 
+      <lb ed="#A" n="13"/>in cognitione rerum sacrarum, cum fiden 
+      <lb ed="#A" n="14"/>etiam Laicorum notitiam appellant: 
+      maso<lb ed="#A" n="15" break="no"/>rem enim in docente, quam in discentes in 
+      Pa<lb ed="#A" n="16" break="no"/>store, quam Ove notitiam requiri fatenture 
+      <lb ed="#A" n="17"/>sed notitiam illam opponunt cnassae 
+      ignoran<lb ed="#A" n="18" break="no"/>tiae, quam implicitae fidei, &amp; caecae obedientiae 
+      <lb ed="#A" n="19"/>elogiis ornant Pontificii: scilicet ut asininum 
+      <lb ed="#A" n="20"/>potius stuporem in Laicis foveant, quam.  
+      <lb ed="#A" n="21"/>Christianam fidem: 
+    </p>
+            <p xml:id="pqir89-e16119-d1e186">
+               <lb ed="#A" n="22"/>2 Certitudo, quam omnes Theologi 
+      fi<lb ed="#A" n="23" break="no"/>dei tribuunt, hunc errorem Bellarmini facile 
+      <lb ed="#A" n="24"/>evertit, &amp; destruit: ad eam enim triplex 
+      no<lb ed="#A" n="25" break="no"/>titia requiritur. Prima est, notitia qua 
+      novi<lb ed="#A" n="26" break="no"/>mus quis loquatur: hoc est, qua novimus,  
+      <lb ed="#A" n="27"/>sermonem illum, eui assentimur, esse Dei 
+      <lb ed="#A" n="28"/>ipsius, &amp; non hominum sermonem: nemo 
+      <lb ed="#A" n="29"/>enim assentitur alicui propositioni propter 
+      <lb ed="#A" n="30"/>alterius testimonium, nisi certo sciat cuius 
+      <!--248.xml-->
+      <pb ed="#A" n="229"/>
+               <lb ed="#A" n="1"/>sit illud testimonium, &amp; an is qui testim 
+      o<lb ed="#A" n="2" break="no"/>nium perhibet sit fide dignus. Secunda 
+      no<lb ed="#A" n="3" break="no"/>titia est, quam novimus quid loquatur, hoc est, 
+      <lb ed="#A" n="4"/>qua recte intelligimus Dei sermonem, &amp; 
+      <lb ed="#A" n="5"/>verum verborum sensum 
+      cognoscimus<lb ed="#A" n="6" break="no"/>nemo enim assentitur sermoni, quem non 
+      <lb ed="#A" n="7"/>intelligit. Tertia est notitia qua novimus 
+      <lb ed="#A" n="8"/>vera esse ea quae loquitur. Prima &amp; secunda 
+      <lb ed="#A" n="9"/>notitia sunt praerequisitae antecedenter, ut 
+      Io<lb ed="#A" n="10" break="no"/>quuntur, ad assensum fidei: nam assensus 
+      fi<lb ed="#A" n="11" break="no"/>dei eas praesupponit: Tertia cognitio non 
+      <lb ed="#A" n="12"/>praerequisita, sed requisita est concomitanter, 
+      <lb ed="#A" n="13"/>ut vocant, ad assensum fidei: nam 
+      intrin<lb ed="#A" n="14" break="no"/>sece &amp; essentialiter in ipso actu assentiendi 
+      in<lb ed="#A" n="15" break="no"/>cluditur. 
+    </p>
+            <p xml:id="pqir89-e16119-d1e246">
+               <lb ed="#A" n="16"/>a Cum igitur ad fidei assensum triplex 
+      <lb ed="#A" n="17"/>notitia requiratur, ut iam probatum est: quis 
+      <lb ed="#A" n="18"/>non videt, Bellarminum absurde contendere, 
+      <lb ed="#A" n="19"/>fidem iustificantem non esse notitiam, sed 
+      <lb ed="#A" n="20"/>simplicem assensum &amp; ignorantiam quis 
+      <lb ed="#A" n="21"/>non mirabitur, quomodo tam ineptum 
+      do<lb ed="#A" n="22" break="no"/>gma potuerit viro docto in mentem: venire) 
+      <lb ed="#A" n="23"/>Certe hic error Ecclesiae perniciosissimus 
+      <lb ed="#A" n="24"/>fuit: hinc enim crassa ignorantia &amp; caecitas 
+      <lb ed="#A" n="25"/>totum Papatum occupavit: hinc humanae 
+      tra<lb ed="#A" n="26" break="no"/>ditiones, errores, superstitiones, &amp; mendacia, in 
+      <lb ed="#A" n="27"/>Ecclesiam invecta sunt: hinc est quod 
+      Ponti<lb ed="#A" n="28" break="no"/>ficii Doctores ridendam illam Carbonarit 
+      fi<lb ed="#A" n="29" break="no"/>dem, tanquam spiritualem sapientiam, 
+      sum<lb ed="#A" n="30" break="no"/>mopere collaudent. 
+      <!--249.xml-->
+      <pb ed="#A" n="230"/>
+               <lb ed="#A" n="1"/>A Non statui hic respondere ad 
+      argu<lb ed="#A" n="2" break="no"/>menta Bellarmini ex Scripturis deprompta, 
+      <lb ed="#A" n="3"/>seorum enim consideratio ad Theologos 
+      per<lb ed="#A" n="4" break="no"/>tinet) sed ad rationem ipsius a natura fidei 
+      <lb ed="#A" n="5"/>petitam. cuius haec est summa: Iudicium 
+      ni<lb ed="#A" n="6" break="no"/>tens alterius testimonio &amp; authoritate, non 
+      <lb ed="#A" n="7"/>est notitia: sed fides est tale iudicium: 
+      Ergo<lb ed="#A" n="8" break="no"/>Huius svllogismi maior falsissima est, ut 
+      pa<lb ed="#A" n="9" break="no"/>tet ex iis quae iam dicta sunt. quamvis enim  
+      <lb ed="#A" n="10"/>tale iudicium non sit notitia evidens &amp; 
+      scien<lb ed="#A" n="11" break="no"/>tialis, non tamen ob id ignorantia potius 
+      <lb ed="#A" n="12"/>quam notitia vocari debet. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

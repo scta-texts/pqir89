@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 4</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 4</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="10"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-d1e673"><!-- p1a4 -->
+            <head xml:id="pqir89-d1e673-Hd1e106">Articulus 4</head>
+            <head xml:id="pqir89-d1e673-Hd1e109" type="question-title">
+      Affertur quarta divisio Entis realis, quae 
+      est petita a modis existendi. 
+    </head>
+            <p xml:id="pqir89-d1e673-d1e112">
+      <!--27.xml-->
+               <pb ed="#A" n="10"/>
+               <lb ed="#A" n="1"/>ART. IV 
+      <lb ed="#A" n="2"/>Affertur quarta divisio Entis realis, quae 
+      <lb ed="#A" n="3"/>est petita a modis existendi. 
+    </p>
+            <p xml:id="pqir89-d1e673-d1e125">
+               <lb ed="#A" n="4"/>1. QVarta divisio Entis realis, peti potest 
+      <lb ed="#A" n="5"/>κα, a modis existendi, hoc est, modis 
+      actua<lb ed="#A" n="6" break="no"/>li existentiae superadditis: in omni enim 
+      En<lb ed="#A" n="7" break="no"/>te, actu existente, haec tria considerari 
+      pos<lb ed="#A" n="8" break="no"/>sunt: Primo, quod habeat talem essentiam &amp;  
+      <lb ed="#A" n="9"/>naturam, per quam constituitur in certo 
+      gene<lb ed="#A" n="10" break="no"/>re Entis, &amp; ab omnibus aliis entibus 
+      distin<lb ed="#A" n="11" break="no"/>guitur. Secundo, quod actu existat in mundo, 
+      <lb ed="#A" n="12"/>&amp; sic habeat existendi actum, suae essentiae 
+      <lb ed="#A" n="13"/>superadditum. Tertio, quod habeat talem  
+      <lb ed="#A" n="14"/>existendi modum, suae naturae convenientem: 
+      <lb ed="#A" n="15"/>substantiae enim singulares, &amp; completae, ita 
+      <lb ed="#A" n="16"/>sunt &amp; existunt, ut non in alio sint, sed per se 
+      <lb ed="#A" n="17"/>existant: contra vero accidentia singularia, 
+      <lb ed="#A" n="18"/>ut haec albedo, haec nigredo, ita sunt &amp; 
+      exi<lb ed="#A" n="19" break="no"/>stunt, ut non per se, sed in alio existant: 
+      un<lb ed="#A" n="20" break="no"/>de patet duos esse generales modos 
+      existen<lb ed="#A" n="21" break="no"/>di, ipsi existentiae superadditos, prior est 
+      per<lb ed="#A" n="22" break="no"/>seitas existendi, seu modus existendi per se, &amp; 
+      <lb ed="#A" n="23"/>non in alio: posterior est, modus existendi n 
+      <lb ed="#A" n="24"/>alio: non per se. 
+    </p>
+            <p xml:id="pqir89-d1e673-d1e173">
+               <lb ed="#A" n="25"/>2. His positis, quarta divisio Entis realis 
+      <lb ed="#A" n="26"/>sic concipi potest: omne Ens reale, vel ita 
+      <lb ed="#A" n="27"/>existit, ut nullo modo alteri inesse aut com¬ 
+      <!--28.xml-->
+      <pb ed="#A" n="11"/>
+               <lb ed="#A" n="1"/>municari possit, vel ita existit, ut actu in alio 
+      <lb ed="#A" n="2"/>sit, aut saltem in alio esse possit: exempli 
+      <lb ed="#A" n="3"/>gratia, hic homo, hic equus, hic lapis, nullo 
+      <lb ed="#A" n="4"/>modo alteri insunt, per modum partis, aut 
+      <lb ed="#A" n="5"/>formae essentialis, aut accidentalis, vel quasi 
+      <lb ed="#A" n="6"/>formae: contra vero horum membra iis 
+      in<lb ed="#A" n="7" break="no"/>sunt, per modum partium: &amp; accidentia 
+      i<lb ed="#A" n="8" break="no"/>psorum iis insunt, per modum formarum 
+      ac<lb ed="#A" n="9" break="no"/>cidentalium: dixi, aut saltem in alio esse possit, 
+      <lb ed="#A" n="10"/>propter animas humanas a corpore separatas,  
+      <lb ed="#A" n="11"/>quae quamvis actu non sunt in alio, in alio 
+      <lb ed="#A" n="12"/>tamen esse possunt, ad modum partium. Vt 
+      <lb ed="#A" n="13"/>autem haec melius intelligantur, 
+      enumeran<lb ed="#A" n="14" break="no"/>da sunt earum rerum genera, quae aliquo 
+      mo<lb ed="#A" n="15" break="no"/>do dici possunt esse in alio, per modum 
+      par<lb ed="#A" n="16" break="no"/>tis, aut formae. 
+    </p>
+            <p xml:id="pqir89-d1e673-d1e222">
+               <lb ed="#A" n="17"/>3. Primo accidentia existunt in subiecto 
+      <lb ed="#A" n="18"/>suo: Secundo, partes tum essentiales, tum 
+      in<lb ed="#A" n="19" break="no"/>tegrales, in toto suo: Tertio, ipsa natura rei 
+      <lb ed="#A" n="20"/>totalis &amp; singularis, est in eo cuius est 
+      natu<lb ed="#A" n="21" break="no"/>ra, per modum formae: natura enim rei, seu 
+      <lb ed="#A" n="22"/>essentia, se habet ad modum formae: id vero 
+      <lb ed="#A" n="23"/>cuius est essentia, se habet ad modum 
+      mate<lb ed="#A" n="24" break="no"/>riae, ideoque non solum universalis natura 
+      <lb ed="#A" n="25"/>inest in singularibus, sed etiam singularis 
+      na<lb ed="#A" n="26" break="no"/>tura inest in eo supposito cuius est natura: sic 
+      <lb ed="#A" n="27"/>singularis natura Petri, est in ipso Petio: hoc 
+      <lb ed="#A" n="28"/>est, in Petro includitur: Petrus enim non est 
+      <lb ed="#A" n="29"/>humanitas Petri, sed est quid constans ex sua 
+      <lb ed="#A" n="30"/>humanitate singulari, &amp; subsistentia ei super¬ 
+      <!--29.xml-->
+      <pb ed="#A" n="12"/>
+               <lb ed="#A" n="1"/>addita, ideoque singularis eius humanitas ei 
+      <lb ed="#A" n="2"/>inesse dicitur. 
+    </p>
+            <p xml:id="pqir89-d1e673-d1e264">
+               <lb ed="#A" n="3"/>4 Quaecunque ad has tres classes referii 
+      <lb ed="#A" n="4"/>possunt, ea non subsistere, seu per se existere, sed 
+      <lb ed="#A" n="5"/>alteri inexistere, (siita loqui liceat) dicenda 
+      <lb ed="#A" n="6"/>sunt, ea vero quae ad nullam istarum classium  
+      <lb ed="#A" n="7"/>referuntur, subsistere seu per se existere 
+      dicun<lb ed="#A" n="8" break="no"/>tur: subsistentia enim nihil est aliud, quam  
+      <lb ed="#A" n="9"/>modus quidam existendi, quo Ens aliquod 
+      <lb ed="#A" n="10"/>ita existit, ut nullo modo alteri rei insit, sed 
+      <lb ed="#A" n="11"/>aliis rebus ei inexistentibus substernatur, &amp; 
+      <lb ed="#A" n="12"/>supponatur: unde eiusmodi Ens Latine 
+      sup<lb ed="#A" n="13" break="no"/>positum, Graece hypostasis vocatur. 
+    </p>
+            <p xml:id="pqir89-d1e673-d1e290">
+               <lb ed="#A" n="14"/>5. Notandum hic est, haec vocabula 
+      hypo<lb ed="#A" n="15" break="no"/>stasis &amp; subsistentia, esse valde ambigua, &amp; sex 
+      <lb ed="#A" n="16"/>significata habere: quorum tria prima minus 
+      <lb ed="#A" n="17"/>propria sunt, &amp; apud Philosophos non 
+      usita<lb ed="#A" n="18" break="no"/>ta: tria vero postrema magis Philosophica 
+      <lb ed="#A" n="19"/>sunt. Primo, accipitur hypostasis seu 
+      subsisten<lb ed="#A" n="20" break="no"/>tia, pro ipsa re subsistentes hoc est, pro 
+      suppo<lb ed="#A" n="21" break="no"/>sito, aut persona. Secundo, pro vero esse, non 
+      <lb ed="#A" n="22"/>pro inani eitus specie, item pro esse fixo &amp; 
+      per<lb ed="#A" n="23" break="no"/>manente. Tertio, pro eo quod quovis modo 
+      <lb ed="#A" n="24"/>subest: quo pacto in aedificio fundamentum, 
+      <lb ed="#A" n="25"/>in columna basis, in vino faex, in urina 
+      sedi<lb ed="#A" n="26" break="no"/>mentum, hypostasis &amp; subsistentia dicitur. 
+    </p>
+            <p xml:id="pqir89-d1e673-d1e321">
+               <lb ed="#A" n="27"/>6. Apud Philosophos autem subsistere, 
+      <lb ed="#A" n="28"/>primo, sumitur pro esse per se, hoc est, non in 
+      <lb ed="#A" n="29"/>subiecto inhaesionis: quo pacto omnis &amp; 
+      so<lb ed="#A" n="30" break="no"/>la substantia, sive ea sit universalis, sive par¬ 
+      <!--30.xml-->
+      <pb ed="#A" n="13"/>
+               <lb ed="#A" n="1"/>ticularis, sive item sit completa &amp; totalis, 
+      si<lb ed="#A" n="2" break="no"/>ve incompleta &amp; partialis, vere dicitur Ens 
+      <lb ed="#A" n="3"/>subsistens, seu Ens per se, non in alio existens,  
+      <lb ed="#A" n="4"/>contra vero accidentia hoc modo non 
+      subsi<lb ed="#A" n="5" break="no"/>stunt, sed in alio existunt. Secundo, illud 
+      sub<lb ed="#A" n="6" break="no"/>sistere dicitur, quod non existit in alio, ita vt 
+      <lb ed="#A" n="7"/>ab eo pendeat quoad existendi actim, id est,  
+      <lb ed="#A" n="8"/>ita ut propter imperfectum suum existendi 
+      mo<lb ed="#A" n="9" break="no"/>dum, extra illud, &amp; per se existere nequeat. 
+      <lb ed="#A" n="10"/>Hoc significatum non solum negamus 
+      acciden<lb ed="#A" n="11" break="no"/>tia, sed etiam substantias universales 
+      subsiste<lb ed="#A" n="12" break="no"/>re, idque quia a primis pendent quoad 
+      existen<lb ed="#A" n="13" break="no"/>tiam actualem, nam in iis &amp; earum beneficio 
+      <lb ed="#A" n="14"/>existunt. Secundo, negamus materiam, omnesque 
+      <lb ed="#A" n="15"/>formas substantiales e materiae potentia 
+      edu<lb ed="#A" n="16" break="no"/>cibiles, hoc modo subsistere: ita enim pendent 
+      <lb ed="#A" n="17"/>a supposito in quo insunt, ut per se &amp; extra 
+      <lb ed="#A" n="18"/>omne suppositum existere nequeant. Dixi, 
+      <lb ed="#A" n="19"/>formas e materiae potentia educibiles, ad 
+      exclu<lb ed="#A" n="20" break="no"/>dendam animam humanam, cuius alia est 
+      ra<lb ed="#A" n="21" break="no"/>tio, ut statim patebit. Dixi, extra omne 
+      supposi<lb ed="#A" n="22" break="no"/>tum, quia materia potest quidem existere extra 
+      <lb ed="#A" n="23"/>hoc vel illud suppositum, ut extra Socratem, 
+      <lb ed="#A" n="24"/>aut extra Platonem, potest enim his nortuis 
+      <lb ed="#A" n="25"/>alterius suppositi constitutionem ingredi, &amp; 
+      <lb ed="#A" n="26"/>ab eo fustentar, non tamen potest existere 
+      <lb ed="#A" n="27"/>extra omne suppositum. Tertio, negamus, 
+      i<lb ed="#A" n="28" break="no"/>sas substantias singulares, abstractis 
+      nomini<lb ed="#A" n="29" break="no"/>bus significatas, hoc est, singulares essentias 
+      <lb ed="#A" n="30"/>substantiarum creatarum hoc modo subsistere: 
+      <!--31.xml-->
+      <pb ed="#A" n="14"/>
+               <lb ed="#A" n="1"/>singularis enim humanitas Petri, ita in ipso 
+      <lb ed="#A" n="2"/>Petro existit, ut per se &amp; extra omne suppofi- 
+      <lb ed="#A" n="3"/>tum existere nequeat: singularis item 
+      huma<lb ed="#A" n="4" break="no"/>nitas Christi, ita in Christe existit, ut modo 
+      <lb ed="#A" n="5"/>ineffabili ab eius gloriosissima persona 
+      pen<lb ed="#A" n="6" break="no"/>deat in suo esse. Quamvis igitur sinoulares 
+      <lb ed="#A" n="7"/>homines per se &amp; nullo modo in alio 
+      exi<lb ed="#A" n="8" break="no"/>stant, singulares tamen naturae humanae, non 
+      <lb ed="#A" n="9"/>per se, sed in singularibus suis suppositis, hoc 
+      <lb ed="#A" n="10"/>est, hominibus, existunt. Dicet aliquis: 
+      singula<lb ed="#A" n="11" break="no"/>ris homo, &amp; singularis natura humana, idem  
+      <lb ed="#A" n="12"/>sunt. Respondetur, illud esse falsissimum: 
+      sin<lb ed="#A" n="13" break="no"/>gularis enim homo, non est singularis 
+      huma<lb ed="#A" n="14" break="no"/>nitas, sed est quid constans ex singulari 
+      natu<lb ed="#A" n="15" break="no"/>ra humana, &amp; fubsistentia ei superaddita, ut 
+      <lb ed="#A" n="16"/>in progressu patebit. Vnde secunda persona 
+      <lb ed="#A" n="17"/>Trinitatis, a Theologis dicitur assumpsisse 
+      <lb ed="#A" n="18"/>singularem naturam humanam, non vero 
+      sin<lb ed="#A" n="19" break="no"/>gularem hominem. 
+    </p>
+            <p xml:id="pqir89-d1e673-d1e447">
+               <lb ed="#A" n="20"/>7 At contra, hac significatione susibstentiam  
+      <lb ed="#A" n="21"/>tribuimus, primo, omnibus singularibus 
+      sub<lb ed="#A" n="22" break="no"/>stantiis completis &amp; praedicamentalibus, hoc 
+      <lb ed="#A" n="23"/>est, concreto nomine significatis, quales sunt, 
+      <lb ed="#A" n="24"/>hic homo, hic equus: item personis 
+      adoran<lb ed="#A" n="25" break="no"/>dae Trinitatis, idque quia haec omnia in nulla 
+      <lb ed="#A" n="26"/>re existunt tanquam partes, aut formae 
+      essen<lb ed="#A" n="27" break="no"/>tiales aut accidentales. Secundo, hoc sensu 
+      et<lb ed="#A" n="28" break="no"/>iam asserimus, essentiam Divinam seu 
+      Deita<lb ed="#A" n="29" break="no"/>tem, quam vis in tribus personis adorandae 
+      <lb ed="#A" n="30"/>Trinitatis existat, reyera subsistere: idem  
+      <!--32.xml-->
+      <pb ed="#A" n="15"/>
+               <lb ed="#A" n="1"/>etiam dicimus de anima humana, quamvis ea 
+      <lb ed="#A" n="2"/>sit in corpore, ut forma in materia, &amp; in 
+      <lb ed="#A" n="3"/>composito, ut pars in toto: idque quia neque 
+      <lb ed="#A" n="4"/>essentia Dei a personis divinis in suo esse 
+      pen<lb ed="#A" n="5" break="no"/>det, hoc enim imperfectionem arguit, neque 
+      <lb ed="#A" n="6"/>anima rationalis a materia &amp; composito, 
+      po<lb ed="#A" n="7" break="no"/>test enim existere sine illis, &amp; rerera existit, 
+      <lb ed="#A" n="8"/>cum a corpore separatur. 
+    </p>
+            <p xml:id="pqir89-d1e673-d1e495">
+               <lb ed="#A" n="9"/>8 Tertio, id subsistere dicitur, quod neque 
+      <lb ed="#A" n="10"/>actu neque potestate existit in alios hoc est,  
+      <lb ed="#A" n="11"/>quod non potest includi in aliquo supposito: 
+      <lb ed="#A" n="12"/>hoc significatu iis omnibus negatur 
+      subsi<lb ed="#A" n="13" break="no"/>stentia, quae in aliquo supposito existunt, 
+      si<lb ed="#A" n="14" break="no"/>ve ab eo pendeant quoad existendi actum, 
+      si<lb ed="#A" n="15" break="no"/>ve non, quo pacto animam humanam, &amp; 
+      glo<lb ed="#A" n="16" break="no"/>riosissimam Dei essentiam subsistere 
+      nega<lb ed="#A" n="17" break="no"/>mus: illa enim est in homine ut pars in toto, 
+      <lb ed="#A" n="18"/>haec vero, ineffabili modo, in tribus personis 
+      <lb ed="#A" n="19"/>Trinitatis existit: ideoque hoc sensu sola &amp; 
+      <lb ed="#A" n="20"/>omnia supposita subsistere &amp; subsistentiam  
+      <lb ed="#A" n="21"/>habere dicimus: suppositum enim omne ita 
+      <lb ed="#A" n="22"/>existit, ut nullo modo possit in alio supposito 
+      <lb ed="#A" n="23"/>existere, tanquam accidens in subiecto, pars 
+      <lb ed="#A" n="24"/>in toto, aut natura in eo quod naturam 
+      ha<lb ed="#A" n="25" break="no"/>bet. Hinc est quod dicant Philosophi, 
+      supposi<lb ed="#A" n="26" break="no"/>tum esse quid incommunicabile pluribus, 
+      omni<lb ed="#A" n="27" break="no"/>no ineptum ad existendum in alio. Ex his 
+      pa<lb ed="#A" n="28" break="no"/>tet, in quarta hac divisione Entis, 
+      subsisten<lb ed="#A" n="29" break="no"/>tiam ultimo hoc modo accipiendam 
+      esse<lb ed="#A" n="30" break="no"/>nam in ea per Ens subsistens, intelligo illud, 
+      <!--33.xml-->
+      <pb ed="#A" n="16"/>
+               <lb ed="#A" n="1"/>quod nullo modo alteri inest, tanquam 
+      acci<lb ed="#A" n="2" break="no"/>dens in subiecto, pars in toto, aut natura, sixe 
+      <lb ed="#A" n="3"/>universalis, site singularis, in suo supposito. 
+      <lb ed="#A" n="4"/>Per Ens vero alteri inexistens, intelligo id, 
+      <lb ed="#A" n="5"/>quod aliquo modo est alteri communicabile, 
+      <lb ed="#A" n="6"/>h. e, aptum alteri inesse. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

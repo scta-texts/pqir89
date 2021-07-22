@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 15</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 15</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="132"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-de9476"><!-- p2a15 -->
+            <head xml:id="pqir89-de9476-Hd1e106">Articulus 15</head>
+            <head xml:id="pqir89-de9476-Hd1e109" type="question-title">
+        Confutatas iam esse omnes sententias de 
+        traduce:, item neminem ex isto 
+        numero posse tutius aut facilius explicare 
+        peccati propagationem, quam nos 
+        qui animarum creationem 
+        defendiimus. 
+      </head>
+            <p xml:id="pqir89-de9476-d1e112">
+      <!--151.xml-->
+               <pb ed="#A" n="132"/>
+               <lb ed="#A" n="1"/>ART. XV. 
+      <lb ed="#A" n="2"/>Confutatas iam esse omnes sententias de 
+      <lb ed="#A" n="3"/>traduce:, item neminem ex isto 
+      nume<lb ed="#A" n="4" break="no"/>ro posse tutius aut facilius explicare 
+      <lb ed="#A" n="5"/>peccati propagationem, quam nos 
+      <lb ed="#A" n="6"/>qui animarum creationem 
+      defendi<lb ed="#A" n="7" break="no"/>imus. 
+    </p>
+            <p xml:id="pqir89-de9476-d1e134">
+               <lb ed="#A" n="8"/>pVi putant animam esse ex traduce, &amp; 
+      <lb ed="#A" n="9"/>κῳa Deo non creari &amp; infundi, illi 
+      ne<lb ed="#A" n="10" break="no"/>cesse habent asserere animam aut educi ex 
+      <lb ed="#A" n="11"/>potentia seminis per concursum passivum  
+      <lb ed="#A" n="12"/>materiae, aut produci ab anima patris, absque 
+      <lb ed="#A" n="13"/>concursu materiae seminis: nam inter haec 
+      <lb ed="#A" n="14"/>duo nullum datur medium. Prior sententia 
+      <lb ed="#A" n="15"/>a me confutata est, art. 2. &amp; ra. Posteriorem 
+      <lb ed="#A" n="16"/>modum loquendi in quatuor alios dispescere 
+      <lb ed="#A" n="17"/>ac subdividere possumus. Si enim anima 
+      pa<lb ed="#A" n="18" break="no"/>tris sine concursu materiae seminis producit 
+      <lb ed="#A" n="19"/>animam filij, Vel producit eam ex tota sua 
+      <lb ed="#A" n="20"/>substantia, vel ex parte suae substantiae, vel ex 
+      <lb ed="#A" n="21"/>semine quodam spirituali, Vel ex nihilo. 
+      Pri<lb ed="#A" n="22" break="no"/>mum modum tuendi traducem nemo (
+      quan<lb ed="#A" n="23" break="no"/>tum intelligo) amplectitur: nam ut bene 
+      <lb ed="#A" n="24"/>monet Bellarm. lib. 4. de amisse gratiae, cap. II 
+      <lb ed="#A" n="25"/>si anima filii fit ex tota anima patris, vel 
+      pa<lb ed="#A" n="26" break="no"/>rens deinceps caret anima, quippe qui totam  
+      <lb ed="#A" n="27"/>transfudit in filium: vel tota manet, &amp; in 
+      <!--152.xml-->
+      <pb ed="#A" n="133"/>
+               <lb ed="#A" n="1"/>patre &amp; in filio: utrumque est evidenter 
+      fal<lb ed="#A" n="2" break="no"/>sum. Secundam sententiam confutavi art. 
+      <lb ed="#A" n="3"/>I2. Tertiam art. IS. &amp; Quartam art. 
+      Ia<lb ed="#A" n="4" break="no"/>Vnde concludo, nullum posse excogitari 
+      mo<lb ed="#A" n="5" break="no"/>dum tuendi, aut explicandi propaginem 
+      ani<lb ed="#A" n="6" break="no"/>marum, qui non sit in hac disquisitione 
+      con<lb ed="#A" n="7" break="no"/>futatus. 
+    </p>
+            <p xml:id="pqir89-de9476-d1e199">
+               <lb ed="#A" n="8"/>ae Dicet aliquis, sententiam de traduce, 
+      <lb ed="#A" n="9"/>quam vis multis difficultatibus Philosophicis 
+      <lb ed="#A" n="10"/>sit exposita, in Theologia tamen esse tutio. 
+      <lb ed="#A" n="11"/>rem, quia magis expedite &amp; facile explicat 
+      <lb ed="#A" n="12"/>modum quo originalis corruptio a 
+      parenti<lb ed="#A" n="13" break="no"/>bus in liberos derivatur. Respondeo, eos qui 
+      <lb ed="#A" n="14"/>hoc asserunt, gratis illud asserere: nemo enim 
+      <lb ed="#A" n="15"/>ex. isto numero potest commodius aut 
+      expe<lb ed="#A" n="16" break="no"/>ditius explicare peccati originalis 
+      propaga<lb ed="#A" n="17" break="no"/>tionem, quam nos qui animarum creationem: 
+      <lb ed="#A" n="18"/>defendimus: hoc autem manifestum erit, 
+      si<lb ed="#A" n="19" break="no"/>Traduciariorum sententias sigillatim 
+      eonside<lb ed="#A" n="20" break="no"/>temus. 
+    </p>
+            <p xml:id="pqir89-de9476-d1e231">
+               <lb ed="#A" n="21"/>2 Primo igitur, illi qui dicunt animam.  
+      <lb ed="#A" n="22"/>educi ex potentiam materiae seminis, necesse 
+      ha<lb ed="#A" n="23" break="no"/>bent nobiscum asserere, animam a semine, &amp;  
+      <lb ed="#A" n="24"/>sic a corporeo quodam, infici, ut recte 
+      ob<lb ed="#A" n="25" break="no"/>serpavit Meisuerus, sect. 2. cap. 4. quaest. I. 
+      o<lb ed="#A" n="26" break="no"/>portet enim eos dicere animam contrahere 
+      <lb ed="#A" n="27"/>labem ab immundo semine, ex cuius 
+      poten<lb ed="#A" n="28" break="no"/>tia educitur. 
+    </p>
+            <p xml:id="pqir89-de9476-d1e251">
+               <lb ed="#A" n="29"/>4 Secundo, illi qui dicunt parentem und 
+      <lb ed="#A" n="30"/>cum semine emittere animae particulam, parum:  
+      <!--153.xml-->
+      <pb ed="#A" n="134"/>
+               <lb ed="#A" n="1"/>commode explicant peccati propagationem, 
+      <lb ed="#A" n="2"/>quia ex ista sententia sequitur, filium non 
+      <lb ed="#A" n="3"/>solum esse reum primi lapsus, sed etiam 
+      o<lb ed="#A" n="4" break="no"/>mnium peccatorum a proximis parentibus 
+      <lb ed="#A" n="5"/>commissorum, ut probatum est art. I2 
+    </p>
+            <p xml:id="pqir89-de9476-d1e273">
+               <lb ed="#A" n="6"/>S Tertio, illi qui afferunt animam 
+      pa<lb ed="#A" n="7" break="no"/>tris producere animam filii ex semine 
+      spiri<lb ed="#A" n="8" break="no"/>tualis illi item qui putant animam patris 
+      <lb ed="#A" n="9"/>producere animam filii absque ullo concursu 
+      <lb ed="#A" n="10"/>passivo, vel seminis materialis, vel seminis 
+      <lb ed="#A" n="11"/>spiritualis, &amp; proinde ex nihilo, non 
+      pos<lb ed="#A" n="12" break="no"/>sunt dici commode aut expedite explicare 
+      <lb ed="#A" n="13"/>peccati propagationems, quia excogitarunt 
+      <lb ed="#A" n="14"/>modum quendam impossibilem 
+      propagatio<lb ed="#A" n="15" break="no"/>nis, &amp; principiis tum Philosophiae. tum 
+      Theo<lb ed="#A" n="16" break="no"/>logiae contrarium, ut probatum est art. 
+      Io<lb ed="#A" n="17" break="no"/>&amp;II 
+    </p>
+            <p xml:id="pqir89-de9476-d1e302">
+               <lb ed="#A" n="18"/>S Sgllogisinus quo Meisuerus &amp; reliqui 
+      <lb ed="#A" n="19"/>Traduciari utuntur, ad explicandam peccati 
+      <lb ed="#A" n="20"/>originalis propagationem, ita se habet, Quale 
+      <lb ed="#A" n="21"/>est propagans vel traducens, tale est propagatum 
+      <lb ed="#A" n="22"/>pel traductum: at animae parentum quae 
+      propa<lb ed="#A" n="23" break="no"/>gant, sunt infectae peccato: Ergo &amp; animae 
+      fi<lb ed="#A" n="24" break="no"/>liorum. Quia autem aliquis ex Bellarmino 
+      ob<lb ed="#A" n="25" break="no"/>picere potuit, ex hoc argumento sequi 
+      ani<lb ed="#A" n="26" break="no"/>mam iustificatam procreare animam iustam  
+      <lb ed="#A" n="27"/>in filio, Meisuerus argumentum suum cautius 
+      <lb ed="#A" n="28"/>format, &amp; sic ratiocinatur, Qualis est anima 
+      <lb ed="#A" n="29"/>parentum in sese, talem quoque propagat animam:  
+      <lb ed="#A" n="30"/>at in sese est peccatriae, licet hoc peccatum qusto 
+      <!--154.xml-->
+      <pb ed="#A" n="135"/>
+               <lb ed="#A" n="1"/>von imputetur: Ergo animam quoque 
+      peccatri<lb ed="#A" n="2" break="no"/>cem propagat. 
+    </p>
+            <p xml:id="pqir89-de9476-d1e341">
+               <lb ed="#A" n="3"/>V Meisneri ratio, etiam sic concepta &amp; 
+      <lb ed="#A" n="4"/>limitata, parum efficax est, &amp; 
+      propositio<lb ed="#A" n="5" break="no"/>nis falsitate laborat, Si enim anima patris 
+      <lb ed="#A" n="6"/>propagat &amp; producit talem animam, qualis 
+      <lb ed="#A" n="7"/>est ipsa in sese: necessario sequitur animam  
+      <lb ed="#A" n="8"/>ornatam eruditione, &amp; liberalium artium  
+      <lb ed="#A" n="9"/>cognitione, talem animam in filio 
+      produce<lb ed="#A" n="10" break="no"/>re: nam ea in sese considerata, istis 
+      habiti<lb ed="#A" n="11" break="no"/>bus est ornata. Dicet aliquis: Quid si sic fores 
+      <lb ed="#A" n="12"/>metur ratio: qualis est anima patris ex se &amp; 
+      <lb ed="#A" n="13"/>suam naturam, talem propagat animam: 
+      generatio<lb ed="#A" n="14" break="no"/>enim est actio naturae: at ex se &amp; sua natura 
+      <lb ed="#A" n="15"/>est destituta habitibus artium &amp; scientiarum: 
+      <lb ed="#A" n="16"/>nam labore &amp; industria acquiruntur, non vero 
+      <lb ed="#A" n="17"/>naturaliter insunt isti habitus animae: Ergo 
+      ta<lb ed="#A" n="18" break="no"/>lem propagat animam. Respondeo, animam  
+      <lb ed="#A" n="19"/>parentum non ratione naturae suae simpliciter 
+      <lb ed="#A" n="20"/>consideratae, esse destitutam habitibus: 
+      scien<lb ed="#A" n="21" break="no"/>tiarums absolute enim loquendo, illi 
+      habi<lb ed="#A" n="22" break="no"/>tus sunt naturales (ut docent nostri 
+      contra<lb ed="#A" n="23" break="no"/>Pontificios, dum loquuntur de originali 
+      iu<lb ed="#A" n="24" break="no"/>stitia:) sed ratione naturae corruptae &amp; 
+      de<lb ed="#A" n="25" break="no"/>praratae. Generatio autem neque est 
+      actio<lb ed="#A" n="26" break="no"/>naturae corruptae, neque per gratiam reno. 
+      <lb ed="#A" n="27"/>vatae, sed naturae simpliciter &amp; absolute 
+      <lb ed="#A" n="28"/>consideratae, ideoque Physice loquendo, &amp; 
+      <lb ed="#A" n="29"/>non considerando occultum Dei iudicium in. 
+      <lb ed="#A" n="30"/>hoc negotio, ea sola possunt vi generationis.  
+      <!--155.xml-->
+      <pb ed="#A" n="136"/>
+               <lb ed="#A" n="1"/>propagari, quae pertinent ad naturam 
+      homi<lb ed="#A" n="2" break="no"/>nis simpliciter &amp; absolute consideratam: 
+      la<lb ed="#A" n="3" break="no"/>bes autem peceati hoc modo se non habet, 
+      <lb ed="#A" n="4"/>hoc est, non est homini naturalis absolute 
+      <lb ed="#A" n="5"/>loquendo. 
+      <lb ed="#A" n="6"/>FINIS.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

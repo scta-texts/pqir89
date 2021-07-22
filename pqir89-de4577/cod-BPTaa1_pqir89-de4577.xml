@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 2</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 2</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="69-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-de4577"><!-- p2a2 -->
+            <head xml:id="pqir89-de4577-Hd1e106">Articulus 2</head>
+            <head xml:id="pqir89-de4577-Hd1e109" type="question-title">
+        De duplici materiae causalitate, et 
+        potentia: item de formarum eductione ex potentia 
+        materiae.
+      </head>
+            <p xml:id="pqir89-de4577-d1e112">
+               <lb ed="#A" n="4"/>ART. II 
+      <lb ed="#A" n="5"/>De duplici materiae causalitate &amp; poten¬ 
+      <lb ed="#A" n="6"/>tia, item de formarum eductione ex 
+      po<lb ed="#A" n="7" break="no"/>tentia materiae.
+      </p>
+            <p xml:id="pqir89-de4577-d1e123">
+               <lb ed="#A" n="8"/>IN hoc articulo notandum est primo, 
+      <lb ed="#A" n="9"/>Materiam seu causam materialem, 
+      du<lb ed="#A" n="10" break="no"/>plicem habere causalitatem, unam respectu 
+      <lb ed="#A" n="11"/>compositi, seu materiati: alteram respectu 
+      <lb ed="#A" n="12"/>formarum ab ea pendentium. Causalitas eius 
+      <lb ed="#A" n="13"/>respectu compositi, est in eo posita, quod 
+      <lb ed="#A" n="14"/>tanquam pars essentialis constituat composi 
+      <lb ed="#A" n="15"/>tum: respectu formarum ab ea pendentium, 
+      <lb ed="#A" n="16"/>causalitas eius in eo est posita, quod 
+      concur<lb ed="#A" n="17" break="no"/>su passivo concurrat cum agente ad 
+      tribuen<lb ed="#A" n="18" break="no"/>dum iis esse, &amp; ad illud ipsum esse 
+      conser<lb ed="#A" n="19" break="no"/>vandum: 
+    </p>
+            <p xml:id="pqir89-de4577-d1e152">
+               <lb ed="#A" n="20"/>2. Secundo notandum est, duplicem esse 
+      <lb ed="#A" n="21"/>materiae potentiam: unam receptixam 
+      tan<lb ed="#A" n="22" break="no"/>tum, &amp; non etiam causatiuam: alteram &amp; 
+      re<lb ed="#A" n="23" break="no"/>ceptiuam, &amp; causatiuam. Priorem potentiam 
+      <lb ed="#A" n="24"/>habet materia respectu solius animae 
+      ratio<lb ed="#A" n="25" break="no"/>nalis, habet enim potentiam naturalem 
+      reci<lb ed="#A" n="26" break="no"/>piendi animam in se, sed non habet 
+      poten<lb ed="#A" n="27" break="no"/>tiam concurrendi genere causae materialis,  
+      <!--86.xml-->
+      <pb ed="#A" n="69"/>
+               <lb ed="#A" n="1"/>ad tribuendum esse animae: posteriorem 
+      ha<lb ed="#A" n="2" break="no"/>bet respectu omnium aliarum formarum: 
+      <lb ed="#A" n="3"/>tum essentialium, tum accidentalium: non 
+      so<lb ed="#A" n="4" break="no"/>lum enim potest eas recipere in se, sed etiam  
+      <lb ed="#A" n="5"/>concursu passivo cooperari cum agente, ad 
+      <lb ed="#A" n="6"/>eas producendas. 
+    </p>
+            <p xml:id="pqir89-de4577-d1e190">
+               <lb ed="#A" n="7"/>2. Tertio notandum est, illos 
+      Bhiloso<lb ed="#A" n="8" break="no"/>phos, male explicare aeductionem formarum 
+      <lb ed="#A" n="9"/>ex potentia, materiae, qui dicunt formam actu 
+      <lb ed="#A" n="10"/>existere in materia, ante rei generationem, 
+      <lb ed="#A" n="11"/>non tamen apparere, sed quasi sub 
+      confusio<lb ed="#A" n="12" break="no"/>ne potentiae eius latere, per generationem 
+      <lb ed="#A" n="13"/>vero manifestam fieri: ita ut illud esse actuale, 
+      <lb ed="#A" n="14"/>quod prius erat quasi absconditum, non 
+      in<lb ed="#A" n="15" break="no"/>cipiat simpliciter per generationem, sed per 
+      <lb ed="#A" n="16"/>eam incipiat fieri, manifestum, &amp; sic e 
+      tene<lb ed="#A" n="17" break="no"/>bris, ac confusione materiae, quasi in lucem 
+      <lb ed="#A" n="18"/>educatur. Dico hanc explicationem 
+      eductio<lb ed="#A" n="19" break="no"/>nis malam esse, quia si forma existat actu in 
+      <lb ed="#A" n="20"/>materia ante compositi generationem, ipsum 
+      <lb ed="#A" n="21"/>compositum existit ante suam 
+      generatio<lb ed="#A" n="22" break="no"/>nem, quod aperte absurdum est: ratio 
+      conse<lb ed="#A" n="23" break="no"/>quentiae est, quia ex materia &amp; forma actu 
+      <lb ed="#A" n="24"/>existentibus, &amp; unitis, resultat compositum, 
+      <lb ed="#A" n="25"/>iisque positis necessario ponitur 
+      composi<lb ed="#A" n="26" break="no"/>tum: ideoque si materia &amp; forma existant 
+      <lb ed="#A" n="27"/>unitae, ante generationem compositi, ipsum 
+      <lb ed="#A" n="28"/>compositum existit ante suam 
+      generatio<lb ed="#A" n="29" break="no"/>nem. Dicet aliquis, si forma non existit in 
+      <lb ed="#A" n="30"/>materia ante rerum generationem, non 
+      <!--87.xml-->
+      <pb ed="#A" n="70"/>
+               <lb ed="#A" n="1"/>potest dici ex materia educi, seu extrahi, nihil 
+      <lb ed="#A" n="2"/>enim potest educi, seu extrahi ex eo, in quo 
+      <lb ed="#A" n="3"/>non est.. Resp. Eormam. dici ex materia 
+      edu<lb ed="#A" n="4" break="no"/>ci, non quod ex materiae substantia, sed quod 
+      <lb ed="#A" n="5"/>ex materiae potentia causativa educatur, seu 
+      <lb ed="#A" n="6"/>extrahatur: quam vis enim forma ante 
+      gene<lb ed="#A" n="7" break="no"/>rationem in ipsa materiae substantia non 
+      exi<lb ed="#A" n="8" break="no"/>stat, in eius tamen potentia vere &amp; proprie 
+      <lb ed="#A" n="9"/>existere dicitur, quatenus a materia est 
+      pro<lb ed="#A" n="10" break="no"/>ducibilis: nam esse in materiae potentia 
+      causa<lb ed="#A" n="11" break="no"/>tiva, nihil est aliud, nisi a materia tanquam a 
+      <lb ed="#A" n="12"/>principio passivo posse produci. 
+    </p>
+            <p xml:id="pqir89-de4577-d1e275">
+               <lb ed="#A" n="13"/>q Quarto notandum est, illos etiam toto 
+      <lb ed="#A" n="14"/>coelo errare, qui dicunt, formas, ante 
+      genera<lb ed="#A" n="15" break="no"/>tionem, secundum esse inchoatum &amp; 
+      imperfe<lb ed="#A" n="16" break="no"/>ctum, h. e: secundum gradus quosdam suae 
+      <lb ed="#A" n="17"/>entitatis, existere in materia: per 
+      generatio<lb ed="#A" n="18" break="no"/>nem vero incipere esse in materia, secundum 
+      <lb ed="#A" n="19"/>esse completum, &amp; consummatum. Dico 
+      <lb ed="#A" n="20"/>huius sententiae Patronos turpiter errare, 
+      <lb ed="#A" n="21"/>quia inde sequitur formam substantialem 
+      va<lb ed="#A" n="22" break="no"/>riari, quoad gradus intensionis &amp; 
+      remissio<lb ed="#A" n="23" break="no"/>nis, non minus quam accidentia: quia item 
+      <lb ed="#A" n="24"/>absurdum est, in una &amp; eadem materia actu 
+      <lb ed="#A" n="25"/>existere omnes formas, quae ex materiae 
+      po<lb ed="#A" n="26" break="no"/>tentia educi possunt, siue sint totales, sVe 
+      <lb ed="#A" n="27"/>partiales, sic enim in una &amp; eadem re, simul 
+      <lb ed="#A" n="28"/>essent pene infinitae entitates substantiales 
+      <lb ed="#A" n="29"/>re diversae. Sed obiiciet aliquis, si forma 
+      an<lb ed="#A" n="30" break="no"/>te rei generationem plane nihil sit, sequetur 
+      <!--88.xml-->
+      <pb ed="#A" n="71"/>
+               <lb ed="#A" n="1"/>omnes formas fiert ex nihilo, &amp; proinde 
+      crea<lb ed="#A" n="2" break="no"/>ri. Resp. Formas omnes posse dici fieri ex 
+      <lb ed="#A" n="3"/>nihilo, si fieri ex nihilo accipiatur pro fieri ex 
+      <lb ed="#A" n="4"/>nulla sui parte praeexistente, non vero si fieri ex 
+      <lb ed="#A" n="5"/>nibilo accipiatur proprie, pro eo quod est 
+      <lb ed="#A" n="6"/>fieri ex nulla materia praeexistente, quo sensu 
+      <lb ed="#A" n="7"/>idem valet, ac crearis fiunt enim formae ex 
+      <lb ed="#A" n="8"/>materia, h. e. fiunt materia concurrente in 
+      <lb ed="#A" n="9"/>genere causae subiectiua,, ad tribuendum iis 
+      <lb ed="#A" n="10"/>esse. 
+    </p>
+            <p xml:id="pqir89-de4577-d1e343">
+               <lb ed="#A" n="11"/> Quinto notandum est, eos etiam, male 
+      <lb ed="#A" n="12"/>explicare eductionem formarum ex 
+      mate<lb ed="#A" n="13" break="no"/>riae potentia, qui dicunt formam ideo ex 
+      <lb ed="#A" n="14"/>materiae potentia educi, quod materia ante 
+      <lb ed="#A" n="15"/>adventum formae habeat potentiam ad eam  
+      <lb ed="#A" n="16"/>recipiendam: Si enim haec explicatio esset 
+      <lb ed="#A" n="17"/>reritati consentanea, omnes formae, nulla 
+      <lb ed="#A" n="18"/>excepta, essent ex materiae potentia 
+      educi<lb ed="#A" n="19" break="no"/>biles: idque quia materia habet potentiam ad 
+      <lb ed="#A" n="20"/>quamlibet formam recipiendam, potentiam 
+      <lb ed="#A" n="21"/>sinquam) vel naturalem, vel obedientialem:  
+      <lb ed="#A" n="22"/>Potentia autem naturalis est ea, quae 
+      educibi<lb ed="#A" n="23" break="no"/>lis est in actum vi alicuius agentis naturalis.  
+      <lb ed="#A" n="24"/>ut potentia passiua lioni ad recipiendum 
+      ca<lb ed="#A" n="25" break="no"/>lorem, dicitur naturanis, quia educi potest in 
+      <lb ed="#A" n="26"/>actum vi naturalis agentis, ignis videlicet. 
+      <lb ed="#A" n="27"/>Potentia materiae obedientialis est, quae in 
+      <lb ed="#A" n="28"/>actum educi non. potest vi agentis naturalis,  
+      <lb ed="#A" n="29"/>sed vi alicuius agentis superioris, atque 
+      alte<lb ed="#A" n="30" break="no"/>rius ordinis, cui ea materia ita subdita est, &amp; 
+      <!--89.xml-->
+      <pb ed="#A" n="72"/>
+               <lb ed="#A" n="1"/>subiecta, ut necessario ei obediat: talis est 
+      po<lb ed="#A" n="2" break="no"/>tentia ligni, vel lapidis ad formam statuae,  
+      <lb ed="#A" n="3"/>non enim educitur in actum vi alicuius 
+      a<lb ed="#A" n="4" break="no"/>gentis naturalis, sed vi agentis per artem : 
+      ta<lb ed="#A" n="5" break="no"/>lis etiam est potentia animae ad recipienda 
+      <lb ed="#A" n="6"/>dona supernaturalia, ut fidem, spem, 
+      charita<lb ed="#A" n="7" break="no"/>tem: non enim ulla vi naturali in actum educi 
+      <lb ed="#A" n="8"/>potest, sed infinita vi &amp; virtute creatoris. 
+    </p>
+            <p xml:id="pqir89-de4577-d1e411">
+               <lb ed="#A" n="9"/>S. His positis: facile est explicare 
+      educti<lb ed="#A" n="10" break="no"/>onem formarum ex materiae potentia: cum 
+      <lb ed="#A" n="11"/>enim nihil possit educi ex aliquo, nisi illud 
+      <lb ed="#A" n="12"/>quod prius fuit in eo: manifestum est eas 
+      so<lb ed="#A" n="13" break="no"/>las formas ex potentia causativa materiae 
+      e<lb ed="#A" n="14" break="no"/>duci, quae antequam existant, sunt in potentia 
+      <lb ed="#A" n="15"/>causativa materiae, i, e. producibiles sunt per 
+      <lb ed="#A" n="16"/>concursum passivum materiae: illae enim 
+      <lb ed="#A" n="17"/>formae quamdiu actu non existunt, habent 
+      <lb ed="#A" n="18"/>potentiam ad accipiendum esse a materia, 
+      <lb ed="#A" n="19"/>tanquam a principio passivo, &amp; receptivo, 
+      <lb ed="#A" n="20"/>ideoque cum actu existere incipiunt, vi 
+      acti<lb ed="#A" n="21" break="no"/>va agentis, &amp; passiva materiae, recte dicuntur 
+      <lb ed="#A" n="22"/>educi ex potentia causatina materiae, quia 
+      <lb ed="#A" n="23"/>non amplius sunt in potentia causativa 
+      ma<lb ed="#A" n="24" break="no"/>teriae, i. e. non iam sunt a materia 
+      producibi<lb ed="#A" n="25" break="no"/>les, quod enim semel productum &amp; 
+      causa<lb ed="#A" n="26" break="no"/>tum est, non amplius est in potentia causae, 
+      <lb ed="#A" n="27"/>sed eductum est ex statu potentialitatis, in 
+      <lb ed="#A" n="28"/>statum actualitatis. Forma igitur bruti Vere 
+      <lb ed="#A" n="29"/>dicitur educi ex potentia causativa materiae 
+      <lb ed="#A" n="30"/>seminis, quia ante generationem bruti, illa 
+      <!--90.xml-->
+      <pb ed="#A" n="73"/>
+               <lb ed="#A" n="1"/>forma fuit in potentia causati va materiae 
+      se<lb ed="#A" n="2" break="no"/>minis, i. e producibilis erat vi passiva istius 
+      <lb ed="#A" n="3"/>materiaes iam vero per actionem generantis,  
+      <lb ed="#A" n="4"/>illa forma producta est, &amp; posita extra 
+      po<lb ed="#A" n="5" break="no"/>tentiam causativam materiae: ita ut non 
+      am<lb ed="#A" n="6" break="no"/>plius sit producibilis vi passiva materiae, nisi 
+      <lb ed="#A" n="7"/>amittat eam existentiam, quam nunc habet. 
+      <lb ed="#A" n="8"/>Contra vero anima humana, licet 
+      produca<lb ed="#A" n="9" break="no"/>tur in materia, non tamen ex eius potentia 
+      <lb ed="#A" n="10"/>causativa educitur, sed in materiam inducitur.  
+      <lb ed="#A" n="11"/>idque quia nunquam fuit in materiae 
+      poten<lb ed="#A" n="12" break="no"/>tiae causativa, nec materia unquam nabuit 
+      <lb ed="#A" n="13"/>potentiam ad tribuendum esse animae, per 
+      <lb ed="#A" n="14"/>passivum suum concursum. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 10</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 10</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="105-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-de7384"><!-- p2a10 -->
+            <head xml:id="pqir89-de7384-Hd1e106">Articulus 10</head>
+            <head xml:id="pqir89-de7384-Hd1e109" type="question-title">
+        An possit reddi commodior aliqua, aut 
+        expeditior ratio traductionis 
+        concupiscentiae, seu propensionis ad malum 
+        quam diximus esse tertiam partem 
+        peccati originalis. 
+      </head>
+            <p xml:id="pqir89-de7384-d1e112">
+               <lb ed="#A" n="4"/>ART. X. 
+      <lb ed="#A" n="5"/>An possit reddi commodior aliqua, aut 
+        ex<lb ed="#A" n="6" break="no"/>peditior ratio traductionis 
+      concupi<lb ed="#A" n="7" break="no"/>scentiae, seu propensionis ad malum 
+      <lb ed="#A" n="8"/>quam diximus esse tertiam partem 
+      <lb ed="#A" n="9"/>peccati originalis. 
+    </p>
+            <p xml:id="pqir89-de7384-d1e128">
+               <lb ed="#A" n="10"/>QVi communem sententiam, de 
+      infe<lb ed="#A" n="11" break="no"/>u, ctione animae a corpore ad 
+      peccan<lb ed="#A" n="12" break="no"/>dum disposito, spernunt &amp; reiiciunt, illi ad 
+      <lb ed="#A" n="13"/>quatuor classes seu ordines vocari &amp; reduci 
+      <lb ed="#A" n="14"/>possunt. Primo enim, Traduciarm, qui 
+      ani<lb ed="#A" n="15" break="no"/>marum creationem impugnant, frmissime 
+      <lb ed="#A" n="16"/>asseverant se ex suae sententiae fundamentis 
+      <lb ed="#A" n="17"/>posse reddere longe meliorem &amp; tutiorem 
+      <lb ed="#A" n="18"/>rationem traductionis peccati, quam nos, qui 
+      <lb ed="#A" n="19"/>animarum creationem defendimus: hanc 
+      ceo<lb ed="#A" n="20" break="no"/>rum asse verationem (Deo adiuvante) falsam  
+      <lb ed="#A" n="21"/>esse ostendam, Articulo ultimo huius 
+      dispu<lb ed="#A" n="22" break="no"/>tationis.  
+    </p>
+            <p xml:id="pqir89-de7384-d1e159">
+               <lb ed="#A" n="23"/>2 Secundo, Pontificii Theologi, qui cum  
+      <lb ed="#A" n="24"/>Bellarmino lib. S. de amissione gratiae, cap. IS 
+      <lb ed="#A" n="25"/>damnant sententiam <name xml:id="pqir89-de7384-Nd1e167">Lombardi</name>, <name xml:id="pqir89-de7384-Nd1e170">Henrici</name>, 
+      <name xml:id="pqir89-de7384-Nd1e174">Gre<lb ed="#A" n="26" break="no"/>gorii Arimin</name>, &amp; <name xml:id="pqir89-de7384-Nd1e179">Iohannis Driedo</name>, dicentium 
+      <lb ed="#A" n="27"/>concupiscentiam esse adventitiam &amp; positi¬ 
+      <!--124.xml-->
+      <pb ed="#A" n="105"/>
+               <lb ed="#A" n="1"/>ram quandam qualitatem animae 
+      facultati<lb ed="#A" n="2" break="no"/>bus superadditam: illi (inquam) qui hoc 
+      do<lb ed="#A" n="3" break="no"/>gma reiiciunt, intrepide asserunt se nullo 
+      <lb ed="#A" n="4"/>negotio posse reddere rationem, cur in 
+      ani<lb ed="#A" n="5" break="no"/>ma infantis a Deo creata, sit concupiscentia 
+      <lb ed="#A" n="6"/>seu propensio ad malum. Primo enim 
+      di<lb ed="#A" n="7" break="no"/>cunt, hominem naturaliter constare ex carme 
+      <lb ed="#A" n="8"/>&amp; spiritu, &amp; ideo partim cum bestiis, partim  
+      <lb ed="#A" n="9"/>cum Angelis communicare naturam : &amp; 
+      qui<lb ed="#A" n="10" break="no"/>dem ratione carnis &amp; communionis cum 
+      be<lb ed="#A" n="11" break="no"/>stiis, habere propensionem quandam ad 
+      bo<lb ed="#A" n="12" break="no"/>num corporale &amp; sensibile, in quod fertur 
+      <lb ed="#A" n="13"/>per sensum &amp; appetitum: ratione spiritus &amp;  
+      <lb ed="#A" n="14"/>commnnionis cum Angelis: habere 
+      propen<lb ed="#A" n="15" break="no"/>sionem ad bonum spirituale &amp; 
+      intelligibile<lb ed="#A" n="16" break="no"/>in quod fertur per intellectum &amp; 
+      volunta<lb ed="#A" n="17" break="no"/>tem. Ex his autem diversis vel contrariis 
+      <lb ed="#A" n="18"/>propensionibus, in uno eodemque homine, 
+      <lb ed="#A" n="19"/>naturaliter seu per necessariam 
+      consecutio<lb ed="#A" n="20" break="no"/>nem ex principiis essentialibus, existere 
+      vo<lb ed="#A" n="21" break="no"/>lunt pugnam quandam inter sensum &amp; 
+      ra<lb ed="#A" n="22" break="no"/>tionem, &amp; ex ea pugna ingentem bene 
+      agen<lb ed="#A" n="23" break="no"/>di difficultatem, dum una propensio alteram  
+      <lb ed="#A" n="24"/>impedit. 
+    </p>
+            <p xml:id="pqir89-de7384-d1e242">
+               <lb ed="#A" n="25"/>g Dicunt secundo, divinam providentiam,  
+      <lb ed="#A" n="26"/>initio creationis, ut remedium adhiberet huic 
+      <lb ed="#A" n="27"/>morbo seu languori naturae humanae, qui ex 
+      <lb ed="#A" n="28"/>conditione principiorum essentialium 
+      orieba<lb ed="#A" n="29" break="no"/>tur, addidisse homini donum quoddam 
+      insi<lb ed="#A" n="30" break="no"/>gne, iustitiam videlicet originalem, quam veluti 
+      <!--125.xml-->
+      <pb ed="#A" n="106"/>
+               <lb ed="#A" n="1"/>aureo quodam fraeno appetitus sensitivus 
+      <lb ed="#A" n="2"/>contineretur, &amp; rationi subiiceretur. 
+    </p>
+            <p xml:id="pqir89-de7384-d1e266">
+               <lb ed="#A" n="3"/>A Dicunt tertio, primos parentes, &amp; nos 
+      <lb ed="#A" n="4"/>omnes in iis amisisse aureum illud fraenum 
+      o<lb ed="#A" n="5" break="no"/>riginalis iustitiae, quo sensus rationi 
+      subiicie<lb ed="#A" n="6" break="no"/>baturs &amp; aiunt, ex remotione doni istius 
+      <lb ed="#A" n="7"/>supernaturalis, statim in nobis ortam esse 
+      <lb ed="#A" n="8"/>pugnam inter partem superiorem &amp; inferio. 
+      <lb ed="#A" n="9"/>rem animae, h. e. inter sensum &amp; rationem: 
+      <lb ed="#A" n="10"/>remoto enim fraeno (inquiunt) quo 
+      contine<lb ed="#A" n="11" break="no"/>batur appetitus ex se pronus ad concupisce 
+      <lb ed="#A" n="12"/>dum contra ordinem rationis, per 
+      necessa<lb ed="#A" n="13" break="no"/>riam consecutionem in appetitu sensitivo 
+      se<lb ed="#A" n="14" break="no"/>quitur propensio ad resistendum rectae 
+      ratio<lb ed="#A" n="15" break="no"/>ni, &amp; appetendum obiecta sensibus iucunda, 
+      <lb ed="#A" n="16"/>quae lege prohibentur. Hi igitur volunt 
+      con<lb ed="#A" n="17" break="no"/>cupiscentiam seu propensionem ad malum in 
+      <lb ed="#A" n="18"/>infantibus non contrahi ex coniunctione 
+      ani<lb ed="#A" n="19" break="no"/>mae cum corporibus contagiosis, sed partim  
+      <lb ed="#A" n="20"/>dimanare ex ipsa animae constitutione 
+      essen<lb ed="#A" n="21" break="no"/>tiali, qua constituitur ex parte sensitiva &amp;  
+      <lb ed="#A" n="22"/>parte rationalis partim ex carentia originalis 
+      <lb ed="#A" n="23"/>qustitiae, quae partem sensitivam parti 
+      intelle<lb ed="#A" n="24" break="no"/>ctidae subiiciebat. 
+    </p>
+            <p xml:id="pqir89-de7384-d1e316">
+               <lb ed="#A" n="25"/>P Haec doctrina merito reiicitur a nostris 
+      <lb ed="#A" n="26"/>Theologis. Primo, quia est fundamentum 
+      <lb ed="#A" n="27"/>absurdiastius. ddematis de concupiscentia in 
+      re<lb ed="#A" n="28" break="no"/>natis, quod videlicet post baptismum non 
+      <lb ed="#A" n="29"/>sit peccatum, secmorbus &amp; languor quidam  
+      <lb ed="#A" n="30"/>naturae. Secundo, quia falso asserit rebel¬ 
+      <!--126.xml-->
+      <pb ed="#A" n="107"/>
+               <lb ed="#A" n="1"/>lionem appetitus sensitivi contra rationem 
+      <lb ed="#A" n="2"/>&amp; eius directionem esse naturalem: nam  
+      <lb ed="#A" n="3"/>illi qui hoc asserunt, in Deum contumeliosi 
+      <lb ed="#A" n="4"/>sunt, dicentes Deum illum sanctissimum, qui 
+      <lb ed="#A" n="5"/>peccatum odit &amp; execratur ipsi naturae 
+      hu<lb ed="#A" n="6" break="no"/>manae in prima creatione indidisse impetum 
+      <lb ed="#A" n="7"/>tam rebellem &amp; iniquum, videlicet 
+      pro<lb ed="#A" n="8" break="no"/>pensionem ad peccandum, &amp; turpia ac 
+      in<lb ed="#A" n="9" break="no"/>honesta obiecta appetendum. Tertio, quia 
+      <lb ed="#A" n="10"/>fatente Bellarmino ipso, lib. S. de amissione 
+      <lb ed="#A" n="11"/>gratiae) vitiosa illa concupiscentia, non 
+      so<lb ed="#A" n="12" break="no"/>lum est in appetitu sensitivo, qui rationi 
+      re<lb ed="#A" n="13" break="no"/>sistit, sed etiam in voluntate quae prona est 
+      <lb ed="#A" n="14"/>ad concupiscendos honores, inanem 
+      glo<lb ed="#A" n="15" break="no"/>riam, &amp; alias vanitates: quaeram igitur ex 
+      <lb ed="#A" n="16"/>Bellarmino, unde sit haec pronitas voluntatis 
+      <lb ed="#A" n="17"/>ad obsequendum desiderus camis: 
+      Respon<lb ed="#A" n="18" break="no"/>det cap. IS. eam prorenire ex remotione dons 
+      <lb ed="#A" n="19"/>istius supernaturalis, quo Deus. hominem in 
+      <lb ed="#A" n="20"/>prima creatione ornapit, sed haec tesponsio 
+      <lb ed="#A" n="21"/>absurda, &amp; ipsius doctrinae contraria est: nam  
+      <lb ed="#A" n="22"/>lib. de gratia primi hominis cap. S. dicit, 
+      par<lb ed="#A" n="23" break="no"/>tem superiorem animae esse ex se &amp; sua 
+      na<lb ed="#A" n="24" break="no"/>tura pronam &amp; propensam ad bonum 
+      spiri<lb ed="#A" n="25" break="no"/>tuale, &amp; intelligibiles &amp; per comsequens 
+      <lb ed="#A" n="26"/>eam naturaliter resistere desideriis camis 
+      <lb ed="#A" n="27"/>sublato igitur dono supernaturali, voluntas 
+      <lb ed="#A" n="28"/>adhuc remanebit prona ad resistendum 
+      desi<lb ed="#A" n="29" break="no"/>deriis carnis, si modo nullo dono, naturali 
+      <lb ed="#A" n="30"/>careat, (quod concedit ipse Bellarmt: ) ideoque 
+      <!--127.xml-->
+      <pb ed="#A" n="108"/>
+               <lb ed="#A" n="1"/>nondum satisfactum est meae quaestioni, quam 
+      <lb ed="#A" n="2"/>quaero undenam sit quod voluntas iam sit 
+      <lb ed="#A" n="3"/>prona ad obsequendum desideriis carnis, &amp; 
+      <lb ed="#A" n="4"/>ad appetendum illa obiecta quae sensui 
+      iu<lb ed="#A" n="5" break="no"/>cunda sunt, &amp; rationi displicent, cum prius 
+      <lb ed="#A" n="6"/>contrario modo se habuerit, idque 
+      naturali<lb ed="#A" n="7" break="no"/>ter. Hic haeret Bellarminus, &amp; aeternum 
+      hae<lb ed="#A" n="8" break="no"/>rebit, donec nostram sententiam de 
+      concupis<lb ed="#A" n="9" break="no"/>centia in renatis amplexus fuerit. 
+    </p>
+            <p xml:id="pqir89-de7384-d1e425">
+               <lb ed="#A" n="10"/>O Bellarminus ad secundam rationem a 
+      <lb ed="#A" n="11"/>nobis iam allatam respondens lib. de gratia 
+      <lb ed="#A" n="12"/>primi hominis cap. y. Concupiscentia (inquit 
+      <lb ed="#A" n="13"/>carmis fuit homini in primo statu naturalis, non 
+      <lb ed="#A" n="14"/>quidem ut bonum aliquod nuturae, sed ut 
+      defe<lb ed="#A" n="15" break="no"/>ctus &amp; quasi morbus quidam naturae, ex 
+      mate<lb ed="#A" n="16" break="no"/>riae conditione consequens. Quare rectissime 
+      <lb ed="#A" n="17"/>dicitur, concupiscentiam non esse ex Deo: 
+      o<lb ed="#A" n="18" break="no"/>dio, non amore dignam, malam, naturaeque 
+      <lb ed="#A" n="19"/>contrariam, propter duas causas. Primum 
+      <lb ed="#A" n="20"/>quia non. ex intentione authoris naturae, sed 
+      <lb ed="#A" n="21"/>praeter eius intentionem, in homine eaxstitist 
+      <lb ed="#A" n="22"/>set, si in puris naturalibus homo creatus 
+      fu<lb ed="#A" n="23" break="no"/>isset. Deinde, quia Deus illam sustulerat, 
+      <lb ed="#A" n="24"/>&amp; ex ipsius hominis culpa locum in nobis 
+      ha<lb ed="#A" n="25" break="no"/>bet. 
+    </p>
+            <p xml:id="pqir89-de7384-d1e462">
+               <lb ed="#A" n="26"/>V Haec doctrina Bellarmini nimis crassa 
+      <lb ed="#A" n="27"/>&amp; absurda est. Primo, quia dicit hanc 
+      rebel<lb ed="#A" n="28" break="no"/>lionem camis xontra spiritum ex naturae 
+      <lb ed="#A" n="29"/>principiis dimanare, &amp; tamen esse naturae 
+      <lb ed="#A" n="30"/>contrariam: quod manifestam contradictio¬ 
+      <!--128.xml-->
+      <pb ed="#A" n="109"/>
+               <lb ed="#A" n="1"/>nem implicat: non enim potest fieri ut 
+      ali<lb ed="#A" n="2" break="no"/>quid ab ipsa natura profsuat, &amp; tamen naturae 
+      <lb ed="#A" n="3"/>contrarietur, nisi quis dicere velit, naturam  
+      <lb ed="#A" n="4"/>esse sibi contrariam, &amp; inimicam. Secundo, 
+      <lb ed="#A" n="5"/>quia dicit hanc rebellionem ab ipsa natura 
+      <lb ed="#A" n="6"/>dimanare, &amp; tamen praeter Dei intentionem 
+      <lb ed="#A" n="7"/>evenire, si enim ex intentione Dei ipsae 
+      re<lb ed="#A" n="8" break="no"/>rum naturae existunt, procul dubio rerum pro- 
+      <lb ed="#A" n="9"/>prietates, &amp; ea omnia quae a natura rerum 
+      <lb ed="#A" n="10"/>necessario dimanant, non praeter, sed 
+      secun<lb ed="#A" n="11" break="no"/>dum Dei intentionem eveniunt, is enim qui 
+      <lb ed="#A" n="12"/>intendit naturam, intendit etiam ea quae 
+      na<lb ed="#A" n="13" break="no"/>turam consequuntur. Tertio, quia 
+      quicun<lb ed="#A" n="14" break="no"/>que producit naturam, producit ex 
+      conse<lb ed="#A" n="15" break="no"/>quente ea quae natura consequuntur: at Deus.  
+      <lb ed="#A" n="16"/>producit naturam hominis, Ergo producit 
+      <lb ed="#A" n="17"/>etiam rebellem hunc impetum, qui naturam  
+      <lb ed="#A" n="18"/>eius consequitur. hoc autem absurdum: est: 
+      <lb ed="#A" n="19"/>quia inde sequitur Deum producere aliquid 
+      <lb ed="#A" n="20"/>suae naturae contrarium, natura, enim Dei 
+      si<lb ed="#A" n="21" break="no"/>cut est ipsa bonitas, ita est ipsa propensio ad 
+      <lb ed="#A" n="22"/>bonum, &amp; proinde contrariatur propensioni 
+      <lb ed="#A" n="23"/>ad malum. Quarto, quia dicere rebellionem 
+      <lb ed="#A" n="24"/>carnis contra spiritum esse a natura, &amp; tamen 
+      <lb ed="#A" n="25"/>non esse a Deo, qui fons est &amp; causa naturae, 
+      <lb ed="#A" n="26"/>manifestam contradictionem implicat. 
+      Quin<lb ed="#A" n="27" break="no"/>to, donum illud supernaturale iustitige, ex 
+      sen<lb ed="#A" n="28" break="no"/>tentia sollarmini, non sustulit naturalem 
+      pro<lb ed="#A" n="29" break="no"/>pensionem appetitus sensitivi ad 
+      concupis<lb ed="#A" n="30" break="no"/>cendum contra ordinem rationiss sic enim 
+      <!--129.xml-->
+      <pb ed="#A" n="110"/>
+               <lb ed="#A" n="1"/>ipsam naturam appetitus sensitivi evertisset: 
+      <lb ed="#A" n="2"/>sed tantum eum cohibuit ne actu resisteret 
+      <lb ed="#A" n="3"/>rationi, &amp; aliquid appeteret contra rationis 
+      <lb ed="#A" n="4"/>directionem: Ergo Adamus in statu 
+      integri<lb ed="#A" n="5" break="no"/>tatis habuit in appetitu suo propensionem ad 
+      <lb ed="#A" n="6"/>malum, quamvis nondum expertus esset 
+      a<lb ed="#A" n="7" break="no"/>ctus &amp; exercitia istius propensionis, &amp; per 
+      <lb ed="#A" n="8"/>consequens originali peccato inquinatus fuit,  
+      <lb ed="#A" n="9"/>quid enim aliud est peccatum originale, quam  
+      <lb ed="#A" n="10"/>propensio ad malum: 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulus 4</title>
+            <author ref="#per-x7hda7">Robert Baron</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Articulus 4</title>
+               <date when="2021-07-22">July 22, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="A" n="cod-BPTaa1">Amsterdam 1649</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#A" n="157"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="pqir89-e10789"><!-- p3a4 -->
+            <head xml:id="pqir89-e10789-Hd1e106">Articulus 4</head>
+            <head xml:id="pqir89-e10789-Hd1e109" type="question-title">
+        An fides possit esse simul cum scientia de 
+        eadem propositione, et in eodem 
+        intellectu.
+      </head>
+            <p xml:id="pqir89-e10789-d1e112">
+      <!--176.xml-->
+               <pb ed="#A" n="157"/>
+               <lb ed="#A" n="1"/>ART. IV 
+      <lb ed="#A" n="2"/>An fides possit esse simul cum scientia de 
+      <lb ed="#A" n="3"/>eadem propositiono, &amp; in eodem 
+      intel<lb ed="#A" n="4" break="no"/>lectu. 
+    </p>
+            <p xml:id="pqir89-e10789-d1e128">
+               <lb ed="#A" n="5"/>Qvaeri solet de scientia &amp; fide, vtrum 
+      <lb ed="#A" n="6"/>Runusς &amp; idem homo possit simul credere 
+      <lb ed="#A" n="7"/>&amp; scire eam propositionem cui assentitur esse 
+      ve<lb ed="#A" n="8" break="no"/>ram, an vero tanta sit repugnantia fidei de 
+      scien<lb ed="#A" n="9" break="no"/>tiae, ut simul in eodem intellectu existere 
+      neque<lb ed="#A" n="10" break="no"/>ant. In hac controversia, tanta est opinionum 
+      <lb ed="#A" n="11"/>varietas, ut vix invenias duos celebres 
+      vi<lb ed="#A" n="12" break="no"/>ros de ea idem sentientes. Primo enim 
+      <ref xml:id="pqir89-e10789-Rd1e147">aco<lb ed="#A" n="13" break="no"/>tus, in 2. Sent Dist. 34. quaestione unica</ref> dicit, 
+      <lb ed="#A" n="14"/>Neque actus, neque hubitus fidei &amp; scientiae, 
+      <lb ed="#A" n="15"/>posse simul in eodem intellectu existere circa 
+      i<lb ed="#A" n="16" break="no"/>dem subsectum:  
+    </p>
+            <p xml:id="pqir89-e10789-d1e160">
+               <lb ed="#A" n="17"/>2 Secundo <ref xml:id="pqir89-e10789-Rd1e164">Durandus, quaest. I. prologo 
+      <lb ed="#A" n="18"/>Sent,</ref> &amp; <ref xml:id="pqir89-e10789-Rd1e169">lib. S. Sent. dist. I. quaest. 4.</ref> 
+      pla<lb ed="#A" n="19" break="no"/>ne contrarium statuit, dicens, fidem &amp; 
+      scien<lb ed="#A" n="20" break="no"/>tiam circa eandem propositionem, &amp; in eodem  
+      <lb ed="#A" n="21"/>intellectu simul exestere posse, tam secundum 
+      a<lb ed="#A" n="22" break="no"/>ctus, quam secundum habitus. Tertio, 
+      <ref xml:id="pqir89-e10789-Rd1e181">
+                  <name xml:id="pqir89-e10789-Nd1e183">Pe<lb ed="#A" n="23" break="no"/>trus Fonseca</name>, in lib. 6. Metaph. cap. Io. quaest. 
+      <lb ed="#A" n="24"/>I. Sect. 8.</ref> assetit habiius fidei &amp; seientiae posse 
+      <lb ed="#A" n="25"/>existere in eodem intellectu, &amp; de eodem 
+      sub<lb ed="#A" n="26" break="no"/>iecto, ita tamen ut actus ab tis productus 
+      non<lb ed="#A" n="27" break="no"/>sit actus fidei, sed scientia quaedam, eaque 
+      su<lb ed="#A" n="28" break="no"/>pernaturalis, propter concursum fidei ad eum 
+      <!--177.xml-->
+      <pb ed="#A" n="158"/>
+               <lb ed="#A" n="1"/>producendum. Quarto, <ref xml:id="pqir89-e10789-Rd1e206">Qulielmus Estius, 
+      <lb ed="#A" n="2"/>Duacensis Theologus, in 2. Vent. dist. 
+      34<lb ed="#A" n="3" break="no"/>Art. 2. tria asserit.. I.</ref> Habitus fidei, &amp; 
+      <lb ed="#A" n="4"/>scientiae, posse simul existere in eodem 
+      intelle<lb ed="#A" n="5" break="no"/>ctis, &amp; de eodem obiecto. X2 Vtrumque 
+      habi<lb ed="#A" n="6" break="no"/>tum dipersis temporibus posse suum actum 
+      exer<lb ed="#A" n="7" break="no"/>cere. 2. AEctum quem tum elicit. habitus, fidei, 
+      <lb ed="#A" n="8"/>non esse fidem consideratam secundum. totam  
+      <lb ed="#A" n="9"/>amplitudinem suae significationis: hoc est, 
+      <lb ed="#A" n="10"/>secundum omnes conditiones in ea 
+      requi<lb ed="#A" n="11" break="no"/>sitas, quia videlicet non est inevidens rei 
+      no<lb ed="#A" n="12" break="no"/>titia. 
+    </p>
+            <p xml:id="pqir89-e10789-d1e235">
+               <lb ed="#A" n="13"/>Quinta sententia, eaque verissima, est 
+      <lb ed="#A" n="14"/>
+               <ref xml:id="pqir89-e10789-Rd1e241">acutissimi Doctoris Antonis RuνII 
+      Rhoden<lb ed="#A" n="15" break="no"/>sis</ref>, in suo opusculo de habitibus, tractatus. 
+      <lb ed="#A" n="16"/>quaest. 2. ubi etiam tria innuit. Primo, hos 
+      <lb ed="#A" n="17"/>habitus posse simul esse in eodem intellectu, &amp; de 
+      <lb ed="#A" n="18"/>eodem obiecto. 2. Vtrum que habitum: diversis,  
+      <lb ed="#A" n="19"/>temporibus posse suum actum exerceres sed non 
+      <lb ed="#A" n="20"/>aeodem tempore. S. Actus ab illis. habitibus, 
+      <lb ed="#A" n="21"/>di versis temporibus elicitos, esse veros &amp; proprie 
+      <lb ed="#A" n="22"/>dictos istorum habituum actus, &amp; per 
+      praesen<lb ed="#A" n="23" break="no"/>tiam habitus sciendi nihil derogari de proprietate 
+      <lb ed="#A" n="24"/>actus credendi. Dico Ruxium haec tantum 
+      in<lb ed="#A" n="25" break="no"/>nuere: quia expresse &amp; directe ibi loquitur 
+      <lb ed="#A" n="26"/>solummodo de scientia &amp; opinione, eadem  
+      <lb ed="#A" n="27"/>autem ratio est scientiae &amp; fidei, quoad 
+      pos<lb ed="#A" n="28" break="no"/>sibilitatem &amp; impossibilitatem coexistendi, 
+      <lb ed="#A" n="29"/>ut cui vis manifestum est. 
+    </p>
+            <p xml:id="pqir89-e10789-d1e277">
+               <lb ed="#A" n="30"/>aee Primo igitur probatur contra scotum, 
+      <!--178.xml-->
+      <pb ed="#A" n="159"/>
+               <lb ed="#A" n="1"/>habitus fidei &amp; scientiae posse simul esse in 
+      <lb ed="#A" n="2"/>eodem subiecto, &amp; circa idem obsectum, 
+      <lb ed="#A" n="3"/>idque hac ratione. Si quid impedit quo 
+      mi<lb ed="#A" n="4" break="no"/>nus hi babitus, in eodem intellectu 
+      coexs<lb ed="#A" n="5" break="no"/>stant, illud maxime est repugnantia actuum  
+      <lb ed="#A" n="6"/>ad quos referuntur. Sed hoc non impedit: 
+      <lb ed="#A" n="7"/>Ergo &amp;c. Probatur assumptio: Habitus 
+      ni<lb ed="#A" n="8" break="no"/>hil sunt aliud, nisi faciles &amp; expeditae 
+      poten<lb ed="#A" n="9" break="no"/>tiae ad actus: sed non impossibile est, 
+      ali<lb ed="#A" n="10" break="no"/>quem habere simul potentias ad 
+      repugnan<lb ed="#A" n="11" break="no"/>tes actus, quos potest diversis temporibus 
+      <lb ed="#A" n="12"/>exercere, licet simul non possit exercere 
+      u<lb ed="#A" n="13" break="no"/>trumque: nam simul habemus potentiam 
+      <lb ed="#A" n="14"/>ad fendum, &amp; potentiam ad ridendum: item  
+      <lb ed="#A" n="15"/>potentiam ambulandi, &amp; potentiam 
+      seden<lb ed="#A" n="16" break="no"/>di, quam vis harum potentiarum actus adeo 
+      <lb ed="#A" n="17"/>repugnantes sint, ut non possint uni subiecto 
+      <lb ed="#A" n="18"/>simul inesse. Secundo, potest aliquis, qui 
+      <lb ed="#A" n="19"/>per fidem novit mundum a Deo fuisse 
+      crea<lb ed="#A" n="20" break="no"/>tum, postea per Demonstrationem 
+      acquire<lb ed="#A" n="21" break="no"/>re scientiam de creatione Mundi, quam 
+      produ<lb ed="#A" n="22" break="no"/>cta &amp; acquisitam non destruitur fides de illo 
+      <lb ed="#A" n="23"/>articulo: sic enim non liceret homini 
+      Chri<lb ed="#A" n="24" break="no"/>stiano Metaphysicae &amp;Physicae operam dare, 
+      <lb ed="#A" n="25"/>ex quibus colliguntur Demonstrationes de 
+      <lb ed="#A" n="26"/>creatione Mundi: non enim licet ea facere 
+      <lb ed="#A" n="27"/>quae fidem aut destruunt, aut imminuunt. 
+    </p>
+            <p xml:id="pqir89-e10789-d1e345">
+               <lb ed="#A" n="28"/>S Secundo, probatur contra Durandum, 
+      <lb ed="#A" n="29"/>non esse possibile ut intellectus eodem  
+      <lb ed="#A" n="30"/>tempore, id est, uno &amp; eodem instanti eli¬ 
+      <!--179.xml-->
+      <pb ed="#A" n="160"/>
+               <lb ed="#A" n="1"/>ciat, &amp; inevidentem assensum fidei, &amp; 
+      exi<lb ed="#A" n="2" break="no"/>dentem assensum scientiae, quia sicut 
+      impos<lb ed="#A" n="3" break="no"/>sibile est, ut homo per sensum visus eandem  
+      <lb ed="#A" n="4"/>rem eodem tempore distincte &amp; confuse 
+      vi<lb ed="#A" n="5" break="no"/>deat &amp; percipiat, ita etiam impossibile est 
+      <lb ed="#A" n="6"/>ut homo per intellectum, qui est animi 
+      ocu<lb ed="#A" n="7" break="no"/>lus, eandem rem eodem instanti evidenter 
+      <lb ed="#A" n="8"/>&amp; inevidenterpercipiat, ideoque impossibile 
+      <lb ed="#A" n="9"/>est, ut simul habeat duos actuss unum 
+      <lb ed="#A" n="10"/>evidentem, scientiae: alterum inevidentem, 
+      <lb ed="#A" n="11"/>fidei. 
+    </p>
+            <p xml:id="pqir89-e10789-d1e382">
+               <lb ed="#A" n="12"/>&amp; Tertio, probatur contra Fonsecam &amp;  
+      <lb ed="#A" n="13"/>estium, habitum fidei, quam vis in eodem  
+      <lb ed="#A" n="14"/>intellectu coexistentem habeat habitum 
+      sci<lb ed="#A" n="15" break="no"/>entiae, posse elicere verum &amp; proprie 
+      di<lb ed="#A" n="16" break="no"/>ctum actum fidei, idque secundum omnes 
+      <lb ed="#A" n="17"/>conditiones in actu credendi requisitas: &amp; 
+      <lb ed="#A" n="18"/>proinde fidem &amp; scientiam posse esse in 
+      co<lb ed="#A" n="19" break="no"/>dem intellectu, &amp; de eadem propositione, 
+      <lb ed="#A" n="20"/>etiam quoad actus, sed diversis temporibus 
+      <lb ed="#A" n="21"/>elicitos: ratio est haec: potest aliquis 
+      fide<lb ed="#A" n="22" break="no"/>lis, etiam post acquisitam scientiam de 
+      crea<lb ed="#A" n="23" break="no"/>tione mundi, ita apud se statuere: Ego iam  
+      <lb ed="#A" n="24"/>firmiter assentior huic propositioni, Deus  
+      <lb ed="#A" n="25"/>crea vit mundum, propter Dei testantis 
+      au<lb ed="#A" n="26" break="no"/>choritatem, ut quam vis per rationem aliquam  
+      <lb ed="#A" n="27"/>non perciperem mundum esse a Deo creatum 
+      <lb ed="#A" n="28"/>imo quam vis corrupta ratio contrarium 
+      dicti<lb ed="#A" n="29" break="no"/>taret, assentirer tamen isti propositioni sine ulla 
+      <lb ed="#A" n="30"/>formidine aut metu. 
+      <!--180.xml-->
+      <pb ed="#A" n="161"/>
+               <lb ed="#A" n="1"/>&amp; Hoc iudicium mentis sine 
+      controver<lb ed="#A" n="2" break="no"/>sia provenit a sola fide, non a scientia &amp; fide 
+      <lb ed="#A" n="3"/>simul, estque verus &amp; proprie dictus fidei 
+      a<lb ed="#A" n="4" break="no"/>ctus, hoc est, non deest ei ulla conditio in 
+      a<lb ed="#A" n="5" break="no"/>ctu credendi requisita. Prius probatur 
+      con<lb ed="#A" n="6" break="no"/>tra Fonsecam, quia neque scientia, neque 
+      ali<lb ed="#A" n="7" break="no"/>quis alius naturalis habitus potest aliquid 
+      ta<lb ed="#A" n="8" break="no"/>le dictitare. Posterius etiam probatur, tum 
+      <lb ed="#A" n="9"/>contra Fonsecam, tum contra Estium, quia 
+      as<lb ed="#A" n="10" break="no"/>sensus iste nititur sola authoritate testantis: 
+      <lb ed="#A" n="11"/>Ergo est inevidens. Consequentiae ratio est, 
+      <lb ed="#A" n="12"/>quod assensus iste sit inevxidens, cuius 
+      funda<lb ed="#A" n="13" break="no"/>damentum quo nititur non valet parere 
+      evi<lb ed="#A" n="14" break="no"/>dentiam, sed certitudinem tantum : at hic 
+      <lb ed="#A" n="15"/>assensus est talis: nam authoritas testantis 
+      <lb ed="#A" n="16"/>non convincit intellectum nostrum per 
+      evi<lb ed="#A" n="17" break="no"/>dentiam &amp; claritatem rei, sed per suam 
+      cer<lb ed="#A" n="18" break="no"/>titudinem &amp; irrefutabilitatem. Batio 
+      propo<lb ed="#A" n="19" break="no"/>sitionis maioris est haec: Talis est assensus,  
+      <lb ed="#A" n="20"/>quale est medium &amp; fundamentum quo 
+      niti<lb ed="#A" n="21" break="no"/>tur: Si enim medium sit certum, possitque 
+      <lb ed="#A" n="22"/>intellectum nostrum certificare, &amp; ut tale 
+      <lb ed="#A" n="23"/>cognoscatur ab assentiente, noster assensus 
+      <lb ed="#A" n="24"/>est certus: Si vero non ita se habet, est 
+      incer<lb ed="#A" n="25" break="no"/>tus: Ergo pari ratione, si medium valeat 
+      pa<lb ed="#A" n="26" break="no"/>rere exidentiam intelligendi, assensus est 
+      evi<lb ed="#A" n="27" break="no"/>dens, si vero non valeat, est inevidens.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>
